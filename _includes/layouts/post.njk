@@ -3,7 +3,13 @@ layout: layouts/base.njk
 ---
 
 <article>
-  <h1>{{ title }}</h1>
+  <header>
+    <h1>{{ title }}</h1>
+    
+    <p class="big">
+      {{ summary }}
+    </p>
+  </header>
 
   {{ layoutContent | safe }}
 </article>

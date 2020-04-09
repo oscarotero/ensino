@@ -7,7 +7,5 @@ title: Benvida
 
 Esta é a portada do sitio
 
-
-[Contacta comigo](/contacto)
-
 [Exercicios](/exercicios)
+[Contacta comigo](/contacto)
