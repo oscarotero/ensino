@@ -1,3 +1,3 @@
-# Ensinanza
+# Ensino
 
-Sitio con recursos de ensinanza de galego para secundaria
+Sitio con recursos de ensino de galego para secundaria
