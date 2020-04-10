@@ -6,7 +6,4 @@ title: Benvida
 
 # Benvida
 
-Esta é a portada do sitio
-
-[Exercicios](/exercicios)
-[Contacta comigo](/contacto)
+Esta é a portada do sitio. Se tes dúbidas, [contacta comigo](/contacto)

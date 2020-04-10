@@ -3,3 +3,13 @@ layout: layouts/base.njk
 ---
 
 {{ layoutContent | safe }}
+
+<ul>
+	{% for cat in collections.category %}
+    <li>
+        <a href="{{ cat.url | url }}">
+            {{ cat.data.title }}
+        </a>
+    </li>
+	{% endfor %}
+</ul>
