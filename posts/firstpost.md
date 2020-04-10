@@ -2,8 +2,10 @@
 title: A pluma viva de Rosalía
 summary: Hoxe imos profundar un pouco máis na figura de Rosalía de Castro.
   Sabedes xa moitas cousas sobre ela porque...
+tags:
+  - post
+  - semana-1
 eleventyExcludeFromCollections: false
-tags: [post, semana-1]
 ---
 Vimos un vídeo de Tik tak draw sobre a súa vida e a súa obra. Lembrades? Era este:
 
@@ -19,7 +21,7 @@ A maioría de vós tamén asististes no Auditorio de Negreira á representación
 
 A actividade que vos propoño hoxe ten como obxectivo que coñezades un pouco mellor ese episodio violento de que se fala na peza teatral do Quinquilláns. Para conseguilo, primeiro teredes que ler [este artigo do xornal *La Voz de Galicia* en que se fala do asunto](https://www.lavozdegalicia.es/noticia/lugo/lugo/2019/02/24/span-langglcando-tumulto-seminaristas-censurou-artigo-rosaliaspan/0003_201902L24C5991.htm).
 
-Unha vez feito isto, tratade de responder as seguintes preguntas:
+Unha vez feito isto, tratade de responder as preguntas.
 
 - - -
 
@@ -50,7 +52,7 @@ Unha vez feito isto, tratade de responder as seguintes preguntas:
 17. No artigo de *La Voz de Galicia* dise: “*Cantares Gallegos,* *El cadiceño,* *Las literatas. Cartas a Eduarda,* ou *¡No sueñes!,* todos da mesma autora, si chegaron a imprimirse nos Almanaques do editor lucense, que sería tamén o encargado de poñer negro sobre branco a novela El caballero de las botas azules en 1867.” 
 
     Que significa a expresión “poñer negro sobre branco” aquí? 
-18.  Quen era Manuel Soto Freire?
+18. Quen era Manuel Soto Freire?
 19. E Manuel Murguía? 
 20. Manuel Soto Freire non só publicou textos de Rosalía de Castro. A que outros autores lles publicou textos?   
 21. No artigo de *La Voz de Galicia* empréganse dous sinónimos para a palabra xornal. Cales son?
