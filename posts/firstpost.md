@@ -16,7 +16,7 @@ Ese día tamén lemos o poema n.º 2 de *[Cantares gallegos](http://bvg.udc.es/i
 
 A maioría de vós tamén asististes no Auditorio de Negreira á representación teatral [A pluma viva de Rosalía](http://www.concellodenegreira.gal/index.php/es/noticias/noticia/1744-teatro-polo-dia-de-rosalia) realizada polo grupo de teatro [Os Quinquilláns](http://nova.quinquillans.com/). A historia que levaron ao escenario sitúase no ano 1864 e comeza coa visita, por sorpresa, de Rosalía de Castro á imprenta de Soto e Freire en Lugo. Catro textos brillantes, retranqueiros e satíricos da escritora están a punto de seren publicados, mais nas oficinas da imprenta acaba de acontecer un conflito moi violento e Rosalía vai descubrir que todo ten que ver con ela e a súa obra.
 
-A actividade que vos propoño hoxe ten como obxectivo que coñezades un pouco mellor ese episodio violento de que se fala na peza teatral do Quinquilláns. Para conseguilo, primeiro teredes que ler [este artigo do xornal La Voz de Galicia en que se fala do asunto](https://www.lavozdegalicia.es/noticia/lugo/lugo/2019/02/24/span-langglcando-tumulto-seminaristas-censurou-artigo-rosaliaspan/0003_201902L24C5991.htm).
+A actividade que vos propoño hoxe ten como obxectivo que coñezades un pouco mellor ese episodio violento de que se fala na peza teatral do Quinquilláns. Para conseguilo, primeiro teredes que ler [este artigo do xornal *La Voz de Galicia* en que se fala do asunto](https://www.lavozdegalicia.es/noticia/lugo/lugo/2019/02/24/span-langglcando-tumulto-seminaristas-censurou-artigo-rosaliaspan/0003_201902L24C5991.htm).
 
 Unha vez feito isto, tratade de responder as seguintes preguntas:
 
@@ -24,7 +24,7 @@ Unha vez feito isto, tratade de responder as seguintes preguntas:
 
 ## Preguntas
 
-1. O titular da noticia é Cando un tumulto de seminaristas censurou un artigo de Rosalía. Que é un tumulto? Por que outras palabras poderiamos substituír esta palabra aquí? 
+1. O titular da noticia é "Cando un tumulto de seminaristas censurou un artigo de Rosalía". Que é un tumulto? Por que outras palabras poderiamos substituír esta palabra aquí? 
 2. E censurar? Procura este verbo no dicionario, se non o sabes.
 3. Que significa a expresión intra muros que aparece no primeiro parágrafo da noticia? É galega? 
 4. Por que poderías substituír as palabras reza e vencello en:
