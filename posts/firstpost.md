@@ -51,5 +51,5 @@ Unha vez feito isto, trata de responder as seguintes preguntas:
     Que significa a expresión “poñer negro sobre branco” aquí? 
 18.  Quen era Manuel Soto Freire?
 19. E Manuel Murguía? 
-20. Manuel Soto Freire non só publicou textos de Rosalía de Castro. De que outros autores publicou textos?   
+20. Manuel Soto Freire non só publicou textos de Rosalía de Castro. A que outros autores lles publicou textos?   
 21. No artigo de *La Voz de Galicia* empréganse dous sinónimos para a palabra xornal. Cales son?
