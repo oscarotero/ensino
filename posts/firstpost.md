@@ -18,7 +18,7 @@ A maioría de vós tamén asististes no Auditorio de Negreira á representación
 
 A actividade que vos propoño hoxe ten como obxectivo que coñezades un pouco mellor ese episodio violento de que se fala na peza teatral do Quinquilláns. Para conseguilo, primeiro teredes que ler [este artigo do xornal La Voz de Galicia en que se fala do asunto](https://www.lavozdegalicia.es/noticia/lugo/lugo/2019/02/24/span-langglcando-tumulto-seminaristas-censurou-artigo-rosaliaspan/0003_201902L24C5991.htm).
 
-Unha vez feito isto, trata de responder as seguintes preguntas:
+Unha vez feito isto, tratade de responder as seguintes preguntas:
 
 - - -
 
