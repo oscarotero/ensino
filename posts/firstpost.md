@@ -32,9 +32,9 @@ Unha vez feito isto, tratade de responder as seguintes preguntas:
    > *...un edificio no que unha placa **reza**: «Aquí viviu entre 1864 e 1868 a poeta de Galicia, Rosalía de Castro». 	A día de hoxe hai estudosos que teñen serias* 
    >
    > *dúbidas de que Rosalía chegara a estar na cidade, pero o seu **vencello** con Lugo foi moi real.*
-5. No artigo explícase “Unha desas publicacións era o *Almanaque de Galicia para uso de la juventud elegante y de buen tono,* de periodicidade anual, que comezou no 1863 e que se prolongaría durante seis números. Foi o exemplar do ano 1864 o que desatou a treboada.”. 
+5. No artigo explícase "Unha desas publicacións era o *Almanaque de Galicia para uso de la juventud elegante y de buen tono,* de periodicidade anual, que comezou no 1863 e que se prolongaría durante seis números. Foi o exemplar do ano 1864 o que desatou a treboada.". 
 
-   Poderías explicar o que significa a expresión “desatou a treboada” neste contexto? 
+   Poderías explicar o que significa a expresión "desatou a treboada" neste contexto? 
 6. O conflito en que se basea a *A pluma viva de Rosalía* sucedeu na realidade? 
 7. En que consistiu? Foi violento?
 8. Quen estivo involucrado? 
@@ -46,7 +46,7 @@ Unha vez feito isto, tratade de responder as seguintes preguntas:
 14. “El Codio” chegou a publicarse? Por que o sabemos? 
 15. De que cren os especialistas que trataba este artigo?
 16. Que outros textos de Rosalía si publicou Soto Freire? 
-17. No artigo de *La Voz de Galicia* dise: “*Cantares Gallegos,* El cadiceño, Las literatas. Cartas a Eduarda, ou ¡No sueñes!, todos da mesma autora, si chegaron a imprimirse nos Almanaques do editor lucense, que sería tamén o encargado de poñer negro sobre branco a novela El caballero de las botas azules en 1867.” 
+17. No artigo de *La Voz de Galicia* dise: “*Cantares Gallegos,* *El cadiceño,* *Las literatas. Cartas a Eduarda,* ou *¡No sueñes!,* todos da mesma autora, si chegaron a imprimirse nos Almanaques do editor lucense, que sería tamén o encargado de poñer negro sobre branco a novela El caballero de las botas azules en 1867.” 
 
     Que significa a expresión “poñer negro sobre branco” aquí? 
 18.  Quen era Manuel Soto Freire?
