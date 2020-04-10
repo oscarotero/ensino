@@ -14,6 +14,8 @@ collections:
     folder: "posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+
+    # Posts
     fields:
       - label: "Título"
         name: "title"
@@ -37,6 +39,7 @@ collections:
       - label: "Corpo"
         name: "body"
         widget: "markdown"
+
   # Páxinas
   - name: "paxinas"
     label: "Páxinas"
@@ -47,16 +50,25 @@ collections:
       - label: "Título"
         name: "title"
         widget: "string"
+
+      - label: "Corpo"
+        name: "body"
+        widget: "markdown"
+
+  # Categorías
+  - name: "etiquetas"
+    label: "Categorías"
+    folder: "categories"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Nome"
+        name: "title"
+        widget: "string"
       
-      - label: "Filtro"
+      - label: "Etiqueta que usa"
         name: "filter"
         widget: "string"
-        required: false
-      
-      - label: "Plantilla"
-        name: "layout"
-        widget: "string"
-        default: layouts/exercicios.njk
 
       - label: "Corpo"
         name: "body"
