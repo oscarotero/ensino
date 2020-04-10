@@ -23,6 +23,11 @@ collections:
         name: "summary"
         widget: "text"
 
+      - label: "Etiquetas"
+        name: "tags"
+        widget: "list"
+        default: ["post"]
+
       - label: "Ocultar"
         name: "eleventyExcludeFromCollections"
         widget: "boolean"
@@ -36,12 +41,22 @@ collections:
   - name: "paxinas"
     label: "Páxinas"
     folder: "pages"
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
       - label: "Título"
         name: "title"
         widget: "string"
+      
+      - label: "Filtro"
+        name: "filter"
+        widget: "string"
+        required: false
+      
+      - label: "Plantilla"
+        name: "layout"
+        widget: "string"
+        default: layouts/exercicios.njk
 
       - label: "Corpo"
         name: "body"
