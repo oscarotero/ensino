@@ -10,7 +10,7 @@ Vimos un vídeo de Tik tak draw sobre a súa vida e a súa obra. Lembrades? Era 
 
 Despois de velo, pedinvos que fixésedes este cuestionario do portal Gciencia sobre a autora. Que aínda non o fixeches? E a que esperas?  [Canto sabes de Rosalía de Castro?](https://www.gciencia.com/historias-gc/canto-sabes-de-rosalia-de-castro/)
 
-Ese día tamén lemos o poema n.º 2 de *[Cantares gallegos](http://bvg.udc.es/indice_paxinas.jsp?id_obra=CaGa++++1&id_edicion=CaGa++++1002&cabecera=%3Ca+href%3D%22ficha_obra.jsp%3Fid%3DCaGa%2B%2B%2B%2B1%26alias%3DRosal%25EDa%2Bde%2BCastro%22+class%3D%22nombreObraPaxina%22%3ECantares+Gallegos%3C%2Fa%3E&alias=Rosal%EDa+de+Castro&formato=texto)*, o primeiro libro de poemas en galego de Rosalía de Castro e que supuxo o inicio do Rexurdimento en Galicia. A continuación, escoitamos “Rexurdimente”, unha versión que fixo a banda galega [Devacas](https://devacas.gal/) con música do tema “Malamente” da outra [Rosalía](https://www.rosalia.com/), a cantante catalá.
+Ese día tamén lemos o poema n.º 2 de *[Cantares gallegos](http://bvg.udc.es/indice_paxinas.jsp?id_obra=CaGa++++1&id_edicion=CaGa++++1002&cabecera=%3Ca+href%3D%22ficha_obra.jsp%3Fid%3DCaGa%2B%2B%2B%2B1%26alias%3DRosal%25EDa%2Bde%2BCastro%22+class%3D%22nombreObraPaxina%22%3ECantares+Gallegos%3C%2Fa%3E&alias=Rosal%EDa+de+Castro&formato=texto)*, o primeiro libro de poemas en galego de [Rosalía de Castro](https://academia.gal/figuras-homenaxeadas/-/journal_content/56_INSTANCE_8klA/10157/23374) e que supuxo o inicio do Rexurdimento en Galicia. A continuación, escoitamos “Rexurdimente”, unha versión que fixo a banda galega [Devacas](https://devacas.gal/) con música do tema “Malamente” da outra [Rosalía](https://www.rosalia.com/), a cantante catalá.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qkJBWfiYPTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -26,7 +26,7 @@ Unha vez feito isto, tratade de responder as seguintes preguntas:
 
 1. O titular da noticia é "Cando un tumulto de seminaristas censurou un artigo de Rosalía". Que é un tumulto? Por que outras palabras poderiamos substituír esta palabra aquí? 
 2. E censurar? Procura este verbo no dicionario, se non o sabes.
-3. Que significa a expresión intra muros que aparece no primeiro parágrafo da noticia? É galega? 
+3. Que significa a expresión *intra muros* que aparece no primeiro parágrafo da noticia? É galega? 
 4. Por que poderías substituír as palabras reza e vencello en:
 
    > *...un edificio no que unha placa **reza**: «Aquí viviu entre 1864 e 1868 a poeta de Galicia, Rosalía de Castro». 	A día de hoxe hai estudosos que teñen serias* 
