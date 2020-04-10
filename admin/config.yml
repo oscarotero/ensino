@@ -27,8 +27,8 @@ collections:
         name: "eleventyExcludeFromCollections"
         widget: "boolean"
         default: false
+        required: false
 
       - label: "Corpo"
         name: "body"
         widget: "markdown"
-
