@@ -8,7 +8,7 @@ backend:
 media_folder: "static/img" # Media files will be stored in the repo under images/uploads
 
 collections:
-  # Our blog posts
+  # Exercicios
   - name: "exercicios" # Used in routes, e.g., /admin/collections/blog
     label: "Exercicios" # Used in the UI
     folder: "posts" # The path to the folder where the documents are stored
@@ -28,6 +28,20 @@ collections:
         widget: "boolean"
         default: false
         required: false
+
+      - label: "Corpo"
+        name: "body"
+        widget: "markdown"
+  # Páxinas
+  - name: "paxinas"
+    label: "Páxinas"
+    folder: "pages"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - label: "Título"
+        name: "title"
+        widget: "string"
 
       - label: "Corpo"
         name: "body"
