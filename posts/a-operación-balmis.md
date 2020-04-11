@@ -44,7 +44,7 @@ A vosa misión será explorar todos eles na procura de respostas para as seguint
 9. Onde naceu Isabel Zendal?
 10. Cal foi o papel desta muller na Operación Balmis?
 11. Que recoñecementos alcanzou Isabel Zendal?
-12. De cantas maneiras distintas aparece escrito o nome da enfermeira galega na documentación que se conserva? Segundo o xornalista Marcos Pena, que indica esta circunstancia?
+12. De cantas maneiras distintas aparece escrito o nome da enfermeira galega na documentación que se conserva? Segundo o xornalista Marcos Pérez Pena, que indica esta circunstancia?
 
 ## Sabías que...
 
