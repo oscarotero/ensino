@@ -40,12 +40,12 @@ A vosa misión será explorar todos eles na procura de respostas para as seguint
 5. Como fixo a descuberta?
 6. Cando foi erradicada esta doenza?
 7. En que consistiu a Operación Balmis-Salviny?
-7. A onde levaron a vacina da varíola?
-8. Que é un expósito?
-9. Onde naceu Isabel Zendal?
-10. Cal foi o papel desta muller na operación Balmis?
-11. Que recoñecementos alcanzou Isabel Zendal?
-12. De cantas maneiras distintas aparece escrito o nome da enfermeira galega na documentación que se conserva? Segundo o xornalista Marcos Pérez Pena, que indica esta circunstancia?
+8. A onde levaron a vacina da varíola?
+9. Que é un expósito?
+10. Onde naceu Isabel Zendal?
+11. Cal foi o papel desta muller na operación Balmis?
+12. Que recoñecementos alcanzou Isabel Zendal?
+13. De cantas maneiras distintas aparece escrito o nome da enfermeira galega na documentación que se conserva? Segundo o xornalista Marcos Pérez Pena, que indica esta circunstancia?
 
 ## Sabías que...
 
