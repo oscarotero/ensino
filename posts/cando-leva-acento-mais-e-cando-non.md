@@ -55,4 +55,4 @@ No resto dos casos, que son os máis ;-) máis leva acento.
 * Estou moi cansada, non quero traballar mais.
 * Non tes mais que pedilo e é teu!
 * Había mais de dez persoas á porta.
-* Temos que axudar aos que máis o necesitan.
+* Temos que axudar aos que mais o necesitan.
