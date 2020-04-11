@@ -45,5 +45,5 @@ Saberemos que é unha conxunción copulativa, se a podemos substituír pola conx
 * Estou moi cansada, non quero traballar mais.
 * Non tes mais que pedilo e é teu!
 * Había mais de dez persoas á porta.
-* Temos que axudar aos mais desfavorecidos.
+* Temos que axudar aos que máis o necesitan.
 * Un paso mais e xa chegamos.
