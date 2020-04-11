@@ -5,7 +5,7 @@ summary: É posíbel que algún de vós oíse falar estes días nos telexornais 
 tags:
   - post
   - semana-6
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 ---
 Este é o nome co que se decidiu bautizar a misión de loita contra o coronavirus en que participan as distintas Forzas e Corpos de Seguridade do Estado desde o comezo da crise sanitaria.
 
