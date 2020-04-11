@@ -17,6 +17,6 @@ ____
 
 1. Por que cren Iria Veiga e Javier Balea que non se debe cuestionar o uso das vacinas?
 
- 2. Como axudan as vacinas ao noso corpo a protexerse dos microorganismos?
+2. Como axudan as vacinas ao noso corpo a protexerse dos microorganismos?
 
 3. Por que a vacinación é importante nón só para cada persoa, senón tampen para toda a poboación en xeral?
