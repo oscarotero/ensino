@@ -1,6 +1,6 @@
 ---
 title: Cando leva acento mais e cando non?
-summary: Hai numerosos recursos na rede en que se ocupan desta cuestión.
+summary: Hai unha morea de recursos na rede en que se ocupan desta cuestión.
 tags:
   - post
   - semana-6
