@@ -25,7 +25,7 @@ O vídeo de Xacobo de Toro Cacharrón sobre a expedición Balmis e a vitoria da 
 
 O artigo publicado no portal Gciencia [“Os 22 orfos coruñeses que levaron a vacina da varíola a América”](https://www.gciencia.com/historias-gc/variola-coruna-balmis/)
 
-Este artigo xornal dixital Praza titulado [“Isabel Zendal, a enfermeira galega á que lle debemos a difusión da vacina que erradicou a varíola”](https://praza.gal/ciencia-e-tecnoloxia/isabel-zendal-a-enfermeira-galega-a-que-lle-debemos-a-difusion-da-vacina-que-erradicou-a-variola)
+O artigo do xornal dixital Praza titulado [“Isabel Zendal, a enfermeira galega á que lle debemos a difusión da vacina que erradicou a varíola”](https://praza.gal/ciencia-e-tecnoloxia/isabel-zendal-a-enfermeira-galega-a-que-lle-debemos-a-difusion-da-vacina-que-erradicou-a-variola)
 
 - - -
 
