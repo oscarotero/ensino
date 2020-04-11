@@ -48,7 +48,7 @@ No resto dos casos, que son os máis ;-) máis leva acento.
 * Sempre quere mais, nunca ten abondo.
 * Ía dicir unha cousa, mais vou calar a boca.
 * As mais das veces non sei o que dicir.
-* Á cea veño eu só, os mais foron ver un partido.
+* Á cea veño eu só, os mais foron ver o partido.
 * Sete mais tres son dez.
 * Que traxe mais elegante levas!
 * Deixou a mais da comida no prato.
