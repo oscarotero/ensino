@@ -8,6 +8,7 @@ tags:
   - semana-6
 eleventyExcludeFromCollections: false
 ---
+
 <iframe src="https://player.vimeo.com/video/369814054" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/369814054">Concienciadas 3 | Como funcionan as vacinas?</a> from <a href="https://vimeo.com/prazapublica">Praza.gal</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
