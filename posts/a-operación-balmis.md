@@ -34,18 +34,19 @@ O artigo do xornal dixital *Praza* titulado [“Isabel Zendal, a enfermeira gale
 A vosa misión será explorar todos eles na procura de respostas para as seguintes preguntas:
 
 1. Que é a varíola? 
-2. Cantas mortes causou durante o século XVIII?
-3. A quen afectaba máis o virus da varíola? E o coronavirus?
-4. Que médico inglés descubriu a vacina contra a varíola?
-5. Como fixo a descuberta?
-6. Cando foi erradicada esta doenza?
-7. En que consistiu a Operación Balmis-Salviny?
-8. A onde levaron a vacina da varíola?
-9. Que é un expósito?
-10. Onde naceu Isabel Zendal?
-11. Cal foi o papel desta muller na operación Balmis?
-12. Que recoñecementos alcanzou Isabel Zendal?
-13. De cantas maneiras distintas aparece escrito o nome da enfermeira galega na documentación que se conserva? Segundo o xornalista Marcos Pérez Pena, que indica esta circunstancia?
+2. Que outras denominacións hai en galego para esta doenza?
+3. Cantas mortes causou durante o século XVIII?
+4. A quen afectaba máis o virus da varíola? E o coronavirus?
+5. Que médico inglés descubriu a vacina contra a varíola?
+6. Como fixo a descuberta?
+7. Cando foi erradicada esta doenza?
+8. En que consistiu a Operación Balmis-Salviny?
+9. A onde levaron a vacina da varíola?
+10. Que é un expósito?
+11. Onde naceu Isabel Zendal?
+12. Cal foi o papel desta muller na operación Balmis?
+13. Que recoñecementos alcanzou Isabel Zendal?
+14. De cantas maneiras distintas aparece escrito o nome da enfermeira galega na documentación que se conserva? Segundo o xornalista Marcos Pérez Pena, que indica esta circunstancia?
 
 ## Sabías que...
 
