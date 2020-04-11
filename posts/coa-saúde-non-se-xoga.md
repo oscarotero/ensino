@@ -1,8 +1,8 @@
 ---
 title: Coa saúde non se brinca!
 summary: "Todo o mundo sabe iso! Mais desde agora si que o podemos facer coas
-  palabras para falar dela, grazas a esta magnífica recompilación de xogos do
-  Portal das palabras:"
+  palabras que utilizamos falar dela, grazas a esta magnífica recompilación de
+  xogos do Portal das palabras:"
 tags:
   - post
   - semana-6
