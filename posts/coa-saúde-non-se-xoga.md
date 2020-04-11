@@ -1,12 +1,13 @@
 ---
-title: Coa saúde non se brinca
-summary: É un tema tan serio que
+title: Coa saúde non se brinca!
+summary: Todo o mundo sabe iso, mais no Portal das palabras anímanos a todos a
+  que xoguemos coas palabras para falar dela.
 tags:
   - post
   - semana-6
 eleventyExcludeFromCollections: false
 ---
-Velaquí tedes unha recompilación de xogos do [Portal das palabras](https://portaldaspalabras.gal/) para que vos vaiades familiarizando con vocabulario en galego para falarmos da saúde e das doenzas.
+Velaquí tedes unha recompilación de xogos do sitio que vos permitirán que vos para que vos vaiades familiarizando con vocabulario en galego para falarmos da saúde e das doenzas.
 
 Verdadeiro ou falso: [Que me pasa, doutor?](https://portaldaspalabras.gal/xogo/que-me-pasa-doutor/)
 
