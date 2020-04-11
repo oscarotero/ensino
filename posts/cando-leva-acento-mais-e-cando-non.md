@@ -24,9 +24,7 @@ Saberemos que se trata dunha conxunción adversativa, se a podemos substituír p
 
 **2. Cando é unha conxunción copulativa. Neste caso pode ir soa ou dentro da locución *e mais.***
 
-> Ex.: Eu mais ti entendémonos ben 
->
-> Ex.: Fíxoo Xoán e mais un amigo
+> Ex.: Eu mais ti entendémonos ben / Fíxoo Xoán e mais un amigo
 
 Saberemos que é unha conxunción copulativa, se a podemos substituír pola conxunción *e* e o significado da oración non varía.
 
