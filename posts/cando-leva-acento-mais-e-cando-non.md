@@ -34,6 +34,10 @@ Saberemos que é unha conxunción copulativa, se a podemos substituír pola conx
 >
 > Ex.: Fíxoo Xoán *e* un amigo.
 
+
+
+No resto dos casos, que son os máis ;-) máis leva acento.
+
 - - -
 
 ## Exercicios
