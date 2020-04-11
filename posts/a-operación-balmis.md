@@ -42,7 +42,7 @@ A vosa misión será explorar todos eles na procura de respostas para as seguint
 7. En que consistiu a Operación Balmis-Salviny?
 8. Que é un expósito?
 9. Onde naceu Isabel Zendal?
-10. Cal foi o papel desta muller na Operación Balmis?
+10. Cal foi o papel desta muller na operación Balmis?
 11. Que recoñecementos alcanzou Isabel Zendal?
 12. De cantas maneiras distintas aparece escrito o nome da enfermeira galega na documentación que se conserva? Segundo o xornalista Marcos Pérez Pena, que indica esta circunstancia?
 
