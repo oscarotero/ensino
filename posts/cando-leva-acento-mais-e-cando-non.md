@@ -6,7 +6,7 @@ tags:
   - semana-6
 eleventyExcludeFromCollections: false
 ---
-Abaixo deixo a ligazón a dous dos máis útiles:
+Abaixo deixo a ligazón a dous moi útiles:
 
 Vídeo do #DígochoEu: [Non confundas “mais”, “máis” e “e mais”](http://www.crtvg.es/informativos/non-confundas-mais-mais-e-e-mais-digochoeu)
 
