@@ -1,0 +1,50 @@
+---
+title: A operación Balmis
+summary: É posíbel que algún de vós oíse falar estes días nos telexornais da
+  operación Balmis.
+tags:
+  - post
+  - semana-6
+eleventyExcludeFromCollections: false
+---
+Este é o nome co que se decidiu bautizar a misión de loita contra o coronavirus na que participan as distintas Forzas e Corpos de Seguridade do Estado desde o comezo da crise sanitaria.
+
+O que quizais non saibades é que detrás dese nome se agocha unha aventura asombrosa. E que os heroes desta historia foron un médico alicantino, o doutor Francisco Xavier Balmis, e mais unha enfermeira galega, Isabel Zendán.
+
+Do mesmo xeito que os sanitarios en 2020 están a loitar contra o [SARS-CoV-2](https://portaldaspalabras.gal/lexico/allos-con-bugallos/covid-19/), o virus que produce a covid-19, hai xa máis de 200 anos, eles tamén se tiveron que enfrontar a outro que estaba a ameazar a sociedade do seu tempo, o [virus da varíola](https://gl.wikipedia.org/wiki/Var%C3%ADola).
+
+## Recursos
+
+Na rede hai numerosos recursos con información sobre este fito da medicina, mais seleccionei estes catro que vos presento a continuación:
+
+O vídeo da Televisión de Galicia [Coñecemos a expedición contra a varíola (1803) que lle puxo nome á operación Balmis do Exército contra o coronavirus](http://www.crtvg.es/tvg/a-carta/conecemos-a-expedicion-balmis-1803-que-lle-puxo-nome-a-operacion-balmis-do-exercito-contra-o-coronavirus)
+
+O vídeo de Xacobo de Toro Cacharrón sobre a expedición Balmis e a vitoria da vacinación:
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/c_64wpB_A6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+O artigo publicado no portal Gciencia [“Os 22 orfos coruñeses que levaron a vacina da varíola a América”](https://www.gciencia.com/historias-gc/variola-coruna-balmis/)
+
+O artigo do xornal dixital Praza [“Isabel Zendal, a enfermeira galega á que lle debemos a difusión da vacina que erradicou a varíola”](https://praza.gal/ciencia-e-tecnoloxia/isabel-zendal-a-enfermeira-galega-a-que-lle-debemos-a-difusion-da-vacina-que-erradicou-a-variola)
+
+---
+## A misión
+
+A vosa misión será explorar todos eles na procura de respostas para as seguintes preguntas:
+
+1. Que é a varíola?
+2. Cantas mortes causou durante o século XVIII?
+3. Cal era o perfil das vítimas da varíola? A quen afectaba máis?
+4. Que médico inglés descubriu a vacina contra a varíola?
+5. Como descubriu as vacinas?
+6. Cando foi erradicada esta doenza?
+7. En que consistiu a Operación Balmis-Salviny?
+8. Que é un expósito?
+9. Onde naceu Isabel Zendal?
+10. Cal foi o papel de Isabel Zendal na Operación Balmis?
+11. Que dous recoñecementos ten Isabel Zendal?
+11. Que dous recoñecementos ten Isabel Zendal?
+
+
+
+    Que é a varíola?
