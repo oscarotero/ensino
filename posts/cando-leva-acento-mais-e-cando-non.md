@@ -32,7 +32,7 @@ Saberemos que é unha conxunción copulativa, se a podemos substituír pola conx
 
 ## Exercicios
 
-1. Acentúa *mais* sempre que for necesario:
+1. Acentúa *mais* cando corresponda:
 
 * Burela é un dos portos mais importantes da costa cantábrica.
 * Sempre quere mais, nunca ten abondo.
