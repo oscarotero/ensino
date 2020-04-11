@@ -34,7 +34,7 @@ O artigo do xornal dixital *Praza* titulado [“Isabel Zendal, a enfermeira gale
 A vosa misión será explorar todos eles na procura de respostas para as seguintes preguntas:
 
 1. Que é a varíola? 
-2. Á parte de varíola, que outras nomes ten en galego esta doenza?
+2. Á parte de varíola, que outros nomes ten en galego esta doenza?
 3. Cantas mortes causou durante o século XVIII?
 4. A quen afectaba máis o virus da varíola? E o coronavirus?
 5. Que médico inglés descubriu a vacina contra a varíola?
