@@ -1,5 +1,5 @@
 ---
-title: Coa saúde non se xoga
+title: Coa saúde non se brinca
 summary: É un tema tan serio que
 tags:
   - post
