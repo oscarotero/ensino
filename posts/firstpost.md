@@ -49,7 +49,7 @@ Unha vez feito isto, tratade de responder as preguntas.
 14. “El Codio” chegou a publicarse? Por que o sabemos? 
 15. De que cren os especialistas que trataba este artigo?
 16. Que outros textos de Rosalía si publicou Soto Freire? 
-17. No artigo de *La Voz de Galicia* dise: “*Cantares Gallegos,* *El cadiceño,* *Las literatas. Cartas a Eduarda,* ou *¡No sueñes!,* todos da mesma autora, si chegaron a imprimirse nos Almanaques do editor lucense, que sería tamén o encargado de poñer negro sobre branco a novela El caballero de las botas azules en 1867.” 
+17. No artigo de *La Voz de Galicia* dise: “*Cantares Gallegos,* "El cadiceño", "Las literatas. Cartas a Eduarda", ou "¡No sueñes!"*,* todos da mesma autora, si chegaron a imprimirse nos *Almanaques* do editor lucense, que sería tamén o encargado de poñer negro sobre branco a novela *El caballero de las botas azules* en 1867.” 
 
     Que significa a expresión “poñer negro sobre branco” aquí? 
 18. Quen era Manuel Soto Freire?
