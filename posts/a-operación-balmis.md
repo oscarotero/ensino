@@ -27,7 +27,8 @@ O artigo publicado no portal Gciencia [“Os 22 orfos coruñeses que levaron a v
 
 O artigo do xornal dixital Praza [“Isabel Zendal, a enfermeira galega á que lle debemos a difusión da vacina que erradicou a varíola”](https://praza.gal/ciencia-e-tecnoloxia/isabel-zendal-a-enfermeira-galega-a-que-lle-debemos-a-difusion-da-vacina-que-erradicou-a-variola)
 
----
+- - -
+
 ## A misión
 
 A vosa misión será explorar todos eles na procura de respostas para as seguintes preguntas:
@@ -43,8 +44,17 @@ A vosa misión será explorar todos eles na procura de respostas para as seguint
 9. Onde naceu Isabel Zendal?
 10. Cal foi o papel de Isabel Zendal na Operación Balmis?
 11. Que dous recoñecementos ten Isabel Zendal?
-11. Que dous recoñecementos ten Isabel Zendal?
+12.
 
 
+## Sabías que...
 
-    Que é a varíola?
+- A escritora [María Solar](https://mariasolar.com/gal/biografia) publicou en 2017 *[Os nenos da varíola](https://mariasolar.com/gal/libros/os-nenos-da-variola),*unha novelabaseada na historia real dos 22 orfos da expedición Balmis que levaron o seu corpo a vacina da varíola a América.
+
+- En 2020, a compañía PÉREZ&FERNÁNDEZ en coprodución co Centro Dramático Galego (CDG) presentaron a adaptación á escena desta novela de María Solar.
+
+<http://centrodramatico.xunta.gal/cdg/axenda/axendad.php?id_e=2748&lg=gal>
+
+- E hai tamén un telefilme que narra as aventuras da Real Expedición Filantrópica da Vacina.Titúlase*22 ángeles*e actriz galega María Castro fai o papel de Isabel Zendal.
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/coOsN7e0kS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
