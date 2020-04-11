@@ -22,7 +22,7 @@ Saberemos quese trata dunha conxunción adversativa, se a podemos substituír po
 
 *Ten moitos méritos, pero non os suficientes para o posto.*
 
-Cando é unha conxunción copulativa. Neste caso pode ir soa (*Eumaisti entendémonos ben*) ou dentro da locución *e mais* (*Fíxoo Xoáne maisun amigo).*
+Cando é unha conxunción copulativa. Neste caso pode ir soa (*Eu mais ti entendémonos ben*) ou dentro da locución *e mais* (*Fíxoo Xoán e mais un amigo).*
 
 Saberemos que é unha conxunción copulativa, se a podemos substituír pola conxunción *e* e o significado da oración non varía.
 
@@ -32,7 +32,7 @@ Saberemos que é unha conxunción copulativa, se a podemos substituír pola conx
 
 ## Exercicios
 
-1. Acentúa *mais* cando for necesario:
+1. Acentúa *mais* sempre que for necesario:
 
 * Burela é un dos portos mais importantes da costa cantábrica.
 * Sempre quere mais, nunca ten abondo.
