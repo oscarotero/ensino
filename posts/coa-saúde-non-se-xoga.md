@@ -1,14 +1,12 @@
 ---
 title: Coa saúde non se brinca!
-summary: Todo o mundo sabe iso, mais no Portal das palabras anímanos a todos a
-  que xoguemos coas palabras para falar dela.
+summary: Todo o mundo sabe iso, mais si que o podemos facer coas palabras para
+  falar dela grazas a este recompilación de xogos do Portal das palabras
 tags:
   - post
   - semana-6
 eleventyExcludeFromCollections: false
 ---
-Velaquí tedes unha recompilación de xogos do sitio que vos permitirán que vos para que vos vaiades familiarizando con vocabulario en galego para falarmos da saúde e das doenzas.
-
 Verdadeiro ou falso: [Que me pasa, doutor?](https://portaldaspalabras.gal/xogo/que-me-pasa-doutor/)
 
 Canto sabes?: [Con boa saúde. As palabras poden ferir... pero tamén sandar!](https://portaldaspalabras.gal/xogo/con-boa-saude/)
