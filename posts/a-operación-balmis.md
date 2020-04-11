@@ -40,6 +40,7 @@ A vosa misión será explorar todos eles na procura de respostas para as seguint
 5. Como fixo a descuberta?
 6. Cando foi erradicada esta doenza?
 7. En que consistiu a Operación Balmis-Salviny?
+7. A onde levaron a vacina da varíola?
 8. Que é un expósito?
 9. Onde naceu Isabel Zendal?
 10. Cal foi o papel desta muller na operación Balmis?
