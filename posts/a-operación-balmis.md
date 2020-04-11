@@ -49,7 +49,7 @@ A vosa misión será explorar todos eles na procura de respostas para as seguint
 
 ## Sabías que...
 
-- A escritora [María Solar](https://mariasolar.com/gal/biografia) publicou en 2017 *[Os nenos da varíola](https://mariasolar.com/gal/libros/os-nenos-da-variola), *unha novelabaseada na historia real dos 22 orfos da expedición Balmis que levaron o seu corpo a vacina da varíola a América.
+- A escritora [María Solar](https://mariasolar.com/gal/biografia) publicou en 2017 *[Os nenos da varíola](https://mariasolar.com/gal/libros/os-nenos-da-variola), *unha novela baseada na historia real dos 22 orfos da expedición Balmis que levaron o seu corpo a vacina da varíola a América.
 
 - En 2020, a compañía PÉREZ&FERNÁNDEZ en coprodución co Centro Dramático Galego (CDG) presentaron a adaptación á escena desta novela de María Solar.
 
