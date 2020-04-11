@@ -7,9 +7,9 @@ tags:
   - semana-6
 eleventyExcludeFromCollections: false
 ---
-Este é o nome co que se decidiu bautizar a misión de loita contra o coronavirus na que participan as distintas Forzas e Corpos de Seguridade do Estado desde o comezo da crise sanitaria.
+Este é o nome co que se decidiu bautizar a misión de loita contra o coronavirus en que participan as distintas Forzas e Corpos de Seguridade do Estado desde o comezo da crise sanitaria.
 
-O que quizais non saibades é que detrás dese nome se agocha unha aventura asombrosa. E que os heroes desta historia foron un médico alicantino, o doutor Francisco Xavier Balmis, e mais unha enfermeira galega, Isabel Zendán.
+O que quizais non saibades é que detrás dese nome se agocha unha aventura asombrosa. E que os heroes desta historia foron un médico alicantino, o doutor Francisco Javier Balmis, e mais unha enfermeira galega, Isabel Zendal.
 
 Do mesmo xeito que os sanitarios en 2020 están a loitar contra o [SARS-CoV-2](https://portaldaspalabras.gal/lexico/allos-con-bugallos/covid-19/), o virus que produce a covid-19, hai xa máis de 200 anos, eles tamén se tiveron que enfrontar a outro que estaba a ameazar a sociedade do seu tempo, o [virus da varíola](https://gl.wikipedia.org/wiki/Var%C3%ADola).
 
@@ -25,7 +25,7 @@ O vídeo de Xacobo de Toro Cacharrón sobre a expedición Balmis e a vitoria da 
 
 O artigo publicado no portal Gciencia [“Os 22 orfos coruñeses que levaron a vacina da varíola a América”](https://www.gciencia.com/historias-gc/variola-coruna-balmis/)
 
-O artigo do xornal dixital Praza [“Isabel Zendal, a enfermeira galega á que lle debemos a difusión da vacina que erradicou a varíola”](https://praza.gal/ciencia-e-tecnoloxia/isabel-zendal-a-enfermeira-galega-a-que-lle-debemos-a-difusion-da-vacina-que-erradicou-a-variola)
+Este artigo xornal dixital Praza titulado [“Isabel Zendal, a enfermeira galega á que lle debemos a difusión da vacina que erradicou a varíola”](https://praza.gal/ciencia-e-tecnoloxia/isabel-zendal-a-enfermeira-galega-a-que-lle-debemos-a-difusion-da-vacina-que-erradicou-a-variola)
 
 - - -
 
@@ -33,28 +33,23 @@ O artigo do xornal dixital Praza [“Isabel Zendal, a enfermeira galega á que l
 
 A vosa misión será explorar todos eles na procura de respostas para as seguintes preguntas:
 
-1. Que é a varíola?
+1. Que é a varíola? 
 2. Cantas mortes causou durante o século XVIII?
-3. Cal era o perfil das vítimas da varíola? A quen afectaba máis?
+3. A quen afectaba máis o virus da varíola? E o coronavirus?
 4. Que médico inglés descubriu a vacina contra a varíola?
-5. Como descubriu as vacinas?
+5. Como chegou a descubrir a vacina?
 6. Cando foi erradicada esta doenza?
 7. En que consistiu a Operación Balmis-Salviny?
 8. Que é un expósito?
 9. Onde naceu Isabel Zendal?
-10. Cal foi o papel de Isabel Zendal na Operación Balmis?
-11. Que dous recoñecementos ten Isabel Zendal?
-12.
-
+10. Cal foi o papel desta muller na Operación Balmis?
+11. Que recoñecementos alcanzou Isabel Zendal?
+12. De cantas maneiras distintas aparece escrito o nome da enfermeira galega na documentación que se conserva? Segundo o xornalista Marcos Pena, que indica esta circunstancia?
 
 ## Sabías que...
 
-- A escritora [María Solar](https://mariasolar.com/gal/biografia) publicou en 2017 *[Os nenos da varíola](https://mariasolar.com/gal/libros/os-nenos-da-variola), *unha novela baseada na historia real dos 22 orfos da expedición Balmis que levaron o seu corpo a vacina da varíola a América.
-
-- En 2020, a compañía PÉREZ&FERNÁNDEZ en coprodución co Centro Dramático Galego (CDG) presentaron a adaptación á escena desta novela de María Solar.
-
-<http://centrodramatico.xunta.gal/cdg/axenda/axendad.php?id_e=2748&lg=gal>
-
-- E hai tamén un telefilme que narra as aventuras da Real Expedición Filantrópica da Vacina.Titúlase*22 ángeles*e actriz galega María Castro fai o papel de Isabel Zendal.
+* A escritora [María Solar](https://mariasolar.com/gal/biografia) publicou en 2017 *[Os nenos da varíola](https://mariasolar.com/gal/libros/os-nenos-da-variola),* unha novela baseada na historia real dos 22 orfos da expedición Balmis que levaron o seu corpo a vacina da varíola a América.
+* En 2020, a compañía PÉREZ&FERNÁNDEZ en coprodución co Centro Dramático Galego (CDG) presentaron [a adaptación á escena desta novela de María Solar](http://centrodramatico.xunta.gal/cdg/axenda/axendad.php?id_e=2748&lg=gal).
+* E hai tamén un telefilme que narra as aventuras da Real Expedición Filantrópica da Vacina. Titúlase *22 ángeles* e actriz galega María Castro é quen dá vida a Isabel Zendal nesta produción.
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/coOsN7e0kS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
