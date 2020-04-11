@@ -14,7 +14,7 @@ Post sobre a palabra no blog Dúbidas do galego: [mais](https://dubidasdogalego.
 
 A regra de ouro é que a palabra máis sempre, sempre leva acento, non sendo en dous casos:
 
-1. Cando *mais* é unha conxunción adversativa.
+Cando *mais* é unha conxunción adversativa.
 
 Ex.: *Tenmoitos méritos,maisnon os suficientes para oposto*
 
@@ -22,7 +22,7 @@ Saberemos quese trata dunha conxunción adversativa, se a podemos substituír po
 
 *Ten moitos méritos,peronon os suficientes para o posto*
 
-2. Cando é unha conxunción copulativa. Neste caso pode ir soa (*Eumaisti entendémonos ben*) ou dentro da locución *e mais* (*Fíxoo Xoáne maisun amigo).*
+Cando é unha conxunción copulativa. Neste caso pode ir soa (*Eumaisti entendémonos ben*) ou dentro da locución *e mais* (*Fíxoo Xoáne maisun amigo).*
 
 Saberemos que é unha conxunción copulativa, se a podemos substituír pola conxunción *e* e o significado da oración non varía.
 
