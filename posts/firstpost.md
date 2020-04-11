@@ -45,7 +45,7 @@ Unha vez feito isto, tratade de responder as preguntas.
 10. No artigo menciónase a cidade onde aconteceu este suceso. Que cidade é esa? 
 11. Por que sabemos hoxe que todo isto pasou? 
 12. Quen escribiu o artigo “El Codio”?
-13. Que significa a palabra codio? 
+13. Que significa a palabra *codio*? 
 14. “El Codio” chegou a publicarse? Por que o sabemos? 
 15. De que cren os especialistas que trataba este artigo?
 16. Que outros textos de Rosalía si publicou Soto Freire? 
