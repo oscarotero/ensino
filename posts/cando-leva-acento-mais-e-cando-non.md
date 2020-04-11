@@ -18,7 +18,7 @@ Cando *mais* é unha conxunción adversativa.
 
 Ex.: *Ten moitos méritos, mais non os suficientes para oposto.*
 
-Saberemos quese trata dunha conxunción adversativa, se a podemos substituír por *pero*.
+Saberemos que se trata dunha conxunción adversativa, se a podemos substituír por *pero*.
 
 *Ten moitos méritos, pero non os suficientes para o posto.*
 
