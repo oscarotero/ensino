@@ -38,7 +38,7 @@ Saberemos que é unha conxunción copulativa, se a podemos substituír pola conx
 
 No resto dos casos, que son os máis ;-) máis leva acento.
 
-Aínda que máis leva acento a maioría das veces, non acontece o mesmo con *ademais.* *Ademais* nunca se acentúa, porque é unha palabra aguda que acaba en ditongo decrecente.
+E a pesar de que máis leva acento a maioría das veces, non acontece o mesmo con *ademais.* *Ademais* nunca se acentúa, porque é unha palabra aguda que acaba en ditongo decrecente.
 
 - - -
 
