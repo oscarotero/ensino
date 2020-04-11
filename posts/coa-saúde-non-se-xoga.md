@@ -1,7 +1,7 @@
 ---
 title: Coa saúde non se brinca!
-summary: Todo o mundo sabe iso, mais si que o podemos facer coas palabras para
-  falar dela.
+summary: Todo o mundo sabe iso, mais desde agora si que o podemos facer coas
+  palabras para falar dela.
 tags:
   - post
   - semana-6
