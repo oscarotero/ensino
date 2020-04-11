@@ -20,7 +20,7 @@ Ex.: *Tenmoitos méritos,maisnon os suficientes para oposto*
 
 Saberemos quese trata dunha conxunción adversativa, se a podemos substituír por *pero*.
 
-*Ten moitos méritos,peronon os suficientes para o posto*
+*Ten moitos méritos, pero non os suficientes para o posto*
 
 Cando é unha conxunción copulativa. Neste caso pode ir soa (*Eumaisti entendémonos ben*) ou dentro da locución *e mais* (*Fíxoo Xoáne maisun amigo).*
 
