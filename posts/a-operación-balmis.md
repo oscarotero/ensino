@@ -37,7 +37,7 @@ A vosa misión será explorar todos eles na procura de respostas para as seguint
 2. Cantas mortes causou durante o século XVIII?
 3. A quen afectaba máis o virus da varíola? E o coronavirus?
 4. Que médico inglés descubriu a vacina contra a varíola?
-5. Como chegou a descubrir a vacina?
+5. Como fixo a descuberta?
 6. Cando foi erradicada esta doenza?
 7. En que consistiu a Operación Balmis-Salviny?
 8. Que é un expósito?
