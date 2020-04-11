@@ -16,11 +16,11 @@ A regra de ouro é que a palabra máis sempre, sempre leva acento, non sendo en 
 
 Cando *mais* é unha conxunción adversativa.
 
-Ex.: *Tenmoitos méritos,maisnon os suficientes para oposto*
+Ex.: *Ten moitos méritos, mais non os suficientes para oposto.*
 
 Saberemos quese trata dunha conxunción adversativa, se a podemos substituír por *pero*.
 
-*Ten moitos méritos, pero non os suficientes para o posto*
+*Ten moitos méritos, pero non os suficientes para o posto.*
 
 Cando é unha conxunción copulativa. Neste caso pode ir soa (*Eumaisti entendémonos ben*) ou dentro da locución *e mais* (*Fíxoo Xoáne maisun amigo).*
 
