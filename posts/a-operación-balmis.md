@@ -9,7 +9,7 @@ eleventyExcludeFromCollections: false
 ---
 Este é o nome co que se decidiu bautizar a misión de loita contra o coronavirus en que participan as distintas Forzas e Corpos de Seguridade do Estado desde o comezo da crise sanitaria.
 
-O que quizais non saibades é que detrás dese nome se agocha unha aventura asombrosa. E que os heroes desta historia foron un médico alicantino, o doutor Francisco Javier Balmis, e mais unha enfermeira galega, Isabel Zendal.
+O que quizais non saibades é que detrás dese nome se agocha unha aventura asombrosa. E que os heroes desta historia foron un médico alicantino, o doutor **Francisco Javier Balmis**, e mais unha enfermeira galega, **Isabel Zendal**.
 
 Do mesmo xeito que os sanitarios en 2020 están a loitar contra o [SARS-CoV-2](https://portaldaspalabras.gal/lexico/allos-con-bugallos/covid-19/), o virus que produce a covid-19, hai xa máis de 200 anos, eles tamén se tiveron que enfrontar a outro que estaba a ameazar a sociedade do seu tempo, o [virus da varíola](https://gl.wikipedia.org/wiki/Var%C3%ADola).
 
@@ -23,9 +23,9 @@ O vídeo de Xacobo de Toro Cacharrón sobre a expedición Balmis e a vitoria da 
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/c_64wpB_A6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-O artigo publicado no portal Gciencia [“Os 22 orfos coruñeses que levaron a vacina da varíola a América”](https://www.gciencia.com/historias-gc/variola-coruna-balmis/)
+O artigo publicado no portal *Gciencia* [“Os 22 orfos coruñeses que levaron a vacina da varíola a América”](https://www.gciencia.com/historias-gc/variola-coruna-balmis/)
 
-O artigo do xornal dixital Praza titulado [“Isabel Zendal, a enfermeira galega á que lle debemos a difusión da vacina que erradicou a varíola”](https://praza.gal/ciencia-e-tecnoloxia/isabel-zendal-a-enfermeira-galega-a-que-lle-debemos-a-difusion-da-vacina-que-erradicou-a-variola)
+O artigo do xornal dixital *Praza* titulado [“Isabel Zendal, a enfermeira galega á que lle debemos a difusión da vacina que erradicou a varíola”](https://praza.gal/ciencia-e-tecnoloxia/isabel-zendal-a-enfermeira-galega-a-que-lle-debemos-a-difusion-da-vacina-que-erradicou-a-variola)
 
 - - -
 
