@@ -19,4 +19,4 @@ ____
 
 2. Como axudan as vacinas ao noso corpo a protexerse dos microorganismos?
 
-3. Por que a vacinación é importante nón só para cada persoa, senón tamén para toda a poboación en xeral?
+3. Por que a vacinación é importante nón só para cada persoa individualmente, senón tamén para toda a poboación en xeral?
