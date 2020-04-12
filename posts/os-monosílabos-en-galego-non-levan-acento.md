@@ -21,3 +21,19 @@ Vídeo do #DígochoEu: [Quítalle o acento ao cu!](http://www.crtvg.es/informati
 - - -
 
 ## Exercicios
+
+Os monosílabos das seguintes oracións levan acento, si ou non?
+
+1. Marcou un gol no último minuto do partido.
+
+2. Como o chan estaba húmido, escorregou e caeu de cu.
+
+3. Uso o mel para adozar o iogur.
+
+4. Nesta avaliación está a traballar moito mais, teño fe en que vai aprobar.
+
+5. Está san coma un buxo.
+
+6. A miña festa preferida e a de san Xoán.
+
+7. Imos ao cinema? Imos, si, quero ver o último filme de Steven Spielberg.
