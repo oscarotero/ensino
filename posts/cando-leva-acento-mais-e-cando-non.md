@@ -12,7 +12,7 @@ Vídeo do **\#DígochoEu**: [Non confundas “mais”, “máis” e “e mais�
 
 Post sobre esta palabra no blog **Dúbidas do galego**: [Mais](https://dubidasdogalego.wordpress.com/2012/05/28/mais/)
 
-Un truco moi eficaz para acertarmos á hora de acentuar esta palabra é lembrarnos de que **máis sempre leva acento, non sendo en dous casos**:
+Un truco moi eficaz para acertarmos á hora de acentuarmos esta palabra é lembrármonos de que ***máis* sempre leva acento, non sendo en dous casos**:
 
 **1. Cando *mais* é unha conxunción adversativa.**
 
