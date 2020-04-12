@@ -60,7 +60,7 @@ Aínda que *máis* leva acento a maioría das veces, non acontece o mesmo con *[
 * Temos que axudar aos que mais o necesitan.
 
 <details>
-<summary>Ver solucións</summary>
+<summary>Ver as solucións</summary>
 
 * Burela é un dos portos **máis** importantes da costa cantábrica.
 * Sempre quere **máis**, nunca ten abondo.
