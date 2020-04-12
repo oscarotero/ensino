@@ -30,7 +30,7 @@ Unha vez feito isto, tratade de responder as preguntas.
 1. O titular da noticia é "Cando un tumulto de seminaristas censurou un artigo de Rosalía". Que é un tumulto? Por que outras palabras poderiamos substituír esta palabra aquí? 
 2. E censurar? Procura este verbo no dicionario, se non o sabes.
 3. Que significa a expresión *intra muros* que aparece no primeiro parágrafo da noticia? É galega? 
-4. Por que poderías substituír as palabras reza e vencello en:
+4. Por que poderías substituír as palabras *reza* e *vencello* en:
 
    > *...un edificio no que unha placa **reza**: «Aquí viviu entre 1864 e 1868 a poeta de Galicia, Rosalía de Castro». 	A día de hoxe hai estudosos que teñen serias* 
    >
