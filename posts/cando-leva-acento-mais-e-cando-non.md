@@ -8,7 +8,8 @@ eleventyExcludeFromCollections: true
 ---
 Abaixo deixo as ligazóns a dous moi útiles:
 
-Vídeo do **\#DígochoEu**: [Non confundas “mais”, “máis” e “e mais”](http://www.crtvg.es/informativos/non-confundas-mais-mais-e-e-mais-digochoeu)
+Vídeo do #DígochoEu: Non confundas "mais" e "máis"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x69KcvDzAyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Post sobre esta palabra no blog **Dúbidas do galego**: [Mais](https://dubidasdogalego.wordpress.com/2012/05/28/mais/)
 
