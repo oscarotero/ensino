@@ -1,6 +1,6 @@
 ---
 title: Os monosílabos en galego non levan acento
-summary: OU SI?
+summary: Ou si?
 tags:
   - post
   - semana-5
