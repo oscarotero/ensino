@@ -9,7 +9,7 @@ eleventyExcludeFromCollections: true
 ---
 Este é o nome co que se decidiu bautizar a misión de loita contra o coronavirus en que participan as distintas Forzas e Corpos de Seguridade do Estado desde o comezo da crise sanitaria.
 
-O que quizais non saibades é que detrás dese nome se agocha unha aventura asombrosa. E que os heroes desta historia foron un médico alicantino, o doutor **Francisco Javier Balmis**, e mais unha enfermeira galega, **Isabel Zendal**.
+O que quizais non saibades é que detrás dese nome se agocha unha aventura asombrosa. E que os heroes desta historia foron un médico alicantino, o doutor **Francisco Javier Balmis**, unha enfermeira galega, **Isabel Zendal**,e **22 orfos da Casa de Expósitos da Coruña.**
 
 Do mesmo xeito que os sanitarios en 2020 están a loitar contra o [SARS-CoV-2](https://portaldaspalabras.gal/lexico/allos-con-bugallos/covid-19/), o virus que produce a covid-19, hai xa máis de 200 anos, eles tamén se tiveron que enfrontar a outro que estaba a ameazar a sociedade do seu tempo, o [virus da varíola](https://gl.wikipedia.org/wiki/Var%C3%ADola).
 
