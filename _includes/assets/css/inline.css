@@ -144,3 +144,14 @@ button {
 button:hover {
 	background-color: var(--black);
 }
+summary {
+	padding: 1em;
+	cursor: pointer;
+	color: var(--primary);
+	text-decoration: underline;
+	max-width: max-content;
+}
+summary:hover {
+	text-decoration-style: dashed;
+	color: black;
+}

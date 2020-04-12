@@ -1,9 +1,11 @@
 import Post from "/admin/preview-templates/post.js";
+import Tag from "/admin/preview-templates/tag.js";
 import Page from "/admin/preview-templates/page.js";
 
 // Register the Post component as the preview for entries in the blog collection
-CMS.registerPreviewTemplate("blog", Post);
-CMS.registerPreviewTemplate("pages", Page);
+CMS.registerPreviewTemplate("exercicios", Post);
+CMS.registerPreviewTemplate("etiquetas", Tag);
+CMS.registerPreviewTemplate("paxinas", Page);
 
 CMS.registerPreviewStyle("/_includes/assets/css/inline.css");
 // Register any CSS file on the home page as a preview style
