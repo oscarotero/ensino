@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: true
 ---
 Abaixo deixo as ligazóns a dous moi útiles:
 
-Vídeo do #DígochoEu: Non confundas "mais" e "máis"
+Vídeo do #DígochoEu: Non confundas "máis", "mais" e "e mais"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x69KcvDzAyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Post sobre esta palabra no blog **Dúbidas do galego**: [Mais](https://dubidasdogalego.wordpress.com/2012/05/28/mais/)
@@ -35,7 +35,7 @@ Saberemos que é unha conxunción copulativa, se a podemos substituír pola conx
 >
 > Ex.: Fíxoo Xoán *e* un amigo.
 
-No resto dos casos, que son os máis ;-), *máis* leva acento.
+No resto dos casos, que son os máis 😉, *máis* leva acento.
 
 Aínda que *máis* leva acento a maioría das veces, non acontece o mesmo con *[ademais](http://www.crtvg.es/informativos/non-escribas-ademais).* Como moi ben explica Esther no vídeo do #DígochoEu: ***ademais* nunca se acentúa**, porque é unha palabra aguda que acaba en ditongo decrecente.
 
