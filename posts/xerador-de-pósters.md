@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: false
 
 O xerador de pósters permite dúas opcións:
 
-1. Xerar un póster a partir da canción do artista que queiramos. Neste caso, teremos que premer enriba da pestana Song e completar os campos: 
+1. Xerar un póster a partir da canción do artista que queiramos. Neste caso, teremos que premer enriba da pestana canción (song) e completar os campos: 
 
 * Escribir o título da canción en Song title 
 * Escribir o nome do artista que a canta en Song artist
