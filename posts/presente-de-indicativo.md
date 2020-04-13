@@ -35,9 +35,7 @@ Completa co verbo correspondente en presente de indicativo.
 25. (Eu) ............... (saír) todos os días ás 08.00 h da casa.
 
 <details>
-<summary>Ver as solucións</summary>
-
-Completa co verbo correspondente en presente de indicativo.     
+<summary>Ver as solucións</summary>   
 
 1. Ti non **es** (ser) tan listo como **cres** (crer).
 2. Helena **mente** (mentir) sempre, non creas nada do que **di** (dicir).
