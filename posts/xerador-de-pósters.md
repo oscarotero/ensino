@@ -1,6 +1,6 @@
 ---
 title: Xerador de pósters
-summary: Trátase dunha ferramenta creada un deseñador e programador inglés
+summary: Trátase dunha ferramenta creada por un deseñador e programador inglés
   chamado William que permite xerar automaticamente pósters coas intrucións para
   lavar as mans empregando a nosa canción favorita.
 tags:
