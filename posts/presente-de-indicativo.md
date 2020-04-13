@@ -37,10 +37,11 @@ Completa co verbo correspondente en presente de indicativo.
 <details>
 <summary>ver resultados</summary>
 
+Completa co verbo correspondente en presente de indicativo.     
 
-Completa co verbo correspondente en presente de indicativo.
-    1. Ti non  es (ser) tan listo como cres (crer).
-    2. Helena mente (mentir) sempre, non creas nada do que di (dicir).
+1. Ti non  es (ser) tan listo como cres (crer).
+
+2.. Helena mente (mentir) sempre, non creas nada do que di (dicir).
     3. Por que non me dás (dar) unha resposta agora (ti)?
     4. O número de persoas infectadas polo coronavirus sobe (subir) cada día que pasa.
     5. Eu non caibo (caber) nun sitio tan pequeno. 
