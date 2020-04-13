@@ -6,6 +6,14 @@ tags:
   - semana-5
 eleventyExcludeFromCollections: true
 ---
+## Recursos
+
+[Conxugador de verbos en galego](http://cotovia.org/proxecto/conxugador/index.html)
+
+[Dicionario da Real Academia Galega](https://academia.gal/dicionario/) 
+
+---
+
 Completa co verbo correspondente en presente de indicativo.
 
 1. Ti non ............... (ser) tan listo como ............... (crer).
