@@ -5,6 +5,7 @@ summary: Trátase dunha ferramenta creada por un deseñador e programador inglé
   lavar as mans empregando a nosa canción favorita.
 tags:
   - post
+  - semana-6
 eleventyExcludeFromCollections: false
 ---
 ## Recursos
