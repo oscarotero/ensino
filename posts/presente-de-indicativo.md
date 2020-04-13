@@ -71,6 +71,5 @@ Completa co verbo correspondente en presente de indicativo.
 24. Desde que tomo o xarope xa non **tuso** (tusir) tanto.
 25. (Eu) **saio** (saír) todos os días ás 08.00 h da casa.
 
-doif
 
 </details>
