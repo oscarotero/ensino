@@ -14,7 +14,7 @@ Se tiverdes dúbidas, podedes usar un conxugador. O seu uso é moi fácil. Deixo
 
 [Dicionario da Real Academia Galega (RAG)](https://academia.gal/dicionario/)
 
-No caso do conxugador do dicionario da RAG, non podedes conxugar o verbo directamente. Primeiro tedes que buscar o seu significado no dicionario e, cando vos devolva o resultado da busca, premer no botón  "conxugar" que nos aparece ao lado do infinitivo.
+No caso do conxugador do dicionario da RAG, non podedes conxugar o verbo directamente. Primeiro tedes que buscar o seu significado no dicionario e, cando vos devolva o resultado da busca, premer no botón  "conxugar" que vos aparece ao lado do infinitivo.
 
 - - -
 
