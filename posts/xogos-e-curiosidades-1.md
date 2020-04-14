@@ -12,6 +12,6 @@ Hai uns días, descubrín esta ferramenta para proxectar mensaxes nas paredes de
 
 ![](/static/img/forza-rapazada.png)
 
-Animádevos a proxectar as vosas. E moi fácil! E moita atención ás faltas de ortografía, por favor, que se van ver moito.
+Animádevos a proxectar as vosas. E moi fácil! E moita atención ás faltas de ortografía, por favor, que se van ver moito 😅 
 
 Eis a ligazón: <https://proxecta.netlify.com/>
