@@ -20,7 +20,7 @@ E que mellor forma de fechar esta andaina polo léxico do animais que con músic
 * Cantos anos levan en activo? 
 * Que membro da banda toca a zanfona?
 * Como se chama o estilo de música que fai Luar na Lubre?
-* A que disco pertence a canción “Os animais” que acabas de escoitar? 
+* A que disco pertence a canción “Os animais”? 
 
 As ligazóns a cada un dos recursos informativos son estas que aparecen a continuación: 
 
