@@ -14,4 +14,8 @@ Hai uns días, descubrín esta ferramenta para proxectar mensaxes nas paredes de
 
 Animádevos a proxectar as vosas. E moi fácil! E moita atención ás faltas de ortografía, por favor, que se van ver moito 😅 
 
-Eis a ligazón: <https://proxecta.netlify.com/>
+Eis a ligazón: <https://proxecta.netlify.com/> 
+
+E deixo tamén a ligazón a un corrector online: [Ortogal](http://sli.uvigo.es/corrector/index.php)
+
+Copiade o voso texto na caixa e comprobade que non ten faltas antes de o proxectar para toda a veciñanza, de acordo?
