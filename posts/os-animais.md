@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: false
 ---
 Esta semana continuaremos a traballar o vocabulario relacionado cos animais mediante estas actividades. Facede as 3 no voso caderno.
 
-1. Os exercicios da páxina 156 e 157 do voso libro (Vocabulario. Seres moi vivos).
+1. Os exercicios das páxinas 156 e 157 do voso libro (Vocabulario. Seres moi vivos).
 2. [Xogo sobre pais e nais](https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1305021580/contido/Galego/exercicios/lexico/lexico3.htm#8)
 3. Canción os animais de Luar na Lubre:
 
@@ -22,8 +22,8 @@ E que mellor forma de fechar esta andaina polo léxico do animais que con músic
 
 [Sitio oficial de Luar na Lubre](http://www.luarnalubre.com/)
 
-
 Tratade agora de responder estas preguntas:
+
 1. Que significa o nome Luar na Lubre?
 2. Cantos anos levan en activo? 
 3. Que membro da banda toca a zanfona?
