@@ -4,7 +4,7 @@ summary: Actividades completarias ás da unidade 9 do voso libro de texto
 tags:
   - post
   - semana-5
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 ---
 Esta semana continuaremos a traballar o vocabulario relacionado cos animais mediante estas actividades. Facede as 3 no voso caderno.
 
