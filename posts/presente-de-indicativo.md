@@ -22,7 +22,7 @@ No caso do conxugador do dicionario da RAG, non podedes conxugar o verbo directa
 
 - Ti non ............... (ser) tan listo como ............... (crer).
 - Helena ............... (mentir) sempre, non creas nada do que ............... (dicir).
-Por que non me ............... (dar) (ti) unha resposta agora?
+- Por que non me ............... (dar) (ti) unha resposta agora?
 - O número de persoas infectadas polo coronavirus ............... (subir) cada día que pasa.
 - Eu non ............... (caber) nun sitio tan pequeno.
 - Pablo ............... (ser) o máis vello dos tres.
