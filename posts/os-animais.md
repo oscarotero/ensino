@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: false
 ---
 Esta semana continuaremos a traballar o vocabulario relacionado cos animais mediante estas actividades. Facede as 3 no voso caderno.
 
-1. Os exercicios da páxina 156 e 157 do voso libro (Vocabulario. Seres moi vivos). Facédeos no voso caderno
+1. Os exercicios da páxina 156 e 157 do voso libro (Vocabulario. Seres moi vivos).
 2. [Xogo sobre pais e nais](https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1305021580/contido/Galego/exercicios/lexico/lexico3.htm#8)
 3. Canción os animais de Luar na Lubre:
 
