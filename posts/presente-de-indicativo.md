@@ -35,7 +35,6 @@ No caso do conxugador do dicionario da RAG, non podedes conxugar o verbo directa
 - Cando vas volver? (Eu) ............... (sentir) moito a túa falta.
 - Se lle ............... (subir) a febre, colócalle unha toalla mollada en auga fría na testa.
 - Cando te ............... (pór) así, non hai quen te ature.
-- Iago ............... (ser) o máis riquiño de todos.
 
 <details>
 <summary>Ver as solucións</summary>   
