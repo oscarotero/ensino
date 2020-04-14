@@ -22,8 +22,8 @@ E que mellor forma de fechar esta andaina polo léxico do animais que con músic
 
 [Sitio oficial de Luar na Lubre](http://www.luarnalubre.com/)
 
- Tratade agora de responder estas preguntas:
 
+Tratade agora de responder estas preguntas:
 1. Que significa o nome Luar na Lubre?
 2. Cantos anos levan en activo? 
 3. Que membro da banda toca a zanfona?
