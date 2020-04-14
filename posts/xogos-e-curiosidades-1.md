@@ -18,4 +18,4 @@ Eis a ligazón: <https://proxecta.netlify.com/>
 
 E deixo tamén a ligazón a un corrector online: [Ortogal](http://sli.uvigo.es/corrector/index.php)
 
-Copiade o voso texto na caixa e comprobade que non ten faltas antes de o proxectar para toda a veciñanza, de acordo?
+Copiade o voso texto na caixa e comprobade que non ten erros ortográficos antes de o proxectardes para toda a veciñanza, de acordo?
