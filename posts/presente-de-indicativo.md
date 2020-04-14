@@ -18,23 +18,23 @@ No caso do conxugador do dicionario da RAG, non podedes conxugar o verbo directa
 
 - - -
 
-1. Completa co verbo correspondente en presente de indicativo.
+Completa co verbo correspondente en presente de indicativo.
 
-- Ti non ............... (ser) tan listo como ............... (crer).
-- Helena ............... (mentir) sempre, non creas nada do que ............... (dicir).
-- Por que non me ............... (dar) (ti) unha resposta agora?
-- O número de persoas infectadas polo coronavirus ............... (subir) cada día que pasa.
-- Eu non ............... (caber) nun sitio tan pequeno.
-- Pablo ............... (ser) o máis vello dos tres.
-- (Eu) ............... (estudar) dúas horas todos os días.
-- Ti que ............... (ir) facer esta fin de semana?
-- Os filandeses son os europeos que máis libros ............... (ler).
-- Xiana ............... (dicir) que non quere vir connosco.
-- Con este barullo non ............... (oír) nada do que me estás a dicir.
-- As rosas ............... (ulir) mellor que os caraveis.
-- Cando vas volver? (Eu) ............... (sentir) moito a túa falta.
-- Se lle ............... (subir) a febre, colócalle unha toalla mollada en auga fría na testa.
-- Cando te ............... (pór) así, non hai quen te ature.
+1. Ti non ............... (ser) tan listo como ............... (crer).
+2. Helena ............... (mentir) sempre, non creas nada do que ............... (dicir).
+3. Por que non me ............... (dar) (ti) unha resposta agora?
+4. O número de persoas infectadas polo coronavirus ............... (subir) cada día que pasa.
+5. Eu non ............... (caber) nun sitio tan pequeno.
+6. Pablo ............... (ser) o máis vello dos tres.
+7. (Eu) ............... (estudar) dúas horas todos os días.
+8. Ti que ............... (ir) facer esta fin de semana?
+9. Os filandeses son os europeos que máis libros ............... (ler).
+10. Xiana ............... (dicir) que non quere vir connosco.
+11. Con este barullo non ............... (oír) nada do que me estás a dicir.
+12. As rosas ............... (ulir) mellor que os caraveis.
+13. Cando vas volver? (Eu) ............... (sentir) moito a túa falta.
+14. Se lle ............... (subir) a febre, colócalle unha toalla mollada en auga fría na testa.
+15. Cando te ............... (pór) así, non hai quen te ature.
 
 <details>
 <summary>Ver as solucións</summary>   
