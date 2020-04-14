@@ -44,35 +44,35 @@ Aínda que *máis* leva acento a maioría das veces, non acontece o mesmo con *[
 
 ## Exercicios
 
-1. Acentúa *mais* cando corresponda:
+Acentúa *mais* cando corresponda:
 
-* Burela é un dos portos mais importantes da costa cantábrica.
-* Sempre quere mais, nunca ten abondo.
-* Ía dicir unha cousa, mais vou calar a boca.
-* As mais das veces non sei o que dicir.
-* Á cea veño eu só, os mais foron ver o partido.
-* Sete mais tres son dez.
-* Que traxe mais elegante levas!
-* Deixou a mais da comida no prato.
-* Estou moi cansada, non quero traballar mais.
-* Non tes mais que pedilo e é teu!
-* Había mais de dez persoas á porta.
-* Temos que axudar aos que mais o necesitan.
+1. Burela é un dos portos mais importantes da costa cantábrica.
+2. Sempre quere mais, nunca ten abondo.
+3. Ía dicir unha cousa, mais vou calar a boca.
+4. As mais das veces non sei o que dicir.
+5. Á cea veño eu só, os mais foron ver o partido.
+6. Sete mais tres son dez.
+7. Que traxe mais elegante levas!
+8. Deixou a mais da comida no prato.
+9. Estou moi cansada, non quero traballar mais.
+10. Non tes mais que pedilo e é teu!
+11. Había mais de dez persoas á porta.
+12. Temos que axudar aos que mais o necesitan.
 
 <details>
 <summary>Ver as solucións</summary>
 
-* Burela é un dos portos **máis** importantes da costa cantábrica.
-* Sempre quere **máis**, nunca ten abondo.
-* Ía dicir unha cousa, **mais** vou calar a boca.
-* As **máis** das veces non sei o que dicir.
-* Á cea veño eu só, os **máis** foron ver o partido.
-* Sete **máis** tres son dez.
-* Que traxe **máis** elegante levas!
-* Deixou a **máis** da comida no prato.
-* Estou moi cansada, non quero traballar **máis**.
-* Non tes **máis** que pedilo e é teu!
-* Había **máis** de dez persoas á porta.
-* Temos que axudar aos que **máis** o necesitan.
+1. Burela é un dos portos **máis** importantes da costa cantábrica.
+2. Sempre quere **máis**, nunca ten abondo.
+3. Ía dicir unha cousa, **mais** vou calar a boca.
+4. As **máis** das veces non sei o que dicir.
+5. Á cea veño eu só, os **máis** foron ver o partido.
+6. Sete **máis** tres son dez.
+7. Que traxe **máis** elegante levas!
+8. Deixou a **máis** da comida no prato.
+9. Estou moi cansada, non quero traballar **máis**.
+10. Non tes **máis** que pedilo e é teu!
+11. Había **máis** de dez persoas á porta.
+12. Temos que axudar aos que **máis** o necesitan.
 
 </details>
