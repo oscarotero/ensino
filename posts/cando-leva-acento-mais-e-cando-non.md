@@ -3,8 +3,8 @@ title: Cando leva acento mais e cando non?
 summary: Hai unha morea de recursos na rede en que se ocupan desta cuestión.
 tags:
   - post
-  - semana-6
-eleventyExcludeFromCollections: true
+  - semana-5
+eleventyExcludeFromCollections: false
 ---
 Abaixo deixo as ligazóns a dous moi útiles:
 
