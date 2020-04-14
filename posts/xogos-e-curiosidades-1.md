@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: false
 ---
 [Proxecta](https://proxecta.netlify.com/)
 
-Hai uns días, descubrín esta ferramenta para proxectar mensaxes nas paredes de edificios que fixo un desenvolvedor web galego que se chama Berto Yáñez. Que idea tan boa! Non me puiden resistir, velaquí a miña mensaxe:
+Hai uns días, descubrín esta ferramenta para proxectar mensaxes nas paredes de edificios que fixo Berto Yáñez, un desenvolvedor web galego. Que idea tan boa! Non me puiden resistir, velaquí a miña mensaxe:
 
 ![](/static/img/forza-rapazada.png)
 
