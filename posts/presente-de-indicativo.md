@@ -1,5 +1,5 @@
 ---
-title: Presente de indicativo
+title: Exercicios de verbos (1)
 summary: Adestramento para conxugarmos ben os verbos en presente de indicativo
 tags:
   - post
@@ -36,15 +36,6 @@ Por que non me ............... (dar) (ti) unha resposta agora?
 - Se lle ............... (subir) a febre, colócalle unha toalla mollada en auga fría na testa.
 - Cando te ............... (pór) así, non hai quen te ature.
 - Iago ............... (ser) o máis riquiño de todos.
-16. Non quero que penses que eu non ............... (valer) a pena.
-17. Todos lle ............... (rir) as grazas menos eu.
-18. (Ti) ............... (vir) connosco ou esperas aí?
-19. Fun ás compras e ............... (traer) presentes para todos
-20. O asasino non ............... (sentir) ningún remorso polo que fixo. Non se ............... (arrepentir) de nada.
-21. Sara non ............... (durmir) nada ultimamente.
-22. O rapaz ............... (seguir) o exemplo da nai.
-23. Desde que tomo o xarope xa non ............... (tusir) tanto.
-24. (Eu) ............... (saír) todos os días ás 08.00 h da casa.
 
 <details>
 <summary>Ver as solucións</summary>   
@@ -64,15 +55,5 @@ Por que non me ............... (dar) (ti) unha resposta agora?
 - Cando vas volver? (Eu) **sinto** (sentir) moito a túa falta. 
 - Se lle **sobe** (subir) a febre, colócalle unha toalla mollada en auga fría na testa.
 - Cando te **pos** (pór) así, non hai quen te ature.
-16. Iago **é** (ser) o máis riquiño de todos.
-17. Non quero que penses que eu non **vallo** (valer) a pena.
-18. Todos lle **rin** (rir) as grazas menos eu.
-19. (Ti) **vés** (vir) connosco ou esperas aí?
-20. Fun ás compras e **traio** (traer) presentes para todos.
-21. O asasino non **sente** (sentir) ningún remorso polo que fixo. Non se **arrepinte** (arrepentir) de nada.
-22. Sara non **dorme** (durmir) nada ultimamente. 
-23. O rapaz **segue** (seguir) o exemplo da nai.
-24. Desde que tomo o xarope xa non **tuso** (tusir) tanto.
-25. (Eu) **saio** (saír) todos os días ás 08.00 h da casa.
 
 </details>
