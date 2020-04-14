@@ -14,7 +14,7 @@ Esta semana continuaremos a traballar o vocabulario relacionado cos animais medi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Koe9NAby8Vs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-E que mellor forma de fechar esta andaina polo léxico do animais que con música. Para coñecerdes un pouco máis a Luar na Lubre, a banda galega que compuxo a canción que acabades de escoitar, propóñovos que exploredes tres recursos con información sobre ela e tratedes de responder estas preguntas:
+E que mellor forma de fechar esta andaina polo léxico do animais que con música. Para coñecerdes un pouco máis a Luar na Lubre, a banda galega que compuxo a canción que acabades de escoitar, propóñovos que exploredes tres recursos con información sobre ela. Tratade agora de responder estas preguntas:
 
 * Que significa o nome Luar na Lubre?
 * Cantos anos levan en activo? 
