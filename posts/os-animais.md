@@ -10,7 +10,7 @@ Esta semana continuaremos a traballar o vocabulario relacionado cos animais medi
 
 1. Os exercicios das páxinas 156 e 157 do voso libro (Vocabulario. Seres moi vivos).
 2. [Xogo sobre pais e nais](https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1305021580/contido/Galego/exercicios/lexico/lexico3.htm#8)
-3. Canción os animais de Luar na Lubre:
+3. Canción "Os animais" de Luar na Lubre:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Koe9NAby8Vs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
