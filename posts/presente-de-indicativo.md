@@ -29,7 +29,7 @@ No caso do conxugador do dicionario da RAG, non podedes conxugar o verbo directa
 - (Eu) ............... (estudar) dúas horas todos os días.
 - Ti que ............... (ir) facer esta fin de semana?
 - Os filandeses son os europeos que máis libros ............... (ler).
-- Xiana ............... (dicir) que non quere vir convosco.
+- Xiana ............... (dicir) que non quere vir connosco.
 - Con este barullo non ............... (oír) nada do que me estás a dicir.
 - As rosas ............... (ulir) mellor que os caraveis.
 - Cando vas volver? (Eu) ............... (sentir) moito a túa falta.
@@ -49,7 +49,7 @@ No caso do conxugador do dicionario da RAG, non podedes conxugar o verbo directa
 - (Eu) **estudo** (estudar) dúas horas todos os días.
 - Ti que **vas** (ir) facer esta fin de semana?
 - Os filandeses son os europeos que máis libros **len** (ler).
-- Xiana **di** (dicir) que non quere vir convosco.
+- Xiana **di** (dicir) que non quere vir connosco.
 - Con este barullo non **oio** (oír) nada do que me estás a dicir.
 - As rosas **olen** (ulir) mellor que os caraveis.
 - Cando vas volver? (Eu) **sinto** (sentir) moito a túa falta. 
