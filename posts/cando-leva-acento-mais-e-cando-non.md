@@ -57,7 +57,7 @@ Acentúa *mais* cando corresponda:
 9. Estou moi cansada, non quero traballar mais.
 10. Non tes mais que pedilo e é teu!
 11. Había mais de dez persoas á porta.
-12. Temos que axudar aos que mais o necesitan.
+12. Temos que axudar os que mais o necesitan.
 
 <details>
 <summary>Ver as solucións</summary>
@@ -73,6 +73,6 @@ Acentúa *mais* cando corresponda:
 9. Estou moi cansada, non quero traballar **máis**.
 10. Non tes **máis** que pedilo e é teu!
 11. Había **máis** de dez persoas á porta.
-12. Temos que axudar aos que **máis** o necesitan.
+12. Temos que axudar os que **máis** o necesitan.
 
 </details>
