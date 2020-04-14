@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: false
 ---
 ## Recursos
 
-Se tiverdes dúbidas, podedes usar un conxugador. O seu uso é moi fácil. Deixo abaixo as ligazóns a dous:
+Se tiverdes dúbidas, podedes usar un conxugador. O seu uso é moi simple. Deixo abaixo as ligazóns a dous:
 
 [Conxugador de verbos en galego](http://cotovia.org/proxecto/conxugador/index.html)
 
