@@ -26,7 +26,7 @@ No caso do conxugador do dicionario da RAG, non podedes conxugar o verbo directa
 - O número de persoas infectadas polo coronavirus ............... (subir) cada día que pasa.
 - Eu non ............... (caber) nun sitio tan pequeno.
 - Pablo ............... (ser) o máis vello dos tres.
-- (Eu) ............... (estudar) Inglés todos os días.
+- (Eu) ............... (estudar) dúas horas todos os días.
 - Ti que ............... (ir) facer esta fin de semana?
 - Os filandeses son os europeos que máis libros ............... (ler).
 - Xiana ............... (dicir) que non quere vir convosco.
