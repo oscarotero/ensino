@@ -24,8 +24,8 @@ E que mellor forma de fechar esta andaina polo léxico do animais que con músic
 
  Tratade agora de responder estas preguntas:
 
-* Que significa o nome Luar na Lubre?
-* Cantos anos levan en activo? 
-* Que membro da banda toca a zanfona?
-* Como se chama o estilo de música que fai Luar na Lubre?
-* A que disco pertence a canción “Os animais”?
+1. Que significa o nome Luar na Lubre?
+2. Cantos anos levan en activo? 
+3. Que membro da banda toca a zanfona?
+4. Como se chama o estilo de música que fai Luar na Lubre?
+5. A que disco pertence a canción “Os animais”?
