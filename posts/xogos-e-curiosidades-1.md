@@ -1,6 +1,6 @@
 ---
 title: Xogos e curiosidades (1)
-summary: Cousiñas para pasar mellor este tempo na casa
+summary: Cousiñas para pasarmos mellor este tempo na casa.
 tags:
   - post
 eleventyExcludeFromCollections: false
