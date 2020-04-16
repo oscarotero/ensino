@@ -10,4 +10,18 @@ eleventyExcludeFromCollections: true
 
 [O corpo humano: as súas partes](http://aprofa.gal/2020/01/16/partes-do-corpo-4/)
 
-[Selección de xogos sobre o vocabulario do corpo ](http://aprofa.gal/2020/01/16/o-corpo-humano-xogamos-co-portal-das-palabras/)
+[](http://aprofa.gal/2020/01/16/o-corpo-humano-xogamos-co-portal-das-palabras/)Selección de xogos do Portal das palabras:
+
+[Apunta ben > O rostro](https://portaldaspalabras.gal/xogo/o-rostro/)
+
+[Opa! > Cabeza adxectivada](https://portaldaspalabras.gal/xogo/cabeza-adxectivada/)
+
+[Opa! > Partes do corpo](https://portaldaspalabras.gal/xogo/partes-do-corpo-humano/)
+
+[Só unha vale > Que temos no corpo?](https://portaldaspalabras.gal/xogo/que-temos-no-corpo/)
+
+[Só unha vale > Corpo a corpo](https://portaldaspalabras.gal/xogo/corpo-a-corpo/)
+
+[Opa! Partes do corpo relacionadas](https://portaldaspalabras.gal/xogo/partes-do-corpo-relacionadas/)
+
+[Só unha vale > Non ter pés nin cabeza](https://portaldaspalabras.gal/xogo/non-ter-pes-nin-cabeza/)
