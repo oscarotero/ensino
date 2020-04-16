@@ -19,7 +19,7 @@ Queredes saber por que acontece isto? Atentos a este vídeo en que se explica:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8O_K3bGuLsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Como podedes ver, acertarmos se unha palabra leva *b* ou *v* non é unha cousa tan simple e require un certo adestramento pola nosa parte. 
+Como podedes ver, acertarmos se unha palabra leva *b* ou *v* non é tan simple e require un certo adestramento pola nosa parte. 
 
 ## Recursos
 
