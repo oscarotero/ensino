@@ -69,6 +69,37 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
 <details>
 <summary>Ver as solucións </summary>
+
+
+*Abalar - avalar*
+* Seica rompeu en Muxía a pedra de abalar!
+* Teñenme que avalar meus pais para que me dean o crédito.
+
+*Balor - valor*
+
+* Cómpre moito valor para dar a cara como el o fixo.
+* Ese pan ten balor por riba.
+
+*Bola - vola*
+
+* Díxonos que vola trouxera ela.
+* Vai á panadaría e merca unha bola pequena.
+
+*Bela - vela*
+
+* É a canción de amor máis bela que escoitei.
+* O galeón é un barco antigo de vela.
+
+*Botar - votar*
+
+* Desta vez teño claro a quen vou votar.
+* Quéreno botar do equipo.
+
+*Rebelar - revelar*
+
+* Vouche revelar un segredo.
+* Non estou de acordo coa decisión, eu voume rebelar.
+
 </details>
 
 **Tarefa 2**
