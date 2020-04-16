@@ -15,7 +15,7 @@ Para eles é moito máis fácil, dado que pronuncian de modo diferente o *b* e o
 * Escriben *b* cando pronuncian o mesmo son ca nós, e que nós escribimos unhas veces con *b* e outras con *v.*
 * Escriben *v* cando pronuncian un son parecido ao do *f,* mais sonoro. 
 
-Queredes saber por que acontece isto? Atentos a este vídeo en que se explica:
+Queredes saber por que acontece isto? Pois atentos ao vídeo:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8O_K3bGuLsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
