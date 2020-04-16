@@ -21,8 +21,6 @@ Queredes saber por que acontece isto? Atentos a este vídeo en que se explica:
 
 Como podedes ver, acertarmos se unha palabra leva *b* ou *v* non é unha cousa tan simple e require un certo adestramento pola nosa parte. 
 
-Sabiades que hai un canción moi coñecida en que se brinca coas semellanzas fonéticas entre dúas palabras: *vou* e *bou,* unha con *b* e outra con *v.*  Titúlase Se vou a Bueu nun bou. Podedes escoitar a versión que fixo dela Andrés do Barro aquí:
-
 ## Recursos
 
 Menos mal que na rede hai moitos sitios con consellos e actividades para mellorarmos a nosa competencia nesta cuestión. Deixo abaixo as ligazóns a dous dos mellores:
@@ -35,16 +33,58 @@ Menos mal que na rede hai moitos sitios con consellos e actividades para mellora
 
 ## Exercicios
 
+Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
+
+Abalar - avalar
+
+\- Seica rompeu en Muxía a pedra de .........................!
+
+\- Teñenme que ......................... meus pais para que me dean o crédito.
+
+Balor - valor
+
+\- Cómpre moito ......................... para dar a cara como el o fixo.
+
+\- Ese pan ten ......................... por riba.
+
+Bola - vola
+
+\- Díxonos que ......................... trouxera ela.
+
+\- Vai á panadaría e merca unha  ......................... pequena.
+
+Bela - vela
+
+\- É a canción de amor máis ......................... que escoitei.
+
+\- O galeón é un barco antigo de .........................
+
+Botar - votar
+
+\- Desta vez teño claro a quen vou  .........................
+
+\- Quéreno ......................... do equipo.
+
+Rebelar - revelar
+
+\- Vouche ......................... un segredo.
+
+\- Non estou de acordo coa decisión, eu voume .........................
+
+
+
 2 xogos do Portal da palabras > Dimo con letras
 
-[B-V 1 Dúas letras para un único son](<https://portaldaspalabras.gal/xogo/b-v-1/>)
+[B-V 1 Dúas letras para un único son](https://portaldaspalabras.gal/xogo/b-v-1/)
 
-[Be e be-ese 1 Substantivo ou sustantivo?](<https://portaldaspalabras.gal/xogo/b-bs-1/>)
+[Be e be-ese 1 Substantivo ou sustantivo?](https://portaldaspalabras.gal/xogo/b-bs-1/)
 
-[](https://portaldaspalabras.gal/xogo/b-bs-1/)[](<https://portaldaspalabras.gal/xogo/b-v-1/>)2 exercicios de bes e uves no galego.eu
+[](https://portaldaspalabras.gal/xogo/b-bs-1/)[](https://portaldaspalabras.gal/xogo/b-v-1/)2 exercicios de bes e uves no galego.eu
 
 [Ocos para bes e uves](https://www.ogalego.eu/exercicios_de_lingua/exercicios/ortografia.htm#6)
 
 [Homónimos para bes e uves](https://www.ogalego.eu/exercicios_de_lingua/exercicios/ortografia.htm#7)
 
-[](https://portaldaspalabras.gal/xogo/b-v-1/)
+Sabiades que hai un canción moi coñecida en que se brinca coas semellanzas fonéticas entre palabras con be e con uve. Podedes escoitar a versión que fixo dela [Andrés do Barro](https://gl.wikipedia.org/wiki/Andr%C3%A9s_do_Barro) aquí: [Se vou a Bueu nun bou, vou](https://www.youtube.com/watch?v=gWRaXBDTDMk)
+
+En Bueu teñen moi claro como hai que ir alí, mais como iriades os de Negreira. Sabedes o que é un bou con *b?*
