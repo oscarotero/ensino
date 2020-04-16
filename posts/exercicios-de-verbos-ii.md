@@ -1,6 +1,6 @@
 ---
 title: Exercicios de verbos (II)
-summary: Para practicardes o pretérito perfecto
+summary: Para practicardes o pretérito perfecto de indicativo
 tags:
   - post
   - semana-6
@@ -25,6 +25,8 @@ Ex.:
 13. Todas as mañás sae pola porta e non volve ata á noite.
 14. Non quero dicir nada polo momento.
 15. Telefono unha e outra vez, mais ninguén atende as chamadas.
+
+
 
 <details> <summary>Ver as solucións</summary>
 
