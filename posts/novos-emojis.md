@@ -3,6 +3,7 @@ title: Novos emojis
 summary: Buscamos nomes para as novas emoticanas
 tags:
   - post
+  - semana-6
 eleventyExcludeFromCollections: false
 ---
 Hai uns días soubemos que o Consorcio Unicode, que está a cargo de crear novos emoji, decidiu agregar 157 emojis novos. Con esta actualización, haberá un total de 2.823 emoji dispoñibles, segundo Emojipedia.
