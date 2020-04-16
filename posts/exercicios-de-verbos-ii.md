@@ -21,6 +21,6 @@ Pon as seguintes oracións en pasado.
 11. Podo facelo porque me axudas.
 12. Non saben dicir quen canta mellor.
 13. Todas as mañás sae pola porta e non volve ata á noite.
-14.
-15.
+14. Non quero dicir nada polo momento.
+15. Telefono unha e outra vez, mais ninguén atende as chamadas.
 
