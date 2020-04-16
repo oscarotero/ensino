@@ -6,7 +6,7 @@ summary: "Todo o mundo sabe iso! Mais desde agora si que o podemos facer coas
 tags:
   - post
   - semana-6
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 ---
 Verdadeiro ou falso: [Que me pasa, doutor?](https://portaldaspalabras.gal/xogo/que-me-pasa-doutor/)
 
