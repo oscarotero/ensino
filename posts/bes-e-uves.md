@@ -69,7 +69,6 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 * Non estou de acordo coa decisión, eu voume .........................
 
 
-
 **Tarefa 2**
 
 2 xogos do Portal da palabras > Dimo con letras
@@ -78,8 +77,9 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
 [Be e be-ese 1 Substantivo ou sustantivo](https://portaldaspalabras.gal/xogo/b-bs-1/)
 
+
 **Tarefa 3**
 
-Sabiades que hai un canción moi coñecida en que se brinca coas semellanzas fonéticas entre palabras con be e con uve. Podedes escoitar a versión que fixo dela [Andrés do Barro](https://gl.wikipedia.org/wiki/Andr%C3%A9s_do_Barro) aquí: [Se vou a Bueu nun bou, vou](https://www.youtube.com/watch?v=gWRaXBDTDMk)
+Sabiades que hai un canción moi coñecida en que se brinca coas semellanzas fonéticas entre dúas palabras, unha con be e outra con uve. Podedes escoitar a versión que fixo dela [Andrés do Barro](https://gl.wikipedia.org/wiki/Andr%C3%A9s_do_Barro) aquí: [Se vou a Bueu nun bou, vou](https://www.youtube.com/watch?v=gWRaXBDTDMk)
 
 En Bueu teñen moi claro como hai que ir alí, mais como iriades os de Negreira. Sabedes o que é un *bou* con *b?*
