@@ -67,6 +67,10 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 * Vouche ......................... un segredo.
 * Non estou de acordo coa decisión, eu voume .........................
 
+<details>
+<summary>Ver as solucións </summary>
+</details>
+
 **Tarefa 2**
 
 2 xogos do Portal da palabras > Dimo con letras
