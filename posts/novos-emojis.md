@@ -21,5 +21,7 @@ Hai uns días soubemos que o Consorcio Unicode, que está a cargo de crear novos
 <li><span style="font-size:50px">🧭</span> Compass</li>
 <li><span style="font-size:50px">🧷</span> Safety pin </li>
 <li><span style="font-size:50px">🧹</span> Broom</li>
-<li><span style="font-size:50px">🧼</span> Soap</li>
+<li><span style="font-size:50px">🧫</span> Petri dish/li>
+<li><span style="font-size:50px">🧩</span> Jigsaw</li>
+<li><span style="font-size:50px">🧸</span> Teddy bear</li>
 </ol>
