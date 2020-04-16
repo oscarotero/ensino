@@ -23,65 +23,62 @@ Como podedes ver, acertarmos se unha palabra leva *b* ou *v* non é tan simple e
 
 ## Recursos
 
-Menos mal que na rede hai moitos sitios con consellos e actividades para mellorarmos a nosa competencia nesta cuestión. Deixo abaixo as ligazóns a dous dos mellores:
+Menos mal que na rede hai moitos sitios con consellos e actividades para mellorarmos a nosa competencia nesta cuestión. Deixo abaixo a un dos mellores
 
 [Ortografía: O uso do b e do v](http://cotovia.org/proxecto/ort/ort_ud3_01.html?orix=ort&tema=ort_ud3_01.html)
 
-[Uso do b/v](https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1326967726/contido/ortografia/ortografia/o_uso_do_bv.html)
+[](https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1326967726/contido/ortografia/ortografia/o_uso_do_bv.html)
 
 - - -
 
 ## Exercicios
 
+
+**Tarefa 1**
+
 Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
-Abalar - avalar
+*Abalar - avalar*
 
-\- Seica rompeu en Muxía a pedra de .........................!
+* Seica rompeu en Muxía a pedra de .........................!
+* Teñenme que ......................... meus pais para que me dean o crédito.
 
-\- Teñenme que ......................... meus pais para que me dean o crédito.
+*Balor - valor*
 
-Balor - valor
+* Cómpre moito ......................... para dar a cara como el o fixo.
+* Ese pan ten ......................... por riba.
 
-\- Cómpre moito ......................... para dar a cara como el o fixo.
+*Bola - vola*
 
-\- Ese pan ten ......................... por riba.
+* Díxonos que ......................... trouxera ela.
+* Vai á panadaría e merca unha  ......................... pequena.
 
-Bola - vola
+*Bela - vela*
 
-\- Díxonos que ......................... trouxera ela.
+* É a canción de amor máis ......................... que escoitei.
+* O galeón é un barco antigo de .........................
 
-\- Vai á panadaría e merca unha  ......................... pequena.
+*Botar - votar*
 
-Bela - vela
+* Desta vez teño claro a quen vou  .........................
+* Quéreno ......................... do equipo.
 
-\- É a canción de amor máis ......................... que escoitei.
+*Rebelar - revelar*
 
-\- O galeón é un barco antigo de .........................
+* Vouche ......................... un segredo.
+* Non estou de acordo coa decisión, eu voume .........................
 
-Botar - votar
 
-\- Desta vez teño claro a quen vou  .........................
 
-\- Quéreno ......................... do equipo.
-
-Rebelar - revelar
-
-\- Vouche ......................... un segredo.
-
-\- Non estou de acordo coa decisión, eu voume .........................
+**Tarefa 2**
 
 2 xogos do Portal da palabras > Dimo con letras
 
 [B-V 1 Dúas letras para un único son](https://portaldaspalabras.gal/xogo/b-v-1/)
 
-[Be e be-ese 1 Substantivo ou sustantivo?](https://portaldaspalabras.gal/xogo/b-bs-1/)
+[Be e be-ese 1 Substantivo ou sustantivo](https://portaldaspalabras.gal/xogo/b-bs-1/)
 
-[](https://portaldaspalabras.gal/xogo/b-bs-1/)[](https://portaldaspalabras.gal/xogo/b-v-1/)2 exercicios de bes e uves no galego.eu
-
-[Ocos para bes e uves](https://www.ogalego.eu/exercicios_de_lingua/exercicios/ortografia.htm#6)
-
-[Homónimos para bes e uves](https://www.ogalego.eu/exercicios_de_lingua/exercicios/ortografia.htm#7)
+**Tarefa 3**
 
 Sabiades que hai un canción moi coñecida en que se brinca coas semellanzas fonéticas entre palabras con be e con uve. Podedes escoitar a versión que fixo dela [Andrés do Barro](https://gl.wikipedia.org/wiki/Andr%C3%A9s_do_Barro) aquí: [Se vou a Bueu nun bou, vou](https://www.youtube.com/watch?v=gWRaXBDTDMk)
 
