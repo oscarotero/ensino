@@ -4,7 +4,7 @@ summary: Para practicardes o pretérito perfecto de indicativo
 tags:
   - post
   - semana-6
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 ---
 Pon as seguintes oracións en pasado.
 
