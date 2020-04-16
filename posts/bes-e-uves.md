@@ -71,8 +71,6 @@ Rebelar - revelar
 
 \- Non estou de acordo coa decisión, eu voume .........................
 
-
-
 2 xogos do Portal da palabras > Dimo con letras
 
 [B-V 1 Dúas letras para un único son](https://portaldaspalabras.gal/xogo/b-v-1/)
@@ -87,4 +85,4 @@ Rebelar - revelar
 
 Sabiades que hai un canción moi coñecida en que se brinca coas semellanzas fonéticas entre palabras con be e con uve. Podedes escoitar a versión que fixo dela [Andrés do Barro](https://gl.wikipedia.org/wiki/Andr%C3%A9s_do_Barro) aquí: [Se vou a Bueu nun bou, vou](https://www.youtube.com/watch?v=gWRaXBDTDMk)
 
-En Bueu teñen moi claro como hai que ir alí, mais como iriades os de Negreira. Sabedes o que é un bou con *b?*
+En Bueu teñen moi claro como hai que ir alí, mais como iriades os de Negreira. Sabedes o que é un *bou* con *b?*
