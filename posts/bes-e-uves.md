@@ -7,9 +7,9 @@ eleventyExcludeFromCollections: false
 ---
 En galego resúltanos difícil sabermos cando unha palabra se escribe con *b* e cando con *v,* porque a pronunciamos sempre da mesma maneira. 
 
-Non lles acontece así aos falantes doutras linguas románicas como portugueses, franceses ou italianos. Mais non é porque eles sexan máis espelidos ca nós, non.
+Non lles sucede así aos falantes doutras linguas románicas como portugueses, franceses ou italianos. Mais non é porque eles sexan máis espelidos ca nós, non.
 
-Para eles é máis fácil saberen cando unha palabra leva *b* ou cando leva *v,* porque a pronuncian de diferente modo:   
+Para eles é moito máis fácil saberen cando unha palabra leva *b* ou cando leva *v,* porque a pronuncian de diferente modo:   
 
 * Escriben *b* cando pronuncian o mesmo son ca nós, e que nós escribimos unhas veces con *b* e outras con *v.*
 * Escriben *v* cando pronuncian un son parecido ao do *f,* mais sonoro. 
@@ -38,6 +38,10 @@ Menos mal que na rede hai moitos sitios con consellos e actividades para mellora
 
 [Be e be-ese 1 Substantivo ou sustantivo?](<https://portaldaspalabras.gal/xogo/b-bs-1/>)
 
-[](https://portaldaspalabras.gal/xogo/b-bs-1/)[](<https://portaldaspalabras.gal/xogo/b-v-1/>)
+[](https://portaldaspalabras.gal/xogo/b-bs-1/)[](<https://portaldaspalabras.gal/xogo/b-v-1/>)2 exercicios de bes e uves no galego.eu
+
+[Ocos para bes e uves](https://www.ogalego.eu/exercicios_de_lingua/exercicios/ortografia.htm#6)
+
+[Homónimos para bes e uves](https://www.ogalego.eu/exercicios_de_lingua/exercicios/ortografia.htm#7)
 
 [](https://portaldaspalabras.gal/xogo/b-v-1/)
