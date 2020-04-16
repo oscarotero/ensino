@@ -3,7 +3,8 @@ title: Bes e uves
 summary: Por que non dou unha?
 tags:
   - post
-eleventyExcludeFromCollections: false
+  - semana-6
+eleventyExcludeFromCollections: true
 ---
 En galego resúltanos difícil sabermos cando unha palabra se escribe con *b* e cando con *v,* porque a pronunciamos sempre da mesma maneira. 
 
