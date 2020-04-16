@@ -21,9 +21,7 @@ Queredes saber por que acontece isto? Atentos a este vídeo en que se explica:
 
 Como podedes ver, acertarmos se unha palabra leva *b* ou *v* non é unha cousa tan simple e require un certo adestramento pola nosa parte. 
 
-## Curiosidades
-
-Sabiades que hai un canción moi coñecida en que se brinca coas semellanzas fonéticas entre dúas palabras: *vou* e *bou,* unha con *b* e outra con *v.*  Titúlase Se vou a Bueu nun bou. Podedes escoitar a versión que fixo dela Andrés do Barro 
+Sabiades que hai un canción moi coñecida en que se brinca coas semellanzas fonéticas entre dúas palabras: *vou* e *bou,* unha con *b* e outra con *v.*  Titúlase Se vou a Bueu nun bou. Podedes escoitar a versión que fixo dela Andrés do Barro aquí:
 
 ## Recursos
 
