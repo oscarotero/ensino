@@ -1,13 +1,13 @@
 ---
 title: Coa saúde non se brinca!
-summary: "Todo o mundo sabe iso! Mais desde agora si que o podemos facer coas
-  palabras que utilizamos para falar dela, grazas a esta magnífica escolma de
-  xogos do Portal das palabras:"
+summary: "Todo o mundo sabe iso! "
 tags:
   - post
   - semana-6
 eleventyExcludeFromCollections: true
 ---
+Mais desde agora si que o podemos facer coas palabras que utilizamos para falar dela, grazas a esta magnífica escolma de xogos do Portal das palabras:
+
 Verdadeiro ou falso: [Que me pasa, doutor?](https://portaldaspalabras.gal/xogo/que-me-pasa-doutor/)
 
 Canto sabes?: [Con boa saúde. As palabras poden ferir... pero tamén sandar!](https://portaldaspalabras.gal/xogo/con-boa-saude/)
