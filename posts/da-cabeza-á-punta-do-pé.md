@@ -1,6 +1,6 @@
 ---
 title: Da cabeza á punta do pé
-summary: Todos os nomes das distintas partes do corpo humano
+summary: Todos os nomes das distintas partes do corpo humano.
 tags:
   - post
   - semana-7
