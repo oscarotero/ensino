@@ -23,7 +23,7 @@ Como podedes ver, acertarmos se unha palabra leva *b* ou *v* non é tan simple e
 
 ## Recursos
 
-Menos mal que na rede hai moitos sitios con consellos e actividades para mellorarmos a nosa competencia nesta cuestión. Deixo abaixo a ligazón a un dos mellores:
+Menos mal que na rede hai moitos sitios con consellos e actividades para mellorarmos a nosa competencia nesta cuestión. Deixo abaixo a ligazón a un dos mellores. Lede a información correspondente ao uso do b e do v e facede os exercicios correspondentes:
 
 [Ortografía: O uso do b e do v](http://cotovia.org/proxecto/ort/ort_ud3_01.html?orix=ort&tema=ort_ud3_01.html)
 
