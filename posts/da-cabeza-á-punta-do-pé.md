@@ -10,7 +10,11 @@ eleventyExcludeFromCollections: true
 
 [O corpo humano: as súas partes](http://aprofa.gal/2020/01/16/partes-do-corpo-4/)
 
-[](http://aprofa.gal/2020/01/16/o-corpo-humano-xogamos-co-portal-das-palabras/)Selección de xogos do Portal das palabras:
+[](http://aprofa.gal/2020/01/16/o-corpo-humano-xogamos-co-portal-das-palabras/)
+
+- - -
+
+## Selección de xogos do Portal das palabras
 
 [Apunta ben > O rostro](https://portaldaspalabras.gal/xogo/o-rostro/)
 
