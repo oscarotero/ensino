@@ -10,7 +10,7 @@ En galego resúltanos difícil sabermos cando unha palabra se escribe con *b* e 
 
 Non lles sucede así aos falantes doutras linguas románicas como portugueses, franceses ou italianos. Mais non é porque eles sexan máis espelidos ca nós, 🙅‍♀️.
 
-Para eles é moito máis fácil, dado que pronuncian de modo diferente o b e o v. De acordo con isto:
+Para eles é moito máis fácil, dado que pronuncian de modo diferente o *b* e o *v.* De acordo con isto:
 
 * Escriben *b* cando pronuncian o mesmo son ca nós, e que nós escribimos unhas veces con *b* e outras con *v.*
 * Escriben *v* cando pronuncian un son parecido ao do *f,* mais sonoro. 
@@ -32,7 +32,6 @@ Menos mal que na rede hai moitos sitios con consellos e actividades para mellora
 - - -
 
 ## Exercicios
-
 
 **Tarefa 1**
 
@@ -68,7 +67,6 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 * Vouche ......................... un segredo.
 * Non estou de acordo coa decisión, eu voume .........................
 
-
 **Tarefa 2**
 
 2 xogos do Portal da palabras > Dimo con letras
@@ -76,7 +74,6 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 [B-V 1 Dúas letras para un único son](https://portaldaspalabras.gal/xogo/b-v-1/)
 
 [Be e be-ese 1 Substantivo ou sustantivo](https://portaldaspalabras.gal/xogo/b-bs-1/)
-
 
 **Tarefa 3**
 
