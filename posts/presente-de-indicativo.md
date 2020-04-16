@@ -22,7 +22,7 @@ Completa co verbo correspondente en presente de indicativo.
 
 1. Ti non ............... (ser) tan listo como ............... (crer).
 2. Helena ............... (mentir) sempre, non creas nada do que ............... (dicir).
-3. Por que non me ............... (dar) ti unha resposta?
+3. Por que non me ............... (dar) ti a resposta?
 4. O número de persoas infectadas polo coronavirus ............... (subir) cada día que pasa.
 5. Eu non ............... (caber) nun sitio tan pequeno.
 6. Pablo ............... (ser) o máis vello dos tres.
@@ -41,7 +41,7 @@ Completa co verbo correspondente en presente de indicativo.
 
 1. Ti non **es** (ser) tan listo como **cres** (crer).
 2. Helena **mente** (mentir) sempre, non creas nada do que **di** (dicir).
-3. Por que non me **dás** (dar) ti unha resposta?
+3. Por que non me **dás** (dar) ti a resposta?
 4. O número de persoas infectadas polo coronavirus **sobe** (subir) cada día que pasa.
 5. Eu non **caibo** (caber) nun sitio tan pequeno. 
 6. Pablo **é** (ser) o máis vello dos tres.
