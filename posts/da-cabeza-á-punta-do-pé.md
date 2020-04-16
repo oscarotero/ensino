@@ -6,8 +6,8 @@ tags:
   - semana-7
 eleventyExcludeFromCollections: false
 ---
-[](http://aprofa.gal/2020/01/16/partes-do-corpo-4/)Deixo abaixo a ligazón a este marabilloso recurso para traballardes todo o léxico relacionado co corpo que encontrei no blog de Pilar Ponte, a profa:
+[](http://aprofa.gal/2020/01/16/partes-do-corpo-4/)Deixo abaixo as ligazóns a este marabilloso contido que descubrín no blog de Pilar Ponte, a profa, para traballardes o léxico relacionado co corpo. Revisade primeiro o material gráfico que encontraredes no primeiro link e despois tentade facer os xogos do Portal das palabras:
 
 [O corpo humano: as súas partes](http://aprofa.gal/2020/01/16/partes-do-corpo-4/)
 
-[Selección de xogos do Portal das palabras sobre o vocabulario do corpo ](http://aprofa.gal/2020/01/16/o-corpo-humano-xogamos-co-portal-das-palabras/)
+[Selección de xogos sobre o vocabulario do corpo ](http://aprofa.gal/2020/01/16/o-corpo-humano-xogamos-co-portal-das-palabras/)
