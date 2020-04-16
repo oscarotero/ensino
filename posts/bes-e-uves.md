@@ -10,7 +10,7 @@ En galego resúltanos difícil sabermos cando unha palabra se escribe con *b* e 
 
 Non lles sucede así aos falantes doutras linguas románicas como portugueses, franceses ou italianos. Mais non é porque eles sexan máis espelidos ca nós, 🙅‍♀️.
 
-Para eles é moito máis fácil dado que pronuncian de modo diferente o b e o v. De acordo con isto:
+Para eles é moito máis fácil, dado que pronuncian de modo diferente o b e o v. De acordo con isto:
 
 * Escriben *b* cando pronuncian o mesmo son ca nós, e que nós escribimos unhas veces con *b* e outras con *v.*
 * Escriben *v* cando pronuncian un son parecido ao do *f,* mais sonoro. 
