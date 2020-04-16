@@ -24,7 +24,7 @@ Ex.:
 12. Non saben dicir quen o fai mellor.
 13. Todas as mañás sae pola porta e non volve ata á noite.
 14. Non quero dicir nada polo momento.
-15. Telefono unha e outra vez, mais ninguén atende as chamadas.
+15. Telefono, mais ninguén atende as chamadas.
 
 
 
@@ -44,6 +44,8 @@ Ex.:
 12. Non **souberon** dicir quen o **fixo** mellor.
 13. **Saíu** pola porta e non **volveu**.
 14. Non **quixen** dicir nada polo momento.
-15. **Telefonei** unha e outra vez, mais ninguén **atendeu** as chamadas.
+15. **Telefonei**, mais ninguén **atendeu** as chamadas.
+
+
 
 </details>
