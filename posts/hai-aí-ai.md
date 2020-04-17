@@ -1,6 +1,6 @@
 ---
-title: Quen é quen nestes trixemelgo
-summary: Aí, ai! e hai
+title: Aí, ai! e hai
+summary: Aprende a distinguilos
 tags:
   - post
   - semana-7
