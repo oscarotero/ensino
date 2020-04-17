@@ -1,6 +1,6 @@
 ---
 title: Tríos famosos
-summary: Ai, aí e hai
+summary: Aí, ai! e hai
 tags:
   - post
   - semana-7
