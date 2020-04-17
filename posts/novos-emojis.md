@@ -6,7 +6,7 @@ tags:
   - semana-6
 eleventyExcludeFromCollections: false
 ---
-Hai uns días soubemos que o Consorcio Unicode decidiu aumentar a familia de emojis con 157 emojis novos. Unicode é o organismo que está ao cargo de estandarizar todos os caracteres dispoñíbeis nos nosos teclados, entre eles os emojis. Segundo [Emojipedia](https://emojipedia.org/), con esta actualización, imos ter ao noso dispor 2.823 😮
+Hai uns días soubemos que o Consorcio Unicode decidiu aumentar a familia de emojis con 157 emojis novos. Unicode é o organismo que está ao cargo de estandarizar todos os caracteres dispoñíbeis nos nosos teclados, entre eles os emojis. Segundo a [Emojipedia](https://emojipedia.org/), con esta actualización, imos ter ao noso dispor 2.823 😮
 
 Podedes ler a información completa aquí: [As novas emoticonas chegan con microbios, placas e Petri e moita ciencia](https://www.gciencia.com/tolociencia/novas-emoticonas-microbios-placas-petri-ciencia/)
 
