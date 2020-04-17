@@ -12,7 +12,7 @@ Podedes ler a información completa aquí: [As novas emoticonas chegan con micro
 
 ## Emoticonas e emojis son a mesma cousa?
 
-Aínda que no artigo se emprega emoticona como sinónimo de emoji, o certo é que se trata de cousas diferentes. Sabedes cal é a diferenza entre un é outro?
+Aínda que no artigo se emprega emoticona como sinónimo de emoji, o certo é que se trata de cousas diferentes.
 
 ### O que é unha emoticona?
 
