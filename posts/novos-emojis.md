@@ -38,6 +38,7 @@ Agora que xa sabedes que cada certo se producen novas incorporacións e actualiz
 <li><span style="font-size:50px">🦞</span> Lobster: </li>
 <li><span style="font-size:50px">🦜</span> Parrot: </li>
 <li><span style="font-size:50px">🥳</span> Partying face:</li>
+<li><span style="font-size:50px">🥶</span> Partying face:</li>
 <li><span style="font-size:50px">👩‍🦰</span> Woman, red hair:</li>
 <li><span style="font-size:50px">🦴</span> Bone:  </li>
 <li><span style="font-size:50px">🦡</span> Badger:</li>
