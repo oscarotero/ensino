@@ -4,7 +4,7 @@ summary: Como lles chamamos?
 tags:
   - post
   - semana-6
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 ---
 Hai uns días soubemos que o Consorcio Unicode decidiu aumentar a familia de emojis con 157 emojis novos. Unicode é o organismo que está ao cargo de estandarizar todos os caracteres dispoñíbeis nos nosos teclados, entre eles os emojis. Segundo [Emojipedia](https://emojipedia.org/), con esta actualización, imos ter ao noso dispor 2.823 😮
 
