@@ -28,7 +28,7 @@ A palabra emoji vén da unión de “e”, que significa imaxe en xaponés, e �
 
 ## Actividade
 
-Agora que xa sabedes que cada certo se producen novas incorporacións e actualizacións dos emojis que usamos, propóñovos un exercicio para familiarizardos cos que se acaban de incorporar agora febreiro de 2020. De entre os 157 seleccionei estes 15 que aparecen a continuación. Tedes o emoji co seu nome en inglés ao pé, o que tedes que facer vós agora é darlle un nome en galego.
+Agora que xa sabedes que cada certo se producen novas incorporacións e actualizacións dos emojis que usamos, propóñovos un exercicio para familiarizardos cos que se acaban de incorporar agora febreiro de 2020. De entre os 157 seleccionei estes 20 que aparecen a continuación. Tedes o emoji co seu nome en inglés ao pé, o que tedes que facer vós agora é darlle un nome en galego.
 
 <ol>
 <li><span style="font-size:50px">🦞</span> Lobster: </li>
@@ -36,14 +36,25 @@ Agora que xa sabedes que cada certo se producen novas incorporacións e actualiz
 <li><span style="font-size:50px">🥳</span> Partying face:</li>
 <li><span style="font-size:50px">🥶</span> Cold face:</li>
 <li><span style="font-size:50px">👩‍🦰</span> Woman, red hair:</li>
-<li><span style="font-size:50px">🦸‍♀️</span> Woman, red hair:</li>
+<li><span style="font-size:50px">🦸‍♀️</span> Woman, superhero:</li>
+<li><span style="font-size:50px">🦹‍♂️</span> Man supervillain</li>
+<li><span style="font-size:50px">🦹‍♀️</span> Woman supervillain:</li>
+<li><span style="font-size:50px">🧬</span> DNA:  </li>
 <li><span style="font-size:50px">🦴</span> Bone:  </li>
 <li><span style="font-size:50px">🦡</span> Badger:</li>
 <li><span style="font-size:50px">🦚</span> Peacock:</li>
 <li><span style="font-size:50px">🧭</span> Compass:</li>
+<li><span style="font-size:50px">🧶</span> Yarn:</li>
+<li><span style="font-size:50px">🧺</span> Basket:</li>
 <li><span style="font-size:50px">🧷</span> Safety pin: </li>
 <li><span style="font-size:50px">🧹</span> Broom: </li>
 <li><span style="font-size:50px">🧫</span> Petri dish:</li>
 <li><span style="font-size:50px">🧩</span> Jigsaw:</li>
 <li><span style="font-size:50px">🧸</span> Teddy bear:</li>
 </ol>
+
+- - -
+
+Sabías que Kate Perry fixo un vídeo para a unha das súas cancións "Roar" en que toda a letra eran emojis:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e9SeJIgWRPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
