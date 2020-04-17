@@ -32,7 +32,7 @@ A palabra emoji vén da unión de “e”, que significa imaxe en xaponés, e �
 
 ## Actividade 
 
-Agora que xa sabedes que cada certo se producen novas incorporacións e actualizacións dos emojis que usamos, propóñovos un exercicio para familiarizardos cos que se acaban de incorporar agora febreiro de 2020. De entre os 157 seleccionei estes 15 que aparecen a continuación. Aparece o emoji co nome en inglés e o que tedes que facer vós e darlle un nome en galego
+Agora que xa sabedes que cada certo se producen novas incorporacións e actualizacións dos emojis que usamos, propóñovos un exercicio para familiarizardos cos que se acaban de incorporar agora febreiro de 2020. De entre os 157 seleccionei estes 15 que aparecen a continuación. Tedes o emoji co seu nome en inglés ao pé, o que tedes que facer vós agora é darlle un nome en galego.
 
 <ol>
 <li><span style="font-size:50px">🦞</span> Lobster: </li>
