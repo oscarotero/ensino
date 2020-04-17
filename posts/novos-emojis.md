@@ -20,7 +20,7 @@ As emoticonas son as cariñas ou símbolos feitos cos caracteres do teclado tipo
 
 ### O que é un emoji?
 
-A palabra emoji vén da unión de “e”, que significa imaxe en xaponés, e “moji” que significa letra. Os emojis sempre tiveron forma de imaxe e, alén de emocións, poden representar calquera cousa. A súa orixe está no Xapón e o seu inventor foi o enxeñeiro Shigetaka Kurita. Na actualidade, o encargado de estabelecer as imaxes é Unicode, un estándar de representación de texto en computador. Este estándar dálle un código a cada emoji polo que ao premer sobre el no teclado, o que estamos facendo é enviando ese código. 
+A palabra emoji vén da unión de “e”, que significa imaxe en xaponés, e “moji” que significa letra. Os emojis sempre tiveron forma de imaxe e, alén de emocións, poden representar calquera cousa. A súa orixe está no Xapón e o seu inventor foi o enxeñeiro Shigetaka Kurita. Na actualidade, o encargado de estabelecer as imaxes é Unicode, un estándar de representación de texto en computador. Este estándar dálle un código a cada emoji polo que ao premer sobre el no teclado, o que estamos a facer é enviar ese código. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lhbslkj-Jv4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
