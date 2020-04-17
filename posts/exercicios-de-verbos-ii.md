@@ -1,5 +1,5 @@
 ---
-title: Exercicios de verbos (II)
+title: Exercicios de verbos (2)
 summary: Para practicardes o pretérito perfecto de indicativo
 tags:
   - post
