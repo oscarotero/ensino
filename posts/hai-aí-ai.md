@@ -4,7 +4,7 @@ summary: Aí, ai! e hai
 tags:
   - post
   - semana-7
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 ---
 ## **Non confundas aí, ai! e hai**
 
