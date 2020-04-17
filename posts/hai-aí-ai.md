@@ -42,3 +42,4 @@ Completa as oracións con *hai*, *aí* ou *ai:*
 10. **Aí** non **hai** ninguén.
 11. **Ai**, ten coidado! Case me pisas un pé!
 12. **Hai** leite no frigorífico.
+</details>
