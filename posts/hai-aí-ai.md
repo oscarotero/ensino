@@ -1,6 +1,6 @@
 ---
 title: Tríos famosos
-summary: ai, aí e hai
+summary: Ai, aí e hai
 tags:
   - post
   - semana-7
@@ -8,14 +8,31 @@ eleventyExcludeFromCollections: false
 ---
 Completa as oracións con *hai*, *aí* ou *ai:*
 
-1. ............... moito tempo ............... había unha fonte.
-2. ...............!, non me toques ...............
-3. ............... onde o colocamos non ............... problema.
-3. Canto tempo ............... que estás ...............?
-4. ............... que ver o que é o amor.
-5. Podemos ir por ............... a ver o que ...............
-6. ............... tes o que me pediches.
-7. .............. máis de dous días que non o vexo.
-8. .............. non .............. ninguén.
-9.
-10.
+1. .......... moito tempo .......... había unha fonte.
+2. ..........!, non me toques ..........
+3. .......... onde o colocamos non .......... problema.
+4. Canto tempo .......... que estás ..........?
+5. .......... que ver o que é o amor.
+6. Podemos ir por .......... e ver o que ..........
+7. .......... tes o que me pediches.
+8. .......... que escuro está! Eu .......... non entro
+9. ......... máis de dous días que non o vexo.
+10. ......... non ......... ninguén.
+11. ........., ten coidado! Case me pisas un pé!
+12. .......... leite no frigorífico.
+
+<details> <summary> Ver as solucións </summary>
+
+1. Hai moito tempo aí había unha fonte.
+2. Ai!, non me toques aí.
+3. Aí onde o colocamos non hai problema.
+4. Canto tempo hai que estás aí?
+5. Hai que ver o que é o amor.
+6. Podemos ir por aí e ver o que hai
+7. Aí tes o que me pediches.
+8. Ai que escuro está! Eu aí non entro
+9. Hai máis de dous días que non o vexo.
+10. Aí non hai ninguén.
+11. Ai, ten coidado! Case me pisas un pé!
+12. Hai leite no frigorífico.
+</details>
