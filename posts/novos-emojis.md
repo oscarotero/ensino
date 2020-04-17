@@ -4,7 +4,7 @@ summary: Como lles chamamos?
 tags:
   - post
   - semana-6
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 ---
 Hai uns días soubemos que o Consorcio Unicode decidiu aumentar a familia de emojis con 157 emojis novos. Unicode é o organismo que está ao cargo de estandarizar todos os caracteres dispoñíbeis nos nosos teclados, entre eles os emojis. Segundo [Emojipedia](https://emojipedia.org/), con esta actualización, imos ter ao noso dispor 2.823 😮
 
@@ -14,11 +14,11 @@ Podedes ler a información completa aquí: [As novas emoticonas chegan con micro
 
 Aínda que no artigo se emprega emoticona como sinónimo de emoji, o certo é que se trata de cousas diferentes. Sabedes cal é a diferenza entre un é outro?
 
-O que é unha emoticona?
+### O que é unha emoticona?
 
 As emoticonas son as cariñas ou símbolos feitos cos caracteres do teclado tipo: ;-), :-( , ^-^ que se comezaron a usar a principios dos oitenta para expresaren emocións. Hai quen os chame tamén *smiley* porque este :-) foi o primeiro de todos. Co tempo,  fixéronse cada vez máis populares e coa chegada dos foros, os procesadores de texto conseguiron recoñecelas e substituílas por imaxes. O termo emoticona é unha adaptación ao galego do inglés *emoticon,* resultante de unir *emotion* “emoción” + *icon* “icona”.
 
-O que é un emoji?
+### O que é un emoji?
 
 A palabra emoji vén da unión de “e”, que significa imaxe en xaponés, e “moji” que significa letra. Os emojis sempre tiveron forma de imaxe e alén de emocións poden representar calquera cousa. A súa orixe está no Xapón. O seu inventor foi o enxeñeiro Shigetaka Kurita. Na actualidade, o encargado de estabelecer as imaxes é Unicode, un estándar de representación de texto en computador. Este estándar dálle un código a cada emoji polo que ao premer sobre el no teclado, o que estamos facendo é enviando ese código. 
 
