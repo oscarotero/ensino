@@ -4,15 +4,15 @@ summary: Como lles chamamos?
 tags:
   - post
   - semana-6
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 ---
-Hai uns días soubemos que o Consorcio Unicode decidiu aumentar a familia de emojis con 157 emojis novos. Unicode é o organismo que está ao cargo de estandarizar todos os caracteres dispoñíbeis nos nosos teclados, entre eles os emojis. Segundo [Emojipedia](https://emojipedia.org/), con esta actualización, imos ter ao noso dispor 2.823 😮
+Hai uns días soubemos que o Consorcio Unicode decidiu aumentar a familia de emojis con 157 emojis novos. Unicode é o organismo que está ao cargo de estandarizar todos os caracteres dispoñíbeis nos nosos teclados, entre eles os emojis. Segundo a [Emojipedia](https://emojipedia.org/), con esta actualización, imos ter ao noso dispor 2.823 😮
 
 Podedes ler a información completa aquí: [As novas emoticonas chegan con microbios, placas e Petri e moita ciencia](https://www.gciencia.com/tolociencia/novas-emoticonas-microbios-placas-petri-ciencia/)
 
 ## Emoticonas e emojis son a mesma cousa?
 
-Aínda que no artigo se emprega emoticona como sinónimo de emoji, o certo é que se trata de cousas diferentes. Sabedes cal é a diferenza entre un é outro?
+Aínda que no artigo se emprega emoticona como sinónimo de emoji, o certo é que se trata de cousas diferentes.
 
 ### O que é unha emoticona?
 
@@ -20,7 +20,7 @@ As emoticonas son as cariñas ou símbolos feitos cos caracteres do teclado tipo
 
 ### O que é un emoji?
 
-A palabra emoji vén da unión de “e”, que significa imaxe en xaponés, e “moji” que significa letra. Os emojis sempre tiveron forma de imaxe e alén de emocións poden representar calquera cousa. A súa orixe está no Xapón. O seu inventor foi o enxeñeiro Shigetaka Kurita. Na actualidade, o encargado de estabelecer as imaxes é Unicode, un estándar de representación de texto en computador. Este estándar dálle un código a cada emoji polo que ao premer sobre el no teclado, o que estamos facendo é enviando ese código. 
+A palabra emoji vén da unión de “e”, que significa imaxe en xaponés, e “moji” que significa letra. Os emojis sempre tiveron forma de imaxe e, alén de emocións, poden representar calquera cousa. A súa orixe está no Xapón e o seu inventor foi o enxeñeiro Shigetaka Kurita. Na actualidade, o encargado de estabelecer as imaxes é Unicode, un estándar de representación de texto en computador. Este estándar dálle un código a cada emoji polo que ao premer sobre el no teclado, o que estamos a facer é enviar ese código. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lhbslkj-Jv4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -28,7 +28,7 @@ A palabra emoji vén da unión de “e”, que significa imaxe en xaponés, e �
 
 ## Actividade
 
-Agora que xa sabedes que cada certo se producen novas incorporacións e actualizacións dos emojis que usamos, propóñovos un exercicio para familiarizardos cos que se acaban de incorporar agora febreiro de 2020. De entre os 157 seleccionei estes 20 que aparecen a continuación. Tedes o emoji co seu nome en inglés ao pé, o que tedes que facer vós agora é darlle un nome en galego.
+Agora que xa sabedes que cada certo tempo se producen novas incorporacións e actualizacións dos emojis que usamos, propóñovos un exercicio para familiarizarvos cos que se acaban de incorporar en febreiro de 2020. De entre os 157 seleccionei estes 20 que aparecen a continuación. Aparece o emoji e ao pé o nome que ten en inglés, o que tedes que facer vós é darlle un nome en galego.
 
 <ol>
 <li><span style="font-size:50px">🦞</span> Lobster: </li>
@@ -55,6 +55,8 @@ Agora que xa sabedes que cada certo se producen novas incorporacións e actualiz
 
 - - -
 
-Sabías que Kate Perry fixo un vídeo para a unha das súas cancións "Roar" en que toda a letra eran emojis:
+## Sabías que... 
+
+A cantora norteamericana Katey Perry fixo un vídeo para a unha das súas cancións: "Roar" en que toda a letra eran emojis:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e9SeJIgWRPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
