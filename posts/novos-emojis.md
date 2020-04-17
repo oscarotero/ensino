@@ -55,6 +55,8 @@ Agora que xa sabedes que cada certo se producen novas incorporacións e actualiz
 
 - - -
 
-Sabías que Kate Perry fixo un vídeo para a unha das súas cancións "Roar" en que toda a letra eran emojis:
+## Sabías que... 
+
+A cantora norteamericana Katey Perry fixo un vídeo para a unha das súas cancións: "Roar" en que toda a letra eran emojis:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e9SeJIgWRPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
