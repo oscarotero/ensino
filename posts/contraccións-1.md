@@ -6,6 +6,13 @@ tags:
   - semana-7
 eleventyExcludeFromCollections: true
 ---
+preposición/artigos | o | a | os | as
+--|---|---|----|----
+**d** | o | a | os | as
+d | o | a | os | as
+d | o | a | os | as
+d | o | a | os | as
+d | o | a | os | as
 
 Vivo en A Coruña ou vivo na Coruña. A resposta correcta é a segunda. Eis a explicación:
 
