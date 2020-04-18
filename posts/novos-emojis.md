@@ -83,6 +83,6 @@ Agora que xa sabedes que cada certo tempo se producen novas incorporacións e ac
 
 ## Sabías que...
 
-A cantora norteamericana Katey Perry fixo un vídeo coa letra dunha das súas cancións en que mesturaba texto e emojis. O título da canción é "Roar":
+A cantora norteamericana Katey Perry fixo un vídeo coa letra dunha das súas cancións en que mesturaba texto e emojis. O título desta música é "Roar" (Ruxir):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e9SeJIgWRPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
