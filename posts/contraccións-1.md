@@ -4,7 +4,7 @@ summary: Artigo determinado + preposición
 tags:
   - post
   - semana-7
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 ---
 
 Vivo en A Coruña ou vivo na Coruña. A resposta correcta é a segunda. Eis a explicación:
