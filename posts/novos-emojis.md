@@ -53,7 +53,6 @@ Agora que xa sabedes que cada certo tempo se producen novas incorporacións e ac
 <li><span style="font-size:50px">🧸</span> Teddy bear:</li>
 </ol>
 
-
 <details> <summary>Ver as solucións</summary>
 <ol>
 <li><span style="font-size:50px">🦞</span> Lobster: lagosta </li>
@@ -84,6 +83,6 @@ Agora que xa sabedes que cada certo tempo se producen novas incorporacións e ac
 
 ## Sabías que...
 
-A cantora norteamericana Katey Perry fixo un vídeo para a súa canción "Roar", que tamén dá nome ao álbum, en que toda a letra eran emojis:
+A cantora norteamericana Katey Perry fixo un vídeo coa letra da canción "Roar" en emojis:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e9SeJIgWRPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
