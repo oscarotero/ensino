@@ -71,11 +71,11 @@ Agora que xa sabedes que cada certo tempo se producen novas incorporacións e ac
 <li><span style="font-size:50px">🧭</span> Compass: compás </li>
 <li><span style="font-size:50px">🧶</span> Yarn: nobelo </li>
 <li><span style="font-size:50px">🧺</span> Basket: cesta </li>
-<li><span style="font-size:50px">🧷</span> Prendedor </li>
-<li><span style="font-size:50px">🧹</span> Vasoira </li>
-<li><span style="font-size:50px">🧫</span> Placa de Petri </li>
-<li><span style="font-size:50px">🧩</span> Quebracabezas </li>
-<li><span style="font-size:50px">🧸</span> Osiño de peluche </li>
+<li><span style="font-size:50px">🧷</span> Safety pin: prendedor </li>
+<li><span style="font-size:50px">🧹</span> Broom: vasoira </li>
+<li><span style="font-size:50px">🧫</span> Petri dish: placa de Petri </li>
+<li><span style="font-size:50px">🧩</span> Jigsaw: quebracabezas </li>
+<li><span style="font-size:50px">🧸</span> Teddy bear: osiño de peluche </li>
 </ol>
 
 </details>
