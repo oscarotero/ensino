@@ -56,7 +56,7 @@ Agora que xa sabedes que cada certo tempo se producen novas incorporacións e ac
 
 <details> <summary>Ver as solucións</summary>
 <ol>
-<li><span style="font-size:50px">🦞</span> Lobster: Lagosta </li>
+<li><span style="font-size:50px">🦞</span> Lobster: lagosta </li>
 <li><span style="font-size:50px">🦜</span> Papagaio </li>
 <li><span style="font-size:50px">🥳</span> Cariña de festa ou cariña festeira </li>
 <li><span style="font-size:50px">🥶</span> Cariña friorenta </li>
