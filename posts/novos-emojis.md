@@ -53,6 +53,33 @@ Agora que xa sabedes que cada certo tempo se producen novas incorporacións e ac
 <li><span style="font-size:50px">🧸</span> Teddy bear:</li>
 </ol>
 
+
+<details> <summary>Ver as solucións</summary>
+<ol>
+<li><span style="font-size:50px">🦞</span> Lobster: Lagosta </li>
+<li><span style="font-size:50px">🦜</span> Papagaio </li>
+<li><span style="font-size:50px">🥳</span> Cariña de festa ou cariña festeira </li>
+<li><span style="font-size:50px">🥶</span> Cariña friorenta </li>
+<li><span style="font-size:50px">👩‍🦰</span> Roiba ou rubia </li>
+<li><span style="font-size:50px">🦸‍♀️</span> Superheroína </li>
+<li><span style="font-size:50px">🦹‍♂️</span> Supervilán </li>
+<li><span style="font-size:50px">🦹‍♀️</span> Supervilá </li>
+<li><span style="font-size:50px">🧬</span> ADN </li>
+<li><span style="font-size:50px">🦴</span> Óso </li>
+<li><span style="font-size:50px">🦡</span> Teixugo </li>
+<li><span style="font-size:50px">🦚</span> Pavón </li>
+<li><span style="font-size:50px">🧭</span> Compás </li>
+<li><span style="font-size:50px">🧶</span> Nobelo </li>
+<li><span style="font-size:50px">🧺</span> Cesta </li>
+<li><span style="font-size:50px">🧷</span> Prendedor </li>
+<li><span style="font-size:50px">🧹</span> Vasoira </li>
+<li><span style="font-size:50px">🧫</span> Placa de Petri </li>
+<li><span style="font-size:50px">🧩</span> Quebracabezas </li>
+<li><span style="font-size:50px">🧸</span> Osiño de peluche </li>
+</ol>
+
+</details>
+
 - - -
 
 ## Sabías que...
