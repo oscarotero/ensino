@@ -57,10 +57,10 @@ Agora que xa sabedes que cada certo tempo se producen novas incorporacións e ac
 <details> <summary>Ver as solucións</summary>
 <ol>
 <li><span style="font-size:50px">🦞</span> Lobster: lagosta </li>
-<li><span style="font-size:50px">🦜</span> Papagaio </li>
-<li><span style="font-size:50px">🥳</span> Cariña de festa ou cariña festeira </li>
-<li><span style="font-size:50px">🥶</span> Cariña friorenta </li>
-<li><span style="font-size:50px">👩‍🦰</span> Roiba ou rubia </li>
+<li><span style="font-size:50px">🦜</span> Parrot: papagaio </li>
+<li><span style="font-size:50px">🥳</span> Partying face: cariña de festa ou cariña festeira </li>
+<li><span style="font-size:50px">🥶</span> Cold face: cariña friorenta </li>
+<li><span style="font-size:50px">👩‍🦰</span> Woman, red hair: roiba ou rubia </li>
 <li><span style="font-size:50px">🦸‍♀️</span> Superheroína </li>
 <li><span style="font-size:50px">🦹‍♂️</span> Supervilán </li>
 <li><span style="font-size:50px">🦹‍♀️</span> Supervilá </li>
