@@ -9,10 +9,11 @@ eleventyExcludeFromCollections: true
 preposición/artigos | o | a | os | as
 --|---|---|----|----
 **d** | o | a | os | as
-d | o | a | os | as
-d | o | a | os | as
-d | o | a | os | as
-d | o | a | os | as
+**a** | ao | á | aos | ás
+**con** | co | coa | cos | coas
+**de** | do | da | dos | das
+**en** | no | na | nos | nas
+**por** | polo | pola | polos | polas
 
 Vivo en A Coruña ou vivo na Coruña. A resposta correcta é a segunda. Eis a explicación:
 
