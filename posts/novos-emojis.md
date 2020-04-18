@@ -33,11 +33,11 @@ Agora que xa sabedes que cada certo tempo se producen novas incorporacións e ac
 <ol>
 <li><span style="font-size:50px">🦞</span> Lobster: </li>
 <li><span style="font-size:50px">🦜</span> Parrot: </li>
-<li><span style="font-size:50px">🥳</span> Partying face:</li>
-<li><span style="font-size:50px">🥶</span> Cold face:</li>
-<li><span style="font-size:50px">👩‍🦰</span> Woman, red hair:</li>
-<li><span style="font-size:50px">🦸‍♀️</span> Woman, superhero:</li>
-<li><span style="font-size:50px">🦹‍♂️</span> Man supervillain</li>
+<li><span style="font-size:50px">🥳</span> Partying face: </li>
+<li><span style="font-size:50px">🥶</span> Cold face: </li>
+<li><span style="font-size:50px">👩‍🦰</span> Woman, red hair: </li>
+<li><span style="font-size:50px">🦸‍♀️</span> Woman, superhero: </li>
+<li><span style="font-size:50px">🦹‍♂️</span> Man supervillain: </li>
 <li><span style="font-size:50px">🦹‍♀️</span> Woman supervillain:</li>
 <li><span style="font-size:50px">🧬</span> DNA:  </li>
 <li><span style="font-size:50px">🦴</span> Bone:  </li>
@@ -61,9 +61,9 @@ Agora que xa sabedes que cada certo tempo se producen novas incorporacións e ac
 <li><span style="font-size:50px">🥳</span> Partying face: cariña de festa ou cariña festeira </li>
 <li><span style="font-size:50px">🥶</span> Cold face: cariña friorenta </li>
 <li><span style="font-size:50px">👩‍🦰</span> Woman, red hair: roiba ou rubia </li>
-<li><span style="font-size:50px">🦸‍♀️</span> Woman, superhero: Superheroína </li>
-<li><span style="font-size:50px">🦹‍♂️</span> Supervilán </li>
-<li><span style="font-size:50px">🦹‍♀️</span> Supervilá </li>
+<li><span style="font-size:50px">🦸‍♀️</span> Woman, superhero: superheroína </li>
+<li><span style="font-size:50px">🦹‍♂️</span> Man supervillain: supervilán </li>
+<li><span style="font-size:50px">🦹‍♀️</span> Woman supervillain: supervilá </li>
 <li><span style="font-size:50px">🧬</span> ADN </li>
 <li><span style="font-size:50px">🦴</span> Óso </li>
 <li><span style="font-size:50px">🦡</span> Teixugo </li>
