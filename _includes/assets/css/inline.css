@@ -4,6 +4,8 @@
 	--black: #340e09;
 	--gray: rgba(0,0,0,0.66);
 	--shadow: 0 1px 8px rgba(0,0,0,0.2);
+	--correct: green;
+	--error: red;
 }
 html {
 	background-color: var(--background);
@@ -19,6 +21,9 @@ main {
 	max-width: 40em;
 	margin: auto;
 	padding: 1em 1em 2em;
+}
+::selection {
+	background:rgba(255,255,0,0.5);
 }
 
 a {
@@ -154,4 +159,18 @@ summary {
 summary:hover {
 	text-decoration-style: dashed;
 	color: black;
+}
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+th {
+	text-align: left;
+	padding: .5em;
+	background: white;
+	border: solid 1px var(--gray);
+}
+td {
+	border: solid 1px var(--gray);
+	padding: .5em;
 }

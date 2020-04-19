@@ -11,17 +11,22 @@ class AnswerSelect extends HTMLElement {
                 font-family: inherit;
                 font-size: inherit;
                 color: inherit;
-                padding: 0 .5em;
-                border: solid 1px #0003;
+                padding: .25em .5em;
+                border: none;
+                box-shadow: var(--shadow);
+                border-radius: 3px;
             }
             select.is-right {
-                box-shadow: 0 0 0 3px green;
+                box-shadow: 0 0 0 3px var(--correct);
             }
             select.is-wrong {
-                box-shadow: 0 0 0 3px red;
+                box-shadow: 0 0 0 3px var(--error);
+                color: var(--error);
             }
             span:not(:empty) {
-                padding: .5em;
+                padding: 0 .3em;
+                transform: scale(1.5);
+                display: inline-block;
             }
         `;
         const selector = this.ownerDocument.createElement('select');
@@ -31,13 +36,21 @@ class AnswerSelect extends HTMLElement {
         shadow.appendChild(selector);
         shadow.appendChild(message);
 
-        const options = this.innerHTML.split(',').map(option => `<option>${option.trim()}</option>`);
-        selector.innerHTML = `<option></option>` + options;
+        const correct = this.innerHTML;
+        const options = this.hasAttribute('options') ? (this.getAttribute('options') || '').split(',').map(option => option.trim()) : [];
 
-        selector.addEventListener('change', ev => {
-            const correct = this.getAttribute('correct');
+        if (!options.includes(correct)) {
+            options.push(correct);
+        }
+        options.sort();
 
-            if (selector.value === correct) {
+        selector.innerHTML = `<option></option>` + options.map(option => `<option>${option}</option>`).join();
+
+        selector.addEventListener('change', () => {
+            if (!selector.value) {
+                selector.classList.remove('is-wrong', 'is-right');
+                message.innerHTML = '';
+            } else if (selector.value === correct) {
                 selector.classList.add('is-right');
                 selector.classList.remove('is-wrong');
                 message.innerHTML = emojis[0];
