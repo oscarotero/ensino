@@ -58,7 +58,7 @@ Agora que xa sabedes que cada certo tempo se producen novas incorporacións e ac
 <li><span style="font-size:50px">🦞</span> Lobster: lagosta </li>
 <li><span style="font-size:50px">🦜</span> Parrot: papagaio </li>
 <li><span style="font-size:50px">🥳</span> Partying face: cariña de festa ou cariña festeira </li>
-<li><span style="font-size:50px">🥶</span> Cold face: cariña friorenta </li>
+<li><span style="font-size:50px">🥶</span> Cold face: cariña de frío ou cariña friorenta </li>
 <li><span style="font-size:50px">👩‍🦰</span> Woman, red hair: roiba ou rubia </li>
 <li><span style="font-size:50px">🦸‍♀️</span> Woman, superhero: superheroína </li>
 <li><span style="font-size:50px">🦹‍♂️</span> Man supervillain: supervilán </li>
