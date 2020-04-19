@@ -4,14 +4,13 @@ summary: Aprende a distinguilos
 tags:
   - post
   - semana-7
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 ---
 ## **Non confundas aí, ai! e hai**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MVPBPSRwgbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
-
+- - -
 
 Completa as oracións con *hai*, *aí* ou *ai:*
 
@@ -42,4 +41,3 @@ Completa as oracións con *hai*, *aí* ou *ai:*
 10. **Aí** non **hai** ninguén.
 11. **Ai**, ten coidado! Case me pisas un pé!
 12. **Hai** leite no frigorífico.
-</details>
