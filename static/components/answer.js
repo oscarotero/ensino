@@ -14,8 +14,14 @@ class Answer extends HTMLElement {
                     color: inherit;
                     padding: .25em 1em .25em .5em;
                     border: none;
-                    box-shadow: var(--shadow);
+                    box-shadow: 0 1px 1px rgba(0,0,0,0.2);
                     border-radius: 5px;
+                }
+                input:focus {
+                    box-shadow: var(--shadow);
+                }
+                input::placeholder {
+                    color: var(--gray);
                 }
                 input.is-right {
                     box-shadow: 0 0 0 1px var(--correct);
@@ -28,11 +34,12 @@ class Answer extends HTMLElement {
                 .answer {
                     position: relative;
                     margin: 0 .3em;
+                    display: inline-block;
                 }
                 .message {
                     position: absolute;
-                    right: .5em;
-                    top: 0;
+                    right: .3em;
+                    top: .2em;
                     font-size: 1.2em;
                     line-height: 1;
                 }
