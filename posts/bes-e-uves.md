@@ -105,7 +105,7 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 * Vouche **revelar** un segredo.
 * Non estou de acordo coa decisión, eu voume **rebelar**.
 
-\*Bou - vou"
+*Bou - vou*
 
 * Se **vou** a Bueu nun **bou**, **vou**
 * Se non **vou** nun **bou**, non **vou**
