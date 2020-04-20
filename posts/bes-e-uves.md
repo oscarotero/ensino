@@ -112,6 +112,6 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
 **Tarefa 3**
 
-Sabiades que hai un canción moi coñecida en que se brinca coas semellanzas fonéticas entre dúas palabras, unha con be e outra con uve. Podedes escoitar a versión que fixo dela [Andrés do Barro](https://gl.wikipedia.org/wiki/Andr%C3%A9s_do_Barro) aquí: [Se vou a Bueu nun bou, vou](https://www.youtube.com/watch?v=gWRaXBDTDMk)
+Sabiades que hai un canción moi coñecida en que se brinca coas semellanzas fonéticas entre dúas palabras, unha con be e outra con uve. Podedes escoitar a versión que fixo dela [Andrés do Barro](https://gl.wikipedia.org/wiki/Andr%C3%A9s_do_Barro) aquí: [Vou a Bueu](https://www.youtube.com/watch?v=gWRaXBDTDMk)
 
 En Bueu teñen moi claro como hai que ir alí, mais como iriades os de Negreira. Sabedes o que é un *bou* con *b?*
