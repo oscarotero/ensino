@@ -39,78 +39,41 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
 *Abalar - avalar*
 
-* Seica rompeu en Muxía a pedra de .........................!
-* Teñenme que ......................... meus pais para que me dean o crédito.
+* Seica rompeu en Muxía a pedra de <e-answer> abalar </answer>!
+* Téñenme que <e-answer> avalar </answer> meus pais para que me dean o crédito.
 
 *Balor - valor*
 
-* Cómpre moito ......................... para dar a cara como el o fixo.
-* Ese pan ten ......................... por riba.
+* Cómpre moito <e-answer> valor </answer> para dar a cara como el o fixo.
+* Ese pan ten <e-answer> balor </answer> por riba.
 
 *Bola - vola*
 
-* Díxonos que ......................... trouxera ela.
-* Vai á panadaría e merca unha  ......................... pequena.
+* Díxonos que <e-answer> vola </answer> trouxera ela.
+* Vai á panadaría e merca unha  <e-answer> bola </answer> pequena.
 
 *Bela - vela*
 
-* É a canción de amor máis ......................... que escoitei.
-* O galeón é un barco antigo de .........................
+* É a canción de amor máis <e-answer> bela </answer> que escoitei.
+* O galeón é un barco antigo de <e-answer> vela </answer>
 
 *Botar - votar*
 
-* Desta vez teño claro a quen vou  .........................
-* Quéreno ......................... do equipo.
+* Desta vez teño claro a quen vou  <e-answer> votar </answer>
+* Quéreno <e-answer> botar </answer> do equipo.
 
 *Rebelar - revelar*
 
-* Vouche ......................... un segredo.
-* Non estou de acordo coa decisión, eu voume .........................
+* Vouche <e-answer> revelar </answer> un segredo.
+* Non estou de acordo coa decisión, eu voume <e-answer> rebelar </answer>
 
 *Bou - vou*
 
-* Se  ......................... a Bueu nun  .........................,  .........................
-* Se non ......................... nun ........................., non .........................
+* Se  <e-answer> vou </answer> a Bueu nun  <e-answer> bou </answer>,  <e-answer> vou </answer>
+* Se non <e-answer> vou </answer> nun <e-answer> bou </answer>, non <e-answer> vou </answer>
 
-<details>
-<summary>Ver as solucións </summary>
+<e-validate>Corrixe as respostas</evalidate> 
 
-*Abalar - avalar*
-
-* Seica rompeu en Muxía a pedra de **abalar**!
-* Teñenme que **avalar** meus pais para que me dean o crédito.
-
-*Balor - valor*
-
-* Cómpre moito **valor** para dar a cara como el o fixo.
-* Ese pan ten **balor** por riba.
-
-*Bola - vola*
-
-* Díxonos que **vola** trouxera ela.
-* Vai á panadaría e merca unha **bola** pequena.
-
-*Bela - vela*
-
-* É a canción de amor máis **bela** que escoitei.
-* O galeón é un barco antigo de **vela**.
-
-*Botar - votar*
-
-* Desta vez teño claro a quen vou **votar**.
-* Quéreno **botar** do equipo.
-
-*Rebelar - revelar*
-
-* Vouche **revelar** un segredo.
-* Non estou de acordo coa decisión, eu voume **rebelar**.
-
-*Bou - vou*
-
-* Se **vou** a Bueu nun **bou**, **vou**
-* Se non **vou** nun **bou**, non **vou**
-
-</details>
 
 **Tarefa 2**
 
