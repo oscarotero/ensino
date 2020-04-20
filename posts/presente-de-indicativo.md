@@ -35,5 +35,6 @@ Completa co verbo correspondente en presente de indicativo.
 13. Cando vas volver? (Eu) <e-answer> sinto </e-answer> (sentir) moito a túa falta.
 14. Se lle <e-answer> sobe </e-answer> (subir) a febre, colócalle unha toalla mollada en auga fría na testa.
 15. Cando te <e-answer> pos </e-answer> (pór) así, non hai quen te ature.
+
 <e-validate>Corrixe as respostas</e-validate>
 
