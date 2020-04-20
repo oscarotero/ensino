@@ -33,3 +33,4 @@ Os monosílabos das seguintes oracións levan acento, si ou non?
 7. Imos ao cinema? Imos, si, quero ver o último filme de Steven Spielberg.
 8. Limpo o po unha vez por semana.
 9. Limpa o po dos móbeis so despois de limpar o do chan.
+10. ra
