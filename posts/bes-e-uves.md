@@ -69,10 +69,10 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
 *Bou - vou*
 
-* Se  <e-answer> vou </e-answer> a Bueu nun  <e-answer> bou </e-answer>,  <e-answer> vou </e-answer>
+* Se  <e-answer> vou </e-answer> a Bueu nun <e-answer> bou </e-answer>,  <e-answer> vou </e-answer>
 * Se non <e-answer> vou </e-answer> nun <e-answer> bou </e-answer>, non <e-answer> vou </e-answer>
 
-<e-validate>Corrixe as respostas</evalidate> 
+<e-validate>Corrixe as respostas</e-validate> 
 
 
 **Tarefa 2**
