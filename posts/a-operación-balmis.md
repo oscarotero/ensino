@@ -31,7 +31,7 @@ O artigo do xornal dixital *Praza* titulado [“Isabel Zendal, a enfermeira gale
 
 ## A misión
 
-A vosa misión será explorar todos eles na procura de respostas para as seguintes preguntas:
+A vosa misión será explorardes todos eles na procura de respostas para as seguintes preguntas:
 
 1. Que é a varíola? 
 2. Á parte de varíola, que outros nomes ten en galego esta doenza?
