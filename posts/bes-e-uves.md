@@ -68,8 +68,9 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 * Non estou de acordo coa decisión, eu voume .........................
 
 *Bou - vou*
-* Se  ......................... a Bueu nun  .........................,  .........................
 
+* Se  ......................... a Bueu nun  .........................,  .........................
+* Se non ......................... nun ........................., non .........................
 
 <details>
 <summary>Ver as solucións </summary>
@@ -104,8 +105,10 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 * Vouche **revelar** un segredo.
 * Non estou de acordo coa decisión, eu voume **rebelar**.
 
-*Bou - vou"
+\*Bou - vou"
+
 * Se **vou** a Bueu nun *bou**, **vou**
+* Se non **vou** nun **bou**, non **vou**
 
 </details>
 
@@ -119,6 +122,6 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
 **Tarefa 3**
 
-Sabiades que hai un canción moi coñecida en que se brinca coas semellanzas fonéticas entre dúas palabras, unha con be e outra con uve. Podedes escoitar a versión que fixo dela [Andrés do Barro](https://gl.wikipedia.org/wiki/Andr%C3%A9s_do_Barro) aquí: [Vou a Bueu](https://www.youtube.com/watch?v=gWRaXBDTDMk)
+Sabiades que hai un canción moi coñecida en que se brinca coas semellanzas fonéticas entre dúas palabras, unha con be e outra con uve. Podedes escoitar a versión que fixo dela [Andrés do Barro](https://gl.wikipedia.org/wiki/Andr%C3%A9s_do_Barro) aquí: [Vou a Bueu](https://www.youtube.com/watch?v=TMRPK2Tjjzs)
 
 En Bueu teñen moi claro como hai que ir alí, mais como iriades os de Negreira. Sabedes o que é un *bou* con *b?*
