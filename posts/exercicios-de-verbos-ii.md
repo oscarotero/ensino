@@ -6,9 +6,21 @@ tags:
   - semana-6
 eleventyExcludeFromCollections: false
 ---
+## Recursos
+
+[Conxugador de verbos en galego](http://cotovia.org/proxecto/conxugador/index.html)
+
+[Dicionario da Real Academia Galega (RAG)](https://academia.gal/dicionario)
+
+
+
+- - -
+
+## Exercicios
+
 Pon as seguintes oracións en pasado.
 
-Ex.:
+*Ex.: Cando vindes? > Cando viñestes?*
 
 1. A roupa non me cabe no armario.
 2. Acordo cedo para ter tempo de almorzar.
@@ -25,8 +37,6 @@ Ex.:
 13. Todas as mañás sae pola porta e non volve ata á noite.
 14. Non quero dicir nada polo momento.
 15. Telefono, mais ninguén atende as chamadas.
-
-
 
 <details> <summary>Ver as solucións</summary>
 
@@ -45,7 +55,5 @@ Ex.:
 13. **Saíu** pola porta e non **volveu**.
 14. Non **quixen** dicir nada polo momento.
 15. **Telefonei**, mais ninguén **atendeu** as chamadas.
-
-
 
 </details>
