@@ -59,7 +59,7 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
 *Botar - votar*
 
-* Desta vez teño claro a quen vou  <e-answer>votar</e-answer>
+* Nestas eleccións teño claro a quen vou  <e-answer>votar</e-answer>
 * Quéreno <e-answer>botar</e-answer> do equipo.
 
 *Rebelar - revelar*
