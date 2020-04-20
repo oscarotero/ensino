@@ -40,37 +40,37 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 *Abalar - avalar*
 
 * Seica rompeu en Muxía a pedra de <e-answer> abalar </e-answer>!
-* Téñenme que <e-answer> avalar </answer> meus pais para que me dean o crédito.
+* Téñenme que <e-answer> avalar </e-answer> meus pais para que me dean o crédito.
 
 *Balor - valor*
 
-* Cómpre moito <e-answer> valor </answer> para dar a cara como el o fixo.
-* Ese pan ten <e-answer> balor </answer> por riba.
+* Cómpre moito <e-answer> valor </e-answer> para dar a cara como el o fixo.
+* Ese pan ten <e-answer> balor </e-answer> por riba.
 
 *Bola - vola*
 
-* Díxonos que <e-answer> vola </answer> trouxera ela.
-* Vai á panadaría e merca unha  <e-answer> bola </answer> pequena.
+* Díxonos que <e-answer> vola </e-answer> trouxera ela.
+* Vai á panadaría e merca unha  <e-answer> bola </e-answer> pequena.
 
 *Bela - vela*
 
-* É a canción de amor máis <e-answer> bela </answer> que escoitei.
-* O galeón é un barco antigo de <e-answer> vela </answer>
+* É a canción de amor máis <e-answer> bela </e-answer> que escoitei.
+* O galeón é un barco antigo de <e-answer> vela </e-answer>
 
 *Botar - votar*
 
-* Desta vez teño claro a quen vou  <e-answer> votar </answer>
-* Quéreno <e-answer> botar </answer> do equipo.
+* Desta vez teño claro a quen vou  <e-answer> votar </e-answer>
+* Quéreno <e-answer> botar </e-answer> do equipo.
 
 *Rebelar - revelar*
 
-* Vouche <e-answer> revelar </answer> un segredo.
-* Non estou de acordo coa decisión, eu voume <e-answer> rebelar </answer>
+* Vouche <e-answer> revelar </e-answer> un segredo.
+* Non estou de acordo coa decisión, eu voume <e-answer> rebelar </e-answer>
 
 *Bou - vou*
 
-* Se  <e-answer> vou </answer> a Bueu nun  <e-answer> bou </answer>,  <e-answer> vou </answer>
-* Se non <e-answer> vou </answer> nun <e-answer> bou </answer>, non <e-answer> vou </answer>
+* Se  <e-answer> vou </answer> a Bueu nun  <e-answer> bou </answer>,  <e-answer> vou </e-answer>
+* Se non <e-answer> vou </answer> nun <e-answer> bou </answer>, non <e-answer> vou </e-answer>
 
 <e-validate>Corrixe as respostas</evalidate> 
 
