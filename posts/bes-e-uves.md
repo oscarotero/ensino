@@ -67,6 +67,10 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 * Vouche ......................... un segredo.
 * Non estou de acordo coa decisión, eu voume .........................
 
+*Bou - vou*
+* Se  ......................... a Bueu nun  .........................,  .........................
+
+
 <details>
 <summary>Ver as solucións </summary>
 
@@ -99,6 +103,9 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
 * Vouche **revelar** un segredo.
 * Non estou de acordo coa decisión, eu voume **rebelar**.
+
+*Bou - vou"
+* Se **vou** a Bueu nun *bou**, **vou**
 
 </details>
 
