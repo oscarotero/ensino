@@ -107,7 +107,7 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
 \*Bou - vou"
 
-* Se **vou** a Bueu nun *bou**, **vou**
+* Se **vou** a Bueu nun **bou**, **vou**
 * Se non **vou** nun **bou**, non **vou**
 
 </details>
