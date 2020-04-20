@@ -1,4 +1,6 @@
 import htm from "https://unpkg.com/htm?module";
+import "/static/components/answer.js";
+import "/static/components/validate.js";
 
 const html = htm.bind(h);
 

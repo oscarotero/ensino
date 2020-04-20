@@ -46,33 +46,17 @@ Aínda que *máis* leva acento a maioría das veces, non acontece o mesmo con *[
 
 Acentúa *mais* cando corresponda:
 
-1. Burela é un dos portos mais importantes da costa cantábrica.
-2. Sempre quere mais, nunca ten abondo.
-3. Ía dicir unha cousa, mais vou calar a boca.
-4. As mais das veces non sei o que dicir.
-5. Á cea veño eu só, os mais foron ver o partido.
-6. Sete mais tres son dez.
-7. Que traxe mais elegante levas!
-8. Deixou a mais da comida no prato.
-9. Estou moi cansada, non quero traballar mais.
-10. Non tes mais que pedilo e é teu!
-11. Había mais de dez persoas á porta.
-12. Temos que axudar os que mais o necesitan.
+1. Burela é un dos portos <e-answer>máis</e-answer> importantes da costa cantábrica.
+2. Sempre quere <e-answer>máis</e-answer>, nunca ten abondo.
+3. Ía dicir unha cousa, <e-answer>mais</e-answer> vou calar a boca.
+4. As <e-answer>máis</e-answer> das veces non sei o que dicir.
+5. Á cea veño eu só, os <e-answer>máis</e-answer> foron ver o partido.
+6. Sete <e-answer>máis</e-answer> tres son dez.
+7. Que traxe <e-answer>máis</e-answer> elegante levas!
+8. Deixou a <e-answer>máis</e-answer> da comida no prato.
+9. Estou moi cansada, non quero traballar <e-answer>máis</e-answer>.
+10. Non tes <e-answer>máis</e-answer> que pedilo e é teu!
+11. Había <e-answer>máis</e-answer> de dez persoas á porta.
+12. Temos que axudar os que <e-answer>máis</e-answer> o necesitan.
 
-<details>
-<summary>Ver as solucións</summary>
-
-1. Burela é un dos portos **máis** importantes da costa cantábrica.
-2. Sempre quere **máis**, nunca ten abondo.
-3. Ía dicir unha cousa, **mais** vou calar a boca.
-4. As **máis** das veces non sei o que dicir.
-5. Á cea veño eu só, os **máis** foron ver o partido.
-6. Sete **máis** tres son dez.
-7. Que traxe **máis** elegante levas!
-8. Deixou a **máis** da comida no prato.
-9. Estou moi cansada, non quero traballar **máis**.
-10. Non tes **máis** que pedilo e é teu!
-11. Había **máis** de dez persoas á porta.
-12. Temos que axudar os que **máis** o necesitan.
-
-</details>
+<e-validate>Corrixe as respostas</e-validate>
