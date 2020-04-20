@@ -1,6 +1,4 @@
 import htm from "https://unpkg.com/htm?module";
-import "/static/components/answer.js";
-import "/static/components/validate.js";
 
 const html = htm.bind(h);
 
@@ -10,6 +8,9 @@ const Post = createClass({
     const entry = this.props.entry;
 
     return html`
+      <script type="module" src="/static/components/answer.js"></script>
+      <script type="module" src="/static/components/validate.js"></script>
+
       <main>
         <article>
           <header>
