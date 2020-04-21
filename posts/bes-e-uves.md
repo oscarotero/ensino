@@ -59,7 +59,7 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
 *Botar - votar*
 
-* Teño claro a quen vou  <e-answer>votar</e-answer> nestas eleccións.
+* Xa sei a quen vou  <e-answer>votar</e-answer> nestas eleccións.
 * Quéreno <e-answer>botar</e-answer> do equipo.
 
 *Rebelar - revelar*
@@ -73,7 +73,6 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 * Se non <e-answer>vou</e-answer> nun <e-answer>bou</e-answer>, non <e-answer>vou</e-answer>
 
 <e-validate>Corrixe as respostas</e-validate> 
-
 
 **Tarefa 2**
 
