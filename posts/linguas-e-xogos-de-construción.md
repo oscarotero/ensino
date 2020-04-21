@@ -20,7 +20,7 @@ son > sílaba > palabra
 
 1. Agrupa e ordena as sílabas de cada cor ata formares dez palabras distintas relacionadas co almorzo, a primeira comida do día:
 
-<e-answer>to</answer> - <e-answer>rra</answer> - <e-answer>da</answer>
+<e-answer>to</e-answer> - <e-answer>rra</e-answer> - <e-answer>da</e-answer>
 
 <e-answer>man</answer>-<e-answer>tei</answer>-<e-answer>ga</answer>
 
