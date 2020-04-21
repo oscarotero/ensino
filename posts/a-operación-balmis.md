@@ -50,7 +50,7 @@ A vosa misión será explorardes todos eles na procura de respostas para as segu
 
 ## Sabías que...
 
-* A escritora [María Solar](https://gl.wikipedia.org/wiki/Mar%C3%ADa_Solar) publicou en 2017 *Os nenos da varíola,* unha novela baseada na historia real dos 22 orfos da expedición Balmis que levaron o seu corpo a vacina da varíola a América.
+* A escritora [María Solar](https://gl.wikipedia.org/wiki/Mar%C3%ADa_Solar) publicou en 2017 *Os nenos da varíola,* unha novela baseada na historia real dos 22 orfos da expedición Balmis que levaron no seu corpo a vacina da varíola a América.
 * En 2020, a compañía PÉREZ&FERNÁNDEZ en coprodución co Centro Dramático Galego (CDG) presentaron [a adaptación á escena desta novela de María Solar](http://centrodramatico.xunta.gal/cdg/axenda/axendad.php?id_e=2748&lg=gal).
 * Os amantes da banda deseñada poden ler *[Novo Mundo. Isabel Zendal na Expedición da Vacina](https://www.youtube.com/watch?v=jCJiTAZQq6c)*, unha versión neste formato editada pola editora Bululú.
 * E hai tamén un telefilme que narra as aventuras da Real Expedición Filantrópica da Vacina. Titúlase *[22 ángeles](https://www.youtube.com/watch?v=coOsN7e0kS8&feature=emb_logo)* e a actriz galega María Castro é quen dá vida a Isabel Zendal nesta produción.
