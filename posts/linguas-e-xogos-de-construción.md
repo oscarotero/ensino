@@ -21,7 +21,7 @@ Os sons e as sílabas non se combinan de calquera maneira. Existen unha serie de
 * CVC > **pés**
 * CCV > **bra**-zo
 * V > **a**-su-bí-o
-* CCVC >**trans**-por-te
+* CCVCC >**trans**-por-te
 * ...
 
 3. Dúas vogais contiguas poden pertencer á mesma sílaba ou a sílabas diferentes:
@@ -35,28 +35,9 @@ Os sons e as sílabas non se combinan de calquera maneira. Existen unha serie de
 - - -
 
 ## Mans á obra!
-Agora xa coñecemos a técnica, xogamos a construír palabras?
+Agora que xa coñecemos a técnica, xogamos a construír palabras?
 
 1. Agrupa e ordena as sílabas de cada cor ata formares dez palabras:
 
-<e-answer>ce<site=5><e/answer> - <e-answer>go<site=5><e/answer> -  <e-answer>re<site=5><e/answer> - <e-answer>tar<site=5><e/answer> -  <e-answer>ni<site=5><e/answer> - <e-answer>fri<site=5><e/answer> - <e-answer>a<site=5><e/answer> - <e-answer>co<site=5><e/answer> - <e-answer>ri<site=5><e/answer> - <e-answer>bi<site=5><e/answer> -  <e-answer>go<site=5><e/answer> -  <e-answer>ce<site=5><e/answer> -  <e-answer>xan<site=5><e/answer> -  <e-answer>ria<site=5><e/answer> -  <e-answer>fi<site=5><e/answer> - <e-answer>cár<site=5><e/answer>  -  <e-answer>go<site=5><e/answer>-  <e-answer>no<site=5><e/answer> -  <e-answer>co<site=5><e/answer>
+<e-answer><site=5>ce</site=5><e/answer> - <e-answer><site=5>go</site=5><e/answer> -  <e-answer><site=5>re</site=5><e/answer> - <e-answer><site=5>tar</site=5><e/answer> -  <e-answer><site=5>ni</site=5><e/answer> - <e-answer><site=5>fri</site=5><e/answer> - <e-answer><site=5>a</site=5><e/answer> - <e-answer><site=5>co</site=5><e/answer> - <e-answer><site=5>ri</site=5><e/answer> - <e-answer><site=5>bi</site=5><e/answer> -  <e-answer><site=5>go</site=5><e/answer> -  <e-answer><site=5>ce</site=5><e/answer> -  <e-answer><site=5>xan</site=5><e/answer> -  <e-answer><site=5>ria</site=5><e/answer> -  <e-answer><site=5>fi</site=5><e/answer> - <e-answer><site=5>cár</site=5><e/answer>  -  <e-answer><site=5>go</site=5><e/answer>-  <e-answer><site=5>no</site=5><e/answer> -  <e-answer><site=5>co</site=5><e/answer>
 
-<e-answer>to</e-answer> - <e-answer>rra</e-answer> - <e-answer>da</e-answer>
-
-<e-answer>man</e-answer>-<e-answer>tei</e-answer>-<e-answer>ga</e-answer>
-
-<e-answer>lei</e-answer>-<e-answer>te</e-answer>
-
-<e-answer>zu</e-answer>-<e-answer>me</e-answer>
-
-<e-answer>ca</e-answer>-<e-answer>ca</e-answer>-<e-answer>o</e-answer>
-
-<e-answer>mar</e-answer>-<e-answer>me</e-answer>-<e-answer>la</e-answer>-<e-answer>da</e-answer>
-
-<e-answer>ce</e-answer>-<e-answer>re</e-answer>-<e-answer>ais</e-answer>
-
-<e-answer>a</e-answer>-<e-answer>cei</e-answer>-<e-answer>te</e-answer>
-
-<e-answer>froi</e-answer>-<e-answer>ta</e-answer>
-
-<e-answer>chu</e-answer>-<e-answer>las</e-answer>
