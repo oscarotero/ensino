@@ -22,6 +22,7 @@ collections:
       - label: "Sumario"
         name: "summary"
         widget: "text"
+        required: false
 
       - label: "Etiquetas"
         name: "tags"

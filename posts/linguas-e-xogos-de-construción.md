@@ -4,7 +4,7 @@ summary: En que se parecen?
 tags:
   - post
   - semana-7
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 ---
 Se o pensades ben, a nosa lingua parécese moito a un deses xogos de construción aos que todos xogamos de pequenos. Lembrádesvos daqueles bloquiños de cores? Eu teño pasado horas deitada no chan a xuntar uns cos outros. 
 
@@ -39,5 +39,5 @@ Agora que xa coñecemos a técnica, xogamos a construír palabras?
 
 1. Agrupa e ordena as sílabas de cada cor ata formares dez palabras:
 
-<e-answer size=5>ce</e-answer> - <e-answer size=5>go</e-answer> - <e-answer size=5>re</e-answer> - <e-answer size=5>tar</e-answer> -  <e-answer size=5>ni</e-answer> - <e-answer site=5>fri</e-answer> - <e-answer size=5>a</e-answer> - <e-answer size=5>co</e-answer> - <e-answer size=5>ri</e-answer> - <e-answer size=5>bi</e-answer> -  <e-answer size=5>go</e-answer> -  <e-answer size=5>ce</e-answer> -  <e-answer size=5>xan</e-answer> -  <e-answer size=5>ria</e-answer> -  <e-answer size=5>fi</e-answer> - <e-answer size=5>cár</e-answer>  -  <e-answer size=5>go</e-answer>-  <e-answer size=5>no</e-answer> -  <e-answer size=5>co</e-answer>
+<e-tag>ce</e-tag> <e-tag color=1>go</e-tag> <e-tag color=2>re</e-tag> <e-tag color=3>tar</e-tag> <e-tag color=4>ni</e-tag> <e-tag color=5>fri</e-tag> <e-tag color=6>a</e-tag> <e-tag color=7>co</e-tag> <e-tag color=8>ri</e-tag> <e-tag color=9>bi</e-tag> <e-tag color=10>go</e-tag> <e-tag>ce</e-tag> <e-tag>xan</e-tag> <e-tag>ria</e-tag> <e-tag>fi</e-tag> <e-tag>cár</e-tag> <e-tag>go</e-tag> <e-tag>no</e-tag> <e-tag>co</e-tag>
 

@@ -9,16 +9,21 @@ class Answer extends HTMLElement {
                     margin: 0;
                     background: white;
                     font-family: inherit;
-                    font-size: inherit;
+                    font-size: 110%;
                     text-align: center;
                     color: inherit;
-                    padding: .25em 1em .25em .5em;
-                    border: none;
-                    box-shadow: 0 1px 1px rgba(0,0,0,0.2);
+                    padding: 0;
+                    border: solid 1px #0003;
+                    box-shadow: inset 0 1px 3px #0002;
                     border-radius: 5px;
                 }
                 input:focus {
                     box-shadow: var(--shadow);
+                    position: relative;
+                    z-index: 2;
+                }
+                input:hover {
+                    border-color: #0006;
                 }
                 input::placeholder {
                     color: var(--gray);
@@ -38,7 +43,7 @@ class Answer extends HTMLElement {
                 }
                 .message {
                     position: absolute;
-                    right: .3em;
+                    left: 100%;
                     top: .2em;
                     font-size: 1.2em;
                     line-height: 1;
