@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: true
 ---
 Se o pensades ben, a nosa lingua parécese moito a un deses xogos de construción aos que todos xogamos de pequenos. Lembrádesvos daqueles bloquiños de cores? Eu teño pasado horas deitada no chan a xuntar uns cos outros. Construía casas, edificios, barrios enteiros... até cidades.
 
-Pois ben, no caso da linguas, tamén temos pezas que podemos xuntar para construír outras maiores. Non construímos con bloques, é claro, o material de construción das linguas é un bocadiño diferente. Nas linguas usamos os sons, mais o procedemento é o mesmo:
+Pois ben, no caso da linguas, tamén temos pezas que podemos xuntar para construír outras maiores. Non construímos con bloques, é claro, o material de construción das linguas é un bocadiño diferente. Nas linguas usamos os sons, mais o procedemento é o mesmo: xuntamos sons e temos sílabas, xuntamos sílabas e temos palabras
 
 bloque > parede > edificio
 
@@ -20,7 +20,7 @@ son > sílaba > palabra
 
 1. Agrupa e ordena as sílabas de cada cor ata formares dez palabras distintas relacionadas co almorzo, a primeira comida do día:
 
-<e-answer>to</answer>-<e-answer>rra</answer>-<e-answer>da</answer>
+<e-answer>to</answer> - <e-answer>rra</answer> - <e-answer>da</answer>
 
 <e-answer>man</answer>-<e-answer>tei</answer>-<e-answer>ga</answer>
 
