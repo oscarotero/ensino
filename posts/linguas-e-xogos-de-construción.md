@@ -22,20 +22,20 @@ son > sílaba > palabra
 
 <e-answer>to</e-answer> - <e-answer>rra</e-answer> - <e-answer>da</e-answer>
 
-<e-answer>man</answer>-<e-answer>tei</answer>-<e-answer>ga</answer>
+<e-answer>man</e-answer>-<e-answer>tei</e-answer>-<e-answer>ga</e-answer>
 
-<e-answer>lei</answer>-<e-answer>te</answer>
+<e-answer>lei</e-answer>-<e-answer>te</e-answer>
 
-<e-answer>zu</answer>-<e-answer>me</answer>
+<e-answer>zu</e-answer>-<e-answer>me</e-answer>
 
-<e-answer>ca</answer>-<e-answer>ca</answer>-<e-answer>o</answer>
+<e-answer>ca</e-answer>-<e-answer>ca</e-answer>-<e-answer>o</e-answer>
 
-<e-answer>mar</answer>-<e-answer>me</answer>-<e-answer>la</answer>-<e-answer>da</answer>
+<e-answer>mar</e-answer>-<e-answer>me</e-answer>-<e-answer>la</e-answer>-<e-answer>da</e-answer>
 
-<e-answer>ce</answer>-<e-answer>re</answer>-<e-answer>ais</answer>
+<e-answer>ce</e-answer>-<e-answer>re</e-answer>-<e-answer>ais</e-answer>
 
-<e-answer>a</answer>-<e-answer>cei</answer>-<e-answer>te</answer>
+<e-answer>a</e-answer>-<e-answer>cei</e-answer>-<e-answer>te</e-answer>
 
-<e-answer>froi</answer>-<e-answer>ta</answer>
+<e-answer>froi</e-answer>-<e-answer>ta</e-answer>
 
-<e-answer>chu</answer>-<e-answer>las</answer>
+<e-answer>chu</e-answer>-<e-answer>las</e-answer>
