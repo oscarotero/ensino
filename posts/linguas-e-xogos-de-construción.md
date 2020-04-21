@@ -9,7 +9,7 @@ eleventyExcludeFromCollections: false
 Se o pensades ben, a nosa lingua parécese moito a un deses xogos de construción aos que todos xogamos de pequenos. Lembrádesvos daqueles bloquiños de cores? Eu teño pasado horas deitada no chan a xuntar uns cos outros. 
 
 No caso da linguas, tamén temos pezas que podemos xuntar para construír outras maiores. Non construímos con bloques, é claro, o material de construción é un pouco diferente. Nas linguas usamos os sons, mais o procedemento é o mesmo. Xuntamos sons para construírmos sílabas e coas sílabas, por súa vez, podemos construír palabras: 
-son > sílaba > palabras
+son > sílaba > palabra
 
 ## A ciencia da construción
 
