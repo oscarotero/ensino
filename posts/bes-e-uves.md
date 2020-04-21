@@ -23,7 +23,7 @@ Como podedes ver, acertarmos se unha palabra leva *b* ou *v* non é tan simple e
 
 ## Recursos
 
-Menos mal que na rede hai moitos sitios con consellos e actividades para mellorarmos a nosa competencia nesta cuestión. Deixo abaixo a ligazón a un dos mellores. Lede a información correspondente ao uso do *b* e do *v* e facede os exercicios correspondentes:
+Menos mal que na rede hai moitos sitios con consellos e actividades para mellorarmos a nosa competencia nesta cuestión. Deixo abaixo a ligazón a un dos mellores. Lede a información relativa ao uso do *b* e do *v* e facede os exercicios correspondentes:
 
 [Ortografía: O uso do b e do v](http://cotovia.org/proxecto/ort/ort_ud3_01.html?orix=ort&tema=ort_ud3_01.html)
 
@@ -78,9 +78,9 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
 2 xogos do Portal da palabras > Dimo con letras
 
-[B-V 1 Dúas letras para un único son](https://portaldaspalabras.gal/xogo/b-v-1/)
+[B-V Dúas letras para un único son](https://portaldaspalabras.gal/xogo/b-v-1/)
 
-[Be e be-ese 1 Substantivo ou sustantivo](https://portaldaspalabras.gal/xogo/b-bs-1/)
+[Be e be-ese Substantivo ou sustantivo](https://portaldaspalabras.gal/xogo/b-bs-1/)
 
 **Tarefa 3**
 
