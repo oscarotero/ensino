@@ -3,6 +3,7 @@ title: Linguas e xogos de construción
 summary: En que se parecen?
 tags:
   - post
+  - semana-7
 eleventyExcludeFromCollections: false
 ---
 Se o pensades ben, a nosa lingua parécese moito a un deses xogos de construción aos que todos xogamos de pequenos. Lembrádesvos daqueles bloquiños de cores? Eu teño pasado horas deitada no chan a xuntar uns cos outros. Construía casas, edificios, barrios enteiros... até cidades.
