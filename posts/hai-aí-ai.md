@@ -21,7 +21,7 @@ Completa as oracións con *hai*, *aí* ou *ai:*
 5. <e-answer>Hai</e-answer> que ver o que é o amor.
 6. Podemos ir por <e-answer>aí</e-answer> e ver o que <e-answer>hai</e-answer>
 7. <e-answer>Aí</e-answer> tes o que me pediches.
-8. <e-answer>Ai</e-answer> que escuro está! Eu <e-answer>aí</e-answer> non entro
+8. <e-answer>Ai</e-answer> que escuro está! Eu <e-answer>aí</e-answer> non entro.
 9. <e-answer>Hai</e-answer> máis de dous días que non o vexo.
 10. <e-answer>Aí</e-answer> non <e-answer>hai</e-answer> ninguén.
 11. <e-answer>Ai</e-answer>, ten coidado! Case me pisas un pé!
