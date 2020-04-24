@@ -6,7 +6,7 @@ tags:
   - semana-7
 eleventyExcludeFromCollections: true
 ---
-| preposición/artigos | un   | unha  | uns   | unhas  |
+| preposicións/artigos | un   | unha  | uns   | unhas  |
 | ------------------- | ---- | ----- | ----- | ------ |
 | **con**             | cun  | cunha | cuns  | cunhas |
 | **de**              | dun  | dunha | duns  | dunhas |
@@ -17,9 +17,9 @@ Completa coas contraccións que corresponda:
 
 Exemplo:
 
-1. Fun <e-answer>ao</e-answer> supermercado, <e-answer>á</e-answer> peixaría e <e-answer>á</e-answer> panadaría.
-2. O irmán máis vello estuda <e-answer>no</e-answer> seu cuarto e o pequeno, <e-answer>na</e-answer> sala de estar.
-3. Se volves cedo <e-answer>do</e-answer> adestramento, iremos <e-answer>ao</e-answer>cinema.
+1. Vive <e-answer>nunha</e-answer> das zonas máis elegantes da cidade.
+2. Agora que te coñezo mellor, véxote <e-answer>dun</e-answer> xeito diferente.
+3. Os cans viven <e-answer>nun</e-answer> olfactivo, mentres que o noso é principalmente visual.
 4. Estamos a agardar <e-answer>polo</e-answer> tren que vén <e-answer>da</e-answer> Coruña
 5. Quero saír <e-answer>á</e-answer> rúa brincar <e-answer>coas</e-answer> miñas amigas.
 6. Espirro moito <e-answer>na</e-answer> primavera porque teño alerxia <e-answer>ao</e-answer> pole.
