@@ -4,7 +4,7 @@ summary: Aprende a distinguilos
 tags:
   - post
   - semana-7
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 ---
 ## **Non confundas aí, ai! e hai**
 
@@ -14,30 +14,15 @@ eleventyExcludeFromCollections: true
 
 Completa as oracións con *hai*, *aí* ou *ai:*
 
-1. .......... moito tempo .......... había unha fonte.
-2. ..........!, non me toques ..........
-3. .......... onde o colocamos non .......... problema.
-4. Canto tempo .......... que estás ..........?
-5. .......... que ver o que é o amor.
-6. Podemos ir por .......... e ver o que ..........
-7. .......... tes o que me pediches.
-8. .......... que escuro está! Eu .......... non entro
-9. ......... máis de dous días que non o vexo.
-10. ......... non ......... ninguén.
-11. ........., ten coidado! Case me pisas un pé!
-12. .......... leite no frigorífico.
-
-<details> <summary> Ver as solucións </summary>
-
-1. **Hai** moito tempo **aí** había unha fonte.
-2. **Ai**!, non me toques **aí**.
-3. **Aí** onde o colocamos non **ha**i problema.
-4. Canto tempo **hai** que estás **aí**?
-5. **Hai** que ver o que é o amor.
-6. Podemos ir por **aí** e ver o que **hai**.
-7. **Aí** tes o que me pediches.
-8. **Ai** que escuro está! Eu **aí** non entro
-9. **Hai** máis de dous días que non o vexo.
-10. **Aí** non **hai** ninguén.
-11. **Ai**, ten coidado! Case me pisas un pé!
-12. **Hai** leite no frigorífico.
+1. <e-answer>Hai</e-answer> moito tempo <e-answer>aí</e-answer> había unha fonte.
+2. <e-answer>Ai</e-answer>!, non me toques <e-answer>aí</e-answer>
+3. <e-answer>Aí</e-answer> onde o colocamos non <e-answer>hai</e-answer> problema.
+4. Canto tempo <e-answer>hai</e-answer> que estás <e-answer>aí</e-answer>?
+5. <e-answer>Hai</e-answer> que ver o que é o amor.
+6. Podemos ir por <e-answer>aí</e-answer> e ver o que <e-answer>hai</e-answer>
+7. <e-answer>Aí</e-answer> tes o que me pediches.
+8. <e-answer>Ai</e-answer> que escuro está! Eu <e-answer>aí</e-answer> non entro
+9. <e-answer>Hai</e-answer> máis de dous días que non o vexo.
+10. <e-answer>Aí</e-answer> non <e-answer>hai</e-answer> ninguén.
+11. Ai, ten coidado! Case me pisas un pé!
+12. <e-answer>Hai</e-answer> leite no frigorífico.
