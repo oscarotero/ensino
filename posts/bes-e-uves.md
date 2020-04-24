@@ -33,7 +33,7 @@ Menos mal que na rede hai moitos sitios con consellos e actividades para mellora
 
 ## Exercicios
 
-**Tarefa 1**
+### Tarefa 1
 
 Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
@@ -74,7 +74,7 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
 <e-validate>Corrixe as respostas</e-validate> 
 
-**Tarefa 2**
+### Tarefa 2
 
 2 xogos do Portal da palabras > Dimo con letras
 
@@ -82,7 +82,7 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
 [Be e be-ese Substantivo ou sustantivo](https://portaldaspalabras.gal/xogo/b-bs-1/)
 
-**Tarefa 3**
+### Tarefa 3
 
 Sabiades que hai un canción moi coñecida en que se brinca coas semellanzas fonéticas entre dúas palabras, unha con be e outra con uve. Podedes escoitar a versión que fixo dela [Andrés do Barro](https://gl.wikipedia.org/wiki/Andr%C3%A9s_do_Barro) aquí: [Vou a Bueu](https://www.youtube.com/watch?v=TMRPK2Tjjzs)
 
