@@ -26,3 +26,5 @@ Completa as oracións con *hai*, *aí* ou *ai:*
 10. <e-answer>Aí</e-answer> non <e-answer>hai</e-answer> ninguén.
 11. Ai, ten coidado! Case me pisas un pé!
 12. <e-answer>Hai</e-answer> leite no frigorífico.
+
+<e-validate>Corrixe as respostas</evalidate>
