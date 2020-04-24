@@ -1,19 +1,16 @@
 ---
 title: Contraccións (2)
-summary: Artigo determinado + preposición
+summary: Artigo indeterminado + preposición
 tags:
   - post
   - semana-7
 eleventyExcludeFromCollections: true
 ---
-| preposición/artigos | o    | a    | os    | as    |
-| ------------------- | ---- | ---- | ----- | ----- |
-| **a**               | ao   | á    | aos   | ás    |
-| **con**             | co   | coa  | cos   | coas  |
-| **de**              | do   | da   | dos   | das   |
-| **en**              | no   | na   | nos   | nas   |
-| **por**             | polo | pola | polos | polas |
-
+| preposición/artigos | un   | unha  | uns   | unhas  |
+| ------------------- | ---- | ----- | ----- | ------ |
+| **con**             | cun  | cunha | cuns  | cunhas |
+| **de**              | dun  | dunha | duns  | dunhas |
+| **en**              | nun  | nunha | nuns  | nunhas |
 
 
 Completa coas contraccións que corresponda:
@@ -37,8 +34,3 @@ Exemplo:
 
 <e-validate>Corrixe as respostas</e-validate>
 
-Vivo en A Coruña ou vivo na Coruña. A resposta correcta é a segunda. Eis a explicación:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HwbVcLvY2eA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![](/static/img/contraccion_artigo_preposición.png)
