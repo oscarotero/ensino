@@ -4,7 +4,7 @@ summary: Artigo indeterminado + preposición
 tags:
   - post
   - semana-7
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 ---
 | preposicións/artigos | un  | unha  | uns  | unhas  |
 | -------------------- | --- | ----- | ---- | ------ |
