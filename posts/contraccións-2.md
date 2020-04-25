@@ -4,7 +4,7 @@ summary: Artigo indeterminado + preposición
 tags:
   - post
   - semana-7
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 ---
 | preposicións/artigos | un   | unha  | uns   | unhas  |
 | ------------------- | ---- | ----- | ----- | ------ |
@@ -17,19 +17,19 @@ Completa coas contraccións que corresponda:
 
 Exemplo:
 
-1. Vive <e-answer>nunha</e-answer> das zonas máis elegantes da cidade.
-2. Agora que te coñezo mellor, véxote <e-answer>dun</e-answer> xeito diferente.
-3. Impórtache que mañá nos vexamos <e-answer>nun</e-answer> lugar diferente?
-4. Pénsao ben, trátase <e-answer>dunha</e-answer> decisión moi importante.
-5. Desde que perdeu o traballo, encóntrase <e-answer>nunha</e-answer> situación desesperada.
-6. Fun <e-answer>cuns</e-answer> amigos á festa e divertímonos moito. 
-7. Pararon <e-answer>nun</e-answer> supermercado ao pé da estrada e compraron auga e friame para faceren uns bocadillos.
-8. Onte vírono paseando pola rúa <e-answer>cunha</e-answer> rapaza.
-9. Verémonos <e-answer>nunhas</e-answer> semanas, volvo á casa o mes que vén.
-10. Coidado ao pasares por diante <e-answer>dun</e-answer> garaxe, porque pode saír un coche.
-11. Tropezou nunha pedra e caeu ao chan.
-12. No programa de hoxe van falar <e-answer>cunha</e-answer> doutora sobre as vacinas.
-13. O Titanic afundiu despois de colidir <e-answer>cun</e-answer> iceberg.
+1. Cortei o cabelo <e-answer>cunhas</e-answer> tesoiras que encontrei na cociña.
+2. O filme narra a vida <e-answer>duns</e-answer> mozos que cumpren a súa pena nun cárcere turco.
+3. O Titanic afundiu despois de colidir <e-answer>cun</e-answer> iceberg.
+3. Pénsao ben, trátase <e-answer>dunha</e-answer> decisión importante.
+4. Traballa <e-answer>nunha</e-answer> fábrica de automóbiles en Vigo.
+5. Fun <e-answer>cuns</e-answer> amigos á festa e divertímonos moito. 
+6. Pararon <e-answer>nun</e-answer> supermercado ao pé da estrada para comprar auga.
+8. Espero verte <e-answer>nunhas</e-answer> semanas, volvo á casa o mes que vén.
+9. Foi atropelado por un coche que saía e-answer>dun</e-answer> garaxe.
+10. No programa de hoxe van conversar <e-answer>cunha</e-answer> doutora sobre as vacinas.
+11. Despois de todo este esforzo, vou precisar <e-answer> dunhas</e-answer> boas vacacións.
+12. Agora non podo falar, chámote <e-answer>nuns</e-answer> minutos.
+
 
 <e-validate>Corrixe as respostas</e-validate>
 
