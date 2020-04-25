@@ -4,7 +4,7 @@ summary: Artigo determinado + preposición
 tags:
   - post
   - semana-7
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 ---
 | o       | a    | os   | as    |       |
 | ------- | ---- | ---- | ----- | ----- |
@@ -53,10 +53,10 @@ Sabendo isto, a única dificultade é saber cando o topónimo leva artigo. O art
 
 Estes son os lugares en que estivo Xoán esta semana:
 
-1. <e-answer>A</e-answer> Guarda 
-2. <e-answer></e-answer> Ribeira
-3. <e-answer>O</e-answer> Grove
-4. <e-answer>O</e-answer> Barco de Valdeorras
-5.  <e-answer>A</e-answer> Arzúa
-6. <e-answer>A</e-answer> Pobra do Caramiñal
-7. <e-answer>O</e-answer> Porriño
+1. O luns estivo <e-answer>na</e-answer> Guarda 
+2. O martes estivo <e-answer></e-answer> Ribeira
+3. O mércores estivo <e-answer>O</e-answer> Grove
+4. O xoves estivo <e-answer>O</e-answer> Barco de Valdeorras
+5. O venres estivo <e-answer>A</e-answer> Arzúa
+6. O sábado<e-answer>A</e-answer> Pobra do Caramiñal
+7. O domingo <e-answer>O</e-answer> Porriño
