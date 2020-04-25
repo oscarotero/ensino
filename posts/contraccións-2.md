@@ -25,7 +25,7 @@ Exemplo:
 5. Fun <e-answer>cuns</e-answer> amigos á festa e divertímonos moito. 
 6. Pararon <e-answer>nun</e-answer> supermercado ao pé da estrada para comprar auga.
 8. Espero verte <e-answer>nunhas</e-answer> semanas, volvo á casa o mes que vén.
-9. Foi atropelado por un coche que saía e-answer>dun</e-answer> garaxe.
+9. Foi atropelado por un coche que saía <e-answer>dun</e-answer> garaxe.
 10. No programa de hoxe van conversar <e-answer>cunha</e-answer> doutora sobre as vacinas.
 11. Despois de todo este esforzo, vou precisar <e-answer> dunhas</e-answer> boas vacacións.
 12. Agora non podo falar, chámote <e-answer>nuns</e-answer> minutos.
