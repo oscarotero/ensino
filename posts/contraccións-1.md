@@ -6,13 +6,13 @@ tags:
   - semana-7
 eleventyExcludeFromCollections: false
 ---
-| preposición/artigos | o    | a    | os    | as    |
-| ------------------- | ---- | ---- | ----- | ----- |
-| **a**               | ao   | á    | aos   | ás    |
-| **con**             | co   | coa  | cos   | coas  |
-| **de**              | do   | da   | dos   | das   |
-| **en**              | no   | na   | nos   | nas   |
-| **por**             | polo | pola | polos | polas |
+| o       | a    | os   | as    |       |
+| ------- | ---- | ---- | ----- | ----- |
+| **a**   | ao   | á    | aos   | ás    |
+| **con** | co   | coa  | cos   | coas  |
+| **de**  | do   | da   | dos   | das   |
+| **en**  | no   | na   | nos   | nas   |
+| **por** | polo | pola | polos | polas |
 
 Completa coas contraccións que corresponda:
 
@@ -40,5 +40,7 @@ Exemplo: Comemos polbo **á** feira e churrasco.
 20. Deixounos a todos <e-answer>coa</e-answer> boca aberta. 
 
 <e-validate>Corrixe as respostas</e-validate>
+
+E que sucede cos artigos que acompañan un nome de lugar?
 
 ![](/static/img/contraccion_artigo_preposición.png)
