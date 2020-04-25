@@ -47,4 +47,16 @@ Contraen tamén coas preposicións? Como será: Vivo en A Coruña ou vivo na Cor
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HwbVcLvY2eA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Responde as seguintes preguntas de acordo co modelo: Exemplo: Onde vai Xoán? Vai en Santiago de Compostela.
+Como moi ben explica Esther Estévez, os artigos que acompañan algúns topónimos compórtanse coma o resto dos artigos no que se refire ás contraccións. Xa que logo, cando van precedidos dunha preposición coa que realizan contracción, esta lévase a cabo igualmente: **vivo na Coruña, pasei polo Carballiño, vén da Estrada** etc.
+
+Sabendo isto, a única dificultade é saber cando o topónimo leva artigo. O artigo só é obrigatorio nalgúns. A ver se sabes cales?
+
+Estes son os lugares en que estivo Xoán esta semana:
+
+1. <e-answer>A</e-answer> Guarda 
+2. <e-answer></e-answer> Ribeira
+3. <e-answer>O</e-answer> Grove
+4. <e-answer>O</e-answer> Barco de Valdeorras
+5.  <e-answer>A</e-answer> Arzúa
+6. <e-answer>A</e-answer> Pobra do Caramiñal
+7. <e-answer>O</e-answer> Porriño
