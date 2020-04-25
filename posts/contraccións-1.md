@@ -41,9 +41,10 @@ Exemplo: Comemos polbo **á** feira e churrasco.
 
 <e-validate>Corrixe as respostas</e-validate>
 
-## E que sucede cos artigos que acompañan un nome de lugar?
-Como é: Vivo en A Coruña ou vivo na Coruña?
+## E que sucede cos artigos dos topónimos?
+
+Contraen tamén coas preposicións? Como será: Vivo en A Coruña ou vivo na Coruña?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HwbVcLvY2eA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+Responde as seguintes preguntas de acordo co modelo: Exemplo: Onde vai Xoán? Vai en Santiago de Compostela.
