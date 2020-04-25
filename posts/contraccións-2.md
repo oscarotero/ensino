@@ -28,7 +28,8 @@ Exemplo:
 9. Verémonos <e-answer>nunhas</e-answer> semanas, volvo á casa o mes que vén.
 10. Coidado ao pasares por diante <e-answer>dun</e-answer> garaxe, porque pode saír un coche.
 11. Tropezou nunha pedra e caeu ao chan.
-12. No programa de hoxe van falar <e-answer>cunha</e-answer> científica sobre as vacinas.
+12. No programa de hoxe van falar <e-answer>cunha</e-answer> doutora sobre as vacinas.
+13. O Titanic afundiu despois de colidir <e-answer>cun</e-answer> iceberg.
 
 <e-validate>Corrixe as respostas</e-validate>
 
