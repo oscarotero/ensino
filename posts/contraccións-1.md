@@ -42,5 +42,8 @@ Exemplo: Comemos polbo **á** feira e churrasco.
 <e-validate>Corrixe as respostas</e-validate>
 
 ## E que sucede cos artigos que acompañan un nome de lugar?
+Como é: Vivo en A Coruña ou vivo na Coruña?
 
-![](/static/img/contraccion_artigo_preposición.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HwbVcLvY2eA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
