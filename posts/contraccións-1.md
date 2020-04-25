@@ -41,6 +41,6 @@ Exemplo: Comemos polbo **á** feira e churrasco.
 
 <e-validate>Corrixe as respostas</e-validate>
 
-E que sucede cos artigos que acompañan un nome de lugar?
+## E que sucede cos artigos que acompañan un nome de lugar?
 
 ![](/static/img/contraccion_artigo_preposición.png)
