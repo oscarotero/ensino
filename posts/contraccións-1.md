@@ -66,3 +66,5 @@ Realiza a contracción cando sexa preciso:
 5. Nacín <e-answer>en</e-answer> (en) Ferrol, mais agora vivo <e-answer>nas</e-answer> (en) Pontes de García Rodríguez.
 6. A miña nai é <e-answer>da</e-answer> (de) Pobra do Caramiñal.
 7. Vivín varios anos <e-answer>no</e-answer> (en) Porriño.
+
+   <e-validate>Corrixe as respostas</e-validate>
