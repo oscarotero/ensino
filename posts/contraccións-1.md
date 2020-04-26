@@ -4,7 +4,7 @@ summary: Artigo determinado + preposición
 tags:
   - post
   - semana-7
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 ---
 As formas do artigo determinado contraen coas preposicións *a, con, de, en* e *por* en galego.
 
