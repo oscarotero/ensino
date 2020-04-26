@@ -26,7 +26,7 @@ Exemplo: Comemos polbo **á** feira e churrasco.
 2. O irmán máis vello estuda <e-answer>no</e-answer> seu cuarto e o pequeno, <e-answer>na</e-answer> sala de estar.
 3. Tatexaba máis do normal <e-answer>polos</e-answer> nervios.
 4. Se volves cedo <e-answer>do</e-answer> adestramento, iremos <e-answer>ao</e-answer> cinema.
-5. Estamos a agardar <e-answer>polo</e-answer> tren que vén <e-answer>da</e-answer> Coruña
+5. Estamos a agardar <e-answer>polo</e-answer> tren que vén <e-answer>da</e-answer> Coruña.
 6. Quero saír <e-answer>á</e-answer> rúa brincar <e-answer>coas</e-answer> miñas amigas.
 7. Meteu as mans <e-answer>nos</e-answer> petos e púxose a asubiar.
 8. Espirro moito <e-answer>na</e-answer> primavera porque teño alerxia <e-answer>ao</e-answer> pole.
