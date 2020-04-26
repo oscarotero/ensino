@@ -5,11 +5,13 @@ tags:
   - semana-7
 eleventyExcludeFromCollections: false
 ---
-O alfabeto ou abecedario é o conxunto ordenado de letras con que se representan os sons dunha lingua.
+O alfabeto ou abecedario é o conxunto de letras con que se representan os sons dunha lingua.
 
-O nome alfabeto creouse ao xuntar o nome das dúas primeiras letras gregas: alfa e beta. O termo abecedario é o resultado de xuntar as catro primeiras letras latinas. 
+O nome alfabeto creouse ao xuntar alfa + beta, os nomes das dúas primeiras letras do grego. Abecedario é o resultado de unir as catro primeiras letras do latín. 
 
-O alfabeto galego consta de 23 letras ou grafías (5 vogais e 18 consoantes): 
+Ao contrario do que acontece no español, o nome das letras é de xénero masculino en galego: *o a, o be, o pe* etc. 
+
+O noso alfabeto consta de 23 letras ou grafías (5 vogais e 18 consoantes):
 
 | Letra | Nome  |
 | ----- | ----- |
@@ -37,6 +39,8 @@ O alfabeto galego consta de 23 letras ou grafías (5 vogais e 18 consoantes):
 | **x** | xe    |
 | **z** | zeta  |
 
+
+
 Alén destas 23 letras, temos tamén 6 dígrafos. Un dígrafo é unha combinación de dúas letras que se empregan para representar na escrita, un único son. Os dígrafos do galego son:
 
 | Letra  | Nome       |
@@ -48,15 +52,15 @@ Alén destas 23 letras, temos tamén 6 dígrafos. Un dígrafo é unha combinaci�
 | **qu** | que u      |
 | **rr** | erre dobre |
 
-Os dígrafos non se poden separar ao final da liña. Exemplo: ningu-nha, fo-guete, arre-friado.
 
-O xénero das letras 
 
-O nome galego das letras é de xénero masculino: o a, o be, o pe etc.
+Os dígrafos non se poden separar ao final da liña. Exemplo: *ningu-nha, fo-gueira, arre-friado.*
+
+
 
 ### Exercicio 1
 
-Escribe o nome da letra ou do dígrafo pola que comeza cada unha das seguintes palabras:
+Escribe o nome da letra ou do dígrafo polo que comeza cada unha das seguintes palabras:
 
 1. queixo:  <e-answer>que u</e-answer> 
 2. xornal: <e-answer>xe</e-answer> 
