@@ -62,16 +62,16 @@ Os dígrafos non se poden separar ao final da liña. Exemplo: *ningu-nha, fo-gue
 
 Escribe o nome da letra ou do dígrafo polo que comeza cada unha das seguintes palabras:
 
-1. queixo:  <e-answer>que u</e-answer> 
-2. xornal: <e-answer>xe</e-answer> 
-3. nabo: <e-answer>ene</e-answer> 
-4. chuvia: <e-answer>ce hache</e-answer> 
-5. zapato: <e-answer>zeta</e-answer> 
-6. fama: <e-answer>efe</e-answer> 
-7. guerra: <e-answer>gue u</e-answer>
-8. ovo: <e-answer>o</e-answer>
-9. herba: <e-answer>hache</e-answer>
-10. sangue: <e-answer>ese</e-answer>
+1. queixo:  o <e-answer>que u</e-answer> 
+2. xornal: o <e-answer>xe</e-answer> 
+3. nabo: o <e-answer>ene</e-answer> 
+4. chuvia: o <e-answer>ce hache</e-answer> 
+5. zapato: o <e-answer>zeta</e-answer> 
+6. fama: o <e-answer>efe</e-answer> 
+7. guerra: o <e-answer>gue u</e-answer>
+8. ovo: o <e-answer>o</e-answer>
+9. herba: o <e-answer>hache</e-answer>
+10. sangue: o <e-answer>ese</e-answer>
 
     <e-validate>Corrixe as respostas</e-validate>
 
