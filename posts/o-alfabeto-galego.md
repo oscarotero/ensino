@@ -3,7 +3,7 @@ title: O alfabeto galego
 tags:
   - post
   - semana-7
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 ---
 O alfabeto ou abecedario é o conxunto de letras con que se representan os sons dunha lingua.
 
