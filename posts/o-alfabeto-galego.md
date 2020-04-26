@@ -103,10 +103,10 @@ Ordenas a letras e descubre a palabra escondida:
 
 ![](/static/img/hallway.jpg)
 
-<e-tag>R</e-tag> – <e-tag>O</e-tag> -<e-tag>E</e-tag> – <e-tag>R </e-tag>–  <e-tag>C</e-tag> –  <e-tag>R</e-tag>–  <e-tag>O</e-tag> –  <e-tag>D</e-tag> > <e-answer>C O R R E D O R</e-answer>
+<e-tag>R</e-tag><e-tag>O</e-tag><e-tag>E</e-tag><e-tag>R </e-tag><e-tag>C</e-tag><e-tag>R</e-tag><e-tag>O</e-tag><e-tag>D</e-tag> *🡒*   <e-answer>C O R R E D O R</e-answer>
 
 ![](/static/img/dishwasher.jpg)
 
-<e-tag>A</e-tag> – <e-tag>L</e-tag> – <e-tag>U</e-tag> – <e-tag>V</e-tag> – <e-tag>A<e-tag> – <e-tag>L</e-tag> – <e-tag>A</e-tag> - <e-tag>O</e-tag>> <e-answer>LAVALOUZA</e-answer>
+<e-tag>A</e-tag><e-tag>L</e-tag><e-tag>U</e-tag><e-tag>V</e-tag><e-tag>A<e-tag><e-tag>L</e-tag><e-tag>A</e-tag><e-tag>O</e-tag> *🡒*  <e-answer>LAVALOUZA</e-answer>
 
 <e-validate>Corrixe as respostas<e-validate>
