@@ -85,7 +85,7 @@ Soletrea as seguintes palabras:
 
 Intenta formar a palabra máis longa posíbel a partir destas 9 letras: 
 
-A - S - E - P - I - B - O - N - U: 
+<e-tag>A</e-tag> - S - E - P - I - B - O - N - U: 
 
 M - T - O - R - A - O - C - E - R: 
 
