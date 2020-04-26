@@ -16,6 +16,8 @@ As formas do artigo determinado contraen coas preposicións *a, con, de, en* e *
 | **en**               | no   | na   | nos   | nas   |
 | **por**              | polo | pola | polos | polas |
 
+### Exercicio 1
+
 Completa coas contraccións correspondentes:
 
 Exemplo: Comemos polbo **á** feira e churrasco.
@@ -52,6 +54,8 @@ Contraen tamén coas preposicións? Como será: Vivo en A Coruña ou vivo na Cor
 Hai topónimos que levan necesariamente artigo  (A Coruña, O Carballiño, A Estrada), mentres que outros se usan sempre sen artigo (Negreira, Vigo, Lugo). 
 
 Como moi ben explica Esther Estévez, os artigos que acompañan algúns destes nomes de lugar compórtanse coma o resto dos artigos no que se refire ás contraccións. De acordo con isto, cando van precedidos dunha preposición coa que contraen *(a, con, de, en* ou *por),* temos que facer a contracción igualmente: **vivo na Coruña, pasei polo Carballiño, vén da Estrada** etc.
+
+### Exercicio 2
 
 Realiza a contracción cando sexa preciso:
 
