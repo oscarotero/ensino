@@ -6,15 +6,17 @@ tags:
   - semana-7
 eleventyExcludeFromCollections: true
 ---
-| o       | a    | os   | as    |       |
-| ------- | ---- | ---- | ----- | ----- |
-| **a**   | ao   | á    | aos   | ás    |
-| **con** | co   | coa  | cos   | coas  |
-| **de**  | do   | da   | dos   | das   |
-| **en**  | no   | na   | nos   | nas   |
-| **por** | polo | pola | polos | polas |
+As formas do artigo determinado contraen coas preposicións *a, con, de, en* e *por* en galego.
 
-Completa coas contraccións que corresponda:
+| preposicións/artigos | o    | a    | os    | as    |
+| -------------------- | ---- | ---- | ----- | ----- |
+| **a**                | ao   | á    | aos   | ás    |
+| **con**              | co   | coa  | cos   | coas  |
+| **de**               | do   | da   | dos   | das   |
+| **en**               | no   | na   | nos   | nas   |
+| **por**              | polo | pola | polos | polas |
+
+Completa coas contraccións correspondentes:
 
 Exemplo: Comemos polbo **á** feira e churrasco.
 
@@ -41,22 +43,22 @@ Exemplo: Comemos polbo **á** feira e churrasco.
 
 <e-validate>Corrixe as respostas</e-validate>
 
-## E que sucede cos artigos dos topónimos?
+## E o que acontece cos artigos dos topónimos?
 
 Contraen tamén coas preposicións? Como será: Vivo en A Coruña ou vivo na Coruña?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HwbVcLvY2eA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Como moi ben explica Esther Estévez, os artigos que acompañan algúns topónimos compórtanse coma o resto dos artigos no que se refire ás contraccións. Xa que logo, cando van precedidos dunha preposición coa que realizan contracción, esta lévase a cabo igualmente: **vivo na Coruña, pasei polo Carballiño, vén da Estrada** etc.
+Hai topónimos que levan necesariamente artigo  (A Coruña, O Carballiño, A Estrada), mentres que outros se usan sempre sen artigo (Negreira, Vigo, Lugo). 
 
-Sabendo isto, a única dificultade é saber cando o topónimo leva artigo. O artigo só é obrigatorio nalgúns. A ver se sabes cales?
+Como moi ben explica Esther Estévez, os artigos que acompañan algúns destes nomes de lugar compórtanse coma o resto dos artigos no que se refire ás contraccións. De acordo con isto, cando van precedidos dunha preposición coa que contraen *(a, con, de, en* ou *por),* temos que facer a contracción igualmente: **vivo na Coruña, pasei polo Carballiño, vén da Estrada** etc.
 
-Estes son os lugares en que estivo Xoán esta semana:
+Realiza a contracción cando sexa preciso:
 
-1. O luns estivo <e-answer>na</e-answer> Guarda 
-2. O martes estivo <e-answer></e-answer> Ribeira
-3. O mércores estivo <e-answer>O</e-answer> Grove
-4. O xoves estivo <e-answer>O</e-answer> Barco de Valdeorras
-5. O venres estivo <e-answer>A</e-answer> Arzúa
-6. O sábado<e-answer>A</e-answer> Pobra do Caramiñal
-7. O domingo <e-answer>O</e-answer> Porriño
+1. Antón vai <e-answer>na</e-answer> (en) Guarda e non volve até a noite.
+2. Este ano quería ir á festa do queixo <e-answer>de</e-answer> (de) Arzúa.
+3. Pasei a fin de semana na casa dos meus pais <e-answer>en</e-answer> (en) Ribeira 
+4. Eles veranean <e-answer>no</e-answer> (en) Grove desde hai moitos anos.
+5. Nacín <e-answer>en</e-answer> (en) Ferrol, mais agora vivo <e-answer>nas</e-answer> (en) Pontes de García Rodríguez.
+6. A miña nai é <e-answer>da</e-answer> (de) Pobra do Caramiñal.
+7. Vivín varios anos <e-answer>no</e-answer> (en) Porriño.
