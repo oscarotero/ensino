@@ -61,7 +61,7 @@ Realiza a contracción cando sexa preciso:
 
 1. Antón vai <e-answer>na</e-answer> (en) Guarda e non volve até a noite.
 2. Este ano quería ir á festa do queixo <e-answer>de</e-answer> (de) Arzúa.
-3. Pasei a fin de semana na casa dos meus pais <e-answer>en</e-answer> (en) Ribeira 
+3. Pasei a fin de semana na casa dos meus pais <e-answer>en</e-answer> (en) Ribeira. 
 4. Eles veranean <e-answer>no</e-answer> (en) Grove desde hai moitos anos.
 5. Nacín <e-answer>en</e-answer> (en) Ferrol, mais agora vivo <e-answer>nas</e-answer> (en) Pontes de García Rodríguez.
 6. A miña nai é <e-answer>da</e-answer> (de) Pobra do Caramiñal.
