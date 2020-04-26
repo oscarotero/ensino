@@ -6,7 +6,7 @@ tags:
   - semana-7
 eleventyExcludeFromCollections: true
 ---
-As formas do artigo determinado contraen coas preposicións *a, con, de, en* e *por* en galego.
+As formas do artigo determinado *(o, a, os, as)* contraen coas preposicións *a, con, de, en* e *por* en galego.
 
 | preposicións/artigos | o    | a    | os    | as    |
 | -------------------- | ---- | ---- | ----- | ----- |
