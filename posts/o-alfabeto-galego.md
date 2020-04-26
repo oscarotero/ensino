@@ -109,4 +109,4 @@ Ordenas a letras e descubre a palabra escondida:
 
 <e-tag>A</e-tag><e-tag>L</e-tag><e-tag>U</e-tag><e-tag>V</e-tag><e-tag>A</e-tag><e-tag>L</e-tag><e-tag>A</e-tag><e-tag>O</e-tag> *🡒*  <e-answer>LAVALOUZA</e-answer>
 
-<e-validate>Corrixe as respostas<e-validate>
+<e-validate>Corrixe as respostas</e-validate>
