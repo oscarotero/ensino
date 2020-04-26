@@ -39,8 +39,6 @@ O noso alfabeto consta de 23 letras ou grafías (5 vogais e 18 consoantes):
 | **x** | xe    |
 | **z** | zeta  |
 
-
-
 Alén destas 23 letras, temos tamén 6 dígrafos. Un dígrafo é unha combinación de dúas letras que se empregan para representar na escrita, un único son. Os dígrafos do galego son:
 
 | Letra  | Nome       |
@@ -52,11 +50,7 @@ Alén destas 23 letras, temos tamén 6 dígrafos. Un dígrafo é unha combinaci�
 | **qu** | que u      |
 | **rr** | erre dobre |
 
-
-
 Os dígrafos non se poden separar ao final da liña. Exemplo: *ningu-nha, fo-gueira, arre-friado.*
-
-
 
 ### Exercicio 1
 
@@ -86,3 +80,17 @@ Soletrea as seguintes palabras:
 5. camelo: o <e-answer>ce</e-answer>, o <e-answer>a</e-answer>, o <e-answer>eme</e-answer>, o <e-answer>e</e-answer>, o <e-answer>ele</e-answer>, o <e-answer>o</e-answer>
 
    <e-validate>Corrixe as respostas</e-validate>
+
+### Exercicio 3
+
+Intenta formar a palabra máis longa posíbel a partir destas 9 letras: 
+
+A - S - E - P - I - B - O - N - U: 
+
+M - T - O - R - A - O - C - E - R: 
+
+E - X - A - O - G - E - R - I - D:
+
+F - U - E - B - U - S - Z - O - L:
+
+R - H - A - E - M - R - O - E - F:
