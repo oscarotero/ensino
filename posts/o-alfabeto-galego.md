@@ -37,8 +37,6 @@ O alfabeto galego consta de 23 letras ou grafías (5 vogais e 18 consoantes):
 | **x** | xe    |
 | **z** | zeta  |
 
-
-
 Alén destas 23 letras, temos tamén 6 dígrafos. Un dígrafo é unha combinación de dúas letras que se empregan para representar na escrita, un único son. Os dígrafos do galego son:
 
 | Letra  | Nome       |
@@ -50,8 +48,6 @@ Alén destas 23 letras, temos tamén 6 dígrafos. Un dígrafo é unha combinaci�
 | **qu** | que u      |
 | **rr** | erre dobre |
 
-
-
 Os dígrafos non se poden separar ao final da liña. Exemplo: ningu-nha, fo-guete, arre-friado.
 
 O xénero das letras 
@@ -60,9 +56,9 @@ O nome galego das letras é de xénero masculino: o a, o be, o pe etc.
 
 ### Exercicio 1
 
-Escribe o nome da letra pola que comeza cada unha das seguintes palabras:
+Escribe o nome da letra ou do dígrafo pola que comeza cada unha das seguintes palabras:
 
-1. queixo:  <e-answer>que</e-answer> 
+1. queixo:  <e-answer>que u</e-answer> 
 2. xornal: <e-answer>xe</e-answer> 
 3. nabo: <e-answer>ene</e-answer> 
 4. chuvia: <e-answer>ce hache</e-answer> 
@@ -75,9 +71,7 @@ Escribe o nome da letra pola que comeza cada unha das seguintes palabras:
 
     <e-validate>Corrixe as respostas</e-validate>
 
-
-
-### Exercicio 2 
+### Exercicio 2
 
 Soletrea as seguintes palabras:
 
