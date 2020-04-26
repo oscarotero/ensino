@@ -3,7 +3,7 @@ title: O alfabeto galego
 tags:
   - post
   - semana-7
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 ---
 O alfabeto ou abecedario é o conxunto de letras con que se representan os sons dunha lingua.
 
@@ -39,7 +39,9 @@ O noso alfabeto consta de 23 letras ou grafías (5 vogais e 18 consoantes):
 | **x** | xe    |
 | **z** | zeta  |
 
-Alén destas 23 letras, temos tamén 6 dígrafos. Un dígrafo é unha combinación de dúas letras que se empregan para representar na escrita, un único son. Os dígrafos do galego son:
+## Os dígrafos
+
+Ademais destas 23 letras, temos tamén 6 dígrafos. Un dígrafo é unha combinación de dúas letras que se empregan para representar na escrita, un único son. Os dígrafos do galego son:
 
 | Letra  | Nome       |
 | ------ | ---------- |
@@ -51,6 +53,18 @@ Alén destas 23 letras, temos tamén 6 dígrafos. Un dígrafo é unha combinaci�
 | **rr** | erre dobre |
 
 Os dígrafos non se poden separar ao final da liña. Exemplo: *ningu-nha, fo-gueira, arre-friado.*
+
+## Letras doutros alfabetos
+
+Aínda que as seguintes letras non forman parte do alfabeto galego, aparecen en palabras que tomamos doutras linguas. Algunhas delas usámolas moito:
+
+| Letra | Nome        | Exemplo |
+| ----- | ----------- | ------- |
+| **ç** | c cedillado | Eça     |
+| **j** | iota        | júnior  |
+| **k** | ka          | karate  |
+| **w** | uve dobre   | web     |
+| **y** | y grego     | spray   |
 
 ### Exercicio 1
 
@@ -66,6 +80,8 @@ Escribe o nome da letra ou do dígrafo polo que comeza cada unha das seguintes p
 8. ovo: o <e-answer>o</e-answer>
 9. herba: o <e-answer>hache</e-answer>
 10. sangue: o <e-answer>ese</e-answer>
+11. judo: o <e-answer>iota</e-answer>
+12. garda: o <e-answer>gue</e-answer>
 
     <e-validate>Corrixe as respostas</e-validate>
 
@@ -83,14 +99,12 @@ Soletrea as seguintes palabras:
 
 ### Exercicio 3
 
-Intenta formar a palabra máis longa posíbel a partir destas 9 letras: 
+Ordenas a letras e descubre a palabra escondida:
 
-<e-tag>A</e-tag> - S - E - P - I - B - O - N - U: 
+![](/static/img/hallway.jpg)
 
-M - T - O - R - A - O - C - E - R: 
+<e-tag>R</e-tag> – <e-tag>O</e-tag> -<e-tag>E</e-tag> – <e-tag>R </e-tag>–  <e-tag>C</e-tag> –  <e-tag>R</e-tag>–  <e-tag>O</e-tag> –  <e-tag>D</e-tag> > <e-validate>C O R R E D O R</e-validate>
 
-E - X - A - O - G - E - R - I - D:
+![](/static/img/dishwasher.jpg)
 
-F - U - E - B - U - S - Z - O - L:
-
-R - H - A - E - M - R - O - E - F:
+<e-tag>A</e-tag> – <e-tag>L</e-tag> – <e-tag>U</e-tag> – <e-tag>V</e-tag> – <e-tag>A<e-tag> – <e-tag>L<e-tag> – <e-tag>A<e-tag> - <e-tag>O<e-tag>> <e-validate>LAVALOUZA</e-validate>
