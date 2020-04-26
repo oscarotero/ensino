@@ -6,6 +6,8 @@ tags:
   - semana-7
 eleventyExcludeFromCollections: true
 ---
+As formas do artigo indeterminado *(un, unha, uns, unhas)* contraen coas preposicións *con, de* e *en* en galego.
+
 | preposicións/artigos | un  | unha  | uns  | unhas  |
 | -------------------- | --- | ----- | ---- | ------ |
 | **con**              | cun | cunha | cuns | cunhas |
@@ -13,6 +15,8 @@ eleventyExcludeFromCollections: true
 | **en**               | nun | nunha | nuns | nunhas |
 
 
+
+### Exercicio 1
 
 Completa coas contraccións que corresponda:
 
