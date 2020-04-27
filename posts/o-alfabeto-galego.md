@@ -63,7 +63,7 @@ Aínda que as seguintes letras non forman parte do alfabeto galego, aparecen en 
 | **ç** | c cedillado | Eça     |
 | **j** | iota        | júnior  |
 | **k** | ka          | karate  |
-| **w** | uve dobre   | web     |
+| **w** | uve dobre   | show    |
 | **y** | y grego     | spray   |
 
 ### Exercicio 1
@@ -81,7 +81,11 @@ Escribe o nome da letra ou do dígrafo polo que comeza cada unha das seguintes p
 9. herba: o <e-answer>hache</e-answer>
 10. sangue: o <e-answer>ese</e-answer>
 11. judo: o <e-answer>iota</e-answer>
-12. nabo: o <e-answer>ene</e-answer> 
+12. nabo: o <e-answer>ene</e-answer>
+13. web: o <e-answer>uve dobre</e-answer>
+14. cunca: o <e-answer>ce</e-answer>
+15. xabón: o <e-answer>xe</e-answer>
+ 
 
     <e-validate>Corrixe as respostas</e-validate>
 
@@ -96,7 +100,5 @@ Soletrea as seguintes palabras:
 5. camelo: o <e-answer>ce</e-answer>, o <e-answer>a</e-answer>, o <e-answer>eme</e-answer>, o <e-answer>e</e-answer>, o <e-answer>ele</e-answer>, o <e-answer>o</e-answer>
 
    <e-validate>Corrixe as respostas</e-validate>
-
-
 
 ![]()
