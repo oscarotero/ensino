@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: false
 ---
 Hai uns días soubemos que o Consorcio Unicode decidiu aumentar a familia de emojis con 157 novos emojis. Unicode é o organismo que está ao cargo de estandarizar todos os caracteres dispoñíbeis nos nosos teclados, entre eles os emojis. Segundo a [Emojipedia](https://emojipedia.org/), con esta actualización imos ter ao noso dispor 2.823 😮
 
-Podedes ler a información completa aquí: [As novas emoticonas chegan con microbios, placas de Petri e moita ciencia](https://www.gciencia.com/tolociencia/novas-emoticonas-microbios-placas-petri-ciencia/)
+Podedes ler a información completa aquí: [As novas emoticonas chegan con microbios, placas de Petri e moita ciencia.](https://www.gciencia.com/tolociencia/novas-emoticonas-microbios-placas-petri-ciencia/)
 
 ## Emoticonas e emojis son a mesma cousa?
 
