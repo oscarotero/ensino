@@ -51,7 +51,7 @@ Contraen tamén coas preposicións? Como será: Vivo en A Coruña ou vivo na Cor
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HwbVcLvY2eA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Hai topónimos que levan necesariamente artigo  (A Coruña, O Carballiño, A Estrada), mentres que outros se usan sempre sen artigo (Negreira, Vigo, Lugo). 
+Hai topónimos que levan necesariamente artigo  (A Coruña, O Carballiño, A Estrada), mentres que outros se usan sempre sen el (Negreira, Vigo, Lugo). 
 
 Como moi ben explica Esther Estévez, os artigos que acompañan algúns destes nomes de lugar compórtanse coma o resto dos artigos no que se refire ás contraccións. De acordo con isto, cando van precedidos dunha preposición coa que contraen *(a, con, de, en* ou *por),* temos que facer a contracción igualmente: **vivo na Coruña, pasei polo Carballiño, vén da Estrada** etc.
 
