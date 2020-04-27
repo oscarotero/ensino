@@ -4,7 +4,7 @@ summary: Aprende a distinguilos
 tags:
   - post
   - semana-7
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 ---
 ## **Non confundas aí, ai! e hai**
 
