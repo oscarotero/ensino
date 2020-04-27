@@ -96,6 +96,6 @@ Soletrea as seguintes palabras:
 2. illa: o <e-answer>i</e-answer>, o <e-answer>ele dobre</e-answer>, o <e-answer>a</e-answer>
 3. camelo: o <e-answer>ce</e-answer>, o <e-answer>a</e-answer>, o <e-answer>eme</e-answer>, o <e-answer>e</e-answer>, o <e-answer>ele</e-answer>, o <e-answer>o</e-answer>
 4. barro: o <e-answer>be</e-answer>, o <e-answer>a</e-answer>, o <e-answer>erre dobre</e-answer>, o <e-answer>o</e-answer>
-5. vasoira: o <e-answer>uve</e-answer>, o <e-answer>a</e-answer>, o <e-answer>ese</e-answer>, o <e-answer>i</e-answer>, o <e-answer>erre</e-answer>, o <e-answer>a</e-answer>
+5. vasoira: o <e-answer>uve</e-answer>, o <e-answer>a</e-answer>, o <e-answer>ese</e-answer>, o <e-answer>o</e-answer>, o <e-answer>i</e-answer>, o <e-answer>erre</e-answer> o <e-answer>a</e-answer>
 
 <e-validate>Corrixe as respostas</e-validate>
