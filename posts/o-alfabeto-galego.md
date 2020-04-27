@@ -85,7 +85,6 @@ Escribe o nome da letra ou do dígrafo polo que comeza cada unha das seguintes p
 13. web: o <e-answer>uve dobre</e-answer>
 14. cunca: o <e-answer>ce</e-answer>
 15. xabón: o <e-answer>xe</e-answer>
- 
 
     <e-validate>Corrixe as respostas</e-validate>
 
@@ -94,11 +93,9 @@ Escribe o nome da letra ou do dígrafo polo que comeza cada unha das seguintes p
 Soletrea as seguintes palabras:
 
 1. algunha: o <e-answer>a</e-answer>, o <e-answer>ele</e-answer>, o <e-answer>gue</e-answer>, o <e-answer>u</e-answer>, o <e-answer>ene hache</e-answer>, o <e-answer>a</e-answer>
-2. illa: o <e-answer>i</e-answer>, o <e-answer>ele dobre</e-answer>, o <e-answer>a</e-answer>  
-3. barro: o <e-answer>be</e-answer>, o <e-answer>a</e-answer>, o <e-answer>erre dobre</e-answer>, o <e-answer>o</e-answer>
-4. vasoira: o <e-answer>uve</e-answer>, o <e-answer>a</e-answer>, o <e-answer>ese</e-answer>, o <e-answer>i</e-answer>, o <e-answer>erre</e-answer>, o <e-answer>a</e-answer>, 
-5. camelo: o <e-answer>ce</e-answer>, o <e-answer>a</e-answer>, o <e-answer>eme</e-answer>, o <e-answer>e</e-answer>, o <e-answer>ele</e-answer>, o <e-answer>o</e-answer>
+2. illa: o <e-answer>i</e-answer>, o <e-answer>ele dobre</e-answer>, o <e-answer>a</e-answer>
+3. camelo: o <e-answer>ce</e-answer>, o <e-answer>a</e-answer>, o <e-answer>eme</e-answer>, o <e-answer>e</e-answer>, o <e-answer>ele</e-answer>, o <e-answer>o</e-answer>
+4. barro: o <e-answer>be</e-answer>, o <e-answer>a</e-answer>, o <e-answer>erre dobre</e-answer>, o <e-answer>o</e-answer>
+5. vasoira: o <e-answer>uve</e-answer>, o <e-answer>a</e-answer>, o <e-answer>ese</e-answer>, o <e-answer>i</e-answer>, o <e-answer>erre</e-answer>, o <e-answer>a</e-answer>, 
 
-   <e-validate>Corrixe as respostas</e-validate>
-
-![]()
+<e-validate>Corrixe as respostas</e-validate>
