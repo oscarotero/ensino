@@ -18,7 +18,7 @@ O xerador de cartaces presenta dúas opcións:
 1. Xerarmos un cartaz a partir da canción do artista que queiramos. Neste caso, teremos que premer enriba da pestana song (**canción**) e completarmos os campos: 
 
 * song title (**o título da canción**)
-* song artist(**o nome do artista que a canta**)
+* song artist (**o nome do artista que a canta**)
 
 Tamén podemos escoller entre usarmos soup (**xabón**) ou gel (**xel**) para lavarmos as mans e o skin tone (**o ton de pel**) que terán as mans que van aparecer no noso cartaz. 
 
