@@ -38,12 +38,12 @@ Para as formas de respecto usamos as formas de terceira persoa do presente de su
 
 As formas negativas de imperativo tamén coinciden coas do presente de subxuntivo. Para obtelas, temos que substituír a vogal temática por *e,* nos verbos da 1ª conxugación, e por *a,* nos verbos da 2ª e 3ª conxugación. Estes son os pasos:
 
-#### Verbos da 1ª conxugación
+#### Verbos da 1ª conxugación (andar):
 
 1. Trocamos a vogal temática do infinitivo por un *e:* *and-**a**-r* > *and-**e***
 2. Adicionamos a desinencia de número e persoa Ex.: *and**e**, and**e**s, and**e**, and**e**mos, and**e**des, and**e**n*
 
-#### Verbos da 2ª e 3ª conxugación:
+#### Verbos da 2ª (comer) e 3ª conxugación (partir):
 
 1. Trocamos a vogal temática do infinitivo (*e,* nos verbos da 2ª, ou *i,* nos verbos da 3ª) por *a:* *com-**e**-r* > *com-**a*** 
 2. Adicionamos a desinencia de número e persoa Ex.: *coma, comas, coma, comamos, comades, coman* part-**i**-r > part-**a** Ex.: *parta, partas, parta, partamos, partades, parten*
