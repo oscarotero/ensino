@@ -7,23 +7,23 @@ tags:
   - semana-8
 eleventyExcludeFromCollections: false
 ---
-Lavarmos as mans, unha acción cotiá que todos realizabamos sen pensar moito, tornouse agora nun xesto fundamental para frearmos o espallamento do coronavirus. De aí a importancia de que todos aprendamos a facelo do xeito adecuado. Para axudarnos nesta tarefa, axiña xurdiron na rede moitas iniciativas pensadas para aprendermos a técnica para unha correcta hixiene de mans. Unha delas é o xerador de cartaces:
+Lavarmos as mans, unha acción cotiá que todos realizabamos sen pensar moito, tornouse agora nun xesto fundamental para frearmos o espallamento do coronavirus. De aí a importancia de que todos aprendamos a facelo do xeito adecuado. Para axudarnos nesta tarefa, axiña xurdiron na rede moitas iniciativas. Unha delas é o xerador de cartaces:
 
 [Wash your lyrics](https://washyourlyrics.com/)
 
-Trátase dunha ferramenta creada por un deseñador e programador inglés chamado William que permite xerar automaticamente pósters ou cartaces coas intrucións para lavares as mans a partir da túa canción preferida.
+Trátase dunha ferramenta creada por un deseñador e programador inglés chamado William que permite xerar automaticamente pósters ou cartaces coas intrucións para lavarmos as mans a partir da vosa canción preferida.
 
 O xerador de cartaces permite dúas opcións:
 
-1. Xerar un cartaz a partir da canción do artista que queiramos. Neste caso, teremos que premer enriba da pestana canción (song) e completarmos os campos: 
+1. Xerarmos un cartaz a partir da canción do artista que queiramos. Neste caso, teremos que premer enriba da pestana canción (song) e completarmos os campos: 
 
-* Escribir o título da canción en Song title 
-* Escribir o nome do artista que a canta en Song artist
-* Escoller se queremos lavar as mans con xabón (soap) ou con xel (gel) 
-* Escoller o ton de pel das mans que van aparecer no noso póster
-* Xerar o noso póster clicando en Generate.
+* Escribirmos o título da canción en Song title 
+* Escribirmos o nome do artista que a canta en Song artist
+* Escollermos se queremos lavar as mans con xabón (soap) ou con xel (gel) 
+* Escollermos o ton de pel das mans que van aparecer no noso póster
+* Xerarmos o noso póster clicando en Generate.
 
-2. Xerar un póster a partir dun texto que nós lle deamos. Para isto, teremos que premer sobre a pestana Custom e escribilo dentro do cadro.  Isto último foi o fixen eu e velaquí o resultado: 
+2. Xerarmos un póster a partir dun texto que nós lle deamos. Para isto, teremos que premer sobre a pestana Custom e escribilo dentro do cadro.  Isto último foi o fixen eu, velaquí o resultado: 
 
    ![imaxe](/static/img/cartaz-lavado-mans.png)
 
