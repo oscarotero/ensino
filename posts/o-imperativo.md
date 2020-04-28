@@ -1,36 +1,49 @@
 ---
 title: O imperativo
+summary: "O imperativo é un dos tres modos verbais do verbo. Os outros dous son
+  indicativo e o subxuntivo. "
 tags:
   - post
 eleventyExcludeFromCollections: false
 ---
-O imperativo é un dos tres modos verbais do verbo. Os outros dous son indicativo e o subxuntivo. 
+## Para que o usamos?
 
+\- Darmos ordes: **Ordena** o teu cuarto agora!
 
+\- Expresarmos prohibicións: Non **corras**!
 
-Para que o usamos?
+\- Aconsellarmos ou facermos recomendacións: **Fai** o que poidas!
 
-\- Dar ordes: **Ordena** o teu cuarto agora!
+## Cales son as súas formas?
 
-\- Expresar prohibicións: Non **corras**!
+### As formas positivas
 
-\- Aconsellar: **Fai** o que poidas!
+As formas positivas do imperativo son 4:
 
+2ª persoa de singular: Ti, **anda**
 
+2ª persoa de plural: Vós, **andade**
 
-Cales son as súas formas?
+2ª persoa de singular de respecto: Vostede, **veña** comigo, por favor
 
-O imperativo só ten 4 formas: 
+2ª persoa de plural de respecto: Vostedes, **veñan** comigo, por favor
 
-2ª persoa de singular: Anda
+### **As formas negativas**
 
-2ª persoa de plural: Andade
+As formas negativas de imperativo coinciden coas do presente de subxuntivo. Para obtelas, temos que substituír a vogal temática por e, nos verbos da 1ª conxugación, e por a, nos verbos da 2ª e 3ª conxugación. Estes son os pasos:
 
-2ª persoa de singular de respecto: Ande
+#### Verbos da 1ª conxugación
 
-2ª persoa de plural de respecto: Anden
+1. Trocamos a vogal temática do infinitivo, o *a,*  por un *e:* and-**a**-r > and-**e**
+2. Adicionamos a desinencia de número e persoa Ex.:*and**e**, and**e**s, and**e**, and**e**mos, and**e**des, and**e**n*
 
-As formas negativas de imperativo son as mesmas que as de presente de subxuntivo.
+#### Verbos da 2ª e 3ª conxugación:
+
+1. Trocamos a vogal temática do infinitivo (*e,* nos verbos da 2ª, ou *i,* nos verbos da 3ª) por *a:
+*com-**e**-r > com-**a**
+Ex.: *coma, comas, coma, comamos, comades, coman*
+part-**i**-r > part-**a**
+Ex.: *parta, partas, parta, partamos, partades, parten*
 
 Neste vídeo sobre o imperativo:
 
