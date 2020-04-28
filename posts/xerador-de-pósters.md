@@ -25,7 +25,7 @@ Tamén podemos escoller entre usarmos xabón (soup) ou xel (gel) para lavarmos a
 
 2. Xerarmos un póster a partir dun texto que nós lle deamos. Para isto, teremos que premer sobre a pestana Custom e escribilo dentro do cadro.  Isto último foi o fixen eu, velaquí o resultado: 
 
-   ![imaxe](/static/img/cartaz-lavado-mans.png)
+   ![imaxe](/static/img/cartaz-lavado-de-mans.png)
 
 - - -
 
