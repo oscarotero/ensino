@@ -17,19 +17,24 @@ eleventyExcludeFromCollections: false
 
 ### As formas positivas
 
-Son catro:
+O imperativo afirmativo en galego ten catro formas: ti e vós (informal); vostede e vostedes (formal)
 
 * 2ª persoa de singular: *Ti, **anda***
 * 2ª persoa de plural: *Vós, **andade*** 
 * 2ª persoa de singular de respecto: *Vostede, **veña** comigo, por favor*
 * 2ª persoa de plural de respecto: *Vostedes, **veñan** comigo, por favor* 
 
-#### E como se forman?  
+#### E como se forman?
 
-As dúas primeiras fórmanse eliminando o *\-s* final das formas do presente de indicativo:
+As formas para ti e para vós obtéñense eliminando o *\-s* final das formas do presente de indicativo:
 
-* *Ti anda(s)* > *Ti, anda*
-* *Vós andade(s)* > *Vós, andade* 
+* *Ti anda(s)* > A*nda ti*
+* *Vós andade(s)* > Andade v*ós*
+
+Aínda que esta é a regra xeral, existen verbos que presentan irregularidades (pór, facer, ser, estar etc)
+
+* *Ti pos > Pon ti* 
+* *Ti fas* > Fai ti
 
 Para as formas de respecto usamos as formas de terceira persoa do presente de subxuntivo.
 
@@ -43,12 +48,15 @@ As formas negativas de imperativo tamén coinciden coas do presente de subxuntiv
 #### Verbos da 1ª conxugación (andar):
 
 1. Trocamos a vogal temática do infinitivo por un *e:* *and-**a**-r* > *and-**e***
-2. Adicionamos a desinencia de número e persoa Ex.: *ande, andes, ande, andemos, andedes, anden*
+2. Adicionamos a desinencia de número e persoa: *ande, andes, ande, andemos, andedes, anden*
 
 #### Verbos da 2ª (comer) e 3ª conxugación (partir):
 
 1. Trocamos a vogal temática do infinitivo (*e,* nos verbos da 2ª, ou *i,* nos verbos da 3ª) por *a:* *com-**e**-r* > *com-**a*** 
-2. Adicionamos a desinencia de número e persoa Ex.: *coma, comas, coma, comamos, comades, coman* part-**i**-r > part-**a** Ex.: *parta, partas, parta, partamos, partades, parten*
+2. Adicionamos a desinencia de número e persoa:
+   *comer: coma, comas, coma, comamos, comades, coman* 
+
+   *partir: parta, partas, parta, partamos, partades, parten*
 
 Se aínda non o tes claro, podes ollar este vídeo onde se tratan todas estas cuestións:
 
