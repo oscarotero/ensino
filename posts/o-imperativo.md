@@ -52,7 +52,7 @@ As formas negativas de imperativo tamén coinciden coas do presente de subxuntiv
 
 #### Verbos da 2ª (comer) e 3ª conxugación (partir):
 
-1. Trocamos a vogal temática do infinitivo (*e,* nos verbos da 2ª, ou *i,* nos verbos da 3ª) por *a:* *com-**e**-r > com-a; part-**i**-r > part-a*
+1. Trocamos a vogal temática do infinitivo (*e,* nos verbos da 2ª, ou *i,* nos verbos da 3ª) por *a:* *com-**e**-r > com-**a**; part-**i**-r > part-**a***
 2. Adicionamos a desinencia de número e persoa:
 
    \- *comer: coma, comas, coma, comamos, comades, coman*
