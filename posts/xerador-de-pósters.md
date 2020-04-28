@@ -6,7 +6,7 @@ summary: Trátase dunha ferramenta creada por un deseñador e programador inglé
 tags:
   - post
   - semana-6
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 ---
 Recursos
 
@@ -24,10 +24,12 @@ O xerador de cartaces permite dúas opcións:
 
 2. Xerar un póster a partir dun texto que nós lle deamos. Para isto, teremos que premer sobre a pestana Custom e escribilo dentro do cadro.  Isto último foi o fixen eu e velaquí o resultado: 
 
-   ![imaxe](/static/img/técnica_para_lavar_as_mans.png)
+   ![imaxe](/static/img/cartaz-lavado-mans.png)
 
 - - -
 
 ## Exercicio
 
-Xerade un cartaz igual ao que fixen eu, só que quero troquedes a persoa. Eu fixen un cartaz para vós e como eu voa atúo, usei a 2º persoa.
+1. Localizade todos os verbos en imperativo que hai no cartaz que xerei eu.
+
+2. Usade o xerador para crear vós un cartaz para unha residencia de anciáns. Tedes que ter en conta que en Galiza o habitual é usarmos as formas de respecto vostede ou vostedes para tratar as persoas dunha certa idade, xa que logo, facede as adaptacións necesarias nos textos.
