@@ -17,7 +17,7 @@ eleventyExcludeFromCollections: false
 
 ### As formas positivas
 
-Temos catro formas do imperativo:
+Son catro:
 
 * 2ª persoa de singular: *Ti, **anda***
 * 2ª persoa de plural: *Vós, **andade*** 
