@@ -11,7 +11,7 @@ Lavarmos as mans, unha acción cotiá que todos realizabamos sen pensar moito, t
 
 [Wash your lyrics](https://washyourlyrics.com/)
 
-Trátase dunha ferramenta creada por un deseñador e programador inglés chamado William que permite xerar automaticamente pósters ou cartaces coas intrucións para lavarmos as mans a partir da vosa canción preferida.
+Trátase dunha ferramenta creada por un deseñador e programador inglés chamado William que permite xerarmos automaticamente pósters ou cartaces coas intrucións para lavarmos as mans a partir da nosa canción preferida.
 
 O xerador de cartaces permite dúas opcións:
 
