@@ -15,14 +15,14 @@ Trátase dunha ferramenta creada por un **deseñador e programador inglés** cha
 
 O xerador de cartaces presenta dúas opcións:
 
-1. Xerarmos un cartaz a partir da canción do artista que queiramos. Neste caso, teremos que premer enriba da pestana canción (song) e completarmos os campos: 
+1. Xerarmos un cartaz a partir da canción do artista que queiramos. Neste caso, teremos que premer enriba da pestana **canción** (song) e completarmos os campos: 
 
 * o título da canción en Song title 
 * o nome do artista que a canta en Song artist
 
 Tamén podemos escoller entre usarmos xabón (soup) ou xel (gel) para lavarmos as mans e o tons de pel (skin tone) que terán as mans que van aparecer no noso cartaz. 
 
-2. Xerarmos un póster a partir dun texto que nós lle deamos. Para isto, teremos que premer sobre a pestana Custom e escribilo dentro do cadro.  Isto último foi o fixen eu, velaquí o resultado: 
+2. Xerarmos un póster a partir dun texto que nós lle deamos. Para isto, teremos que premer sobre a pestana **custom** e escribilo dentro do cadro.  Isto último foi o fixen eu, velaquí o resultado: 
 
    ![imaxe](/static/img/cartaz-lavado-de-mans.png)
 
