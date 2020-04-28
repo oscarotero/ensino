@@ -19,9 +19,8 @@ O xerador de cartaces presenta dúas opcións:
 
 * o título da canción en Song title 
 * o nome do artista que a canta en Song artist
-* Xerarmos o noso póster clicando en Generate.
 
-Tamén podemos escoller entre usarmos xabón (soup) ou xel (gel) para lavarmos as mans e o tons de pel (skin tone) para as mans que aparecerán no noso cartaz. 
+Tamén podemos escoller entre usarmos xabón (soup) ou xel (gel) para lavarmos as mans e o tons de pel (skin tone) que terán as mans que van aparecer no noso cartaz. 
 
 2. Xerarmos un póster a partir dun texto que nós lle deamos. Para isto, teremos que premer sobre a pestana Custom e escribilo dentro do cadro.  Isto último foi o fixen eu, velaquí o resultado: 
 
