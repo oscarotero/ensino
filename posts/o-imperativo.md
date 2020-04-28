@@ -8,7 +8,7 @@ tags:
 eleventyExcludeFromCollections: false
 ---
 ## Para que o usamos?
-- Darmos ordes: **\*Ordena** o teu cuarto agora!*
+- Darmos ordes: *Ordena** o teu cuarto agora!*
 - Expresarmos prohibicións: *Non **corras**!*
 - Aconsellarmos ou facermos recomendacións: **\*Fai** o que poidas!*
 
