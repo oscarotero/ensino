@@ -48,7 +48,7 @@ As formas negativas de imperativo tamén coinciden coas do presente de subxuntiv
 1. Trocamos a vogal temática do infinitivo (*e,* nos verbos da 2ª, ou *i,* nos verbos da 3ª) por *a:* *com-**e**-r* > *com-**a*** 
 2. Adicionamos a desinencia de número e persoa Ex.: *coma, comas, coma, comamos, comades, coman* part-**i**-r > part-**a** Ex.: *parta, partas, parta, partamos, partades, parten*
 
-Se aínda non o tes claro, podes ollar este vídeo en que tratan todas estas cuestións:
+Se aínda non o tes claro, podes ollar este vídeo onde se tratan todas estas cuestións:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8bEaMYLQwj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
