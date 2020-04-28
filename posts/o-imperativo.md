@@ -10,7 +10,7 @@ eleventyExcludeFromCollections: false
 ## Para que o usamos?
 
 * Darmos ordes: *Ordena o teu cuarto agora!*
-* Expresarmos prohibicións: *Non corras!*
+* Expresarmos prohibicións: *Non toques iso!*
 * Aconsellarmos ou facermos recomendacións: *Fai o que poidas!*
 
 ## Cales son as súas formas?
