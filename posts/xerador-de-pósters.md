@@ -7,11 +7,11 @@ tags:
   - semana-8
 eleventyExcludeFromCollections: false
 ---
-Lavarmos as mans, unha acción cotiá que todos realizabamos sen pensar moito, tornouse agora nun xesto fundamental para frearmos o espallamento do virus. De aí a importancia de que todos aprendamos a técnica para facelo do xeito correcto. Para axudarnos nesta tarefa, axiña xurdiron na rede moitas iniciativas. Unha delas é este xerador de cartaces:
+Lavarmos as mans, unha acción cotiá que todos realizabamos sen pensar moito, tornouse agora nun xesto fundamental para frearmos o espallamento do virus. De aí a importancia de que todos aprendamos a técnica para facelo do xeito correcto. Para axudarnos nesta tarefa, axiña xurdiron na rede moitas iniciativas. Unha delas é este **xerador de cartaces**:
 
 [Wash your lyrics](https://washyourlyrics.com/)
 
-Trátase dunha ferramenta creada por un deseñador e programador inglés chamado William que permite xerarmos automaticamente pósters ou cartaces coas intrucións para lavarmos as mans a partir da nosa canción preferida.
+Trátase dunha ferramenta creada por un **deseñador e programador inglés** chamado **William** que permite xerarmos automaticamente pósters ou cartaces coas intrucións para lavarmos as mans a partir da nosa canción preferida.
 
 O xerador de cartaces presenta dúas opcións:
 
