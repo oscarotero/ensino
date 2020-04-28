@@ -31,7 +31,7 @@ As formas para ti e para vós obtéñense eliminando o *\-s* final das formas do
 * *Ti anda(s)* > A*nda ti*
 * *Vós andade(s)* > Andade v*ós*
 
-Aínda que esta é a regra xeral, existen verbos que presentan irregularidades (pór, facer, ser, estar etc)
+Aínda que esta é a regra xeral, existen verbos que presentan irregularidades (*pór, facer, ser, estar* etc)
 
 * *Ti pos > Pon ti* 
 * *Ti fas* > Fai ti
@@ -53,8 +53,7 @@ As formas negativas de imperativo tamén coinciden coas do presente de subxuntiv
 #### Verbos da 2ª (comer) e 3ª conxugación (partir):
 
 1. Trocamos a vogal temática do infinitivo (*e,* nos verbos da 2ª, ou *i,* nos verbos da 3ª) por *a:* *com-**e**-r* > *com-**a*** 
-2. Adicionamos a desinencia de número e persoa:
-   *comer: coma, comas, coma, comamos, comades, coman* 
+2. Adicionamos a desinencia de número e persoa: *comer: coma, comas, coma, comamos, comades, coman* 
 
    *partir: parta, partas, parta, partamos, partades, parten*
 
