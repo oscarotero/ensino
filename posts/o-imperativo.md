@@ -28,8 +28,8 @@ O imperativo afirmativo en galego ten catro formas: ti e vós (informal); vosted
 
 As formas para ti e para vós obtéñense eliminando o *\-s* final das formas do presente de indicativo:
 
-* *Ti anda(s)* > A*nda ti*
-* *Vós andade(s)* > Andade v*ós*
+* *Ti anda(s)* > *Anda ti*
+* *Vós andade(s)* > *Andade vós*
 
 Aínda que esta é a regra xeral, existen verbos que presentan irregularidades (*pór, facer, ser, estar* etc)
 
