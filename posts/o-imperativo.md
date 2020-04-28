@@ -4,35 +4,35 @@ summary: "O imperativo é un dos tres modos verbais do verbo. Os outros dous son
   indicativo e o subxuntivo. "
 tags:
   - post
+  - semana-8
 eleventyExcludeFromCollections: false
 ---
 ## Para que o usamos?
-
-\- Darmos ordes: **\*Ordena** o teu cuarto agora!*
-
-\- Expresarmos prohibicións: *Non **corras**!*
-
-\- Aconsellarmos ou facermos recomendacións: **\*Fai** o que poidas!*
+- Darmos ordes: **\*Ordena** o teu cuarto agora!*
+- Expresarmos prohibicións: *Non **corras**!*
+- Aconsellarmos ou facermos recomendacións: **\*Fai** o que poidas!*
 
 ## Cales son as súas formas?
 
 ### As formas positivas
 
-Temos catro formas do imperativo que se forman do seguinte xeito:
+Temos catro formas do imperativo:
+- 2ª persoa de singular: *Ti, **anda***
+- 2ª persoa de plural: **Vós, andade** 
+- 2ª persoa de singular de respecto: *Vostede, **veña** comigo, por favor*
+- 2ª persoa de plural de respecto: *Vostedes, **veñan** comigo, por favor* 
 
-1. Eliminamos o *\-s* das formas de presente de indicativo:
-2ª persoa de singular: Ti, **anda**
-andas > anda
-2ª persoa de plural: Vós, **andade**
-andades > andade
+E como se forman?  As dúas primeiras fórmanse eliminando o -s final das formas do presente de indicativo:
+- Ti anda(s) > Ti, anda
+- Vós andade(s) > Vós, andade 
 
-2. Nas formas de cortesía, usamos o verbo en 3ª persoa do presente de subxuntivo:
-2ª persoa de singular de respecto: 2ª persoa de singular: Vostede, **veña** comigo, por favor
-2ª persoa de plural de respecto: Vostedes, **veñan** comigo, por favor Repara en que as formas
+Para as formas de respecto usamos as formas de terceira persoa do presente de subxuntivo.
+- El veña > Vostede, veña comigo, por favor
+- Eles veñan > Vostedes, veñan comigo, por favor
 
 ### As formas negativas
 
-As formas negativas de imperativo coinciden coas do presente de subxuntivo. Para obtelas, temos que substituír a vogal temática por *e,* nos verbos da 1ª conxugación, e por *a,* nos verbos da 2ª e 3ª conxugación. Estes son os pasos:
+As formas negativas de imperativo tamén coinciden coas do presente de subxuntivo. Para obtelas, temos que substituír a vogal temática por *e,* nos verbos da 1ª conxugación, e por *a,* nos verbos da 2ª e 3ª conxugación. Estes son os pasos:
 
 #### Verbos da 1ª conxugación
 
