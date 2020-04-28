@@ -13,7 +13,7 @@ Lavarmos as mans, unha acción cotiá que todos realizabamos sen pensar moito, t
 
 Trátase dunha ferramenta creada por un deseñador e programador inglés chamado William que permite xerarmos automaticamente pósters ou cartaces coas intrucións para lavarmos as mans a partir da nosa canción preferida.
 
-O xerador de cartaces permite dúas opcións:
+O xerador de cartaces presenta dúas opcións:
 
 1. Xerarmos un cartaz a partir da canción do artista que queiramos. Neste caso, teremos que premer enriba da pestana canción (song) e completarmos os campos: 
 
