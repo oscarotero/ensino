@@ -40,7 +40,7 @@ As formas negativas de imperativo tamén coinciden coas do presente de subxuntiv
 
 #### Verbos da 1ª conxugación
 
-1. Trocamos a vogal temática do infinitivo, o *a,*  por un *e:* *and-**a**-r* > *and-**e***
+1. Trocamos a vogal temática do infinitivo por un *e:* *and-**a**-r* > *and-**e***
 2. Adicionamos a desinencia de número e persoa Ex.: *and**e**, and**e**s, and**e**, and**e**mos, and**e**des, and**e**n*
 
 #### Verbos da 2ª e 3ª conxugación:
