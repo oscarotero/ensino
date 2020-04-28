@@ -40,7 +40,7 @@ Tamén podemos escoller entre usarmos soup (**xabón**) ou gel (**xel**) para la
 
 ## A canción "Ghen Cô Vy"
 
-Outra iniciativa para concienciar a poboación da importancia de lavar as mans é esta canción lanzada polo Ministerio de Sanidade de Vietnam: 
+Outra iniciativa para convencer as persoas da importancia de lavaren as mans é esta canción lanzada polo Ministerio de Sanidade de Vietnam: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BtulL3oArQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
