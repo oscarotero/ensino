@@ -28,7 +28,7 @@ Tamén podemos escoller entre usarmos soup (**xabón**) ou gel (**xel**) para la
 
 - - -
 
-## Exercicio
+## Tarefas:
 
 1. Localizade todos os verbos en imperativo que hai no cartaz anterior.
 
