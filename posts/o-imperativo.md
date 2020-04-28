@@ -24,7 +24,7 @@ O imperativo afirmativo en galego ten catro formas: ti e vós (informal); vosted
 * 2ª persoa de singular de respecto: *Vostede, **veña** comigo, por favor*
 * 2ª persoa de plural de respecto: *Vostedes, **veñan** comigo, por favor* 
 
-#### E como se forman?
+#### Como se forman?
 
 As formas para ti e para vós obtéñense eliminando o *\-s* final das formas do presente de indicativo:
 
