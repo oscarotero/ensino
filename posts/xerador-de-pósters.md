@@ -30,7 +30,7 @@ Tamén podemos escoller entre usarmos xabón (soup) ou xel (gel) para lavarmos a
 
 ## Exercicio
 
-1. Localizade todos os verbos en imperativo que hai no cartaz que aparece arriba.
+1. Localizade todos os verbos en imperativo que hai no cartaz anterior.
 
 <e-validate>Ver as solucións</e-validate>
 
