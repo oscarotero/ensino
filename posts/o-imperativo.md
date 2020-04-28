@@ -8,27 +8,31 @@ tags:
 eleventyExcludeFromCollections: false
 ---
 ## Para que o usamos?
-- Darmos ordes: *Ordena** o teu cuarto agora!*
-- Expresarmos prohibicións: *Non **corras**!*
-- Aconsellarmos ou facermos recomendacións: **\*Fai** o que poidas!*
+
+* Darmos ordes: *Ordena o teu cuarto agora!*
+* Expresarmos prohibicións: *Non **corras**!*
+* Aconsellarmos ou facermos recomendacións: ***Fai** o que poidas!*
 
 ## Cales son as súas formas?
 
 ### As formas positivas
 
 Temos catro formas do imperativo:
-- 2ª persoa de singular: *Ti, **anda***
-- 2ª persoa de plural: **Vós, andade** 
-- 2ª persoa de singular de respecto: *Vostede, **veña** comigo, por favor*
-- 2ª persoa de plural de respecto: *Vostedes, **veñan** comigo, por favor* 
+
+* 2ª persoa de singular: *Ti, **anda***
+* 2ª persoa de plural: **Vós, andade** 
+* 2ª persoa de singular de respecto: *Vostede, **veña** comigo, por favor*
+* 2ª persoa de plural de respecto: *Vostedes, **veñan** comigo, por favor* 
 
 E como se forman?  As dúas primeiras fórmanse eliminando o -s final das formas do presente de indicativo:
-- Ti anda(s) > Ti, anda
-- Vós andade(s) > Vós, andade 
+
+* Ti anda(s) > Ti, anda
+* Vós andade(s) > Vós, andade 
 
 Para as formas de respecto usamos as formas de terceira persoa do presente de subxuntivo.
-- El veña > Vostede, veña comigo, por favor
-- Eles veñan > Vostedes, veñan comigo, por favor
+
+* El veña > Vostede, veña comigo, por favor
+* Eles veñan > Vostedes, veñan comigo, por favor
 
 ### As formas negativas
 
