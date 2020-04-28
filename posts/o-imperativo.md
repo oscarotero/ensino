@@ -24,7 +24,9 @@ Son catro:
 * 2ª persoa de singular de respecto: *Vostede, **veña** comigo, por favor*
 * 2ª persoa de plural de respecto: *Vostedes, **veñan** comigo, por favor* 
 
-E como se forman?  As dúas primeiras fórmanse eliminando o *\-s* final das formas do presente de indicativo:
+#### E como se forman?  
+
+As dúas primeiras fórmanse eliminando o *\-s* final das formas do presente de indicativo:
 
 * *Ti anda(s)* > *Ti, anda*
 * *Vós andade(s)* > *Vós, andade* 
