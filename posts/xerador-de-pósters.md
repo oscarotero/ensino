@@ -35,7 +35,7 @@ O xerador de cartaces presenta dúas opcións:
 
 <e-validate>Ver as solucións</e-validate>
 
-2. Usade o xerador para crear vós un cartaz para unha residencia de anciáns. Tedes que ter en conta que en Galiza o habitual é usarmos as formas de respecto vostede ou vostedes para tratar as persoas dunha certa idade, xa que logo, facede as adaptacións necesarias nos textos.
+2. Usade o xerador para crear vós un cartaz para unha residencia de anciáns. Tedes que ter en conta que en Galiza o habitual é usarmos as formas de respecto (vostede ou vostedes) para tratar as persoas dunha certa idade, xa que logo, facede as adaptacións necesarias nos textos.
 
 - - -
 
