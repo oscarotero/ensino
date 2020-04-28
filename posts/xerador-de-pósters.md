@@ -4,7 +4,7 @@ summary: Nestes tempos de coronavirus xa todos sabemos da importancia vital
   deste pequeno xesto.
 tags:
   - post
-  - semana-6
+  - semana-8
 eleventyExcludeFromCollections: false
 ---
 Lavarmos as mans, unha acción cotiá que todos realizabamos sen pensar moito, tornouse agora nun xesto fundamental para frearmos o espallamento do coronavirus. De aí a importancia de que todos aprendamos a facelo do xeito adecuado. Para axudarnos nesta tarefa, axiña xurdiron na rede moitas iniciativas pensadas para aprendermos a técnica para unha correcta hixiene de mans. Unha delas é o xerador de cartaces:
