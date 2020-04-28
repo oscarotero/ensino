@@ -34,7 +34,7 @@ As formas para ti e para vós obtéñense eliminando o *\-s* final das formas do
 Aínda que esta é a regra xeral, existen verbos que presentan irregularidades (*pór, facer, ser, estar* etc)
 
 * *Ti pos > Pon ti* 
-* *Ti fas* > Fai ti
+* *Ti fas > Fai ti*
 
 Para as formas de respecto usamos as formas de terceira persoa do presente de subxuntivo.
 
