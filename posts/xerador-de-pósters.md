@@ -31,7 +31,7 @@ O xerador de cartaces presenta dúas opcións:
 
 ## Exercicio
 
-1. Localizade todos os verbos en imperativo que hai no cartaz que xerei eu.
+1. Localizade todos os verbos en imperativo que hai no cartaz que aparece arriba.
 
 <e-validate>Ver as solucións</e-validate>
 
