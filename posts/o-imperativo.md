@@ -22,7 +22,9 @@ Temos catro formas do imperativo que se forman do seguinte xeito:
 
 1. Eliminamos o *\-s* das formas de presente de indicativo:
 2ª persoa de singular: Ti, **anda**
+andas > anda
 2ª persoa de plural: Vós, **andade**
+andades > andade
 
 2. Nas formas de cortesía, usamos o verbo en 3ª persoa do presente de subxuntivo:
 2ª persoa de singular de respecto: 2ª persoa de singular: Vostede, **veña** comigo, por favor
