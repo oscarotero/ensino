@@ -32,7 +32,23 @@ Tamén podemos escoller entre usarmos soup (**xabón**) ou gel (**xel**) para la
 
 1. Localizade todos os verbos en imperativo que hai no cartaz anterior.
 
-<e-validate>Ver as solucións</e-validate>
+<details> <summary>Ver as solucións</summary>
+
+1. Molla
+2. Aplica
+3. Enxaboa
+4. Entrelaza / fricciona
+5. Fricciona
+6. Frega
+7. Frega / repite
+8. Fricciona / fai
+9. Frega
+10. Enxauga
+11. Fecha
+12. Seca
+
+
+</details>
 
 2. Usade o xerador para crear vós un cartaz para unha residencia de anciáns. Tedes que ter en conta que en Galiza o habitual é usarmos as formas de respecto (vostede ou vostedes) para tratar as persoas dunha certa idade, xa que logo, facede as adaptacións necesarias nos textos.
 
