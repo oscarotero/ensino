@@ -24,15 +24,15 @@ Temos catro formas do imperativo:
 * 2ª persoa de singular de respecto: *Vostede, **veña** comigo, por favor*
 * 2ª persoa de plural de respecto: *Vostedes, **veñan** comigo, por favor* 
 
-E como se forman?  As dúas primeiras fórmanse eliminando o -s final das formas do presente de indicativo:
+E como se forman?  As dúas primeiras fórmanse eliminando o *\-s* final das formas do presente de indicativo:
 
-* Ti anda(s) > Ti, anda
-* Vós andade(s) > Vós, andade 
+* *Ti anda(s)* > *Ti, anda*
+* *Vós andade(s)* > *Vós, andade* 
 
 Para as formas de respecto usamos as formas de terceira persoa do presente de subxuntivo.
 
-* El veña > Vostede, veña comigo, por favor
-* Eles veñan > Vostedes, veñan comigo, por favor
+* *El veña* > *Vostede, veña comigo, por favor*
+* *Eles veñan* > *Vostedes, veñan comigo, por favor*
 
 ### As formas negativas
 
@@ -52,4 +52,7 @@ Se aínda non o tes claro, podes ollar este vídeo en que tratan todas estas cue
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8bEaMYLQwj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-\----
+---
+
+Tarefas
+1. 
