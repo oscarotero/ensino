@@ -20,6 +20,7 @@ Usamos o imperativo cada vez que...
 ### Cales son as súas formas?
 
 #### As formas positivas
+
 O imperativo afirmativo en galego ten **catro formas**: ti e vós (informal); vostede e vostedes (formal)
 
 * 2ª persoa de singular: *Ti, **anda***
@@ -58,6 +59,7 @@ Aínda que esta é a regra xeral, hai verbos que son irregulares (*pór, facer, 
 ## Tarefas
 
 Completa con verbos en imperativo: 
+
 1. <e-validate>Comede</e-validate> (comer) todo o que tedes no prato.
 2. Non te oio, <e-validate>berra</e-validate> (berrar) máis.
 3.
