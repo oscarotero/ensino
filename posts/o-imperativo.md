@@ -57,4 +57,7 @@ Aínda que esta é a regra xeral, hai verbos que son irregulares (*pór, facer, 
 
 ## Tarefas
 
-1.
+Completa con verbos en imperativo: 
+1. <e-validate>Comede</e-validate> (comer) todo o que tedes no prato.
+2. Non te oio, <e-validate>berra</e-validate> (berrar) máis.
+3.
