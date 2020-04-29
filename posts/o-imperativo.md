@@ -5,7 +5,7 @@ summary: "O imperativo é un dos tres modos verbais do verbo. Os outros dous son
 tags:
   - post
   - semana-8
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 ---
 ## Para que o usamos?
 
