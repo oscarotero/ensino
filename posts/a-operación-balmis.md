@@ -70,7 +70,7 @@ A escritora [Marilar Aleixandre](https://gl.wikipedia.org/wiki/Marilar_Aleixandr
 
 
 
-## Máis curiosidades
+### Máis curiosidades
 
 * A escritora [María Solar](https://gl.wikipedia.org/wiki/Mar%C3%ADa_Solar) publicou en 2017 *Os nenos da varíola,* unha novela baseada na historia real dos 22 orfos da expedición Balmis que levaron no seu corpo a vacina da varíola a América.
 * En 2020, a compañía PÉREZ&FERNÁNDEZ en coprodución co Centro Dramático Galego (CDG) presentaron [a adaptación á escena desta novela de María Solar](http://centrodramatico.xunta.gal/cdg/axenda/axendad.php?id_e=2748&lg=gal).
