@@ -17,15 +17,15 @@ Do mesmo xeito que os sanitarios en 2020 están a loitar contra o [SARS-CoV-2](h
 
 Na rede hai numerosos recursos con información sobre este fito da medicina, mais seleccionei estes catro que vos presento a continuación:
 
-O vídeo da Televisión de Galicia [Coñecemos a expedición contra a varíola (1803) que lle puxo nome á operación Balmis do Exército contra o coronavirus](http://www.crtvg.es/tvg/a-carta/conecemos-a-expedicion-balmis-1803-que-lle-puxo-nome-a-operacion-balmis-do-exercito-contra-o-coronavirus)
+1. O vídeo da Televisión de Galicia [Coñecemos a expedición contra a varíola (1803) que lle puxo nome á operación Balmis do Exército contra o coronavirus](http://www.crtvg.es/tvg/a-carta/conecemos-a-expedicion-balmis-1803-que-lle-puxo-nome-a-operacion-balmis-do-exercito-contra-o-coronavirus)
 
-O vídeo de Xacobo de Toro Cacharrón sobre a expedición Balmis e a vitoria da vacinación:
+2. O vídeo de Xacobo de Toro Cacharrón sobre a expedición Balmis e a vitoria da vacinación:
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/c_64wpB_A6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-O artigo publicado no portal *Gciencia* [“Os 22 orfos coruñeses que levaron a vacina da varíola a América”](https://www.gciencia.com/historias-gc/variola-coruna-balmis/)
+3. O artigo publicado no portal *Gciencia* [“Os 22 orfos coruñeses que levaron a vacina da varíola a América”](https://www.gciencia.com/historias-gc/variola-coruna-balmis/)
 
-O artigo do xornal dixital *Praza* titulado [“Isabel Zendal, a enfermeira galega á que lle debemos a difusión da vacina que erradicou a varíola”](https://praza.gal/ciencia-e-tecnoloxia/isabel-zendal-a-enfermeira-galega-a-que-lle-debemos-a-difusion-da-vacina-que-erradicou-a-variola)
+4. O artigo do xornal dixital *Praza* titulado [“Isabel Zendal, a enfermeira galega á que lle debemos a difusión da vacina que erradicou a varíola”](https://praza.gal/ciencia-e-tecnoloxia/isabel-zendal-a-enfermeira-galega-a-que-lle-debemos-a-difusion-da-vacina-que-erradicou-a-variola)
 
 - - -
 
