@@ -54,19 +54,19 @@ A escritora [Marilar Aleixandre](https://gl.wikipedia.org/wiki/Marilar_Aleixandr
 
 ### Vacas exemplares: A vaca das vacinas
 
-Había unha vez unha vaca chamada Buttercup, mais que chegou a facerse célebre porque a ela se debe un avance científico tan importante como as vacinas.
-
-En van procuraredes o nome de Buttercup nos libros de historia da medicina. Mais ¿que ten iso de raro? Tamén os libros de historia falan dos contos dos irmáns Grimm, a pesar de que dos douscentos e pico contos eles só achegaron un cada un, mentres as amigas da súa irmá Lotte como as irmás Hassenpflug e Dortchen Wild achegaron vinte ou trinta cada unha, e Dorothea Viehmann máis de corenta. A meirande parte dos libros tampouco mencionan a Mary Wortley Montagu, precursora das vacinas.
-
-A historia si recolle o nome de Sarah Nelmes, a campesiña que coidaba de Buttercup. Ocorreu que un día do ano 1796 o médico de aldea Edward Jenner decatouse de que Sarah e outras mulleres que muxían as vacas, enfermaban dunha varíola das vacas, e ficaban a salvo de contaxiarse da varíola común, moito máis perigosa.
-
-Jenner pediulle a Sarah que lle deixase tirar un pouco de líquido da súa man e inxectoullo a un neno de oito anos, fillo do seu xardineiro, James Phipps quen, naturalmente, enfermou da varíola das vacas. Mais, cando mes e medio despois, o médico lle inxectou ao neno varíola común, James non enfermou. Este método de previr doenzas infecciosas foi chamado vacina, que vén do noso nome en latín vacca.
-
-A historia de Buttercup ensínanos dúas cousas:
-
-A primeira: as vacas xogaron un papel moi importante na historia da ciencia: grazas a elas dispoñemos das vacinas, como recoñece o propio nome.
-
-A segunda: os métodos utilizados polos homes (polo menos, neses tempos) para experimentar novas formas de curar son moito máis desapiadados que os das vacas. Unha vaca nuna poñería en perigo a vida dun cucho -como fixo Jenner co pequeno James- por moi pobre que fose.
+> Había unha vez unha vaca chamada Buttercup, mais que chegou a facerse célebre porque a ela se debe un avance científico tan importante como as vacinas.
+>
+> En van procuraredes o nome de Buttercup nos libros de historia da medicina. Mais ¿que ten iso de raro? Tamén os libros de historia falan dos contos dos irmáns Grimm, a pesar de que dos douscentos e pico contos eles só achegaron un cada un, mentres as amigas da súa irmá Lotte como as irmás Hassenpflug e Dortchen Wild achegaron vinte ou trinta cada unha, e Dorothea Viehmann máis de corenta. A meirande parte dos libros tampouco mencionan a Mary Wortley Montagu, precursora das vacinas.
+>
+> A historia si recolle o nome de Sarah Nelmes, a campesiña que coidaba de Buttercup. Ocorreu que un día do ano 1796 o médico de aldea Edward Jenner decatouse de que Sarah e outras mulleres que muxían as vacas, enfermaban dunha varíola das vacas, e ficaban a salvo de contaxiarse da varíola común, moito máis perigosa.
+>
+> Jenner pediulle a Sarah que lle deixase tirar un pouco de líquido da súa man e inxectoullo a un neno de oito anos, fillo do seu xardineiro, James Phipps quen, naturalmente, enfermou da varíola das vacas. Mais, cando mes e medio despois, o médico lle inxectou ao neno varíola común, James non enfermou. Este método de previr doenzas infecciosas foi chamado vacina, que vén do noso nome en latín vacca.
+>
+> A historia de Buttercup ensínanos dúas cousas:
+>
+> A primeira: as vacas xogaron un papel moi importante na historia da ciencia: grazas a elas dispoñemos das vacinas, como recoñece o propio nome.
+>
+> A segunda: os métodos utilizados polos homes (polo menos, neses tempos) para experimentar novas formas de curar son moito máis desapiadados que os das vacas. Unha vaca nuna poñería en perigo a vida dun cucho -como fixo Jenner co pequeno James- por moi pobre que fose.
 
 
 
