@@ -9,7 +9,7 @@ eleventyExcludeFromCollections: false
 ---
 Este é o nome co que se decidiu bautizar a misión de loita contra o coronavirus en que participan as distintas Forzas e Corpos de Seguridade do Estado desde o comezo da crise sanitaria.
 
-O que quizais non saibades é que detrás dese nome se agocha unha aventura asombrosa. E que os heroes desta historia foron un médico alacantino, o doutor **Francisco Javier Balmis**, unha enfermeira galega, **Isabel Zendal**,e **22 orfos da Casa de Expósitos da Coruña.**
+O que quizais non sabes é que detrás dese nome se agocha unha aventura asombrosa. E que os heroes desta historia foron un médico alacantino, o doutor **Francisco Javier Balmis**, unha enfermeira galega, **Isabel Zendal**,e **22 orfos da Casa de Expósitos da Coruña.**
 
 Do mesmo xeito que os sanitarios en 2020 están a loitar contra o [SARS-CoV-2](https://portaldaspalabras.gal/lexico/allos-con-bugallos/covid-19/), o virus que produce a covid-19, hai xa máis de 200 anos, eles tamén se tiveron que enfrontar a outro que estaba a ameazar a sociedade do seu tempo, o [virus da varíola](https://gl.wikipedia.org/wiki/Var%C3%ADola).
 
@@ -31,7 +31,7 @@ O artigo do xornal dixital *Praza* titulado [“Isabel Zendal, a enfermeira gale
 
 ## A misión
 
-A vosa misión será explorardes todos eles na procura de respostas para as seguintes preguntas:
+A túa misión será explorares todos eles na procura de respostas para as seguintes preguntas:
 
 1. Que é a varíola? 
 2. Á parte de varíola, que outros nomes ten en galego esta doenza?
@@ -49,6 +49,28 @@ A vosa misión será explorardes todos eles na procura de respostas para as segu
 14. De cantas maneiras distintas aparece escrito o nome da enfermeira galega na documentación que se conserva? Segundo o xornalista Marcos Pérez Pena, que indica esta circunstancia?
 
 ## Sabías que...
+
+A escritora [Marilar Aleixandre](https://gl.wikipedia.org/wiki/Marilar_Aleixandre) reivindica na súa obra ***A vaca caníbal*** a contribución á historia da humanidade dunha serie de vacas exemplares. Unha destas vacas é Buttercup, a vaca das vacinas. Esta é a súa historia:
+
+Vacas exemplares: A vaca das vacinas
+
+Había unha vez unha vaca chamada Buttercup, mais que chegou a facerse célebre porque a ela se debe un avance científico tan importante como as vacinas.
+
+En van procuraredes o nome de Buttercup nos libros de historia da medicina. Mais ¿que ten iso de raro? Tamén os libros de historia falan dos contos dos irmáns Grimm, a pesar de que dos douscentos e pico contos eles só achegaron un cada un, mentres as amigas da súa irmá Lotte como as irmás Hassenpflug e Dortchen Wild achegaron vinte ou trinta cada unha, e Dorothea Viehmann máis de corenta. A meirande parte dos libros tampouco mencionan a Mary Wortley Montagu, precursora das vacinas.
+
+A historia si recolle o nome de Sarah Nelmes, a campesiña que coidaba de Buttercup. Ocorreu que un día do ano 1796 o médico de aldea Edward Jenner decatouse de que Sarah e outras mulleres que muxían as vacas, enfermaban dunha varíola das vacas, e ficaban a salvo de contaxiarse da varíola común, moito máis perigosa.
+
+Jenner pediulle a Sarah que lle deixase tirar un pouco de líquido da súa man e inxectoullo a un neno de oito anos, fillo do seu xardineiro, James Phipps quen, naturalmente, enfermou da varíola das vacas. Mais, cando mes e medio despois, o médico lle inxectou ao neno varíola común, James non enfermou. Este método de previr doenzas infecciosas foi chamado vacina, que vén do noso nome en latín vacca.
+
+A historia de Buttercup ensínanos dúas cousas:
+
+A primeira: as vacas xogaron un papel moi importante na historia da ciencia: grazas a elas dispoñemos das vacinas, como recoñece o propio nome.
+
+A segunda: os métodos utilizados polos homes (polo menos, neses tempos) para experimentar novas formas de curar son moito máis desapiadados que os das vacas. Unha vaca nuna poñería en perigo a vida dun cucho -como fixo Jenner co pequeno James- por moi pobre que fose.
+
+
+
+## Máis curiosidades
 
 * A escritora [María Solar](https://gl.wikipedia.org/wiki/Mar%C3%ADa_Solar) publicou en 2017 *Os nenos da varíola,* unha novela baseada na historia real dos 22 orfos da expedición Balmis que levaron no seu corpo a vacina da varíola a América.
 * En 2020, a compañía PÉREZ&FERNÁNDEZ en coprodución co Centro Dramático Galego (CDG) presentaron [a adaptación á escena desta novela de María Solar](http://centrodramatico.xunta.gal/cdg/axenda/axendad.php?id_e=2748&lg=gal).
