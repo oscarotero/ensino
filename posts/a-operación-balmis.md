@@ -40,7 +40,8 @@ A túa misión será explorares todos eles na procura de respostas para as segui
 5. Que médico inglés descubriu a vacina contra a varíola?
 6. Como fixo a descuberta?
 7. Cando foi erradicada esta doenza?
-8. En que consistiu a Operación Balmis-Salviny?
+8. Cales son as outras dúas doenzas que se encontran en fase de eliminación neste momento?
+9. En que consistiu a Operación Balmis-Salviny?
 9. A onde levaron a vacina da varíola?
 10. Que é un expósito?
 11. Onde naceu Isabel Zendal?
@@ -67,8 +68,6 @@ A historia de Buttercup ensínanos dúas cousas:
 A primeira: as vacas xogaron un papel moi importante na historia da ciencia: grazas a elas dispoñemos das vacinas, como recoñece o propio nome.
 
 A segunda: os métodos utilizados polos homes (polo menos, neses tempos) para experimentar novas formas de curar son moito máis desapiadados que os das vacas. Unha vaca nuna poñería en perigo a vida dun cucho -como fixo Jenner co pequeno James- por moi pobre que fose.
-
-
 
 ### Máis curiosidades
 
