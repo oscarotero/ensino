@@ -37,9 +37,9 @@ As formas para ti e para vós obtéñense eliminando o *\-s* final das formas do
 
 No caso das formas para vostede ou vostede, temos que substituír a vogal temática do infinitivo por *e,* nos verbos da 1ª conxugación, e por *a,* nos verbos da 2ª e 3ª conxugación:
 
-* *and-a-r > and-e  Exs.:  Ande vostede; anden vostedes*
-* *com-e-r > com-a Exs.: Coma vostede; coman vostedes*
-* *exix-i-r > exix-a Exs.: Exixa vostede unha compensación; Exixan vostedes unha compensación*
+* *and-a-r > and-e.  Exs.:  Ande vostede; anden vostedes*
+* *com-e-r > com-a. Exs.: Coma vostede; coman vostedes*
+* *exix-i-r > exix-a. Exs.: Exixa vostede unha compensación; Exixan vostedes unha compensación*
 
 Decatátesche de que as formas positivas de imperativo para vostede e vostedes coinciden coas formas de 3º persoa (singular e plural) do presente de subxuntivo.
 
