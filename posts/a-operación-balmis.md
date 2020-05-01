@@ -51,7 +51,7 @@ A túa misión será explorares todos eles na procura de respostas para as segui
 
 ## Sabías que...
 
-A escritora [Marilar Aleixandre](https://gl.wikipedia.org/wiki/Marilar_Aleixandre) reivindica na súa obra ***A vaca caníbal*** a contribución á historia da humanidade dunha serie de vacas exemplares. Unha destas vacas é Buttercup, a vaca das vacinas. Esta é a súa historia:
+A escritora [Marilar Aleixandre](https://gl.wikipedia.org/wiki/Marilar_Aleixandre) reivindica na súa obra ***A vaca caníbal*** a contribución á historia da humanidade dunha serie de vacas exemplares. Unha destas vacas é Buttercup, a vaca das vacinas. Eis a súa historia:
 
 ### Vacas exemplares: A vaca das vacinas
 
