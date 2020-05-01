@@ -13,7 +13,7 @@ O imperativo é un dos tres modos verbais do verbo. Os outros dous son indicativ
 Usamos o imperativo cada vez que...
 
 * Damos instrucións: *Pica a cebola ben finiña.*
-* Aconsellamos ou facemos recomendacións: *Fai o que poidas! Reclame os seus dereitos*
+* Aconsellamos ou facemos recomendacións: *Reclame os seus dereitos*
 * Damos ordes: *Ordena o teu cuarto agora!*
 * Prohibimos: *Non toquedes a comida do expositor*
 
