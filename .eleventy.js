@@ -74,19 +74,21 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("_includes/assets/");
 
   /* Markdown Plugins */
-  let markdownIt = require("markdown-it");
-  let markdownItAnchor = require("markdown-it-anchor");
-  let options = {
+  const markdownIt = require("markdown-it");
+  const markdownItAnchor = require("markdown-it-anchor");
+  const markdownDeflist = require("markdown-it-deflist");
+  const options = {
     html: true,
     breaks: true,
     linkify: true
   };
-  let opts = {
+  const opts = {
     permalink: false
   };
 
   eleventyConfig.setLibrary("md", markdownIt(options)
     .use(markdownItAnchor, opts)
+    .use(markdownDeflist)
   );
 
   return {

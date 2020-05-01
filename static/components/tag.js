@@ -16,6 +16,7 @@ class Tag extends HTMLElement {
         super();
 
         const shadow = this.attachShadow({mode: 'open'});
+        const desc = this.hasAttribute('desc') ? `<em>${this.getAttribute('desc')}</em>` : '';
         shadow.innerHTML = `
             <style>
                 .tag {
@@ -26,10 +27,18 @@ class Tag extends HTMLElement {
                     display: inline-block;
                     line-height: 1.3;
                     margin: 5px 10px 5px 0;
+                    text-align: center;
+                }
+                .tag em {
+                    display: block;
+                    font-size: .6em;
+                    font-style: normal;
+                    font-weight: normal;
                 }
             </style>
             <span class="tag">
-                <slot>Validate</slot>
+                <slot></slot>
+                ${desc}
             </span>
         `;
 

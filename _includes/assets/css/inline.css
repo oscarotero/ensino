@@ -3,9 +3,11 @@
 	--background: #FFF0EB;
 	--black: #340e09;
 	--gray: rgba(0,0,0,0.66);
-	--shadow: 0 1px 8px rgba(0,0,0,0.2);
+	--gray-light: rgba(0,0,0,0.2);
+	--shadow: 0 1px 8px var(--gray-light);
 	--correct: green;
 	--error: red;
+	--radius: 5px;
 }
 html {
 	background-color: var(--background);
@@ -123,7 +125,7 @@ button {
   	margin: .5em 0 2em;
 	font-size: 1rem;
 	font-family: inherit;
-	border-radius: 3px;
+	border-radius: var(--radius);
 	box-sizing: border-box;
 }
 
@@ -142,7 +144,7 @@ button {
 	border: none;
 	background-color: var(--primary);
 	color: white;
-	border-radius: 3px;
+	border-radius: var(--radius);
 	padding: 1em;
 	font-weight: bold;
 	box-shadow: var(--shadow);
@@ -164,14 +166,49 @@ summary:hover {
 table {
 	width: 100%;
 	border-collapse: collapse;
+	box-shadow: var(--shadow);
+	border: solid 5px white;
 }
 th {
 	text-align: left;
 	padding: .5em;
 	background: white;
-	border: solid 1px var(--gray);
+	border: solid 1px var(--gray-light);
 }
 td {
-	border: solid 1px var(--gray);
+	border: solid 1px var(--gray-light);
 	padding: .5em;
+}
+dl {
+	display: grid;
+	grid-template-columns: auto 1fr;
+}
+dt {
+	font-weight: bold;
+	grid-column: 1;
+	padding: .5em 0;
+}
+dd {
+	margin: 0;
+	grid-column: 2;
+	padding: .5em 0 .5em 2em;
+}
+dd + dt,
+dd + dt + dd {
+	border-top: solid 1px var(--gray-light);
+}
+
+@media (max-width: 30em) {
+	dl {
+		display: block;
+	}
+	dd {
+		border: none !important;
+		padding-left: 0;
+	}
+}
+
+e-validate {
+	display: block;
+	margin: 3em 0;
 }

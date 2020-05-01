@@ -13,44 +13,44 @@ Ao contrario do que acontece no español, o nome das letras é de xénero mascul
 
 O noso alfabeto consta de 23 letras ou grafías (5 vogais e 18 consoantes):
 
-| Letra | Nome  |
-| ----- | ----- |
-| **a** | a     |
-| **b** | be    |
-| **c** | ce    |
-| **d** | de    |
-| **e** | e     |
-| **f** | efe   |
-| **g** | gue   |
-| **h** | hache |
-| **i** | i     |
-| **l** | ele   |
-| **m** | eme   |
-| **n** | ene   |
-| **ñ** | eñe   |
-| **o** | o     |
-| **p** | pe    |
-| **q** | que   |
-| **r** | erre  |
-| **s** | ese   |
-| **t** | te    |
-| **u** | u     |
-| **v** | uve   |
-| **x** | xe    |
-| **z** | zeta  |
+<e-layout>
+  <e-tag color=4 desc=a>a</e-tag>
+  <e-tag color=4 desc=be>b</e-tag>
+  <e-tag color=4 desc=ce>c</e-tag>
+  <e-tag color=4 desc=de>d</e-tag>
+  <e-tag color=4 desc=e>e</e-tag>
+  <e-tag color=4 desc=efe>f</e-tag>
+  <e-tag color=4 desc=gue>g</e-tag>
+  <e-tag color=4 desc=hache>h</e-tag>
+  <e-tag color=4 desc=i>i</e-tag>
+  <e-tag color=4 desc=ele>l</e-tag>
+  <e-tag color=4 desc=eme>m</e-tag>
+  <e-tag color=4 desc=ene>n</e-tag>
+  <e-tag color=4 desc=eñe>ñ</e-tag>
+  <e-tag color=4 desc=o>o</e-tag>
+  <e-tag color=4 desc=pe>p</e-tag>
+  <e-tag color=4 desc=que>q</e-tag>
+  <e-tag color=4 desc=erre>r</e-tag>
+  <e-tag color=4 desc=ese>s</e-tag>
+  <e-tag color=4 desc=te>t</e-tag>
+  <e-tag color=4 desc=u>u</e-tag>
+  <e-tag color=4 desc=uve>v</e-tag>
+  <e-tag color=4 desc=xe>x</e-tag>
+  <e-tag color=4 desc=zeta>z</e-tag>
+</e-layout>
 
 ## Os dígrafos
 
 Ademais destas 23 letras, temos tamén 6 dígrafos. Un dígrafo é unha combinación de dúas letras que se empregan para representar na escrita, un único son. Os dígrafos do galego son:
 
-| Letra  | Nome       |
-| ------ | ---------- |
-| **ch** | ce hache   |
-| **gu** | gue u      |
-| **ll** | ele dobre  |
-| **nh** | ene hache  |
-| **qu** | que u      |
-| **rr** | erre dobre |
+<e-layout>
+  <e-tag color=5 desc="ce hache">ch</e-tag>
+  <e-tag color=5 desc="gue u">gu</e-tag>
+  <e-tag color=5 desc="ele dobre">ll</e-tag>
+  <e-tag color=5 desc="ene hache">nh</e-tag>
+  <e-tag color=5 desc="que u">qu</e-tag>
+  <e-tag color=5 desc="erre dobre">rr</e-tag>
+</e-layout>
 
 Os dígrafos non se poden separar ao final da liña. Exemplo: *ningu-nha, fo-gueira, arre-friado.*
 
@@ -70,32 +70,71 @@ Aínda que as seguintes letras non forman parte do alfabeto galego, aparecen en 
 
 Escribe o nome da letra ou do dígrafo polo que comeza cada unha das seguintes palabras:
 
-1. queixo:  o <e-answer>que u</e-answer> 
-2. xornal: o <e-answer>xe</e-answer> 
-3. garda: o <e-answer>gue</e-answer>
-4. chuvia: o <e-answer>ce hache</e-answer> 
-5. zapato: o <e-answer>zeta</e-answer> 
-6. fama: o <e-answer>efe</e-answer> 
-7. guerra: o <e-answer>gue u</e-answer>
-8. ovo: o <e-answer>o</e-answer>
-9. herba: o <e-answer>hache</e-answer>
-10. sangue: o <e-answer>ese</e-answer>
-11. judo: o <e-answer>iota</e-answer>
-12. nabo: o <e-answer>ene</e-answer>
-13. web: o <e-answer>uve dobre</e-answer>
-14. cunca: o <e-answer>ce</e-answer>
-15. xabón: o <e-answer>xe</e-answer>
+queixo
+: o <e-answer size=3>que u</e-answer> 
 
-    <e-validate>Corrixe as respostas</e-validate>
+xornal
+: o <e-answer size=3>xe</e-answer> 
+
+garda
+: o <e-answer size=3>gue</e-answer>
+
+chuvia
+: o <e-answer size=3>ce hache</e-answer> 
+
+zapato
+: o <e-answer size=3>zeta</e-answer> 
+
+fama
+: o <e-answer size=3>efe</e-answer> 
+
+guerra
+: o <e-answer size=3>gue u</e-answer>
+
+ovo
+: o <e-answer size=3>o</e-answer>
+
+herba
+: o <e-answer size=3>hache</e-answer>
+
+sangue
+: o <e-answer size=3>ese</e-answer>
+
+judo
+: o <e-answer size=3>iota</e-answer>
+
+nabo
+: o <e-answer size=3>ene</e-answer>
+
+web
+: o <e-answer size=3>uve dobre</e-answer>
+
+cunca
+: o <e-answer size=3>ce</e-answer>
+
+xabón
+: o <e-answer size=3>xe</e-answer>
+
+
+<e-validate>Corrixe as respostas</e-validate>
 
 ### Exercicio 2
 
 Soletrea as seguintes palabras:
 
-1. algunha: o <e-answer>a</e-answer>, o <e-answer>ele</e-answer>, o <e-answer>gue</e-answer>, o <e-answer>u</e-answer>, o <e-answer>ene hache</e-answer>, o <e-answer>a</e-answer>
-2. illa: o <e-answer>i</e-answer>, o <e-answer>ele dobre</e-answer>, o <e-answer>a</e-answer>
-3. camelo: o <e-answer>ce</e-answer>, o <e-answer>a</e-answer>, o <e-answer>eme</e-answer>, o <e-answer>e</e-answer>, o <e-answer>ele</e-answer>, o <e-answer>o</e-answer>
-4. barro: o <e-answer>be</e-answer>, o <e-answer>a</e-answer>, o <e-answer>erre dobre</e-answer>, o <e-answer>o</e-answer>
-5. vasoira: o <e-answer>uve</e-answer>, o <e-answer>a</e-answer>, o <e-answer>ese</e-answer>, o <e-answer>o</e-answer>, o <e-answer>i</e-answer>, o <e-answer>erre</e-answer> o <e-answer>a</e-answer>
+algunha
+: o <e-answer size=3>a</e-answer>, o <e-answer size=3>ele</e-answer>, o <e-answer size=3>gue</e-answer>, o <e-answer size=3>u</e-answer>, o <e-answer size=3>ene hache</e-answer>, o <e-answer size=3>a</e-answer>
+
+illa
+: o <e-answer size=3>i</e-answer>, o <e-answer size=3>ele dobre</e-answer>, o <e-answer size=3>a</e-answer>
+
+camelo
+: o <e-answer size=3>ce</e-answer>, o <e-answer size=3>a</e-answer>, o <e-answer size=3>eme</e-answer>, o <e-answer size=3>e</e-answer>, o <e-answer size=3>ele</e-answer>, o <e-answer size=3>o</e-answer>
+
+barro
+: o <e-answer size=3>be</e-answer>, o <e-answer size=3>a</e-answer>, o <e-answer size=3>erre dobre</e-answer>, o <e-answer size=3>o</e-answer>
+
+vasoira
+: o <e-answer size=3>uve</e-answer>, o <e-answer size=3>a</e-answer>, o <e-answer size=3>ese</e-answer>, o <e-answer size=3>o</e-answer>, o <e-answer size=3>i</e-answer>, o <e-answer size=3>erre</e-answer> o <e-answer size=3>a</e-answer>
 
 <e-validate>Corrixe as respostas</e-validate>
