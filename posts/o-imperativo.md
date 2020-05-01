@@ -23,8 +23,8 @@ Usamos o imperativo cada vez que...
 
 O imperativo afirmativo en galego ten **catro formas**: ti e vós (informal); vostede e vostedes (formal)
 
-* 2ª persoa de singular: *Ti, **anda***
-* 2ª persoa de plural: *Vós, **andade***
+* 2ª persoa de singular: *Ti, **anda** *
+* 2ª persoa de plural: *Vós, **andade** *
 * 2ª persoa de singular de respecto: *Vostede, **veña** comigo, por favor*
 * 2ª persoa de plural de respecto: *Vostedes, **veñan** comigo, por favor* 
 
