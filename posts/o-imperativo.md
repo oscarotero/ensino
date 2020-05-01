@@ -62,4 +62,4 @@ Completa con verbos en imperativo:
 
 1. <e-validate>Comede</e-validate> (comer) todo o que tedes no prato.
 2. Non te oio, <e-validate>berra</e-validate> (berrar) máis.
-3.
+3. <e-validate>Entra</e-validate> (entrar) están agardando por ti.
