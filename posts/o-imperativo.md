@@ -58,7 +58,17 @@ Aínda que esta é a regra xeral, hai verbos que son irregulares (*pór, facer, 
 
 ## Tarefas
 
-Completa con verbos en imperativo: 
+O imperativo é un dos modos habituais cando temos que facer recomendacións. A continuación, imos dar unha serie recomendacións para protexernos da calor. Completa co tempo
+
+- Procure ambientes frescos.
+- Aumente a inxestión de auga ou de zumes de froita natural sen azucre e evite o consumo de bebidas alcólicas.
+- Evite a exposición directa ao sol, principalmente entre as 11 e as 17 horas.
+- Utilice protector solar con factor igual ou superior a 30 e renove a súa aplicación de 2 en dúas horás apos os baños na praia ou na piscina.
+- Utilice roupa solta, opaca e que cubra a maior parte do corpo, chapeu de abas largas e lentes de sol con protección ultravioleta.
+- Evite actividades que exixan grandes esforzos físicos, nomeadamente, deportivas e de lecer no exterior.
+- Escolle as horas de menor calor para viaxar en coche. Non permaneza dentro dos vehículos estacionados e expostos ao sol.
+- Preste atención especial aos grupos máis vulnerábeis á calor: crianzas, persoas de idade, doentes crónicos, grávidas, persoas con mobilidade reducida, traballadores con actividade no exterior, practicante de actividade física e persoas illadas.
+
 
 1. <e-validate>Comede</e-validate> (comer) todo o que tedes no prato.
 2. Non te oio, <e-validate>berra</e-validate> (berrar) máis.
