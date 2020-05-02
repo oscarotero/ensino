@@ -22,7 +22,7 @@ O noso alfabeto consta de 23 letras ou grafías (5 vogais e 18 consoantes):
   <e-tag color=4 desc="o efe">f</e-tag>
   <e-tag color=4 desc="o gue">g</e-tag>
   <e-tag color=4 desc="o hache">h</e-tag>
-  <e-tag color=4 desc=i>"o i">i</e-tag>
+  <e-tag color=4 desc="o i">i</e-tag>
   <e-tag color=4 desc="o ele">l</e-tag>
   <e-tag color=4 desc="o eme">m</e-tag>
   <e-tag color=4 desc="o ene">n</e-tag>
