@@ -131,7 +131,7 @@ Troca a letra grosa de cada palabra por dígrafos e forma palabras novas:
 <details> <summary>Ver as solucións</summary>
 
 
-\- a**r**o: a**ll**o
+- a**r**o: a**ll**o
 - cu**ñ**a: cu**nh**a
 - **f**ío: **ch**ío
 - ca**r**o: ca**rr**o, ca**ll**o
