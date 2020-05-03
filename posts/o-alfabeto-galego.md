@@ -124,7 +124,7 @@ Troca a letra grosa de cada palabra por un dígrafo e forma palabras novas:
 * cu**ñ**a:
 * a**r**ela:
 * **f**ío: 
-* ca**r**o: 
+* afo**g**ar: 
 * **p**aga:
 * fi**l**eira:
 
@@ -135,7 +135,7 @@ Troca a letra grosa de cada palabra por un dígrafo e forma palabras novas:
 - cu**ñ**a: cu**nh**a
 - a**r**ela: a**qu**ela
 - **f**ío: **ch**ío
-- ca**r**o: ca**rr**o, ca**ll**o
+- afo**g**ar: afo**rr**ar
 - **p**aga: **ch**aga
 - fi**l**eira: fi**gu**eira
 
