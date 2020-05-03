@@ -116,22 +116,18 @@ vasoira : o <e-answer size=3>uve</e-answer>, o <e-answer size=3>a</e-answer>, o 
 
 <e-validate>Corrixe as respostas</e-validate>
 
-Exercicio 3 Troca a letra grosa de cada palabra por dígrafos para formares palabras novas:
-a**r**o: 
-u**ñ**a:
-**f**ío: 
-ca**r**o: 
-**p**aga:
-a**r**ela:
-fi**l**eira:
+### Exercicio 3  
+
+Troca a letra grosa de cada palabra por dígrafos para formares palabras novas:
+a**r**o:  u**ñ**a: **f**ío:  ca**r**o:  **p**aga: a**r**ela: fi**l**eira:
 
 <details> <summary>Ver as solucións</summary>
-a**r**o: a**ll**o
-u**ñ**a: u**nh**a, U**ll**a (a comarca)
-**f**ío: **ch**ío
-ca**r**o: ca**rr**o, ca**ll**o
-**p**aga: **ch**aga
-a**r**ela: a**qu**ela
-fi**l**eira: fi**gu**eira:
+a\*\*r\*\*o: a\*\*ll\*\*o
+u\*\*ñ\*\*a: u\*\*nh\*\*a, U\*\*ll\*\*a (a comarca)
+\*\*f\*\*ío: \*\*ch\*\*ío
+ca\*\*r\*\*o: ca\*\*rr\*\*o, ca\*\*ll\*\*o
+\*\*p\*\*aga: \*\*ch\*\*aga
+a\*\*r\*\*ela: a\*\*qu\*\*ela
+fi\*\*l\*\*eira: fi\*\*gu\*\*eira:
 
 </details>
