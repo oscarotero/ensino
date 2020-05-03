@@ -122,10 +122,10 @@ Troca a letra grosa de cada palabra por un dígrafo e forma palabras novas:
 
 * a**r**o: 
 * cu**ñ**a:
+* a**r**ela:
 * **f**ío: 
 * ca**r**o: 
 * **p**aga:
-* a**r**ela:
 * fi**l**eira:
 
 <details> <summary>Ver as solucións</summary>
@@ -133,10 +133,10 @@ Troca a letra grosa de cada palabra por un dígrafo e forma palabras novas:
 
 - a**r**o: a**ll**o
 - cu**ñ**a: cu**nh**a
+- a**r**ela: a**qu**ela
 - **f**ío: **ch**ío
 - ca**r**o: ca**rr**o, ca**ll**o
 - **p**aga: **ch**aga
-- a**r**ela: a**qu**ela
 - fi**l**eira: fi**gu**eira
 
 </details>
