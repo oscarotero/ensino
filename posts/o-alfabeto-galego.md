@@ -125,9 +125,7 @@ ca**r**o:
 a**r**ela:
 fi**l**eira:
 
-
-Ver solucións 
-
+<details> <summary>Ver as solucións</summary>
 a**r**o: a**ll**o
 u**ñ**a: u**nh**a, U**ll**a (a comarca)
 **f**ío: **ch**ío
@@ -136,3 +134,4 @@ ca**r**o: ca**rr**o, ca**ll**o
 a**r**ela: a**qu**ela
 fi**l**eira: fi**gu**eira:
 
+</details>
