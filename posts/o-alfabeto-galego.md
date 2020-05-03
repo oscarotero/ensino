@@ -119,17 +119,18 @@ vasoira : o <e-answer size=3>uve</e-answer>, o <e-answer size=3>a</e-answer>, o 
 ### Exercicio 3
 
 Troca a letra grosa de cada palabra por dígrafos e forma palabras novas:  
-- a**r**o: 
-- u**ñ**a:
-- **f**ío: 
-- ca**r**o: 
-- **p**aga:
-- a**r**ela:
-- fi**l**eira:
+
+* a**r**o: 
+* cu**ñ**a:
+* **f**ío: 
+* ca**r**o: 
+* **p**aga:
+* a**r**ela:
+* fi**l**eira:
 
 <details> <summary>Ver as solucións</summary>
 - a**r**o: a**ll**o
-- u**ñ**a: u**nh**a, U**ll**a (a comarca)
+- cu**ñ**a: cu**nh**a
 - **f**ío: **ch**ío
 - ca**r**o: ca**rr**o, ca**ll**o
 - **p**aga: **ch**aga
