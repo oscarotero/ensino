@@ -128,11 +128,12 @@ Troca a letra grosa de cada palabra por dígrafos e forma palabras novas:
 - fi**l**eira:
 
 <details> <summary>Ver as solucións</summary>
-- a**r**o: a**ll**o, 
+- a**r**o: a**ll**o
 - u**ñ**a: u**nh**a, U**ll**a (a comarca)
 - **f**ío: **ch**ío
 - ca**r**o: ca**rr**o, ca**ll**o
 - **p**aga: **ch**aga
 - a**r**ela: a**qu**ela
 - fi**l**eira: fi**gu**eira
+
 </details>
