@@ -3,8 +3,8 @@ title: Contraccións (2)
 summary: Artigo indeterminado + preposición
 tags:
   - post
-  - semana-7
-eleventyExcludeFromCollections: true
+  - semana-8
+eleventyExcludeFromCollections: false
 ---
 As formas do artigo indeterminado *(un, unha, uns, unhas)* contraen coas preposicións *con, de* e *en* en galego.
 
