@@ -66,6 +66,10 @@ Completa co verbo en imperativo as seguintes oracións:
 5. Se vas conducir, non <e-answer>bebas</e-answer> bebas.
 6. <e-answer>Ven</e-answer> (vir), non te vou morder.
 7. Rapaces, <e-answer>facede</e-answer> (facer) o que vos din e todo irá ben.
+8. O xantar xa está preparado, <e-answer>pon</e-answer> (pór) a mesa, por favor.
+
+
+
 
 
 
