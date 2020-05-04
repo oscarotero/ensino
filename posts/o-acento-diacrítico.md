@@ -86,8 +86,8 @@ Completa estas oracións poñendo as palabras con acento diacrítico ou sen el o
 - Entra axiña <e-answer>fóra</e-answer> vai moito frío.
 
 *cha - chá*
-
-Vilalba é a capital da comarca da Terra<e-answer>Chá</e-answer>. Non <e-answer>cha</e-answer> quero, non me rogues máis con ela. 
+- Vilalba é a capital da comarca da Terra<e-answer>Chá</e-answer>.
+- Non <e-answer>cha</e-answer> quero, non me rogues máis con ela. 
 
 *pe - pé* 
 - Escordei un <e-answer>pé</e-answer> xogando ao fútbol. 
