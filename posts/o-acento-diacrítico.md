@@ -114,7 +114,7 @@ Completa estas oracións poñendo as palabras con acento diacrítico ou sen el o
 
 *a - á* 
 
-* O paxaron non pode voar porque ten unha <e-answer>á</e-answer> quebrada. 
+* O paxaro non pode voar porque ten unha <e-answer>á</e-answer> quebrada. 
 * Lin <e-answer>a</e-answer> novela nunha tarde.
 
 <e-validate>Corrixe as respostas</e-validate>
