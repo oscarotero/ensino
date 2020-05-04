@@ -56,24 +56,17 @@ Aínda que esta é a regra xeral, hai verbos que son irregulares (*pór, facer, 
 
 - - -
 
-## Tarefas
+## Exercicio 1
 
 Completa co verbo en imperativo as seguintes oracións:
-1. <e-validate>Comede</e-validate> (comer) todo o que tedes no prato.
-2. Non te oio, <e-validate>berra</e-validate> (berrar) máis.
-3. <e-validate>Entra</e-validate> (entrar) están agardando por ti.
-4. <e-validate>Sé</e-validate> (ser) bo  e non me amoles!
-5. 
+1. <e-answer>Comede</e-answer> (comer) todo o que tedes no prato.
+2. Non te oio, <e-answer>berra</e-answer> (berrar) máis.
+3. <e-answer>Entra</e-answer> (entrar), están agardando por ti.
+4. <e-answer>Sé</e-answer> (ser) bo  e non me amoles!
+5. Se vas conducir, non <e-answer>bebas</e-answer> bebas.
+6. <e-answer>Ven</e-answer> (vir), non te vou morder.
+7. Rapaces, <e-answer>facede</e-answer> (facer) o que vos din e todo irá ben.
 
-Transforma en negativas as seguintes oracións: 
 
-- <e-validate> Procure </e-validate ambientes frescos.>
-- Aumente a inxestión de auga ou de zumes de froita natural sen azucre e evite o consumo de bebidas alcólicas.
-- Evite a exposición directa ao sol, principalmente entre as 11 e as 17 horas.
-- Utilice protector solar con factor igual ou superior a 30 e renove a súa aplicación de 2 en dúas horás apos os baños na praia ou na piscina.
-- Utilice roupa solta, opaca e que cubra a maior parte do corpo, chapeu de abas largas e lentes de sol con protección ultravioleta.
-- Evite actividades que exixan grandes esforzos físicos, nomeadamente, deportivas e de lecer no exterior.
-- Escolle as horas de menor calor para viaxar en coche. Non permaneza dentro dos vehículos estacionados e expostos ao sol.
-- Preste atención especial aos grupos máis vulnerábeis á calor: crianzas, persoas de idade, doentes crónicos, grávidas, persoas con mobilidade reducida, traballadores con actividade no exterior, practicante de actividade física e persoas illadas.
 
 
