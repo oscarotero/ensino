@@ -62,7 +62,8 @@ Completa co verbo en imperativo as seguintes oracións:
 1. <e-validate>Comede</e-validate> (comer) todo o que tedes no prato.
 2. Non te oio, <e-validate>berra</e-validate> (berrar) máis.
 3. <e-validate>Entra</e-validate> (entrar) están agardando por ti.
-4. E
+4. <e-validate>Sé</e-validate> (ser) bo  e non me amoles!
+5. 
 
 Transforma en negativas as seguintes oracións: 
 
