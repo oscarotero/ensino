@@ -68,7 +68,7 @@ Completa co verbo en imperativo as seguintes oracións:
 7. Rapaces, <e-answer>facede</e-answer> (facer) o que vos din e todo irá ben.
 8. O xantar xa está preparado, <e-answer>pon</e-answer> (pór) a mesa, por favor.
 
-
+<e-validate>Corrixe as respostas</e-validate> 
 
 
 
