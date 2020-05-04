@@ -78,49 +78,33 @@ Completa estas oracións poñendo as palabras con acento diacrítico ou sen el o
 * Tes que cruzar <e-answer>pola</e-answer> ponte e despois virar á dereita.
 
 *compre - cómpre*
-
-Temos o frigorífico baleiro, <e-answer>cómpre</e-answer> ir ao supermercado.
-
-Dille que che <e-answer>compre</e-answer> un xeado.
+- Temos o frigorífico baleiro, <e-answer>cómpre</e-answer> ir ao supermercado.
+- Dille que che <e-answer>compre</e-answer> un xeado.
 
 *fora - fóra*
-
-Nunca <e-answer>fora</e-answer> antes en avión.
-
-Entra axiña <e-answer>fóra</e-answer> vai moito frío.
+- Nunca <e-answer>fora</e-answer> antes en avión. 
+- Entra axiña <e-answer>fóra</e-answer> vai moito frío.
 
 *cha - chá*
 
-Vilalba é a capital da comarca da Terra<e-answer>Chá</e-answer>.
-
-Non <e-answer>cha</e-answer> quero, non me rogues máis con ela. 
+Vilalba é a capital da comarca da Terra<e-answer>Chá</e-answer>. Non <e-answer>cha</e-answer> quero, non me rogues máis con ela. 
 
 *pe - pé* 
-
-Escordei un <e-answer>pé</e-answer> xogando ao fútbol.
-
-Di catro palabras que comecen pola letra <e-answer>pe</e-answer>
+- Escordei un <e-answer>pé</e-answer> xogando ao fútbol. 
+- Di catro palabras que comecen pola letra <e-answer>pe</e-answer>.
 
 *das - dás*
-
-Vive <e-answer>das</e-answer> esmolas que lle dan os que pasan.
-
-Non me <e-answer>dás</e-answer> pena ningunha. 
+- Vive <e-answer>das</e-answer> esmolas que lle dan os que pasan. 
+- Non me <e-answer>dás</e-answer> pena ningunha. 
 
 *e - é*
-
-Non hai quen o ature, <e-answer>é</e-answer> un caprichoso.
-
-Merca unha ducia de ovos <e-answer>e</e-answer> quilo de patacas.
+- Non hai quen o ature, <e-answer>é</e-answer> un caprichoso. 
+- Merca unha ducia de ovos <e-answer>e</e-answer> un quilo de patacas.
 
 *presa - présa*
-
-Esta mañá escapou unha <e-answer>presa</e-answer> da cadea de Teixeiro.
-
-Non teñas tanta <e-answer>présa</e-answer> que hai tempo de sobra.
+- Esta mañá escapou unha <e-answer>presa</e-answer> da cadea de Teixeiro. 
+- Non teñas tanta <e-answer>présa</e-answer> que hai tempo de sobra.
 
 *a - á* 
-
-O paxaron non pode voar porque ten unha <e-answer>á</e-answer> quebrada.
-
-Lin <e-answer>a</e-answer> novela nunha tarde.
+- O paxaron non pode voar porque ten unha <e-answer>á</e-answer> quebrada. 
+- Lin <e-answer>a</e-answer> novela nunha tarde.
