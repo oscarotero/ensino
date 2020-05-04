@@ -51,7 +51,7 @@ En galego levan acento diacrítico as seguintes palabras:
 | **das** (de + as)                        | **dás** (de dar)            |
 | **e** (conxunción)                       | **é** (verbo ser)           |
 | **fora** (de ser ou de ir)               | **fóra** (adverbio)         |
-| **ma** (me + a)                          | **más** (ruín)              |
+| **ma** (me + a)                          | **má** (ruín)               |
 | **mais** (conxunción)                    | **máis** (adverbio)         |
 | **no** (en + o)                          | **nó** (lazo, lazada)       |
 | **nos** (en + os; pron. átono)           | **nós** (lazos; pron. tón.) |
