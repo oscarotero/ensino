@@ -44,7 +44,7 @@ En galego levan acento diacrítico as seguintes palabras:
 | ---------------------------------------- | --------------------------- |
 | **a** (artigo; pron. átono; preposición) | **á** (a +a; das aves)      |
 | **as** (artigo; pron. átono)             | **á** (a +a; das aves)      |
-| **bola** (peza de pan)                   | **bóla** (esfera)           |
+| **bola** (peza de pan)                   | **bóla** (esfera, pelota)           |
 | **cha** (che + a)                        | **chá** (plana)             |
 | **chas** (che + as)                      | **chás** (planas)           |
 | **compre** (de comprar)                  | **cómpre** (de cumprir)     |
