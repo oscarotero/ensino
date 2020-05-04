@@ -13,7 +13,7 @@ Exemplo:
 
 ### Significados diferentes
 
-* as "artigo"
+* as "artigo determinado"
 * ás "membros do corpo das aves, dos insectos e doutros animais cos que voan"
 
 ### Orixes distintas
