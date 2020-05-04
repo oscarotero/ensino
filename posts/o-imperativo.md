@@ -4,7 +4,7 @@ summary: ""
 tags:
   - post
   - semana-8
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 ---
 O imperativo é un dos tres modos verbais do verbo. Os outros dous son indicativo e o subxuntivo. 
 
@@ -63,6 +63,8 @@ Completa co verbo en imperativo as seguintes oracións:
 2. Non te oio, <e-validate>berra</e-validate> (berrar) máis.
 3. <e-validate>Entra</e-validate> (entrar) están agardando por ti.
 4. E
+
+Transforma en negativas as seguintes oracións: 
 
 - <e-validate> Procure </e-validate ambientes frescos.>
 - Aumente a inxestión de auga ou de zumes de froita natural sen azucre e evite o consumo de bebidas alcólicas.
