@@ -39,6 +39,7 @@ Neste último caso, temos que manter o acento diacrítico ao engadir un pronome?
 <p><a href="https://vimeo.com/179171705">Mantense o diacr&iacute;tico ao engadir un pronome?</a> from <a href="https://vimeo.com/user18737334">Portal das Palabras</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 En galego levan acento diacrítico as seguintes palabras:
+
 | Con acento                              | Sen acento                |
 | ----------------------------------      | ---------------------     |
 | **a** (artigo; pron. átono; preposición)|**á** (a +a; das aves)     | 
@@ -51,15 +52,20 @@ En galego levan acento diacrítico as seguintes palabras:
 | **das** (de + as)                       |**dás** (planas)           | 
 | **e** (conxunción)                      |**é** (verbo ser)          | 
 | **fora** (de ser ou de ir)              |**fóra** (adverbio)        | 
+| **ma** (me + a)                         |**más** (ruín)             |
 | **mais** (conxunción)                   |**máis** (adverbio)        |  
 | **no** (en + o)                         |**nó** (lazo, lazada)      |
 | **nos** (en + os; pron. átono)          |**nós** (lazos; pron. tón.)|
 | **oso** (animal)                        |**óso** (do corpo)         |
 | **pe** (nome de letra)                  |**pé** (parte do corpo)    |
 | **pola** (galiña, por + a)              |**póla** (rama)            |
-| **presa** (dique, recluso, manchea)     |**présa** (apuro)          |
+| **presa** (dique; recluso; manchea)     |**présa** (apuro)          |
+| **se** (conx., pron.)                   |**sé** (catedral, v. ser)  |     
 | **so** (preposición)                    |**só** (adv. e adx.)       |
 | **ven** (de ver)                        |**vén** (de vir)           |
 | **ves** (de ver)                        |**vés** (de vir)           |
 | **vos** (pron. átono)                   |**vós** (pron. tónico)     |
 
+-------
+
+Exercicio 1
