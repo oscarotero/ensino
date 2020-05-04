@@ -108,3 +108,5 @@ Vilalba é a capital da comarca da Terra<e-answer>Chá</e-answer>. Non <e-answer
 *a - á* 
 - O paxaron non pode voar porque ten unha <e-answer>á</e-answer> quebrada. 
 - Lin <e-answer>a</e-answer> novela nunha tarde.
+
+<e-validate>Corrixe as respostas</e-validate> 
