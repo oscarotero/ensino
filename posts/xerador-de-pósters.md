@@ -5,7 +5,7 @@ summary: Nestes tempos de coronavirus xa todos sabemos da importancia vital
 tags:
   - post
   - semana-8
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 ---
 Lavarmos as mans, unha acción cotiá que todos realizabamos sen pensar moito, tornouse agora nun xesto fundamental para frearmos o espallamento do virus. De aí a importancia de que todos aprendamos a técnica para facelo do xeito correcto. Para axudarnos nesta tarefa, axiña xurdiron na rede moitas iniciativas. Unha delas é este **xerador de cartaces**:
 
