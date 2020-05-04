@@ -70,7 +70,11 @@ En galego levan acento diacrítico as seguintes palabras:
 
 
 
-Exercicio 1 Completa estas oracións poñendo as palabras con acento diacrítico ou sen el onde cumpra.
+## Exercicio 1 
+
+Completa estas oracións poñendo as palabras con acento diacrítico ou sen el onde cumpra.
+
+
 *pola - póla*
 
 * A <e-validate>póla</e-validate> da árbore partiu co peso das mazás. 
