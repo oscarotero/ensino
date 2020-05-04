@@ -11,24 +11,24 @@ O acento diacrítico serve para diferenciar na escrita dúas palabras que se esc
 
 Exemplo:
 
-### Significados diferentes  
+### Significados diferentes
 
 * as "contracción de a + as"
 * ás "membros do corpo das aves, dos insectos e doutros animais cos que voan"
 
-### Orixes distintas  
+### Orixes distintas
 
 * oso "animal" deriva da palabra latina URSUM
 * óso "do corpo" provén do termo latino OSSUM
 
-### Pronuncia diferente  
+### Pronuncia diferente
 
 * bola "peza de pan" pronúnciase con o fechado
 * bóla "esfera, pelota" pronúnciase con o aberto
 
   Nestes casos, a palabra que se acentúa é sempre a que ten a vogal aberta.
 
-### Non pertencen á mesma categoría gramatical 
+### Non pertencen á mesma categoría gramatical
 
 * da "contracción de + a" 
 * dá "P3 do presente de indicativo do verbo dar"
@@ -40,32 +40,38 @@ Neste último caso, temos que manter o acento diacrítico ao engadir un pronome?
 
 En galego levan acento diacrítico as seguintes palabras:
 
-| Con acento                              | Sen acento                |
-| ----------------------------------      | ---------------------     |
-| **a** (artigo; pron. átono; preposición)|**á** (a +a; das aves)     | 
-| **as** (artigo; pron. átono)            |**á** (a +a; das aves)     |
-| **bola** (peza de pan)                  |**bóla** (esfera)          |  
-| **cha** (che + a)                       |**chá** (plana)            | 
-| **chas** (che + as)                     |**chás** (planas)          | 
-| **compre** (de comprar)                 |**cómpre** (de cumprir)    | 
-| **da** (de + a)                         |**dá** (de dar)            |  
-| **das** (de + as)                       |**dás** (planas)           | 
-| **e** (conxunción)                      |**é** (verbo ser)          | 
-| **fora** (de ser ou de ir)              |**fóra** (adverbio)        | 
-| **ma** (me + a)                         |**más** (ruín)             |
-| **mais** (conxunción)                   |**máis** (adverbio)        |  
-| **no** (en + o)                         |**nó** (lazo, lazada)      |
-| **nos** (en + os; pron. átono)          |**nós** (lazos; pron. tón.)|
-| **oso** (animal)                        |**óso** (do corpo)         |
-| **pe** (nome de letra)                  |**pé** (parte do corpo)    |
-| **pola** (galiña, por + a)              |**póla** (rama)            |
-| **presa** (dique; recluso; manchea)     |**présa** (apuro)          |
-| **se** (conx., pron.)                   |**sé** (catedral, v. ser)  |     
-| **so** (preposición)                    |**só** (adv. e adx.)       |
-| **ven** (de ver)                        |**vén** (de vir)           |
-| **ves** (de ver)                        |**vés** (de vir)           |
-| **vos** (pron. átono)                   |**vós** (pron. tónico)     |
+| Con acento                               | Sen acento                  |
+| ---------------------------------------- | --------------------------- |
+| **a** (artigo; pron. átono; preposición) | **á** (a +a; das aves)      |
+| **as** (artigo; pron. átono)             | **á** (a +a; das aves)      |
+| **bola** (peza de pan)                   | **bóla** (esfera)           |
+| **cha** (che + a)                        | **chá** (plana)             |
+| **chas** (che + as)                      | **chás** (planas)           |
+| **compre** (de comprar)                  | **cómpre** (de cumprir)     |
+| **da** (de + a)                          | **dá** (de dar)             |
+| **das** (de + as)                        | **dás** (planas)            |
+| **e** (conxunción)                       | **é** (verbo ser)           |
+| **fora** (de ser ou de ir)               | **fóra** (adverbio)         |
+| **ma** (me + a)                          | **más** (ruín)              |
+| **mais** (conxunción)                    | **máis** (adverbio)         |
+| **no** (en + o)                          | **nó** (lazo, lazada)       |
+| **nos** (en + os; pron. átono)           | **nós** (lazos; pron. tón.) |
+| **oso** (animal)                         | **óso** (do corpo)          |
+| **pe** (nome de letra)                   | **pé** (parte do corpo)     |
+| **pola** (galiña, por + a)               | **póla** (rama)             |
+| **presa** (dique; recluso; manchea)      | **présa** (apuro)           |
+| **se** (conx., pron.)                    | **sé** (catedral, v. ser)   |
+| **so** (preposición)                     | **só** (adv. e adx.)        |
+| **ven** (de ver)                         | **vén** (de vir)            |
+| **ves** (de ver)                         | **vés** (de vir)            |
+| **vos** (pron. átono)                    | **vós** (pron. tónico)      |
 
--------
+- - -
 
-Exercicio 1
+
+
+Exercicio 1 Completa estas oracións poñendo as palabras con acento diacrítico ou sen el onde cumpra.
+*pola - póla*
+
+* A <e-validate>póla</e-validate> da árbore partiu co peso das mazás. 
+* Falei onte con el, encontreino <e-validate>pola</e-validate> rúa
