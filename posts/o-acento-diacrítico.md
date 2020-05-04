@@ -36,7 +36,7 @@ Exemplo:
 Neste último caso, temos que manter o acento diacrítico ao engadir un pronome? Ti que cres? Atento ao vídeo: 
 
 <iframe src="https://player.vimeo.com/video/179171705?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/179171705">Mantense o diacr&iacute;tico ao engadir un pronome?</a> from <a href="https://vimeo.com/user18737334">Portal das Palabras</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 
 En galego levan acento diacrítico as seguintes palabras:
 
