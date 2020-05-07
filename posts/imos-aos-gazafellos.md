@@ -57,7 +57,7 @@ Busca na lectura a palabra que corresponde a cada unha das definicións:
 8. O quinto dedo da man, o máis pequeno de todos:
 9. Arte da caza: 
 
-### Exercicio 3 
+### Exercicio 3
 
 Busca no texto un sinónimo para:
 
@@ -66,9 +66,10 @@ Busca no texto un sinónimo para:
 * coitado:
 * inocente: 
 * pasal:
+- regueiro:
+
 
 ### Exercicio 4
 
 1. Oíches algunha vez a expresión “andar aos biosbardos”? Que significa?
-
 2. Pon un exemplo do seu uso.
