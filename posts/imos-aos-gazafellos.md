@@ -38,8 +38,8 @@ Responde as seguintes preguntas sobre a lectura
 
 1. Cales son as mellores maneiras de cazar un gazafello?
 2. Que instrumentos necesitamos para ir na súa procura?
-3. Cal é o lugar ideal para cazar un gazafello? Por que?
-4. Cales son as razóns que se adoitan dar para xustificar a caza deste animal?
+3. Cal é o lugar ideal para atrapar este animal? Por que?
+4. Cales son as razóns que se adoitan dar para xustificar a súa caza?
 5. Explica o significado no texto da expresión "Velaí un cazador cazado"?
 6. Por que cres que non se sabe moi ben cal é o aspecto dun gazafello?
 
