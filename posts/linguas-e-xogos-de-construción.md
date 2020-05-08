@@ -42,7 +42,7 @@ Agora que xa coñeces a técnica, queres xogar a construír palabras?
 <e-tag color=5>co</e-tag> <e-tag color=10>za</e-tag> <e-tag color=7>man</e-tag> <e-tag color=1>ni</e-tag> <e-tag color=2>re</e-tag> <e-tag color=3>tar</e-tag> <e-tag color=1>a</e-tag> <e-tag color=5>fri</e-tag> <e-tag color=6>a</e-tag>  <e-tag color=5>rí</e-tag> <e-tag color=4>pis</e-tag> <e-tag color=5>go</e-tag> <e-tag color=2>ce</e-tag> <e-tag color=3>xan</e-tag> <e-tag color=7>ga</e-tag> <e-tag color=5>fi</e-tag> <e-tag color=2>cár</e-tag> <e-tag color=4>la</e-tag> <e-tag color=1>mal</e-tag> <e-tag color=7>tei</e-tag> <e-tag color=10>po</e-tag>
 
 <details>
-<summary>Ver solucións</summary>
+<summary>Ver as solucións</summary>
 1. <e-tag color=5>fri</e-tag><e-tag color=5>go</e-tag><e-tag color=5>rí</e-tag><e-tag color=5>fi</e-tag><e-tag color=5>co</e-tag>
 2. <e-tag color=10>po</e-tag><e-tag color=10>za</e-tag>
 3. <e-tag color=7>man</e-tag><e-tag color=7>tei</e-tag><e-tag color=7>ga</e-tag>
