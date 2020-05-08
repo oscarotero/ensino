@@ -34,7 +34,7 @@ Os sons e as sílabas non se combinan de calquera maneira. Existen unha serie de
 
 ## Mans á obra!
 
-Agora que xa coñeces a técnica, queres xogar a construír palabras?
+Agora que xa coñeces a técnica, imos xogar a construír palabras!
 
 1. Forma sete palabras agrupando e ordenando as sílabas de cada cor:
 
@@ -57,3 +57,4 @@ Agora que xa coñeces a técnica, queres xogar a construír palabras?
 
 7. <e-tag color=4>la</e-tag><e-tag color=4>pis</e-tag>
 </details>
+
