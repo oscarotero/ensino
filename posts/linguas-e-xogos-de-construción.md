@@ -37,8 +37,17 @@ Os sons e as sílabas non se combinan de calquera maneira. Existen unha serie de
 ## Mans á obra!
 Agora que xa coñeces a técnica, queres xogar a construír palabras?
 
-1. Agrupa e ordena as sílabas de cada cor ata formares sete palabras:
+1. Forma 7 palabras agrupando e ordenando as sílabas de cada cor:
 
-<e-tag color=10>za</e-tag><e-tag color=5>co</e-tag> <e-tag color=7>man</e-tag> <e-tag color=1>ni</e-tag> <e-tag color=2>re</e-tag> <e-tag color=3>tar</e-tag> <e-tag color=1>a</e-tag> <e-tag color=5>fri</e-tag> <e-tag color=6>a</e-tag>  <e-tag color=5>rí</e-tag> <e-tag color=4>pis</e-tag> <e-tag color=5>go</e-tag> <e-tag color=2>ce</e-tag> <e-tag color=3>xan</e-tag> <e-tag color=7>ga</e-tag> <e-tag color=5>fi</e-tag> <e-tag color=2>cár</e-tag> <e-tag color=4>la</e-tag> <e-tag color=1>mal</e-tag> <e-tag color=7>tei</e-tag> <e-tag color=10>po</e-tag>
+<e-tag color=5>co</e-tag> <e-tag color=10>za</e-tag> <e-tag color=7>man</e-tag> <e-tag color=1>ni</e-tag> <e-tag color=2>re</e-tag> <e-tag color=3>tar</e-tag> <e-tag color=1>a</e-tag> <e-tag color=5>fri</e-tag> <e-tag color=6>a</e-tag>  <e-tag color=5>rí</e-tag> <e-tag color=4>pis</e-tag> <e-tag color=5>go</e-tag> <e-tag color=2>ce</e-tag> <e-tag color=3>xan</e-tag> <e-tag color=7>ga</e-tag> <e-tag color=5>fi</e-tag> <e-tag color=2>cár</e-tag> <e-tag color=4>la</e-tag> <e-tag color=1>mal</e-tag> <e-tag color=7>tei</e-tag> <e-tag color=10>po</e-tag>
 
-
+<details>
+<summary>Ver solucións</summary>
+1. <e-tag color=5>fri</e-tag><e-tag color=5>go</e-tag><e-tag color=5>rí</e-tag><e-tag color=5>fi</e-tag><e-tag color=5>co</e-tag>
+2. <e-tag color=10>po</e-tag><e-tag color=10>za</e-tag>
+3. <e-tag color=7>man</e-tag><e-tag color=7>tei</e-tag><e-tag color=7>ga</e-tag>
+4. <e-tag color=1>a</e-tag><e-tag color=1>ni</e-tag><e-tag color=1>mal</e-tag>
+5. <e-tag color=2>cár</e-tag><e-tag color=2>ce</e-tag><e-tag color=2>re</e-tag>
+6. <e-tag color=3>xan</e-tag><e-tag color=3>tar</e-tag>
+7. <e-tag color=4>la</e-tag><e-tag color=4>pis</e-tag>
+</details>
