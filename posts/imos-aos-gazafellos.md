@@ -1,6 +1,6 @@
 ---
 title: Imos aos gazafellos?
-summary: Todo o que debes saber sobre estes animaliños tan misteriosos
+summary: Todo o que debes saber sobre estes misteriosos animaliños
 tags:
   - post
   - semana-9
