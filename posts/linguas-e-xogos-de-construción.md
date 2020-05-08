@@ -36,7 +36,7 @@ Os sons e as sílabas non se combinan de calquera maneira. Existen unha serie de
 
 Agora que xa coñeces a técnica, queres xogar a construír palabras?
 
-1. Forma 7 palabras agrupando e ordenando as sílabas de cada cor:
+1. Forma sete palabras agrupando e ordenando as sílabas de cada cor:
 
 <e-tag color=5>co</e-tag> <e-tag color=10>za</e-tag> <e-tag color=7>man</e-tag> <e-tag color=1>ni</e-tag> <e-tag color=2>re</e-tag> <e-tag color=3>tar</e-tag> <e-tag color=1>a</e-tag> <e-tag color=5>fri</e-tag> <e-tag color=6>a</e-tag>  <e-tag color=5>rí</e-tag> <e-tag color=4>pis</e-tag> <e-tag color=5>go</e-tag> <e-tag color=2>ce</e-tag> <e-tag color=3>xan</e-tag> <e-tag color=7>ga</e-tag> <e-tag color=5>fi</e-tag> <e-tag color=2>cár</e-tag> <e-tag color=4>la</e-tag> <e-tag color=1>mal</e-tag> <e-tag color=7>tei</e-tag> <e-tag color=10>po</e-tag>
 
