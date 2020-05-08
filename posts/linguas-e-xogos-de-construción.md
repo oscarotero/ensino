@@ -39,5 +39,5 @@ Agora que xa coñeces a técnica, queres xogar a construír palabras?
 
 1. Agrupa e ordena as sílabas de cada cor ata formares dez palabras:
 
-<e-tag color=5>co</e-tag> <e-tag color=7>man</e-tag> <e-tag color=1>go</e-tag> <e-tag color=2>re</e-tag> <e-tag color=3>tar</e-tag> <e-tag color=4>ni</e-tag> <e-tag color=5>fri</e-tag> <e-tag color=6>a</e-tag>  <e-tag color=5>rí</e-tag> <e-tag color=9>bi</e-tag> <e-tag color=5>go</e-tag> <e-tag color=2>ce</e-tag> <e-tag color=3>xan</e-tag> <e-tag color=7>ga</e-tag> <e-tag color=5>fi</e-tag> <e-tag color=2>cár</e-tag> <e-tag>go</e-tag> <e-tag>no</e-tag> <e-tag color=7>tei</e-tag>
+<e-tag color=5>co</e-tag> <e-tag color=7>man</e-tag> <e-tag color=1>ni</e-tag> <e-tag color=2>re</e-tag> <e-tag color=3>tar</e-tag> <e-tag color=1>a</e-tag> <e-tag color=5>fri</e-tag> <e-tag color=6>a</e-tag>  <e-tag color=5>rí</e-tag> <e-tag color=9>bi</e-tag> <e-tag color=5>go</e-tag> <e-tag color=2>ce</e-tag> <e-tag color=3>xan</e-tag> <e-tag color=7>ga</e-tag> <e-tag color=5>fi</e-tag> <e-tag color=2>cár</e-tag> <e-tag>go</e-tag> <e-tag>mal</e-tag> <e-tag color=7>tei</e-tag>
 
