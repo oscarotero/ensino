@@ -15,15 +15,15 @@ Para eles é moito máis fácil, dado que pronuncian de modo diferente o *b* e o
 * Escriben *b* cando pronuncian o mesmo son ca nós, e que nós escribimos unhas veces con *b* e outras con *v.*
 * Escriben *v* cando pronuncian un son parecido ao do *f,* mais sonoro. 
 
-Queredes saber por que acontece isto? Pois atentos ao vídeo:
+Queres saber por que acontece isto? Pois atento ao vídeo:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8O_K3bGuLsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Como podedes ver, acertarmos se unha palabra leva *b* ou *v* non é tan simple e require un certo adestramento pola nosa parte. 
+Como podes ver, acertarmos se unha palabra leva *b* ou *v* non é tan simple e require un certo adestramento pola nosa parte. 
 
 ## Recursos
 
-Menos mal que na rede hai moitos sitios con consellos e actividades para mellorarmos a nosa competencia nesta cuestión. Deixo abaixo a ligazón a un dos mellores. Lede a información relativa ao uso do *b* e do *v* e facede os exercicios correspondentes:
+Menos mal que na rede hai moitos sitios con consellos e actividades para mellorarmos a nosa competencia nesta cuestión. Deixo abaixo a ligazón a un dos mellores. Le a información relativa ao uso do *b* e do *v* e fai os exercicios correspondentes:
 
 [Ortografía: O uso do b e do v](http://cotovia.org/proxecto/ort/ort_ud3_01.html?orix=ort&tema=ort_ud3_01.html)
 
@@ -84,6 +84,6 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
 ### Tarefa 3
 
-Sabiades que hai un canción moi coñecida en que se brinca coas semellanzas fonéticas entre dúas palabras, unha con be e outra con uve. Podedes escoitar a versión que fixo dela [Andrés do Barro](https://gl.wikipedia.org/wiki/Andr%C3%A9s_do_Barro) aquí: [Vou a Bueu](https://www.youtube.com/watch?v=TMRPK2Tjjzs)
+Sabías que hai un canción moi coñecida en que se brinca coas semellanzas fonéticas entre dúas palabras, unha con be e outra con uve. Podes escoitar a versión que fixo dela [Andrés do Barro](https://gl.wikipedia.org/wiki/Andr%C3%A9s_do_Barro) aquí: [Vou a Bueu](https://www.youtube.com/watch?v=TMRPK2Tjjzs)
 
-En Bueu teñen moi claro como hai que ir alí, mais como iriades os de Negreira. Sabedes o que é un *bou* con *b?*
+En Bueu teñen moi claro como hai que ir alí, mais como irías ti. Sabes o que é un *bou* con *b?*
