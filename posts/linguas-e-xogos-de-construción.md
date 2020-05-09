@@ -79,6 +79,8 @@ Agora que xa coñeces a técnica, imos xogar a construír palabras!
 Indica de que tipo son as palabras seguintes, de acordo co número de sílabas: 
 Ex.: lei > monosílaba
 
+guitarra: <e-answer>trisílaba</e-answer>
+
 semáforo : <e-answer>tetrasílaba</e-answer> ou <e-answer>cuadrisílaba</e-answer>
 
 pan : <e-answer>monosílaba</e-answer>
