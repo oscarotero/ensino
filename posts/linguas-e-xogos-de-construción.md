@@ -12,7 +12,7 @@ Nas linguas tamén temos pezas que podemos xuntar para construír outras maiores
 
 ## A ciencia da construción
 
-Os sons e as sílabas non se combinan de calquera maneira. Existen unha serie de regras ou principios construtivos que todos aplicamos, aínda sen sermos moi conscientes de o facermos. Atende:
+Os sons e as sílabas non se combinan de calquera maneira. Existen unha serie de regras ou principios construtivos que todos aplicamos, aínda sen sermos moi conscientes de o facermos. Estes son algúns deles:
 
 1. Unha sílaba pode estar constituída por un son ou por varios. Do mesmo xeito que unha palabra pode estar constituída por unha ou por varias sílabas.
 2. A sílaba máis habitual en galego é a formada por unha vogal mais unha consoante: CV > **po**. Mais existen outras moitas combinacións:
