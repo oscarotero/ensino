@@ -69,7 +69,7 @@ Ex.: acne: **ac** - ne
 7. chofer:
 8. paxaro:
 
-<details> <summary>Ver as solucións<summary>
+<details> <summary>Ver as solucións</summary>
 
 1. heroe: he - **ro** - e
 2. paxaro: pa - **xa** - ro
