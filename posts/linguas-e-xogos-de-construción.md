@@ -31,35 +31,25 @@ Os sons e as sílabas non se combinan de calquera maneira. Existen unha serie de
 4. Mesmo hai sílabas con até tres vogais seguidas. Neste caso, dicimos que as tres vogais forman un **tritongo**: Ex.: o-fi-c**iai**s
 5. As palabras poden estar constituídas por unha única sílaba (**monosílabas**) ou por varias (**polisílabas**). Segundo o número de sílabas que teñan, distinguimos os seguintes tipos:
 
-   monosílabas = 1 sílaba
-   : Ex.: sol
- 
-   bisílabas = 2 sílabas
-   : Ex.: ra-to
- 
-   trisílabas = 3 sílabas
-   : Ex.: lós-tre-go
- 
-   tetrasílabas / cuadrisílabas = 4 sílabas
-   : Ex.: sim-pá-ti-co
-   
-   pentasílabas = 5 sílabas
-   : Ex.: he-li-cóp-te-ro
-   
-   hexasílabas = 6 sílabas
-   : Ex.: mul-ti-tu-di-na-rio
-   
-   heptasílabas = 7 sílabas
-   : Ex: e-lec-tro-do-més-ti-co
-   
-   octosílabas = 8 sílabas
-   : Ex.: i-rres-pon-sa-bi-li-da-de
-   
-   eneasílabas = 9 sílabas
-   : Ex.: es-ter-no-clei-do-mas-toi-de-o
-   
-   decasílabas = 10 sílabas
-   : Ex.: o-to-rri-no-la-rin-go-lo-xí-a ...
+   monosílabas = 1 sílaba : Ex.: sol
+
+   bisílabas = 2 sílabas : Ex.: ra-to
+
+   trisílabas = 3 sílabas : Ex.: lós-tre-go
+
+   tetrasílabas / cuadrisílabas = 4 sílabas : Ex.: sim-pá-ti-co
+
+   pentasílabas = 5 sílabas : Ex.: he-li-cóp-te-ro
+
+   hexasílabas = 6 sílabas : Ex.: mul-ti-tu-di-na-rio
+
+   heptasílabas = 7 sílabas : Ex: e-lec-tro-do-més-ti-co
+
+   octosílabas = 8 sílabas : Ex.: i-rres-pon-sa-bi-li-da-de
+
+   eneasílabas = 9 sílabas : Ex.: es-ter-no-clei-do-mas-toi-de-o
+
+   decasílabas = 10 sílabas : Ex.: o-to-rri-no-la-rin-go-lo-xí-a ...
 
 - - -
 
@@ -83,33 +73,53 @@ Agora que xa coñeces a técnica, imos xogar a construír palabras!
 5. <e-tag color=2>cár</e-tag><e-tag color=2>ce</e-tag><e-tag color=2>re</e-tag>
 6. <e-tag color=3>xan</e-tag><e-tag color=3>tar</e-tag>
 7. <e-tag color=4>la</e-tag><e-tag color=4>pis</e-tag>
-</details>
 
 ### Exercicio 2
 
-Indica de que tipo son as palabras seguintes, de acordo co número de sílabas:
-Ex.: *lei > monosílaba*
+Indica de que tipo son as palabras seguintes, de acordo co número de sílabas: Ex.: *lei > monosílaba*
 
+semáforo : <e-answer>tetrasílaba</e-answer> ou <e-answer>cuadrisílaba</e-answer>
 
-semáforo
-: <e-answer>tetrasílaba</e-answer> ou <e-answer>cuadrisílaba</e-answer>
+pan : <e-answer>monosílaba</e-answer>
 
-pan
-: <e-answer>monosílaba</e-answer>
+libro : <e-answer>bisílaba</e-answer>
 
-libro
-: <e-answer>bisílaba</e-answer>
+almorzar : <e-answer>trisílaba</e-answer>
 
-almorzar
-: <e-answer>trisílaba</e-answer>
+culler : <e-answer>bisílaba</e-answer>
 
-culler
-: <e-answer>bisílaba</e-answer>
+felicidade : <e-answer>pentasílaba</e-answer>
 
-felicidade
-: <e-answer>pentasílaba</e-answer>
-
-domingo
-: <e-answer>trisílaba</e-answer>
+domingo : <e-answer>trisílaba</e-answer>
 
 <e-validate>Corrixe as respostas</e-validate>
+
+### Exercicio 3
+
+Separa en sílabas as seguintes palabras:
+
+1. cadeira:
+2. margarida:
+3. toupa:
+4. aparcadoiro:
+5. minisaia:
+6. ambiente:
+7. guión:
+8. ademais:
+9. premio
+10. científico
+
+<details>
+<summary>Ver as solucións</summary>
+
+1. ca – dei – ra
+2. mar – ga – ri -da
+3. tou – pa
+4. a – par – ca – doi – ro
+5. mi - ni - sa -ia
+6. am – bien – te
+7. gui – ón
+8. a – de – mais
+9. pre - mio
+10. cien – tí – fi – co
+</details>
