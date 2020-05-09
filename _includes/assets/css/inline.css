@@ -24,6 +24,13 @@ main {
 	margin: auto;
 	padding: 1em 1em 2em;
 }
+nav p,
+nav h4 {
+	margin: 0;
+}
+nav li + li {
+	margin-top: 1em;
+}
 ::selection {
 	background:rgba(255,255,0,0.5);
 }
@@ -103,6 +110,18 @@ article li::marker {
 	font-weight: bold;
 	color: var(--gray);
 }
+article article {
+	background: white;
+	padding: 2em;
+	box-shadow: var(--shadow);
+	font-family: Georgia;
+	margin: 3em 0;
+	font-size: 1.1em;
+}
+article article h2 {
+	margin: 0 0 1em;
+	font-weight: normal;
+}
 hr {
 	margin: 4em 0;
 	border: none;
@@ -116,6 +135,15 @@ form {
 label {
 	display: block;
 	font-weight: bold;
+}
+figure {
+	margin: 2em 0;
+}
+figcaption {
+	color: var(--gray);
+}
+img {
+	max-width: 100%;
 }
 
 input,

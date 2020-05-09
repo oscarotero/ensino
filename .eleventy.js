@@ -77,18 +77,18 @@ module.exports = function(eleventyConfig) {
   const markdownIt = require("markdown-it");
   const markdownItAnchor = require("markdown-it-anchor");
   const markdownDeflist = require("markdown-it-deflist");
+  const markdownFigures = require("markdown-it-implicit-figures");
   const options = {
     html: true,
     breaks: true,
-    linkify: true
-  };
-  const opts = {
-    permalink: false
+    linkify: true,
+    typographer: true
   };
 
   eleventyConfig.setLibrary("md", markdownIt(options)
-    .use(markdownItAnchor, opts)
+    .use(markdownItAnchor, { permalink: false })
     .use(markdownDeflist)
+    .use(markdownFigures, { figcaption: true })
   );
 
   return {

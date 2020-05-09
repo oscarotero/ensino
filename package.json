@@ -33,6 +33,7 @@
     "clean-css": "^4.2.1",
     "html-minifier": "^4.0.0",
     "markdown-it-deflist": "^2.0.3",
+    "markdown-it-implicit-figures": "^0.10.0",
     "uglify-es": "^3.3.9"
   }
 }

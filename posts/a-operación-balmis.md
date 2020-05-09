@@ -53,7 +53,9 @@ A túa misión será explorares todos eles na procura de respostas para as segui
 
 A escritora [Marilar Aleixandre](https://gl.wikipedia.org/wiki/Marilar_Aleixandre) reivindica na súa obra ***A vaca caníbal*** a contribución á historia da humanidade dunha serie de vacas exemplares. Unha destas vacas é Buttercup, a vaca das vacinas. Eis a súa historia:
 
-### Vacas exemplares: A vaca das vacinas
+<article>
+
+## Vacas exemplares: A vaca das vacinas
 
 Había unha vez unha vaca chamada Buttercup, mais que chegou a facerse célebre porque a ela se debe un avance científico tan importante como as vacinas.
 
@@ -65,11 +67,12 @@ Jenner pediulle a Sarah que lle deixase tirar un pouco de líquido da súa man e
 
 A historia de Buttercup ensínanos dúas cousas:
 
-A primeira: as vacas xogaron un papel moi importante na historia da ciencia: grazas a elas dispoñemos das vacinas, como recoñece o propio nome.
+- A primeira: as vacas xogaron un papel moi importante na historia da ciencia: grazas a elas dispoñemos das vacinas, como recoñece o propio nome.
+- A segunda: os métodos utilizados polos homes (polo menos, neses tempos) para experimentar novas formas de curar son moito máis desapiadados que os das vacas. Unha vaca nuna poñería en perigo a vida dun cucho --como fixo Jenner co pequeno James-- por moi pobre que fose.
 
-A segunda: os métodos utilizados polos homes (polo menos, neses tempos) para experimentar novas formas de curar son moito máis desapiadados que os das vacas. Unha vaca nuna poñería en perigo a vida dun cucho -como fixo Jenner co pequeno James- por moi pobre que fose.
+</article>
 
-### Máis curiosidades
+## Máis curiosidades
 
 * A escritora [María Solar](https://gl.wikipedia.org/wiki/Mar%C3%ADa_Solar) publicou en 2017 *Os nenos da varíola,* unha novela baseada na historia real dos 22 orfos da expedición Balmis que levaron no seu corpo a vacina da varíola a América.
 * En 2020, a compañía PÉREZ&FERNÁNDEZ en coprodución co Centro Dramático Galego (CDG) presentaron [a adaptación á escena desta novela de María Solar](http://centrodramatico.xunta.gal/cdg/axenda/axendad.php?id_e=2748&lg=gal).

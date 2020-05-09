@@ -1,15 +1,19 @@
 ---
 layout: layouts/base.njk
 ---
+<article>
+<header>
 <h1>{{ title }}</h1>
 
 {{ layoutContent | safe }}
+</header>
 
 {% set postslist = collections[filter] %}
 
-<section>
+<nav>
+	<ul>
 	{% for post in postslist %}
-		<article{% if post.url == url %} data-current="current item"{% endif %}>
+		<li>
 			<h3>
 				<a href="{{ post.url | url }}">
 					{% if post.data.title %}
@@ -24,7 +28,9 @@ layout: layouts/base.njk
 					{{ post.data.summary }}
 				</p>
 			{% endif %}
-		</article>
+		</li>
 	{% endfor %}
-</section>
+	</ul>
+</nav>
 
+</article>
