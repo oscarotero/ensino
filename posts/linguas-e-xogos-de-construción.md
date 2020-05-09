@@ -113,13 +113,13 @@ Separa en sílabas as seguintes palabras:
 <details>
 <summary>Ver as solucións</summary>
 
-1. ca – dei – ra
-2. mar – ga – ri -da
-3. tou – pa
-4. a – par – ca – doi – ro
-5. mi - ni - sa -ia
-6. am – bien – te
-7. gui – ón
-8. a – de – mais
+1. ca - dei - ra
+2. mar - ga - ri - da
+3. tou - pa
+4. a - par - ca - doi - ro
+5. mi - ni - sa - ia
+6. am - bien - te
+7. gui - ón
+8. a - de - mais
 9. pre - mio
-10. cien – tí – fi – co
+10. cien - tí - fi - co
