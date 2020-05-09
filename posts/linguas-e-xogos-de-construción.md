@@ -15,6 +15,7 @@ Nas linguas tamén temos pezas que podemos xuntar para construír outras maiores
 Os sons e as sílabas non se combinan de calquera maneira. Existen unha serie de regras ou principios construtivos que todos aplicamos, aínda sen sermos moi conscientes de o facermos. Estes son algúns deles:
 
 1. Unha sílaba pode estar constituída por un son ou por varios. Do mesmo xeito que unha palabra pode estar constituída por unha ou por varias sílabas.
+
 2. A sílaba máis habitual en galego é a formada por unha vogal mais unha consoante: CV > **po**. Mais existen outras moitas combinacións:
 
 * CVC > **pés**
@@ -30,6 +31,18 @@ Os sons e as sílabas non se combinan de calquera maneira. Existen unha serie de
 
 4. Mesmo hai sílabas con até tres vogais seguidas. Neste caso, dicimos que as tres vogais forman un **tritongo**: Ex.: o-fi-c**iai**s
 
+5. As palabras poden estar constituídas por unha única sílaba (monosílabas) ou por varias (polisílabas). Segundo o número de sílabas que teñan, distinguimos os seguintes tipos:
+monosílabas = 1 sílaba Ex.: sol
+bisílabas = 2 sílabas Ex.: ra-to
+trisílabas = 3 sílabas Ex.: lós-tre-go
+tetrasílabas ou cuadrisílabas = 4 sílabas Ex.: sim-pá-ti-co
+pentasílabas = 5 sílabas Ex.: he-li-cóp-te-ro
+hexasílabas = 6 sílabas Ex.: mul-ti-tu-di-na-rio
+heptasílabas = 7 sílabas Ex: e-lec-tro-do-més-ti-co
+octosílabas = 8 sílabas Ex.: i-rres-pon-sa-bi-li-da-de
+eneasílabas = 9 sílabas Ex.: es-ter-no-clei-do-mas-toi-de-o
+decasílabas = 10 sílabas Ex.: o-to-rri-no-la-rin-gó-lo-xí-a
+...
 - - -
 
 ## Mans á obra!
