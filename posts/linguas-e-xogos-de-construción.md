@@ -76,7 +76,8 @@ Agora que xa coñeces a técnica, imos xogar a construír palabras!
 
 ### Exercicio 2
 
-Indica de que tipo son as palabras seguintes, de acordo co número de sílabas: Ex.: lei > monosílaba
+Indica de que tipo son as palabras seguintes, de acordo co número de sílabas: 
+Ex.: lei > monosílaba
 
 semáforo : <e-answer>tetrasílaba</e-answer> ou <e-answer>cuadrisílaba</e-answer>
 
