@@ -15,7 +15,6 @@ Nas linguas tamén temos pezas que podemos xuntar para construír outras maiores
 Os sons e as sílabas non se combinan de calquera maneira. Existen unha serie de regras ou principios construtivos que todos aplicamos, aínda sen sermos moi conscientes de o facermos. Estes son algúns deles:
 
 1. Unha sílaba pode estar constituída por un son ou por varios. Do mesmo xeito que unha palabra pode estar constituída por unha ou por varias sílabas.
-
 2. A sílaba máis habitual en galego é a formada por unha vogal mais unha consoante: CV > **po**. Mais existen outras moitas combinacións:
 
 * CVC > **pés**
@@ -30,19 +29,19 @@ Os sons e as sílabas non se combinan de calquera maneira. Existen unha serie de
 * Polo contrario, se as pronunciamos en sílabas diferentes, forman un **hiato**: a-r-**e-a**
 
 4. Mesmo hai sílabas con até tres vogais seguidas. Neste caso, dicimos que as tres vogais forman un **tritongo**: Ex.: o-fi-c**iai**s
+5. As palabras poden estar constituídas por unha única sílaba (**monosílabas**) ou por varias (**polisílabas**). Segundo o número de sílabas que teñan, distinguimos os seguintes tipos: 
+   **monosílabas** = 1 sílaba Ex.: sol
+   **bisílabas** = 2 sílabas Ex.: ra-to
+   **trisílabas** = 3 sílabas Ex.: lós-tre-go
+   **tetrasílabas** ou **cuadrisílabas** = 4 sílabas Ex.: sim-pá-ti-co
+   **pentasílabas** = 5 sílabas Ex.: he-li-cóp-te-ro
+   **hexasílabas** = 6 sílabas Ex.: mul-ti-tu-di-na-rio
+   **heptasílabas** = 7 sílabas Ex: e-lec-tro-do-més-ti-co
+   **octosílabas** = 8 sílabas Ex.: i-rres-pon-sa-bi-li-da-de
+   **eneasílabas** = 9 sílabas Ex.: es-ter-no-clei-do-mas-toi-de-o
+   **decasílabas** = 10 sílabas Ex.: o-to-rri-no-la-rin-gó-lo-xí-a
+   ...
 
-5. As palabras poden estar constituídas por unha única sílaba (monosílabas) ou por varias (polisílabas). Segundo o número de sílabas que teñan, distinguimos os seguintes tipos:
-monosílabas = 1 sílaba Ex.: sol
-bisílabas = 2 sílabas Ex.: ra-to
-trisílabas = 3 sílabas Ex.: lós-tre-go
-tetrasílabas ou cuadrisílabas = 4 sílabas Ex.: sim-pá-ti-co
-pentasílabas = 5 sílabas Ex.: he-li-cóp-te-ro
-hexasílabas = 6 sílabas Ex.: mul-ti-tu-di-na-rio
-heptasílabas = 7 sílabas Ex: e-lec-tro-do-més-ti-co
-octosílabas = 8 sílabas Ex.: i-rres-pon-sa-bi-li-da-de
-eneasílabas = 9 sílabas Ex.: es-ter-no-clei-do-mas-toi-de-o
-decasílabas = 10 sílabas Ex.: o-to-rri-no-la-rin-gó-lo-xí-a
-...
 - - -
 
 ## Mans á obra!
@@ -57,17 +56,9 @@ Agora que xa coñeces a técnica, imos xogar a construír palabras!
 <summary>Ver as solucións</summary>
 
 1. <e-tag color=5>fri</e-tag><e-tag color=5>go</e-tag><e-tag color=5>rí</e-tag><e-tag color=5>fi</e-tag><e-tag color=5>co</e-tag>
-
 2. <e-tag color=10>po</e-tag><e-tag color=10>za</e-tag>
-
 3. <e-tag color=7>man</e-tag><e-tag color=7>tei</e-tag><e-tag color=7>ga</e-tag>
-
 4. <e-tag color=1>a</e-tag><e-tag color=1>ni</e-tag><e-tag color=1>mal</e-tag>
-
 5. <e-tag color=2>cár</e-tag><e-tag color=2>ce</e-tag><e-tag color=2>re</e-tag>
-
 6. <e-tag color=3>xan</e-tag><e-tag color=3>tar</e-tag>
-
 7. <e-tag color=4>la</e-tag><e-tag color=4>pis</e-tag>
-</details>
-
