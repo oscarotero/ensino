@@ -69,9 +69,7 @@ Ex.: acne: **ac** - ne
 
 
 
-<details>
-
-<e-summary>Ver as solucións</e-summary>
+<details><e-summary>Ver as solucións</e-summary>
 
 1. heroe: he - **ro** - e
 2. paxaro: pa - **xa** - ro
