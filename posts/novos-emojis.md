@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: false
 ---
 Hai uns días soubemos que o Consorcio Unicode decidiu aumentar a familia de emojis con 157 novos emojis. Unicode é o organismo que está ao cargo de estandarizar todos os caracteres dispoñíbeis nos nosos teclados, entre eles os emojis. Segundo a [Emojipedia](https://emojipedia.org/), con esta actualización imos ter ao noso dispor 2.823 😮
 
-Podedes ler a información completa aquí: [As novas emoticonas chegan con microbios, placas de Petri e moita ciencia.](https://www.gciencia.com/tolociencia/novas-emoticonas-microbios-placas-petri-ciencia/)
+Podes ler a información completa aquí: [As novas emoticonas chegan con microbios, placas de Petri e moita ciencia.](https://www.gciencia.com/tolociencia/novas-emoticonas-microbios-placas-petri-ciencia/)
 
 ## Emoticonas e emojis son a mesma cousa?
 
@@ -28,7 +28,7 @@ A palabra emoji vén da unión de “e”, que significa imaxe en xaponés, e �
 
 ## Actividade
 
-Agora que xa sabedes que cada certo tempo se producen novas incorporacións e actualizacións dos emojis que usamos, propóñovos un exercicio para familiarizarvos cos que se acaban de incorporar en febreiro de 2020. De entre os 157 seleccionei estes 20 que aparecen a continuación. Aparece o emoji e, ao pé, o nome que ten en inglés. O que tedes que facer vós? Simple, darlle un nome en galego. Sede creativos!
+Agora que xa sabes que cada certo tempo se producen novas incorporacións e actualizacións dos emojis que usamos, propóche un exercicio para familiarizarte cos que se acaban de incorporar en febreiro de 2020. De entre os 157 seleccionei estes 20 que figuran a continuación. Aparece o emoji e, ao pé, o nome que ten en inglés. O que tes que facer ti? Simple, darlle un nome en galego. Sé creativo!
 
 <ol>
 <li><span style="font-size:50px">🦞</span> Lobster: </li>
@@ -81,8 +81,8 @@ Agora que xa sabedes que cada certo tempo se producen novas incorporacións e ac
 
 - - -
 
-## Sabiades que...
+## Sabías que...
 
-A cantora norteamericana Katey Perry fixo un vídeo coa letra dunha das súas cancións no que mesturaba texto e emojis. O título da música é "Roar" (Ruxir):
+A cantora norteamericana Katey Perry fixo un vídeo coa letra dunha das súas cancións en que mesturaba texto e emojis. O título da música é "Roar" (Ruxir):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e9SeJIgWRPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
