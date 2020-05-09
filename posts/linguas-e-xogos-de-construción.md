@@ -73,11 +73,10 @@ Agora que xa coñeces a técnica, imos xogar a construír palabras!
 5. <e-tag color=2>cár</e-tag><e-tag color=2>ce</e-tag><e-tag color=2>re</e-tag>
 6. <e-tag color=3>xan</e-tag><e-tag color=3>tar</e-tag>
 7. <e-tag color=4>la</e-tag><e-tag color=4>pis</e-tag>
-</details>
 
 ### Exercicio 2
 
-Indica de que tipo son as palabras seguintes, de acordo co número de sílabas: Ex.: *lei > monosílaba*
+Indica de que tipo son as palabras seguintes, de acordo co número de sílabas: Ex.: lei > monosílaba
 
 semáforo : <e-answer>tetrasílaba</e-answer> ou <e-answer>cuadrisílaba</e-answer>
 
@@ -123,4 +122,3 @@ Separa en sílabas as seguintes palabras:
 8. a – de – mais
 9. pre - mio
 10. cien – tí – fi – co
-</details>
