@@ -73,6 +73,7 @@ Agora que xa coñeces a técnica, imos xogar a construír palabras!
 5. <e-tag color=2>cár</e-tag><e-tag color=2>ce</e-tag><e-tag color=2>re</e-tag>
 6. <e-tag color=3>xan</e-tag><e-tag color=3>tar</e-tag>
 7. <e-tag color=4>la</e-tag><e-tag color=4>pis</e-tag>
+</details>
 
 ### Exercicio 2
 
