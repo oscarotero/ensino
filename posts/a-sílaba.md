@@ -52,6 +52,8 @@ móbil - dificultade - espello - xampú - lóstrego - bicicleta - aprendiz
 
 <e-answer>di</e-answer><e-answer>fi</e-answer><e-answer>cul</e-answer><e-answer>ta</e-answer><e-answer>de</e-answer>
 
+<e-validate>Corrixe as respostas</e-validate>
+
 ## Exercicio 2
 
 Separa en sílabas e indica cal é sílaba tónica nas seguintes palabras. Para iso, consulta como se pronuncia cada unha delas clicando na ligazón do [Dicionario de pronuncia da lingua galega](https://ilg.usc.es/pronuncia/):
@@ -66,8 +68,6 @@ Ex.: acne: **ac** - ne
 6. medula:
 7. chofer:
 8. paxaro:
-
-
 
 <details><e-summary>Ver as solucións</e-summary>
 
