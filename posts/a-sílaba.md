@@ -67,6 +67,8 @@ Ex.: acne: **ac** - ne
 7. chofer:
 8. paxaro:
 
+
+
 <details>
 
 <e-summary>Ver as solucións</e-summary>
