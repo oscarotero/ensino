@@ -122,6 +122,19 @@ article article h2 {
 	margin: 0 0 1em;
 	font-weight: normal;
 }
+article article footer {
+	font-size: .8em;
+	margin-top: 3em;
+	padding-top: 1em;
+	border-top: solid 1px var(--gray-light);
+}
+article form {
+	box-shadow: var(--shadow);
+	padding: 1em 2em;
+	border: solid 1px var(--gray-light);
+	border-radius: var(--radius);
+}
+
 hr {
 	margin: 4em 0;
 	border: none;
@@ -132,10 +145,7 @@ form {
   	display: grid;
 	padding: 2em 0;
 }
-label {
-	display: block;
-	font-weight: bold;
-}
+
 figure {
 	margin: 2em 0;
 }
@@ -146,7 +156,8 @@ img {
 	max-width: 100%;
 }
 
-input,
+input[type="text"],
+input[type="email"],
 textarea,
 button {
   	width: 100%;
