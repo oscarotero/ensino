@@ -1,9 +1,9 @@
 ---
 title: Rudi Fociños
-summary: ""
+summary: A historia de como acabamos por ter un porco como mascota.
 tags:
   - post
-  - semana-9
+  - recuperacion
 eleventyExcludeFromCollections: false
 ---
 <article>
@@ -70,8 +70,8 @@ Texto adaptado da obra *O cocho de carreiras Rudi Fuciños* do escritor alemán 
 Selecciona a resposta correcta para cada unha das preguntas:
 
 <form name="rudi-focinhos" method="POST" netlify>
-  <label for="name"><strong>Como te chamas?</strong></label>
-  <input type="text" name="nome" placeholder="Escribe aqui o teu nome e apelidos" required>
+  <label for="name"><strong>Quen es?</strong></label>
+  <input type="text" name="nome" placeholder="Escribe aquí o teu nome e apelidos" required>
 
   ---
 
@@ -85,16 +85,16 @@ Selecciona a resposta correcta para cada unha das preguntas:
   #### 2. Quen nos conta a historia?
 
   <label><input type="radio" name="2" value="a"> Betti.</label>
-  <label><input type="radio" name="2" value="b"> Unha das persoas que estaba na festa de aniversario.</label>
-  <label><input type="radio" name="2" value="c"> O fillo máis vello.</label>
+  <label><input type="radio" name="2" value="b"> Unha das persoas que estaba na festa do patrón.</label>
+  <label><input type="radio" name="2" value="c"> O irmán máis vello de todos.</label>
   <label><input type="radio" name="2" value="d"> A nai.</label>
 
   #### 3. Como foi a excursión familiar polas pradeiras de Lüneburguer antes de chegar a Hörpel? 
 
   <label><input type="radio" name="3" value="a"> Non foi moi ben, porque aos nenos non lles gustaba camiñar e menos para ver un montículo ou unha árbore.</label>
-  <label><input type="radio" name="3" value="b"> Pasárono todos moi ben porque a paisaxe era abraiante.</label>
+  <label><input type="radio" name="3" value="b"> Todos os pasaron moi ben porque a paisaxe era abraiante.</label>
   <label><input type="radio" name="3" value="c"> Os nenos divertíronse durante o paseo, mais o pai acabou cansado de levar a Zuppi ao lombo.</label>
-  <label><input type="radio" name="3" value="d"> Os rapaces aburríronse moito, só se divertiron os pais.</label>
+  <label><input type="radio" name="3" value="d"> Os rapaces acabaron aborrecidos, só se divertiron os pais.</label>
 
   #### 4. Por que organizaba o Corpo de Bombeiros unha tómbola? 
 
@@ -117,7 +117,7 @@ Selecciona a resposta correcta para cada unha das preguntas:
   <label><input type="radio" name="6" value="c"> Non se alegrou porque pensaba que os animais non debían estar nas casas.</label>
   <label><input type="radio" name="6" value="d"> Non se alegrou porque pensaba que Zuppi non sería capaz de coidalo.</label>
 
-  #### 7. Que significa a frase que aparece no texto "chorar os sete chorares"?
+  #### 7. Que significa a frase que aparece no texto «chorar os sete chorares»?
 
   <label><input type="radio" name="7" value="a"> Chorar sen gana e debilmente.</label>
   <label><input type="radio" name="7" value="b"> Chorar de risa.</label>
@@ -133,17 +133,17 @@ Selecciona a resposta correcta para cada unha das preguntas:
 
   #### 9. O pai acepta que Zuppi quede co cocho...
 
-  <label><input type="radio" name="9" value="a"> Si, porque Zuppi se pon a chorar e ao pai dálle vergoña que todos ollen para eles.</label>
+  <label><input type="radio" name="9" value="a"> Acepta, si, porque Zuppi se pon a chorar e ao pai dálle vergoña que todos ollen para eles.</label>
   <label><input type="radio" name="9" value="b"> Non, non acepta que leve o cocho para a casa.</label>
   <label><input type="radio" name="9" value="c"> Si, acepta que quede co cocho para sempre.</label>
-  <label><input type="radio" name="9" value="d"> Si, acepta porque lle dá pena que Zuppi se poña chorar.</label>
+  <label><input type="radio" name="9" value="d"> Acepta, porque lle dá pena que Zuppi se poña chorar.</label>
 
   #### 10. Só unha das seguintes afirmacións é correcta. Indica cal:
 
   <label><input type="radio" name="10" value="a"> Porco, cocho, leitón e bacoriño significan exactamente o mesmo.</label>
   <label><input type="radio" name="10" value="b"> Os porcos pequenos que aínda maman chámanse leitóns ou bacariños.</label>
   <label><input type="radio" name="10" value="c"> Porco e cocho son palabras sinónimas, pero leitón e bacoriño non teñen o  mesmo significado.</label>
-  <label><input type="radio" name="10" value="d"> O leitón é a cría do porco e o bacoriño é a cría do xabaríl.</label>
+  <label><input type="radio" name="10" value="d"> O leitón é a cría do porco e o bacoriño é a cría do xabaril.</label>
 
-  <button type="submit" name="submit">Enviar as respostas</button>
+  <button type="submit" name="submit">Envía as respostas</button>
 </form>
