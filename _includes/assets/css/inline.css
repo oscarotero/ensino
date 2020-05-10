@@ -130,9 +130,13 @@ article article footer {
 }
 article form {
 	box-shadow: var(--shadow);
-	padding: 1em 2em;
+	padding: 2em;
 	border: solid 1px var(--gray-light);
 	border-radius: var(--radius);
+}
+article form hr {
+	margin: 1em 0;
+	border-top: solid 1px var(--gray-light);
 }
 
 hr {

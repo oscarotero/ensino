@@ -70,76 +70,80 @@ Texto adaptado da obra *O cocho de carreiras Rudi Fuciños* do escritor alemán 
 Selecciona a resposta correcta para cada unha das preguntas:
 
 <form name="rudi-focinhos" method="POST" netlify>
+  <label for="name"><strong>Como te chamas?</strong></label>
+  <input type="text" name="nome" placeholder="Escribe aqui o teu nome e apelidos" required>
+
+  ---
 
   #### 1. Cantos membros forman parte da familia desta historia?
      
-  <label><input type="radio" name="membros" value="a"> 5</label>
-  <label><input type="radio" name="membros" value="b"> 4</label>
-  <label><input type="radio" name="membros" value="c"> 6</label>
-  <label><input type="radio" name="membros" value="d"> 3</label>
+  <label><input type="radio" name="1" value="a"> 5</label>
+  <label><input type="radio" name="1" value="b"> 4</label>
+  <label><input type="radio" name="1" value="c"> 6</label>
+  <label><input type="radio" name="1" value="d"> 3</label>
 
   #### 2. Quen nos conta a historia?
 
-  <label><input type="radio" name="quen-conta" value="a"> Betti.</label>
-  <label><input type="radio" name="quen-conta" value="b"> Unha das persoas que estaba na festa de aniversario.</label>
-  <label><input type="radio" name="quen-conta" value="c"> O fillo máis vello.</label>
-  <label><input type="radio" name="quen-conta" value="d"> A nai.</label>
+  <label><input type="radio" name="2" value="a"> Betti.</label>
+  <label><input type="radio" name="2" value="b"> Unha das persoas que estaba na festa de aniversario.</label>
+  <label><input type="radio" name="2" value="c"> O fillo máis vello.</label>
+  <label><input type="radio" name="2" value="d"> A nai.</label>
 
   #### 3. Como foi a excursión familiar polas pradeiras de Lüneburguer antes de chegar a Hörpel? 
 
-  <label><input type="radio" name="excursion" value="a"> Non foi moi ben, porque aos nenos non lles gustaba camiñar e menos para ver un montículo ou unha árbore.</label>
-  <label><input type="radio" name="excursion" value="b"> Pasárono todos moi ben porque a paisaxe era abraiante.</label>
-  <label><input type="radio" name="excursion" value="c"> Os nenos divertíronse durante o paseo, mais o pai acabou cansado de levar a Zuppi ao lombo.</label>
-  <label><input type="radio" name="excursion" value="d"> Os rapaces aburríronse moito, só se divertiron os pais.</label>
+  <label><input type="radio" name="3" value="a"> Non foi moi ben, porque aos nenos non lles gustaba camiñar e menos para ver un montículo ou unha árbore.</label>
+  <label><input type="radio" name="3" value="b"> Pasárono todos moi ben porque a paisaxe era abraiante.</label>
+  <label><input type="radio" name="3" value="c"> Os nenos divertíronse durante o paseo, mais o pai acabou cansado de levar a Zuppi ao lombo.</label>
+  <label><input type="radio" name="3" value="d"> Os rapaces aburríronse moito, só se divertiron os pais.</label>
 
   #### 4. Por que organizaba o Corpo de Bombeiros unha tómbola? 
 
-  <label><input type="radio" name="tombola" value="a"> Porque era o seu patrón.</label>
-  <label><input type="radio" name="tombola" value="b"> Para xuntar diñeiro para comprar unha mangueira máis potente.</label>
-  <label><input type="radio" name="tombola" value="c"> Porque querían encontrar unha familia adoptiva para o cocho.</label>
-  <label><input type="radio" name="tombola" value="d"> Porque non podían criar un porco no posto de bombeiros.</label>
+  <label><input type="radio" name="4" value="a"> Porque era o seu patrón.</label>
+  <label><input type="radio" name="4" value="b"> Para xuntar diñeiro para comprar unha mangueira máis potente.</label>
+  <label><input type="radio" name="4" value="c"> Porque querían encontrar unha familia adoptiva para o cocho.</label>
+  <label><input type="radio" name="4" value="d"> Porque non podían criar un porco no posto de bombeiros.</label>
 
   #### 5. Como era o porquiño que se sorteaba?
 
-  <label><input type="radio" name="porquinho" value="a"> Era de cor rosa, tiña as orellas pequenas e o rabo encaracolado.</label>
-  <label><input type="radio" name="porquinho" value="b"> Era san, tiña orellas grandes e estaba sen rabo.</label>
-  <label><input type="radio" name="porquinho" value="c"> Era de cor rosa, tiña as orellas tesas e un rabo que case non se vía.</label>
-  <label><input type="radio" name="porquinho" value="d"> Era un porco saudable, as súas orellas eran grandes e tiña o rabo encaracolado.</label>
+  <label><input type="radio" name="5" value="a"> Era de cor rosa, tiña as orellas pequenas e o rabo encaracolado.</label>
+  <label><input type="radio" name="5" value="b"> Era san, tiña orellas grandes e estaba sen rabo.</label>
+  <label><input type="radio" name="5" value="c"> Era de cor rosa, tiña as orellas tesas e un rabo que case non se vía.</label>
+  <label><input type="radio" name="5" value="d"> Era un porco saudable, as súas orellas eran grandes e tiña o rabo encaracolado.</label>
 
   #### 6. O pai de Zuppi alegrouse cando lle tocou o porco á súa filla?
 
-  <label><input type="radio" name="pai-zuppi" value="a"> Non se alegrou, porque cría que os porcos eran moi sucios.</label>
-  <label><input type="radio" name="pai-zuppi" value="b"> Púxose moi contento porque era un amante dos animais.</label>
-  <label><input type="radio" name="pai-zuppi" value="c"> Non se alegrou porque pensaba que os animais non debían estar nas casas.</label>
-  <label><input type="radio" name="pai-zuppi" value="d"> Non se alegrou porque pensaba que Zuppi non sería capaz de coidalo.</label>
+  <label><input type="radio" name="6" value="a"> Non se alegrou, porque cría que os porcos eran moi sucios.</label>
+  <label><input type="radio" name="6" value="b"> Púxose moi contento porque era un amante dos animais.</label>
+  <label><input type="radio" name="6" value="c"> Non se alegrou porque pensaba que os animais non debían estar nas casas.</label>
+  <label><input type="radio" name="6" value="d"> Non se alegrou porque pensaba que Zuppi non sería capaz de coidalo.</label>
 
   #### 7. Que significa a frase que aparece no texto "chorar os sete chorares"?
 
-  <label><input type="radio" name="chorar-7-chorares" value="a"> Chorar sen gana e debilmente.</label>
-  <label><input type="radio" name="chorar-7-chorares" value="b"> Chorar de risa.</label>
-  <label><input type="radio" name="chorar-7-chorares" value="c"> Chorar moito.</label>
-  <label><input type="radio" name="chorar-7-chorares" value="d"> Finxir que se chora.</label>
+  <label><input type="radio" name="7" value="a"> Chorar sen gana e debilmente.</label>
+  <label><input type="radio" name="7" value="b"> Chorar de risa.</label>
+  <label><input type="radio" name="7" value="c"> Chorar moito.</label>
+  <label><input type="radio" name="7" value="d"> Finxir que se chora.</label>
 
   #### 8. O que é unha cachimba?
 
-  <label><input type="radio" name="cachimba" value="a"> Un traste vello.</label>
-  <label><input type="radio" name="cachimba" value="b"> Un instrumento que serve para fumar.</label>
-  <label><input type="radio" name="cachimba" value="c"> Un pau pequeno e moi fino que se usa para limpar os dentes dos restos de comida.</label>
-  <label><input type="radio" name="cachimba" value="d"> Un tipo de goma de mascar.</label>
+  <label><input type="radio" name="8" value="a"> Un traste vello.</label>
+  <label><input type="radio" name="8" value="b"> Un instrumento que serve para fumar.</label>
+  <label><input type="radio" name="8" value="c"> Un pau pequeno e moi fino que se usa para limpar os dentes dos restos de comida.</label>
+  <label><input type="radio" name="8" value="d"> Un tipo de goma de mascar.</label>
 
   #### 9. O pai acepta que Zuppi quede co cocho...
 
-  <label><input type="radio" name="acepta-cocho" value="a"> Si, porque Zuppi se pon a chorar e ao pai dálle vergoña que todos ollen para eles.</label>
-  <label><input type="radio" name="acepta-cocho" value="b"> Non, non acepta que leve o cocho para a casa.</label>
-  <label><input type="radio" name="acepta-cocho" value="c"> Si, acepta que quede co cocho para sempre.</label>
-  <label><input type="radio" name="acepta-cocho" value="d"> Si, acepta porque lle dá pena que Zuppi se poña chorar.</label>
+  <label><input type="radio" name="9" value="a"> Si, porque Zuppi se pon a chorar e ao pai dálle vergoña que todos ollen para eles.</label>
+  <label><input type="radio" name="9" value="b"> Non, non acepta que leve o cocho para a casa.</label>
+  <label><input type="radio" name="9" value="c"> Si, acepta que quede co cocho para sempre.</label>
+  <label><input type="radio" name="9" value="d"> Si, acepta porque lle dá pena que Zuppi se poña chorar.</label>
 
   #### 10. Só unha das seguintes afirmacións é correcta. Indica cal:
 
-  <label><input type="radio" name="afirmacions" value="a"> Porco, cocho, leitón e bacoriño significan exactamente o mesmo.</label>
-  <label><input type="radio" name="afirmacions" value="b"> Os porcos pequenos que aínda maman chámanse leitóns ou bacariños.</label>
-  <label><input type="radio" name="afirmacions" value="c"> Porco e cocho son palabras sinónimas, pero leitón e bacoriño non teñen o  mesmo significado.</label>
-  <label><input type="radio" name="afirmacions" value="d"> O leitón é a cría do porco e o bacoriño é a cría do xabaríl.</label>
+  <label><input type="radio" name="10" value="a"> Porco, cocho, leitón e bacoriño significan exactamente o mesmo.</label>
+  <label><input type="radio" name="10" value="b"> Os porcos pequenos que aínda maman chámanse leitóns ou bacariños.</label>
+  <label><input type="radio" name="10" value="c"> Porco e cocho son palabras sinónimas, pero leitón e bacoriño non teñen o  mesmo significado.</label>
+  <label><input type="radio" name="10" value="d"> O leitón é a cría do porco e o bacoriño é a cría do xabaríl.</label>
 
   <button type="submit" name="submit">Enviar as respostas</button>
 </form>
