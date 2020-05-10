@@ -58,7 +58,7 @@ Papá, que xa alongara a man para deixar o leitón no chan, retirouna de novo. A
 
 \-Ben, ben -dixo papá-, queda co bicho de momento.
 
-Texto adaptado da obra do escritor alemán Uwe Timm *O cocho de carreiras Rudi Fuciños.* 
+Texto adaptado da obra *O cocho de carreiras Rudi Fuciños *do escritor alemán Uwe Timm.  
 
 </article>
 
