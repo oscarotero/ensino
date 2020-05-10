@@ -29,13 +29,19 @@ Dúas vogais que van seguidas forman un hiato cando as pronunciamos en sílabas 
 
 \- Duas vogais fechadas (i, u), a segunda delas tónica. Ex.: v**iú**va
 
+### Repara
+
+**iu** e **ui** son ditongos se o primeiro é o elemento tónico: p**ui**do
+
+**iú** e **uí** son hiatos se o segundo elemento é tónico. Neste caso indícase cun acento gráfico. Ex.: r**uí**do
+
 - - -
 
 ## Exercicio 1
 
-Localiza os ditongos e hiatos que hai nas seguintes palabras. Xustifica a túa resposta
+Localiza nas seguintes palabras os ditongos e os hiatos que houber. Xustifica a túa resposta
 
-Ex.: **au**ga É un ditongo (as dúas vogais pronúncianse na mesma sílaba) decrecente (a primeira vogal é aberta e a segunda é fechada)
+Ex.: **au-**ga É un ditongo (as dúas vogais pronúncianse na mesma sílaba) decrecente (a primeira vogal é aberta e a segunda é fechada)
 
 lingua:
 
