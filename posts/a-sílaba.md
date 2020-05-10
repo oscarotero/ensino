@@ -40,7 +40,7 @@ móbil - dificultade - espello - xampú - lóstrego - bicicleta - aprendiz
 
 <e-answer>es</e-answer><e-answer>pe</e-answer><e-answer>llo</e-answer>
 
-<e-answer>mo</e-answer><e-answer>bil</e-answer>
+<e-answer>mó</e-answer><e-answer>bil</e-answer>
 
 <e-answer>a</e-answer><e-answer>pren</e-answer><e-answer>diz</e-answer>
 
@@ -56,7 +56,7 @@ móbil - dificultade - espello - xampú - lóstrego - bicicleta - aprendiz
 
 ## Exercicio 2
 
-Separa en sílabas e indica cal é sílaba tónica nas seguintes palabras. Para iso, consulta como se pronuncia cada unha delas clicando na ligazón do [Dicionario de pronuncia da lingua galega](https://ilg.usc.es/pronuncia/):
+Separa en sílabas e indica cal é sílaba tónica nas seguintes palabras. Para iso, consulta como se pronuncia cada unha delas clicando nesta ligazón ao [Dicionario de pronuncia da lingua galega](https://ilg.usc.es/pronuncia/):
 
 Ex.: acne: **ac** - ne 
 
