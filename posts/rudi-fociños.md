@@ -71,7 +71,7 @@ Selecciona a resposta correcta para cada unha das preguntas:
 
 <form name="rudi-focinhos" method="POST" netlify>
   <label for="name"><strong>Quen es?</strong></label>
-  <input type="text" name="nome" placeholder="Escribe aquí o teu nome e apelidos" required>
+  <input type="text" name="nome" placeholder="Escribe aquí o teu nome e os teus apelidos" required>
 
   ---
 
@@ -92,7 +92,7 @@ Selecciona a resposta correcta para cada unha das preguntas:
   #### 3. Como foi a excursión familiar polas pradeiras de Lüneburguer antes de chegar a Hörpel? 
 
   <label><input type="radio" name="3" value="a"> Non foi moi ben, porque aos nenos non lles gustaba camiñar e menos para ver un montículo ou unha árbore.</label>
-  <label><input type="radio" name="3" value="b"> Todos os pasaron moi ben porque a paisaxe era abraiante.</label>
+  <label><input type="radio" name="3" value="b"> Todos o pasaron moi ben porque a paisaxe era abraiante.</label>
   <label><input type="radio" name="3" value="c"> Os nenos divertíronse durante o paseo, mais o pai acabou cansado de levar a Zuppi ao lombo.</label>
   <label><input type="radio" name="3" value="d"> Os rapaces acabaron aborrecidos, só se divertiron os pais.</label>
 
@@ -112,7 +112,7 @@ Selecciona a resposta correcta para cada unha das preguntas:
 
   #### 6. O pai de Zuppi alegrouse cando lle tocou o porco á súa filla?
 
-  <label><input type="radio" name="6" value="a"> Non se alegrou, porque cría que os porcos eran moi sucios.</label>
+  <label><input type="radio" name="6" value="a"> Non se alegrou porque cría que os porcos eran moi sucios.</label>
   <label><input type="radio" name="6" value="b"> Púxose moi contento porque era un amante dos animais.</label>
   <label><input type="radio" name="6" value="c"> Non se alegrou porque pensaba que os animais non debían estar nas casas.</label>
   <label><input type="radio" name="6" value="d"> Non se alegrou porque pensaba que Zuppi non sería capaz de coidalo.</label>
@@ -136,7 +136,7 @@ Selecciona a resposta correcta para cada unha das preguntas:
   <label><input type="radio" name="9" value="a"> Acepta, si, porque Zuppi se pon a chorar e ao pai dálle vergoña que todos ollen para eles.</label>
   <label><input type="radio" name="9" value="b"> Non, non acepta que leve o cocho para a casa.</label>
   <label><input type="radio" name="9" value="c"> Si, acepta que quede co cocho para sempre.</label>
-  <label><input type="radio" name="9" value="d"> Acepta, porque lle dá pena que Zuppi se poña chorar.</label>
+  <label><input type="radio" name="9" value="d"> Acepta porque lle dá pena que Zuppi se poña chorar.</label>
 
   #### 10. Só unha das seguintes afirmacións é correcta. Indica cal:
 
