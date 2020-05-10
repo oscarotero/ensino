@@ -2,6 +2,10 @@
 
 Sitio con recursos de ensino de galego para secundaria
 
+## Caracteres útiles
+
+→ 
+
 ## Custom elements
 
 ### e-answer
@@ -10,6 +14,7 @@ Para poñer respostas por parte dos alumnos que logo que van a validar. O contid
 
 - size: Tamaño do campo
 - placeholder: Texto por defecto
+- highlight: Para destacar o campo por encima dos outros
 
 Exemplo:
 

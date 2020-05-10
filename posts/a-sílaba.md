@@ -34,23 +34,23 @@ Atendendo á situación da sílaba tónica na palabra, podemos distinguir  palab
 
 ## Exercicio 1
 
-Separa en sílabas estas palabras e sitúaas nos lugares que lles correspondan. Coida que nos cadros brancos coincidan sílabas átonas e nos de cor as sílabas tónicas:
+Separa en sílabas estas palabras e sitúaas nos lugares que lles correspondan. Coida que nos cadros brancos coincidan sílabas átonas e nos amarelos as sílabas tónicas:
 
-móbil - dificultade - espello - xampú - lóstrego - bicicleta - aprendiz
+<e-tag color=1>móbil</e-tag> <e-tag color=1>dificultade</e-tag> <e-tag color=1>espello</e-tag> <e-tag color=1>xampú</e-tag> <e-tag color=1>lóstrego</e-tag> <e-tag color=1>bicicleta</e-tag> <e-tag color=1>aprendiz</e-tag>
 
-<e-answer>es</e-answer><e-answer>pe</e-answer><e-answer>llo</e-answer>
+<e-answer size=3>es</e-answer><e-answer size=3 highlight>pe</e-answer><e-answer size=3>llo</e-answer>
 
-<e-answer>mó</e-answer><e-answer>bil</e-answer>
+<e-answer size=3 highlight>mó</e-answer><e-answer size=3>bil</e-answer>
 
-<e-answer>a</e-answer><e-answer>pren</e-answer><e-answer>diz</e-answer>
+<e-answer size=3>a</e-answer><e-answer size=3>pren</e-answer><e-answer size=3 highlight>diz</e-answer>
 
-<e-answer>xam</e-answer><e-answer>pú</e-answer>
+<e-answer size=3>xam</e-answer><e-answer size=3 highlight>pú</e-answer>
 
-<e-answer>lós</e-answer><e-answer>tre</e-answer><e-answer>go</e-answer>
+<e-answer size=3 highlight>lós</e-answer><e-answer size=3>tre</e-answer><e-answer size=3>go</e-answer>
 
-<e-answer>bi</e-answer><e-answer>ci</e-answer><e-answer>cle</e-answer><e-answer>ta</e-answer>
+<e-answer size=3>bi</e-answer><e-answer size=3>ci</e-answer><e-answer size=3 highlight>cle</e-answer><e-answer size=3>ta</e-answer>
 
-<e-answer>di</e-answer><e-answer>fi</e-answer><e-answer>cul</e-answer><e-answer>ta</e-answer><e-answer>de</e-answer>
+<e-answer size=3>di</e-answer><e-answer size=3>fi</e-answer><e-answer size=3>cul</e-answer><e-answer size=3 highlight>ta</e-answer><e-answer size=3>de</e-answer>
 
 <e-validate>Corrixe as respostas</e-validate>
 

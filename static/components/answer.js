@@ -36,6 +36,9 @@ class Answer extends HTMLElement {
                     box-shadow: 0 0 0 3px var(--error), var(--shadow);
                     color: var(--error);
                 }
+                input.is-highlight {
+                    background: rgba(255,255,0,0.5);
+                }
                 .answer {
                     position: relative;
                     margin: 0 .3em;
@@ -60,6 +63,10 @@ class Answer extends HTMLElement {
         this.input.placeholder = this.getAttribute('placeholder') || '...';
         this.message = shadow.querySelector('.message');
         this.input.addEventListener('focus', () => this.reset());
+
+        if (this.hasAttribute('highlight')) {
+            this.input.classList.add('is-highlight');
+        }
     }
 
     validate() {
