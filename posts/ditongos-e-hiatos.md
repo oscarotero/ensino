@@ -39,9 +39,9 @@ Dúas vogais que van seguidas forman un hiato cando as pronunciamos en sílabas 
 
 ## Exercicio 1
 
-Localiza nas seguintes palabras os ditongos e os hiatos que houber. Xustifica a túa resposta
+Localiza nas seguintes palabras os ditongos e os hiatos que houber. Xustifica a túa resposta.
 
-Ex.: **au-**ga É un ditongo (as dúas vogais pronúncianse na mesma sílaba) decrecente (a primeira vogal é aberta e a segunda é fechada)
+Ex.: au-ga: Ditongo **au** porque as dúas vogais se pronuncian na mesma sílaba. É decrecente porque a primeira vogal é aberta e a segunda é fechada.
 
 lingua:
 
