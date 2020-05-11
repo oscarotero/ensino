@@ -6,7 +6,7 @@ tags:
   - semana-9
 eleventyExcludeFromCollections: false
 ---
-O gazafello é un invento de persoas argalleiras para burlarse daquelas que non teñen coñecementos de caza ou de pesca. A brincadeira consiste en propoñerlles a estes cazadores ou pescadores novatos iren na procura dun animal imaxinario, que non existe na realidade. O animal en cuestión pode ter diferentes nomes segundo a zona de Galicia: *gazafellos, cazabellos, cocerellos* ou *biosbardos* son algúns dos máis comúns na nosa terra. Noutros lugares do estado español chámanlles *gamusinos* e en Portugal son *[gambozinos](https://www.youtube.com/watch?v=C3LUUrCumIg).*
+O gazafello é un invento de persoas argalleiras para burlarse daquelas que non teñen coñecementos de caza ou de pesca. A brincadeira consiste en propoñerlles a estes cazadores ou pescadores novatos iren na procura dun animal imaxinario, que non existe na realidade. O animal en cuestión pode ter diferentes nomes segundo a zona de Galicia: *gazafellos, cazabellos, cocerellos* ou *biosbardos* son algúns deles. Noutros lugares do estado español chámanlles *gamusinos* e en Portugal son *[gambozinos](https://www.youtube.com/watch?v=C3LUUrCumIg).*
 
 Canto ao seu aspecto, ninguén sabe con certeza como é un gazafello. Uns din que é do tamaño do dedo maimiño, outros que é coma un coello pequeno e ten certo parecido cun esquío, mais cun rabo distinto e con pezuños coma os dun cabalo. Non falta quen diga, aínda, que é un paxaro, porque voa.
 
@@ -53,7 +53,8 @@ Busca na lectura a palabra que corresponde a cada unha das definicións:
 6. Luz do Sol reflectida pola Lúa, que ilumina a Terra durante a noite:
 7. Imaxe que devolve unha superficie lisa de algo que está colocado diante dela:
 8. O quinto dedo da man, o máis pequeno de todos:
-9. Arte da caza: 
+
+
 
 ### Exercicio 3
 
@@ -69,4 +70,4 @@ Busca no texto un sinónimo para:
 ### Exercicio 4
 
 1. Oíches algunha vez a expresión “andar aos biosbardos”? Que significa?
-2. Pon un exemplo do seu uso.
+2. No texto dise que "... algúns inocentes xa foron iniciados nesta curiosa práctica cinexética...". Que práctica é esa? Pon outro exemplo de práctica cinexética. 
