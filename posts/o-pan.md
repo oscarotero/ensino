@@ -11,7 +11,7 @@ Relaciona os números das imaxes co nome correspondente:
 
 alvéolo:
 bola: 
-bolo ou molete:
+bolo:
 codia:
 cornecho:
 cornechos:
