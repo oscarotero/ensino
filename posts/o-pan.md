@@ -15,11 +15,13 @@ Relaciona cada unha destas palabras do ámbito do pan cun sinónimo: <e-tag colo
 4. molete: <e-answer>bolo</e-answer>
 5. buraco: <e-answer>alvéolo</e-answer>
 
+<e-validate>Corrixe as respostas</e-validate>
+
+
+
 ## Exercicio 2
 
 Completa as seguintes coas oracións coas palabras que faltan: <e-tag color=2>fermento</e-tag> <e-tag color=2>broa</e-tag> <e-tag color=2>panceiros</e-tag> <e-tag color=2>cornecho</e-tag> <e-tag color=2>codia</e-tag> <e-tag color=2>pan de forma</e-tag> <e-tag color=2>encetar</e-tag> <e-tag color=2>migallas</e-tag> <e-tag color=2>torradas</e-tag> <e-tag color=2>miolo</e-tag> <e-tag color=2>reseso</e-tag> <e-tag color=2>rocho</e-tag>
-
-<e-validate>Corrixe as respostas</e-validate>
 
 1. Ti que tes bos dentes, come a <e-answer>codia</e-answer> e déixame a min o <e-answer>miolo</e-answer>.
 2. Compra pan abondo que nesta casa somos todos <e-answer>panceiros</e-answer>.
