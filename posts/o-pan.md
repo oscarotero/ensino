@@ -7,7 +7,9 @@ eleventyExcludeFromCollections: false
 ---
 ## Exercicio 1
 
-Relaciona cada unha destas palabras do ámbito do pan cun sinónimo: <e-tag color=4>fungalla</e-tag> <e-tag color=4>alvéolo</e-tag> <e-tag color=4>bolo</e-tag> <e-tag color=4>tafona</e-tag> <e-tag color=4>lévedo</e-tag>
+Relaciona cada unha destas palabras do ámbito do pan cun sinónimo: 
+
+<e-tag color=4>fungalla</e-tag> <e-tag color=4>alvéolo</e-tag> <e-tag color=4>bolo</e-tag> <e-tag color=4>tafona</e-tag> <e-tag color=4>lévedo</e-tag>
 
 1. panadaría: <e-answer>tafona</e-answer>
 2. migalla: <e-answer>fungalla</e-answer>
@@ -21,7 +23,9 @@ Relaciona cada unha destas palabras do ámbito do pan cun sinónimo: <e-tag colo
 
 ## Exercicio 2
 
-Completa as seguintes coas oracións coas palabras que faltan: <e-tag color=2>fermento</e-tag> <e-tag color=2>broa</e-tag> <e-tag color=2>panceiros</e-tag> <e-tag color=2>cornecho</e-tag> <e-tag color=2>codia</e-tag> <e-tag color=2>pan de forma</e-tag> <e-tag color=2>encetar</e-tag> <e-tag color=2>migallas</e-tag> <e-tag color=2>torradas</e-tag> <e-tag color=2>miolo</e-tag> <e-tag color=2>reseso</e-tag> <e-tag color=2>rocho</e-tag>
+Completa as seguintes coas oracións coas palabras que faltan: 
+
+<e-tag color=2>fermento</e-tag> <e-tag color=2>broa</e-tag> <e-tag color=2>panceiros</e-tag> <e-tag color=2>cornecho</e-tag> <e-tag color=2>codia</e-tag> <e-tag color=2>pan de forma</e-tag> <e-tag color=2>encetar</e-tag> <e-tag color=2>migallas</e-tag> <e-tag color=2>torradas</e-tag> <e-tag color=2>miolo</e-tag> <e-tag color=2>reseso</e-tag> <e-tag color=2>rocho</e-tag>
 
 1. Ti que tes bos dentes, come a <e-answer>codia</e-answer> e déixame a min o <e-answer>miolo</e-answer>.
 2. Compra pan abondo que nesta casa somos todos <e-answer>panceiros</e-answer>.
