@@ -5,7 +5,23 @@ tags:
   - semana-10
 eleventyExcludeFromCollections: false
 ---
-## Exercicio 1
+## Exercicio 1 
+
+Relaciona os números das imaxes co nome correspondente:
+
+alvéolo:
+bola: 
+bolo ou molete:
+codia:
+cornecho:
+cornechos:
+migallas:
+miolo:
+pan de forma:
+rebanda:
+rocho:
+
+## Exercicio 2
 
 Relaciona cada unha destas palabras do ámbito do pan cun sinónimo: 
 
@@ -19,9 +35,7 @@ Relaciona cada unha destas palabras do ámbito do pan cun sinónimo:
 
 <e-validate>Corrixe as respostas</e-validate>
 
-
-
-## Exercicio 2
+## Exercicio 3
 
 Completa as seguintes coas oracións coas palabras que faltan: 
 
