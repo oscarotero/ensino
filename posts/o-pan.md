@@ -32,7 +32,7 @@ Completa as seguintes coas oracións coas palabras que faltan:
 3. O pan <e-answer>reseso</e-answer> pódese aproveitar para facer un pudin.
 4. No verán almorzo <e-answer>torradas</e-answer> de pan con aceite e tomate.
 5. Comín o <e-answer>cornecho</e-answer> do bolo mentres esperaba pola comida.
-6. Para facermos pan, necesitamos 4 ingredientes: fariña, auga, <e-answer>fermento</e-answer>  e sal
+6. Para facermos pan, necesitamos 4 ingredientes: fariña, auga, <e-answer>fermento</e-answer> e sal.
 7. Sempre quere <e-answer>encetar</e-answer> el o molete para comer o <e-answer>rocho</e-answer>.
 8. Está prohibido dar <e-answer>migallas</e-answer> de pan ás pombas.
 9. Non podemos cear un sándwich porque se acabou o <e-answer>pan de forma</e-answer>.
