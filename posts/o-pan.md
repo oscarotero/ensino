@@ -36,6 +36,6 @@ Completa as seguintes coas oracións coas palabras que faltan:
 7. Sempre quere <e-answer>encetar</e-answer> el o molete para comer o <e-answer>rocho</e-answer>.
 8. Está prohibido dar <e-answer>migallas</e-answer> de pan ás pombas.
 9. Non podemos cear un sándwich porque se acabou o <e-answer>pan de forma</e-answer>.
-10. As sardiñas asadas con <e-answer>broa<e-answer> son un prato típico da festa de San Xoán.
+10. As sardiñas asadas con <e-answer>broa</e-answer> son un prato típico da festa de San Xoán.
 
 <e-validate>Corrixe as respostas</e-validate>
