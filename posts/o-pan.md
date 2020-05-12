@@ -6,7 +6,7 @@ tags:
 eleventyExcludeFromCollections: false
 ---
 Relaciona cada unha estas palabras do ámbito do pan cun sinónimo:
-<e-tag color=4>fungalla</e-tag> <e-tag color=4>lévedo</e-tag> <e-tag color=4>alvéolo</e-tag> <e-tag color=4>bolo</e-tag> <e-tag color=4>tafona</e-tag> 
+<e-tag color=4>fungalla</e-tag> <e-tag color=4>alvéolo</e-tag> <e-tag color=4>bolo</e-tag> <e-tag color=4>tafona</e-tag> <e-tag color=4>lévedo</e-tag>
 
 1. panadaría: <e-answer>tafona</e-answer>
 2. migalla: <e-answer>fungalla</e-answer>
