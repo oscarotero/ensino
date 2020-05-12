@@ -28,7 +28,32 @@ class Validate extends HTMLElement {
 
         const button = shadow.querySelector('button');
 
-        button.addEventListener('click', () => this.ownerDocument.querySelectorAll('e-answer').forEach(el => el.validate()));
+        button.addEventListener('click', () => this.getAnswers().forEach(el => el.validate()));
+    }
+
+    getAnswers() {
+        let results = [];
+        let stop = false;
+
+        this.ownerDocument.querySelectorAll('e-answer, e-validate').forEach(el => {
+            if (stop) {
+                return;
+            }
+
+            if (el === this) {
+                stop = true;
+                return;
+            }
+
+            if (el.matches('e-validate')) {
+                results = [];
+                return;
+            }
+
+            results.push(el);
+        })
+
+        return results;
     }
 }
 
