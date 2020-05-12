@@ -5,8 +5,9 @@ tags:
   - semana-10
 eleventyExcludeFromCollections: false
 ---
-Relaciona cada unha estas palabras do ámbito do pan cun sinónimo:
-<e-tag color=4>fungalla</e-tag> <e-tag color=4>alvéolo</e-tag> <e-tag color=4>bolo</e-tag> <e-tag color=4>tafona</e-tag> <e-tag color=4>lévedo</e-tag>
+## Exercicio 1
+
+Relaciona cada unha destas palabras do ámbito do pan cun sinónimo: <e-tag color=4>fungalla</e-tag> <e-tag color=4>alvéolo</e-tag> <e-tag color=4>bolo</e-tag> <e-tag color=4>tafona</e-tag> <e-tag color=4>lévedo</e-tag>
 
 1. panadaría: <e-answer>tafona</e-answer>
 2. migalla: <e-answer>fungalla</e-answer>
@@ -14,9 +15,9 @@ Relaciona cada unha estas palabras do ámbito do pan cun sinónimo:
 4. molete: <e-answer>bolo</e-answer>
 5. buraco: <e-answer>alvéolo</e-answer>
 
+## Exercicio 2
 
-Completa as seguintes coas oracións coas palabras que faltan:
-<e-tag color=2>fermento</e-tag> <e-tag color=2>broa</e-tag> <e-tag color=2>panceiros</e-tag> <e-tag color=2>cornecho</e-tag> <e-tag color=2>codia</e-tag> <e-tag color=2>pan de forma</e-tag> <e-tag color=2>encetar</e-tag> <e-tag color=2>migallas</e-tag> <e-tag color=2>torradas</e-tag> <e-tag color=2>miolo</e-tag> <e-tag color=2>reseso</e-tag> <e-tag color=2>rocho</e-tag>
+Completa as seguintes coas oracións coas palabras que faltan: <e-tag color=2>fermento</e-tag> <e-tag color=2>broa</e-tag> <e-tag color=2>panceiros</e-tag> <e-tag color=2>cornecho</e-tag> <e-tag color=2>codia</e-tag> <e-tag color=2>pan de forma</e-tag> <e-tag color=2>encetar</e-tag> <e-tag color=2>migallas</e-tag> <e-tag color=2>torradas</e-tag> <e-tag color=2>miolo</e-tag> <e-tag color=2>reseso</e-tag> <e-tag color=2>rocho</e-tag>
 
 <e-validate>Corrixe as respostas</e-validate>
 
