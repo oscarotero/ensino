@@ -99,6 +99,6 @@ Completa os espazos coas palabras intrusas:
 1. un <e-answer>filete</e-answer>  de porco
 2. un <e-answer>cubo</e-answer> de xeo
 3. un <e-answer>toro</e-answer> de pescada
-4. un <e-answer>toro</e-answer> de allo
+4. un <e-answer>dente</e-answer> de allo
 
 <e-validate>Corrixe as respostas</e-validate>
