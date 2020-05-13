@@ -92,7 +92,7 @@ Completa as seguintes oracións coas palabras que faltan:
 
 Na seguinte serie hai catro palabras intrusas que non usamos para falar de porcións de pan. Localízaas:
 
-<e-tag color=6>rebanda</e-tag> <e-tag color=6>codecha</e-tag> <e-tag color=6>toro</e-tag> <e-tag color=6>pedazo</e-tag> <e-tag color=6>codelo</e-tag> <e-tag color=6>cubo</e-tag> <e-tag color=6>faragulla</e-tag> <e-tag color=6>anaco</e-tag> <e-tag color=6>dente</e-tag> <e-tag color=6>rocho</e-tag> <e-tag color=6>filete</e-tag>
+<e-tag color=7>rebanda</e-tag> <e-tag color=7>codecha</e-tag> <e-tag color=7>toro</e-tag> <e-tag color=7>pedazo</e-tag> <e-tag color=7>codelo</e-tag> <e-tag color=7>cubo</e-tag> <e-tag color=7>faragulla</e-tag> <e-tag color=7>anaco</e-tag> <e-tag color=7>dente</e-tag> <e-tag color=7>rocho</e-tag> <e-tag color=7>filete</e-tag>
 
 Completa os espazos coas palabras intrusas:
 
