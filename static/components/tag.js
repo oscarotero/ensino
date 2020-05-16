@@ -26,7 +26,7 @@ class Tag extends HTMLElement {
                     border-radius: 3px;
                     display: inline-block;
                     line-height: 1.3;
-                    margin: 5px 10px 5px 0;
+                    margin: 0;
                     text-align: center;
                 }
                 .tag em {
