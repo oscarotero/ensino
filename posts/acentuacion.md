@@ -1,10 +1,10 @@
 ---
 title: Acentuación
-summary: 
+summary: null
 tags:
   - post
   - semana-10
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 ---
 Exercicio de acentuación
 
