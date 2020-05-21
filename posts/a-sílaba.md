@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: false
 ---
 Denominamos sílaba a cada golpe de voz con que pronunciamos unha palabra.
 
-Ex. a - nel, lám - pa - da
+Ex.: a - nel, mó - bil, lim - pe - za
 
 ## Sílabas tónicas e átonas
 
@@ -18,7 +18,7 @@ Ex. pataca: pa (sílaba átona) - ta (sílaba tónica) - ca (sílaba átona)
 
 As palabras dunha única sílaba poden ser tónicas ou átonas.
 
-Ex.: nós (sílaba tónica) vs. nos (sílaba átona): A **nós** non **nos** dixo nada
+Ex. nós (sílaba tónica) vs. nos (sílaba átona): A **nós** non **nos** dixo nada
 
 ## Tipos de palabras segundo a posición da sílaba tónica
 
