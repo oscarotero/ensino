@@ -18,7 +18,7 @@ Esther Estévez explícacho moi ben neste vídeo do Dígocho eu:
 
 - - -
 
-## Exercicios
+## Exercicio 1
 
 Clasifica as seguintes palabras en dous grupos segundo a pronuncia do x:
 
