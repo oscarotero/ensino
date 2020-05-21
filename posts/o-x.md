@@ -3,6 +3,7 @@ title: O x
 summary: O x
 tags:
   - post
+  - semana-10
 eleventyExcludeFromCollections: true
 ---
 O x ten en galego dúas pronuncias distintas: como en *xeado* e como en *sexto.* 
