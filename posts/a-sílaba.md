@@ -36,7 +36,15 @@ Atendendo á situación da sílaba tónica na palabra, podemos distinguir  palab
 
 Separa en sílabas estas palabras e sitúaas nos lugares que lles correspondan. Coida que nos cadros brancos coincidan sílabas átonas e nos amarelos as sílabas tónicas:
 
-<e-tag color=1>móbil</e-tag> <e-tag color=1>dificultade</e-tag> <e-tag color=1>espello</e-tag> <e-tag color=1>xampú</e-tag> <e-tag color=1>lóstrego</e-tag> <e-tag color=1>bicicleta</e-tag> <e-tag color=1>aprendiz</e-tag>
+<e-layout>
+<e-tag color=1>móbil</e-tag> 
+<e-tag color=1>dificultade</e-tag> 
+<e-tag color=1>espello</e-tag> 
+<e-tag color=1>xampú</e-tag> 
+<e-tag color=1>lóstrego</e-tag> 
+<e-tag color=1>bicicleta</e-tag> 
+<e-tag color=1>aprendiz</e-tag>
+</e-layout>
 
 <e-answer size=3>es</e-answer><e-answer size=3 highlight>pe</e-answer><e-answer size=3>llo</e-answer>
 
