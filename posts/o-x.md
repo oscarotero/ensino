@@ -26,7 +26,7 @@ Clasifica as seguintes palabras en dous grupos segundo a pronuncia do x:
 <e-tag color=3>axila</e-tag>
 <e-tag color=3>oxalá</e-tag>
 <e-tag color=3>cereixa</e-tag>
-<e-tag color=3>xastre</e-tag>
+<e-tag color=3>lonxe</e-tag>
 <e-tag color=3>peixe</e-tag>
 <e-tag color=3>exame</e-tag>
 <e-tag color=3>sexo</e-tag>
@@ -57,7 +57,7 @@ Como en sexto:
 <details>
 <summary>Ver as respostas</summary>
 
-Como en xeado: oxalá, cereixa, xastre, peixe, teixugo, xeonllo, luxo, cirúrxico, pelexa, anxo, lixivia, taxa
+Como en xeado: oxalá, cereixa, lonxe, peixe, teixugo, xeonllo, luxo, cirúrxico, pelexa, anxo, lixivia, taxa
 
 Como en sexto: axila, sexo, complexo, laranxa, xadrez, auxilio, perplexo, hexágono, téxtil, tóxico, galaxia
 </details>
