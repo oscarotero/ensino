@@ -1,6 +1,6 @@
 ---
 title: O x
-summary: ""
+summary: As pronuncias do x
 tags:
   - post
   - semana-10
