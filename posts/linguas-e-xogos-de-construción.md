@@ -96,6 +96,8 @@ Forma sete palabras agrupando e ordenando as sílabas de cada cor:
 6. <e-tag color=3>xan</e-tag><e-tag color=3>tar</e-tag>
 7. <e-tag color=4>la</e-tag><e-tag color=4>pis</e-tag>
 
+</details>
+
 ### Exercicio 2
 
 Indica de que tipo son as palabras seguintes, de acordo co número de sílabas:  Ex.: lei > monosílaba
@@ -146,3 +148,4 @@ Separa en sílabas as seguintes palabras:
 8. a - de - mais
 9. pre - mio
 10. cien - tí - fi - co
+</details>
