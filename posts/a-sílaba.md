@@ -8,17 +8,17 @@ eleventyExcludeFromCollections: false
 ---
 Denominamos sílaba a cada golpe de voz con que pronunciamos unha palabra.
 
-Ex.: a - nel, lám - pa - da
+Ex. a - nel, lám - pa - da
 
 ## Sílabas tónicas e átonas
 
 Non todas as sílabas das palabras se pronuncian coa mesma intensidade. A sílaba tónica dunha palabra é a que se pronuncia con maior intensidade; as demais son sílabas átonas.
 
-Ex.: pataca ➡️ pa (sílaba átona) - ta (sílaba tónica) - ca (sílaba átona)
+Ex. pataca: pa (sílaba átona) - ta (sílaba tónica) - ca (sílaba átona)
 
 As palabras dunha única sílaba poden ser tónicas ou átonas.
 
-Ex.: nós (sílaba tónica) vs. nos (sílaba átona) ➡️ A **nós** non **nos** dixo nada
+Ex.: nós (sílaba tónica) vs. nos (sílaba átona): A **nós** non **nos** dixo nada
 
 ## Tipos de palabras segundo a posición da sílaba tónica
 
