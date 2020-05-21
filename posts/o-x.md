@@ -53,8 +53,10 @@ Como en xeado:
 
 Como en sexto: 
 
-<e-validate>Ver as respostas</e-validate>
+<details>
+<summary>Ver as respostas</summary>
 
 Como en xeado: oxalá, cereixa, xastre, peixe, teixugo, xeonllo, luxo, cirúrxico, pelexa, anxo, lixivia, taxa
 
 Como en sexto: axila, sexo, complexo, laranxa, xadrez, auxilio, perplexo, hexágono, téxtil, tóxico, galaxia
+</details>
