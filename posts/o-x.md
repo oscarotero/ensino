@@ -1,6 +1,6 @@
 ---
 title: O x
-summary: O x
+summary: ""
 tags:
   - post
   - semana-10
