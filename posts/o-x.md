@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: false
 ---
 O x ten en galego dúas pronuncias distintas: como en *xeado* e como en *sexto.* 
 
-As palabras en que o *x* se pronuncia como en *xeado* son normalmente palabras patrimoniais, quere dicir, son palabras que levan moito tempo entre nós e que como consecuencia disto experimentaron moitas transformacións fonéticas.
+As palabras en que o *x* se pronuncia como en *xeado* son normalmente palabras patrimoniais, quere dicir, son palabras que levan moito tempo entre nós e que como consecuencia deste tempo transcorrido experimentaron moitas transformacións fonéticas.
 
 Pola contra, as palabras en que o *x* se pronuncia como en *sexto* adoitan ser cultismos, isto é, palabras que entraron a formar parte do galego en época máis tardía, por vía culta, e que non sufriron tantas transformacións fonéticas como as patrimoniais.
 
