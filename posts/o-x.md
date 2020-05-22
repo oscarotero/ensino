@@ -21,6 +21,7 @@ Esther Estévez explícacho moi ben neste vídeo do Dígocho eu:
 ## Exercicio 1
 
 Clasifica no teu caderno as palabras que aparecen a continuación segundo a pronuncia do x:
+
 1. Como en xeado:
 2. Como en sexto: 
 
@@ -57,8 +58,8 @@ Se tiveres dúbidas, consulta o [Dicionario de pronuncia da lingua galega](https
 <details>
 <summary>Ver as respostas</summary>
 
-Como en xeado: oxalá, cereixa, lonxe, peixe, teixugo, laranxa, xadrez, xeonllo, luxo, cirúrxico, pelexa, anxo, lixivia, taxa
+1. Como en xeado: oxalá, cereixa, lonxe, peixe, teixugo, laranxa, xadrez, xeonllo, luxo, cirúrxico, pelexa, anxo, lixivia, taxa
 
-Como en sexto: axila, exame, sexo, complexo, auxilio, perplexo, hexágono, téxtil, tóxico, sufixo, galaxia
+2. Como en sexto: axila, exame, sexo, complexo, auxilio, perplexo, hexágono, téxtil, tóxico, sufixo, galaxia
 
 </details>
