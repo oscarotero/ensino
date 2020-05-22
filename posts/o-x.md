@@ -50,7 +50,6 @@ Clasifica no teu caderno as palabras que aparecen a continuación segundo a pron
 <e-tag color=7>anxo</e-tag>
 <e-tag color=7>galaxia</e-tag>
 <e-tag color=7>lixivia</e-tag>
-<e-tag color=7>taxa</e-tag>
 </e-layout>
 
 Se tiveres dúbidas, consulta o [Dicionario de pronuncia da lingua galega](https://ilg.usc.es/pronuncia/)
@@ -58,7 +57,7 @@ Se tiveres dúbidas, consulta o [Dicionario de pronuncia da lingua galega](https
 <details>
 <summary>Ver as respostas</summary>
 
-1. Como en xeado: oxalá, cereixa, lonxe, peixe, teixugo, laranxa, xadrez, xeonllo, luxo, cirúrxico, pelexa, anxo, lixivia, taxa
+1. Como en xeado: oxalá, cereixa, lonxe, peixe, teixugo, laranxa, xadrez, xeonllo, luxo, cirúrxico, pelexa, anxo, lixivia
 
 2. Como en sexto: axila, exame, sexo, complexo, auxilio, perplexo, hexágono, téxtil, tóxico, sufixo, galaxia
 
