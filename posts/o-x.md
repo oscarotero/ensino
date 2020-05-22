@@ -20,7 +20,7 @@ Esther Estévez explícacho moi ben neste vídeo do Dígocho eu:
 
 ## Exercicio 1
 
-Clasifica en cada en dous grupos segundo a pronuncia do x as palabras que aparecen a continuación:
+Clasifica as palabras que aparecen a continuación segundo a pronuncia do x:
 1. Como en xeado:
 2. Como en sexto: 
 
