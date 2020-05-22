@@ -23,31 +23,31 @@ Esther Estévez explícacho moi ben neste vídeo do Dígocho eu:
 Clasifica as seguintes palabras en dous grupos segundo a pronuncia do x:
 
 <e-layout>
-<e-tag color=8>axila</e-tag>
-<e-tag color=3>oxalá</e-tag>
-<e-tag color=3>cereixa</e-tag>
-<e-tag color=3>lonxe</e-tag>
-<e-tag color=3>peixe</e-tag>
-<e-tag color=3>exame</e-tag>
-<e-tag color=3>sexo</e-tag>
-<e-tag color=3>teixugo</e-tag>
-<e-tag color=3>complexo</e-tag>
-<e-tag color=3>laranxa</e-tag>
-<e-tag color=3>xadrez</e-tag>
-<e-tag color=3>auxilio</e-tag>
-<e-tag color=3>perplexo</e-tag>
-<e-tag color=3>xeonllo</e-tag>
-<e-tag color=3>hexágono</e-tag>
-<e-tag color=3>téxtil</e-tag>
-<e-tag color=3>luxo</e-tag>
-<e-tag color=3>tóxico</e-tag>
-<e-tag color=3>cirúrxico</e-tag>
-<e-tag color=3>cirúrxico</e-tag>
-<e-tag color=3>pelexa</e-tag>
-<e-tag color=3>anxo</e-tag>
-<e-tag color=3>galaxia</e-tag>
-<e-tag color=3>lixivia</e-tag>
-<e-tag color=3>taxa</e-tag>
+<e-tag color=7>axila</e-tag>
+<e-tag color=7>oxalá</e-tag>
+<e-tag color=7>cereixa</e-tag>
+<e-tag color=7>lonxe</e-tag>
+<e-tag color=7>peixe</e-tag>
+<e-tag color=7>exame</e-tag>
+<e-tag color=7>sexo</e-tag>
+<e-tag color=7>teixugo</e-tag>
+<e-tag color=7>complexo</e-tag>
+<e-tag color=7>laranxa</e-tag>
+<e-tag color=7>xadrez</e-tag>
+<e-tag color=7>auxilio</e-tag>
+<e-tag color=7>perplexo</e-tag>
+<e-tag color=7>xeonllo</e-tag>
+<e-tag color=7>hexágono</e-tag>
+<e-tag color=7>téxtil</e-tag>
+<e-tag color=7>luxo</e-tag>
+<e-tag color=7>tóxico</e-tag>
+<e-tag color=7>cirúrxico</e-tag>
+<e-tag color=7>cirúrxico</e-tag>
+<e-tag color=7>pelexa</e-tag>
+<e-tag color=7>anxo</e-tag>
+<e-tag color=7>galaxia</e-tag>
+<e-tag color=7>lixivia</e-tag>
+<e-tag color=7>taxa</e-tag>
 </e-layout>
 
 Como en xeado:
