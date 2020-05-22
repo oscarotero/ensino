@@ -57,3 +57,7 @@ Selecciona a resposta correcta para cada unha das preguntas:
 
 #### 10. Os textos en que se di como é algo chámanse textos descritivos. Neste o que se describe é unha persoa, a Pippi Mediaslongas. Mais que tipo de descrición de persoa se fai aquí:
 <label><input type="radio" name="2" value="a"> Prosoprafía porque se describe a aparencia externa, isto é, os trazos físicos e a vestimenta de Pippi</label>   <label><input type="radio" name="2" value="b">Retrato porque se describe o aspecto exterior e tamén o interior da persoa: os trazos físicos, a vestimenta e a personalidade de Pippi</label>   <label><input type="radio" name="2" value="c"> Este non é un texto descritivo</label>
+
+ <button type="submit" name="submit">Envía as respostas</button>
+
+</form>
