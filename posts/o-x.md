@@ -23,7 +23,7 @@ Esther Estévez explícacho moi ben neste vídeo do Dígocho eu:
 Clasifica as seguintes palabras en dous grupos segundo a pronuncia do x:
 
 <e-layout>
-<e-tag color=7>axila</e-tag>
+<e-tag color=8>axila</e-tag>
 <e-tag color=3>oxalá</e-tag>
 <e-tag color=3>cereixa</e-tag>
 <e-tag color=3>lonxe</e-tag>
