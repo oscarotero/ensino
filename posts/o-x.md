@@ -44,7 +44,7 @@ Clasifica no teu caderno as palabras que aparecen a continuación segundo a pron
 <e-tag color=7>luxo</e-tag>
 <e-tag color=7>tóxico</e-tag>
 <e-tag color=7>cirúrxico</e-tag>
-<e-tag color=7>cirúrxico</e-tag>
+<e-tag color=7>sufixo</e-tag>
 <e-tag color=7>pelexa</e-tag>
 <e-tag color=7>anxo</e-tag>
 <e-tag color=7>galaxia</e-tag>
