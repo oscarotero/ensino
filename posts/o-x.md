@@ -20,7 +20,9 @@ Esther Estévez explícacho moi ben neste vídeo do Dígocho eu:
 
 ## Exercicio 1
 
-Clasifica as seguintes palabras en dous grupos segundo a pronuncia do x:
+Clasifica en cada en dous grupos segundo a pronuncia do x as palabras que aparecen a continuación:
+1. Como en xeado:
+2. Como en sexto: 
 
 <e-layout>
 <e-tag color=7>axila</e-tag>
@@ -49,10 +51,6 @@ Clasifica as seguintes palabras en dous grupos segundo a pronuncia do x:
 <e-tag color=7>lixivia</e-tag>
 <e-tag color=7>taxa</e-tag>
 </e-layout>
-
-Como en xeado:
-
-Como en sexto: 
 
 Se tiveres dúbidas, consulta o [Dicionario de pronuncia da lingua galega](https://ilg.usc.es/pronuncia/)
 
