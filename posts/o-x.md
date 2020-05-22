@@ -59,6 +59,6 @@ Se tiveres dúbidas, consulta o [Dicionario de pronuncia da lingua galega](https
 
 Como en xeado: oxalá, cereixa, lonxe, peixe, teixugo, xeonllo, luxo, cirúrxico, pelexa, anxo, lixivia, taxa
 
-Como en sexto: axila, sexo, complexo, laranxa, xadrez, auxilio, perplexo, hexágono, téxtil, tóxico, galaxia
+Como en sexto: axila, sexo, complexo, laranxa, xadrez, auxilio, perplexo, hexágono, téxtil, tóxico, sufixo, galaxia
 
 </details>
