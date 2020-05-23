@@ -1,6 +1,6 @@
 ---
 title: Rudi Fociños
-summary: A historia de como acabamos por ter un porco como mascota.
+summary: ""
 tags:
   - post
   - recuperacion
