@@ -7,14 +7,22 @@ eleventyExcludeFromCollections: false
 ---
 <article>
 Aquela bonita tarde de verán na que Pippi entrou polo limiar de Vilapenela, Tommy e Annika non estaban na súa casa. Foran pasar unha semana coas súa avoa. Non tiñan nin idea de que alguén se instalara na casa do lado. E os primeiros días despois de regresar apoiáronse na cancela a mirar para a rúa, sen saber que había unha compañeira de xogos tan pretiño. Nese preciso momento no que estaban alí a pensar o que podían facer, e se podía acontecer algo bonito nese día ou se ía ser un día tristeiro, deses nos que non se lles ocorría nada que facer, xusto nese preciso momento, abriuse a cancela de Vilapenela e apareceu unha rapaza pequena. Era a nena máis estraña que viran Tommy e Annika: Pippi Mediaslongas, que saía a dar un paseo matutino. E así era ela:
+
 Tiña o cabelo da mesma cor ca as cenorias e recollíao en dúas trenzas duras e dereitas que lle saían polos lados. O nariz tiña o mesmo xeito ca unha pataca pequena e estaba cheo de pencas. Debaixo do nariz tiña unha boca ben ancha con dentes brancos e sans.
+
 O vestido era moi curioso. Fixérao ela mesma. Pensara en facelo azul, pero a tea azul non lle chegara, así que Pippi foille cosendo pequenos anacos vermellos de tea por aquí e por alí.
+
 Cubría as pernas longas e delgadas cun par de medias longas, unha marrón e a outra negra. E calzaba un par de zapatos negros que eran xusto o dobre de longos ca os seus pés. Os zapatos comprárallos o pai en América do sur, para as medras, e nunca quería pór outros distintos. 
+
 Mais o que lles fixo regalar os ollos a Tommy e a Annika foi o mono que estaba no ombreiro daquela estraña. Era un macaco pequeno, vestido cuns pantalóns azuis, unha chaqueta amarela e un sombreiro branco de palla.
-Pippi botou a andar rúa arriba. Tommy e Annika miraron para ela todo o tempo ata que desapareceu. 
+Pippi botou a andar rúa arriba.
+
 <footer>
+
 Fragmento da obra *Pippi Mediaslongas* da escritora sueca Astrid Lindgren
+
 </footer>
+
 </article>
 
 ## Test de comprensión lectora
