@@ -56,7 +56,7 @@ Selecciona a resposta correcta para cada unha das preguntas:
 <label><input type="radio" name="2" value="b"> O alcume de Pippi </label>\
 <label><input type="radio" name="2" value="c"> Parte do nome, Pippi Mediaslongas e un nome composto </label> 
 
-#### 5. No fragmento dise que Tommy e Annika regalan  os ollos. Que significa esta expresión?
+#### 5. No fragmento dise que Tommy e Annika arregalan  os ollos. Que significa esta expresión?
 
 <label><input type="radio" name="2" value="a"> Abrir moito ollos </label>\
 <label><input type="radio" name="2" value="b"> Chiscar os ollos </label>\
