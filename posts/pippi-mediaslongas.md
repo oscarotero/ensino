@@ -14,7 +14,7 @@ O vestido era moi curioso. Fixérao ela mesma. Pensara en facelo azul, pero a te
 
 Cubría as pernas longas e delgadas cun par de medias longas, unha marrón e a outra negra. E calzaba un par de zapatos negros que eran xusto o dobre de longos ca os seus pés. Os zapatos comprárallos o pai en América do sur, para as medras, e nunca quería pór outros distintos. 
 
-Mais o que lles fixo regalar os ollos a Tommy e a Annika foi o mono que estaba no ombreiro daquela estraña. Era un macaco pequeno, vestido cuns pantalóns azuis, unha chaqueta amarela e un sombreiro branco de palla. Pippi botou a andar rúa arriba.
+Mais o que lles fixo arregalar os ollos a Tommy e a Annika foi o mono que estaba no ombreiro daquela estraña. Era un macaco pequeno, vestido cuns pantalóns azuis, unha chaqueta amarela e un sombreiro branco de palla. Pippi botou a andar rúa arriba.
 
 <footer>
 
@@ -60,7 +60,7 @@ Selecciona a resposta correcta para cada unha das preguntas:
 <label><input type="radio" name="2" value="b"> Chiscar os ollos </label>\
 <label><input type="radio" name="2" value="c"> Pechar os ollos co susto </label> 
 
-#### 6. Por que Tommy e Annika regalan os ollos?
+#### 6. Por que Tommy e Annika arregalan os ollos?
 
 <label><input type="radio" name="2" value="a"> Porque levan un bo medo </label>\
 <label><input type="radio" name="2" value="b"> Porque se sorprenden moito co que ven </label>\
