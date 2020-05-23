@@ -46,7 +46,9 @@ Selecciona a resposta correcta para cada unha das preguntas:
 
 #### 3.  Con que se compara o nariz de Pippi?
 
-<label><input type="radio" name="2" value="a"> Cun tubérculo </label>  <label><input type="radio" name="2" value="b"> Cunha pataca </label>     <label><input type="radio" name="2" value="c"> As dúas respostas anteriores son correctas </label> 
+<label><input type="radio" name="2" value="a"> Cun tubérculo </label>\
+<label><input type="radio" name="2" value="b"> Cunha pataca </label>\
+<label><input type="radio" name="2" value="c"> As dúas respostas anteriores son correctas </label> 
 
 #### 4. O que cres que é Mediaslongas?
 
@@ -75,7 +77,7 @@ Selecciona a resposta correcta para cada unha das preguntas:
 #### 8. Que adxectivo describe mellor a Pippi?
 
 <label><input type="radio" name="2" value="a"> Normal </label>\
-<label><input type="radio" name="2" value="b"> Extravagante </label>
+<label><input type="radio" name="2" value="b"> Extravagante </label>\
 <label><input type="radio" name="2" value="c"> Necesitada </label>
 
 #### 9.  No texto dise que Pippi é a nena máis estraña que viran Tommy e Annika. Por que?
