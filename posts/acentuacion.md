@@ -57,3 +57,15 @@ Escribe o nome dos elementos debuxados. Ten en conta que en todos os casos debes
 
 
 <e-validate>Corrixe as respostas</e-validate>
+
+Exercicio 2
+
+Localiza o nome de catro doenzas que levan acento gráfico:
+
+
+
+Exercicio 3
+
+Coloca o acento gráfico nas seguintes palabras cando o precisen, logo indica a súa clasificación segundo a acentuación (agudas, graves ou esdrúxulas) e xustifica a aparición ou non de acento gráfico:
+
+Ex.: minuscula: Minúscula leva acento porque é unha palabra esdrúxula
