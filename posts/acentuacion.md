@@ -24,20 +24,34 @@ Escribe o nome dos elementos debuxados. Ten en conta que en todos os casos debes
 
 ![](/static/img/móbil.jpg)
 
-<e-validate> móbil </e-validate>
+<e-answer> móbil </e-answer>
 
 ![](/static/img/limón.jpg)
 
-<e-validate> limón </e-validate>
+<e-answer> limón </e-answer>
 
 ![](/static/img/lámpada.jpg)
 
-<e-validate> lámpada </e-validate>
+<e-answer> lámpada </e-answer>
 
 ![](/static/img/esquimó.jpg)
 
-<e-validate> esquimó </e-validate>
+<e-answer> esquimó </e-answer>
 
 ![](/static/img/cámara.jpg)
 
-<e-validate> cámara </e-validate>
+<e-answer> cámara </e-answer>
+
+
+
+![](/static/img/café.jpg)
+
+<e-answer> café </e-answer>
+
+![](/static/img/semáforo.jpg)
+
+<e-answer> semáforo </e-answer>
+
+
+
+<e-validate>Corrixe as respostas</e-validate>
