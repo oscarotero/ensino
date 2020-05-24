@@ -77,7 +77,7 @@ Os nomes destas catro doenzas levan acento gráfico. Une as sílabas para sabere
 <details>
 <summary>Ver as solucións</summary>
 
-1. <e-tag color=1>te</e-tag><e-tag color=1>ta</e-tag><e-tag color=1>no</e-tag>
+1. <e-tag color=1>té</e-tag><e-tag color=1>ta</e-tag><e-tag color=1>no</e-tag>
 2. <e-tag color=2>xa</e-tag><e-tag color=2>ram</e-tag><e-tag color=2>pón</e-tag>
 3. <e-tag color=3>ru</e-tag><e-tag color=3>bé</e-tag><e-tag color=3>o</e-tag><e-tag color=3>la</e-tag>
 4. <e-tag color=4>va</e-tag><e-tag color=4>rí</e-tag><e-tag color=4>o</e-tag><e-tag color=4>la</e-tag>
