@@ -74,7 +74,6 @@ Os nomes destas catro doenzas levan acento gráfico. Une as sílabas para sabere
 
 <details>
 
-
 <summary>Ver as solucións</summary>
 
 1. <e-tag color=1>té</e-tag><e-tag color=1>ta</e-tag><e-tag color=1>no</e-tag>
@@ -82,8 +81,16 @@ Os nomes destas catro doenzas levan acento gráfico. Une as sílabas para sabere
 3. <e-tag color=3>ru</e-tag><e-tag color=3>bé</e-tag><e-tag color=3>o</e-tag><e-tag color=3>la</e-tag>
 4. <e-tag color=4>va</e-tag><e-tag color=4>rí</e-tag><e-tag color=4>o</e-tag><e-tag color=4>la</e-tag>
 
+</details>
+
 ### Exercicio 3
 
 Coloca o acento gráfico nas seguintes palabras cando o precisen, logo indica a súa clasificación segundo a acentuación (agudas, graves ou esdrúxulas) e xustifica a aparición ou non de acento gráfico:
 
 Ex.: minuscula: Minúscula leva acento porque é unha palabra esdrúxula
+
+1. dificil: 
+2. esteril
+3. cancion:
+4.
+5.
