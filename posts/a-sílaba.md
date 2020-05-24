@@ -66,16 +66,16 @@ Separa en sílabas estas palabras e sitúaas nos lugares que lles correspondan. 
 
 Indica se as seguintes palabras son agudas, graves ou esdrúxulas:
 
-árbore: <e-answer> esdrúxula </e-answer> 
-caracol: <e-answer> aguda </e-answer> 
-garavanzo: <e-answer> grave </e-answer> 
-mísil: <e-answer> grave </e-answer> 
-frigorífico: <e-answer> esdrúxula </e-answer>
-aquí: <e-answer> aguda </e-answer>
-festival: <e-answer> aguda </e-answer>
-apóstolo: <e-answer> esdrúxula </e-answer> 
-iogur: <e-answer> aguda </e-answer> 
-carácter: <e-answer> grave </e-answer> 
+1. árbore: <e-answer> esdrúxula </e-answer> 
+2. caracol: <e-answer> aguda </e-answer> 
+3. garavanzo: <e-answer> grave </e-answer> 
+4. mísil: <e-answer> grave </e-answer> 
+5. frigorífico: <e-answer> esdrúxula </e-answer>
+6. aquí: <e-answer> aguda </e-answer>
+7. festival: <e-answer> aguda </e-answer>
+8. apóstolo: <e-answer> esdrúxula </e-answer> 
+9. iogur: <e-answer> aguda </e-answer> 
+10. carácter: <e-answer> grave </e-answer> 
 
 <e-validate>Corrixe as respostas</e-validate>
 
