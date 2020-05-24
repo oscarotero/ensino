@@ -18,7 +18,7 @@ Neste esquema sintetizamos as regras xerais de uso do acento gráfico.
 
 ## Exercicio 1
 
-Escribe o nome dos elementos debuxados. Ten en conta que en todos os casos debes usar palabras con acento gráfico:
+Escribe o nome dos elementos fotografados. Ten en conta que en todos os casos debes usar palabras con acento gráfico:
 
 ![](/static/img/móbil.jpg)
 
@@ -50,9 +50,9 @@ Escribe o nome dos elementos debuxados. Ten en conta que en todos os casos debes
 
 <e-validate>Corrixe as respostas</e-validate>
 
-Exercicio 2
+## Exercicio 2
 
-Localiza o nome de catro doenzas que levan acento gráfico:
+Os nomes destas catro doenzas levan acento gráfico. Une as sílabas para saberes de que doenzas se trata:
 
 <e-layout>
 <e-tag color=1>té</e-tag>
@@ -80,7 +80,7 @@ Localiza o nome de catro doenzas que levan acento gráfico:
 3. <e-tag color=3>ru</e-tag><e-tag color=3>bé</e-tag><e-tag color=7>o</e-tag><e-tag color=3>la</e-tag>
 4. <e-tag color=4>va</e-tag><e-tag color=4>rí</e-tag><e-tag color=4>o</e-tag><e-tag color=4>la</e-tag>
 
-Exercicio 3
+### Exercicio 3
 
 Coloca o acento gráfico nas seguintes palabras cando o precisen, logo indica a súa clasificación segundo a acentuación (agudas, graves ou esdrúxulas) e xustifica a aparición ou non de acento gráfico:
 
