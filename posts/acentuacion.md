@@ -55,10 +55,12 @@ Escribe o nome dos elementos fotografados. Ten en conta que en todos os casos de
 Os nomes destas catro doenzas levan acento gráfico. Une as sílabas para saberes de que doenzas se trata:
 
 <e-layout>
+<e-tag color=3>bé</e-tag> 
 <e-tag color=4>la</e-tag> 
 <e-tag color=1>no</e-tag>
 <e-tag color=4>o</e-tag> 
-<e-tag color=2>ram</e-tag> 
+<e-tag color=2>ram</e-tag>
+<e-tag color=3>la</e-tag> 
 <e-tag color=3>ru</e-tag> 
 <e-tag color=1>ta</e-tag> 
 <e-tag color=4>va</e-tag> 
@@ -66,9 +68,8 @@ Os nomes destas catro doenzas levan acento gráfico. Une as sílabas para sabere
 <e-tag color=2>xa</e-tag> 
 <e-tag color=4>rí</e-tag> 
 <e-tag color=1>te</e-tag>  
-<e-tag color=3>bé</e-tag> 
 <e-tag color=2>pón</e-tag> 
-<e-tag color=3>o</e-tag> 
+
 </e-layout>
 
 <details>
