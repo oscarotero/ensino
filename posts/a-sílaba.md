@@ -64,6 +64,23 @@ Separa en sílabas estas palabras e sitúaas nos lugares que lles correspondan. 
 
 ## Exercicio 2
 
+Indica se as seguintes palabras son agudas, graves ou esdrúxulas:
+
+árbore: <e-answer> esdrúxula </e-answer> 
+caracol: <e-answer> aguda </e-answer> 
+garavanzo: <e-answer> grave </e-answer> 
+mísil: <e-answer> grave </e-answer> 
+frigorífico: <e-answer> esdrúxula </e-answer>
+aquí: <e-answer> aguda </e-answer>
+festival: <e-answer> aguda </e-answer>
+apóstolo: <e-answer> esdrúxula </e-answer> 
+iogur: <e-answer> aguda </e-answer> 
+carácter: <e-answer> grave </e-answer> 
+
+<e-validate>Corrixe as respostas</e-validate>
+
+## Exercicio 3
+
 Separa en sílabas e indica cal é sílaba tónica nas seguintes palabras. Para iso, consulta como se pronuncia cada unha delas clicando nesta ligazón ao [Dicionario de pronuncia da lingua galega](https://ilg.usc.es/pronuncia/):
 
 Ex.: acne: **ac** - ne 
@@ -75,7 +92,6 @@ Ex.: acne: **ac** - ne
 5. elite:
 6. medula:
 7. chofer:
-8. paxaro:
 
 <details> <summary>Ver as solucións</summary>
 
@@ -86,6 +102,5 @@ Ex.: acne: **ac** - ne
 5. elite: e - **li** - te
 6. medula: me - **du** - la
 7. chofer: cho - **fer**
-8. mísil: **mí** - sil
 
 </details>
