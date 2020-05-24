@@ -32,9 +32,7 @@ Escribe o nome dos elementos fotografados. Ten en conta que en todos os casos de
 
 <e-answer> lámpada </e-answer>
 
-![](/static/img/esquimó.jpg)
 
-<e-answer> esquimó </e-answer>
 
 ![](/static/img/cámara.jpg)
 
@@ -90,7 +88,7 @@ Coloca o acento gráfico nas seguintes palabras cando o precisen, logo indica a 
 Ex.: minuscula: Minúscula leva acento porque é unha palabra esdrúxula
 
 1. dificil: 
-2. esteril
-3. cancion:
-4.
-5.
+2. esteril:
+3. lapis:
+4. cancion:
+5. acuatico:
