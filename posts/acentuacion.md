@@ -6,7 +6,7 @@ tags:
   - semana-11
 eleventyExcludeFromCollections: false
 ---
-Esquema de acentuación
+
 
 Neste esquema sintetizamos as regras xerais de uso do acento gráfico.
 
@@ -47,6 +47,8 @@ Escribe o nome dos elementos debuxados. Ten en conta que en todos os casos debes
 ![](/static/img/café.jpg)
 
 <e-answer> café </e-answer>
+
+
 
 ![](/static/img/semáforo.jpg)
 
