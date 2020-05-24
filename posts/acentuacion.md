@@ -6,8 +6,6 @@ tags:
   - semana-11
 eleventyExcludeFromCollections: false
 ---
-
-
 Neste esquema sintetizamos as regras xerais de uso do acento gráfico.
 
 | Esdrúxulas                                                                 | Graves                                                                     | Agudas                                                                     |
@@ -42,19 +40,13 @@ Escribe o nome dos elementos debuxados. Ten en conta que en todos os casos debes
 
 <e-answer> cámara </e-answer>
 
-
-
 ![](/static/img/café.jpg)
 
 <e-answer> café </e-answer>
 
-
-
 ![](/static/img/semáforo.jpg)
 
 <e-answer> semáforo </e-answer>
-
-
 
 <e-validate>Corrixe as respostas</e-validate>
 
@@ -62,7 +54,31 @@ Exercicio 2
 
 Localiza o nome de catro doenzas que levan acento gráfico:
 
+<e-layout>
+<e-tag color=1>té</e-tag>
+<e-tag color=4>o</e-tag> 
+<e-tag color=2>ram</e-tag> 
+<e-tag color=3>ru</e-tag> 
+<e-tag color=1>ta</e-tag> 
+<e-tag color=4>va</e-tag> 
+<e-tag color=3>o</e-tag>
+<e-tag color=2>xa</e-tag> 
+<e-tag color=4>rí</e-tag> 
+<e-tag color=1>no</e-tag>  
+<e-tag color=3>bé</e-tag> 
+<e-tag color=2>pón</e-tag> 
+<e-tag color=3>o</e-tag> 
+<e-tag color=3>la</e-tag> 
 
+</e-layout>
+
+<details>
+<summary>Ver as solucións</summary>
+
+1. <e-tag color=1>te</e-tag><e-tag color=1>ta</e-tag><e-tag color=1>no</e-tag>
+2. <e-tag color=2>xa</e-tag><e-tag color=2>ram</e-tag><e-tag color=2>pón</e-tag>
+3. <e-tag color=3>ru</e-tag><e-tag color=3>bé</e-tag><e-tag color=7>o</e-tag><e-tag color=3>la</e-tag>
+4. <e-tag color=4>va</e-tag><e-tag color=4>rí</e-tag><e-tag color=4>o</e-tag><e-tag color=4>la</e-tag>
 
 Exercicio 3
 
