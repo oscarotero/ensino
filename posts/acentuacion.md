@@ -67,7 +67,7 @@ Os nomes destas catro doenzas levan acento gráfico. Une as sílabas para sabere
 <e-tag color=3>o</e-tag>
 <e-tag color=2>xa</e-tag> 
 <e-tag color=4>rí</e-tag> 
-<e-tag color=1>te</e-tag>  
+<e-tag color=1>té</e-tag>  
 <e-tag color=2>pón</e-tag> 
 
 </e-layout>
