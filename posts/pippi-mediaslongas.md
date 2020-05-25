@@ -34,9 +34,9 @@ Selecciona a resposta correcta para cada unha das preguntas:
 
 #### 1.  Cando ven Tommy e Annika a Pippi por primeira vez?
 
-<label><input type="radio" name="2" value="a"> Un día á tardiña cando ela vai dar o seu paseo</label>\
-<label><input type="radio" name="2" value="b"> Un día á mañá cando ela vai dar o seu paseo</label>\
-<label><input type="radio" name="2" value="c"> No texto non se di cando ven a Pippi por primeira vez</label> 
+<label><input type="radio" name="1" value="a"> Un día á tardiña cando ela vai dar o seu paseo</label>\
+<label><input type="radio" name="1" value="b"> Un día á mañá cando ela vai dar o seu paseo</label>\
+<label><input type="radio" name="1" value="c"> No texto non se di cando ven a Pippi por primeira vez</label> 
 
 #### 2.  De acordo coa información que se dá no texto, como dirías que é Pippi:
 
@@ -46,51 +46,51 @@ Selecciona a resposta correcta para cada unha das preguntas:
 
 #### 3.  Con que se compara o nariz de Pippi?
 
-<label><input type="radio" name="2" value="a"> Cun tubérculo </label>\
-<label><input type="radio" name="2" value="b"> Cunha pataca </label>\
-<label><input type="radio" name="2" value="c"> As dúas respostas anteriores son correctas </label> 
+<label><input type="radio" name="3" value="a"> Cun tubérculo </label>\
+<label><input type="radio" name="3" value="b"> Cunha pataca </label>\
+<label><input type="radio" name="3" value="c"> As dúas respostas anteriores son correctas </label> 
 
 #### 4. O que cres que é Mediaslongas?
 
-<label><input type="radio" name="2" value="a"> O apelido de Pippi </label>\
-<label><input type="radio" name="2" value="b"> O alcume de Pippi </label>\
-<label><input type="radio" name="2" value="c"> Parte do nome, Pippi Mediaslongas e un nome composto </label> 
+<label><input type="radio" name="4" value="a"> O apelido de Pippi </label>\
+<label><input type="radio" name="4" value="b"> O alcume de Pippi </label>\
+<label><input type="radio" name="4" value="c"> Parte do nome, Pippi Mediaslongas e un nome composto </label> 
 
 #### 5. No fragmento dise que Tommy e Annika arregalan  os ollos. Que significa esta expresión?
 
-<label><input type="radio" name="2" value="a"> Abrir moito ollos </label>\
-<label><input type="radio" name="2" value="b"> Chiscar os ollos </label>\
-<label><input type="radio" name="2" value="c"> Pechar os ollos co susto </label> 
+<label><input type="radio" name="5" value="a"> Abrir moito ollos </label>\
+<label><input type="radio" name="5" value="b"> Chiscar os ollos </label>\
+<label><input type="radio" name="5" value="c"> Pechar os ollos co susto </label> 
 
 #### 6. Por que Tommy e Annika arregalan os ollos?
 
-<label><input type="radio" name="2" value="a"> Porque levan un bo medo </label>\
-<label><input type="radio" name="2" value="b"> Porque se sorprenden moito co que ven </label>\
-<label><input type="radio" name="2" value="c"> Porque están lonxe e non ven ben </label> 
+<label><input type="radio" name="6" value="a"> Porque levan un bo medo </label>\
+<label><input type="radio" name="6" value="b"> Porque se sorprenden moito co que ven </label>\
+<label><input type="radio" name="6" value="c"> Porque están lonxe e non ven ben </label> 
 
 #### 7. Que significa que o pai de Pippi lle comprara os zapatos para as medras?
 
-<label><input type="radio" name="2" value="a"> Que lle comprara uns zapatos que alargaban co uso </label>\
-<label><input type="radio" name="2" value="b"> Que lle comprara uns zapatos típicos de América do Sur </label>\
-<label><input type="radio" name="2" value="c"> Que lle comprara uns zapatos máis grandes do necesario para cando medrase </label> 
+<label><input type="radio" name="7" value="a"> Que lle comprara uns zapatos que alargaban co uso </label>\
+<label><input type="radio" name="7" value="b"> Que lle comprara uns zapatos típicos de América do Sur </label>\
+<label><input type="radio" name="7" value="c"> Que lle comprara uns zapatos máis grandes do necesario para cando medrase </label> 
 
 #### 8. Que adxectivo describe mellor a Pippi?
 
-<label><input type="radio" name="2" value="a"> Normal </label>\
-<label><input type="radio" name="2" value="b"> Extravagante </label>\
-<label><input type="radio" name="2" value="c"> Necesitada </label>
+<label><input type="radio" name="8" value="a"> Normal </label>\
+<label><input type="radio" name="8" value="b"> Extravagante </label>\
+<label><input type="radio" name="8" value="c"> Necesitada </label>
 
 #### 9.  No texto dise que Pippi é a nena máis estraña que viran Tommy e Annika. Por que?
 
-<label><input type="radio" name="2" value="a"> Porque non os saúda cando pasa ao seu lado </label>\
-<label><input type="radio" name="2" value="b"> Porque era estranxeira </label>\
-<label><input type="radio" name="2" value="c"> Polo seu aspecto </label>
+<label><input type="radio" name="9" value="a"> Porque non os saúda cando pasa ao seu lado </label>\
+<label><input type="radio" name="9" value="b"> Porque era estranxeira </label>\
+<label><input type="radio" name="9" value="c"> Polo seu aspecto </label>
 
 #### 10. No texto que acabas de ler predomina a descrición. Que é o que se describe?
 
-<label><input type="radio" name="2" value="a"> Os trazos físicos e a vestimenta de Pippi </label>\
-<label><input type="radio" name="2" value="b"> Os trazos físicos e a personalidade de Pippi </label>\
-<label><input type="radio" name="2" value="c"> Os trazos físicos e a vestimenta de Pippi e da súa mascota </label>
+<label><input type="radio" name="10" value="a"> Os trazos físicos e a vestimenta de Pippi </label>\
+<label><input type="radio" name="10" value="b"> Os trazos físicos e a personalidade de Pippi </label>\
+<label><input type="radio" name="10" value="c"> Os trazos físicos e a vestimenta de Pippi e da súa mascota </label>
 
  <button type="submit" name="submit">Envía as respostas</button>
 
