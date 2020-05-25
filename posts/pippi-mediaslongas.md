@@ -28,7 +28,7 @@ Fragmento da obra *Pippi Mediaslongas* da escritora sueca Astrid Lindgren
 
 Selecciona a resposta correcta para cada unha das preguntas:
 
-<form name="rudi-focinhos" method="POST" netlify>
+<form name="pippi-mediaslongas" method="POST" netlify>
   <label for="name"><strong>Quen es?</strong></label>
   <input type="text" name="nome" placeholder="Escribe aquí o teu nome e os teus apelidos" required>
 
