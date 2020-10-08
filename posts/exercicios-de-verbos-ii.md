@@ -12,8 +12,6 @@ eleventyExcludeFromCollections: false
 
 [Dicionario da Real Academia Galega (RAG)](https://academia.gal/dicionario)
 
-
-
 - - -
 
 ## Exercicios
@@ -49,7 +47,7 @@ Pon as seguintes oracións en pasado.
 7. **Trouxemos** lapis e papel para todos. 
 8. **Andei** moi ocupado e non **tiven** tempo de nada.
 9. Todos os animais **fuxiron** do lume.
-10. Despois do xantar **durmiu** a sexta.
+10. Despois do xantar **durmiu** a sesta.
 11. **Puiden** facelo porque me **axudaches**.
 12. Non **souberon** dicir quen o **fixo** mellor.
 13. **Saíu** pola porta e non **volveu**.
