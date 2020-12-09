@@ -118,9 +118,9 @@ vasoira : o <e-answer size=3>uve</e-answer>, o <e-answer size=3>a</e-answer>, o 
 
 ### Exercicio 3
 
-Troca a letra grosa de cada palabra por un dígrafo e forma palabras novas:  
+Troca a letra grosa de cada palabra por un dígrafo e forma palabras novas:  uu
 
-* a**r**o: 
+* **r**o: 
 * cu**ñ**a:
 * a**r**ela:
 * **f**ío: 
@@ -130,13 +130,12 @@ Troca a letra grosa de cada palabra por un dígrafo e forma palabras novas:
 
 <details> <summary>Ver as solucións</summary>
 
-
-- a**r**o: a**ll**o
-- cu**ñ**a: cu**nh**a
-- a**r**ela: a**qu**ela
-- **f**ío: **ch**ío
-- afo**g**ar: afo**rr**ar
-- **p**aga: **ch**aga
-- fi**l**eira: fi**gu**eira
+* a**r**o: a**ll**o
+* cu**ñ**a: cu**nh**a
+* a**r**ela: a**qu**ela
+* **f**ío: **ch**ío
+* afo**g**ar: afo**rr**ar
+* **p**aga: **ch**aga
+* fi**l**eira: fi**gu**eira
 
 </details>
