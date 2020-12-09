@@ -120,7 +120,7 @@ vasoira : o <e-answer size=3>uve</e-answer>, o <e-answer size=3>a</e-answer>, o 
 
 Troca a letra grosa de cada palabra por un dígrafo e forma palabras novas:  
 
-* u**ña:** u<e-answer size=3>nh</e-answer>a
+* u**ñ**a:u<e-answer size=3>nh</e-answer>a
 * ca**s**a: ca<e-answer size=3>ch</e-answer>a
 * **t**erra: <e-answer size=3>gu</e-answer>erra
 * **l**ince: <e-answer size=3>qu</e-answer>ince
