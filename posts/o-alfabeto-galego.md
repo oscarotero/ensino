@@ -100,6 +100,8 @@ cunca : o <e-answer size=3>ce</e-answer>
 
 xabón : o <e-answer size=3>xe</e-answer>
 
+<e-validate>Corrixe as respostas</e-validate>
+
 ### Exercicio 2
 
 Soletrea as seguintes palabras:
