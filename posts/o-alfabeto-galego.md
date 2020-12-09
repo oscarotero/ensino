@@ -118,24 +118,13 @@ vasoira : o <e-answer size=3>uve</e-answer>, o <e-answer size=3>a</e-answer>, o 
 
 ### Exercicio 3
 
-Troca a letra grosa de cada palabra por un dígrafo e forma palabras novas:  uu
+Troca a letra grosa de cada palabra por un dígrafo e forma palabras novas:  
 
-* **r**o: 
-* cu**ñ**a:
-* a**r**ela:
-* **f**ío: 
-* afo**g**ar: 
-* **p**aga:
-* fi**l**eira:
+* u**ña:** u<e-answer size=3>nh</e-answer>a
+* ca**s**a: ca<e-answer size=3>ch</e-answer>a
+* **t**erra: <e-answer size=3>gu</e-answer>erra
+* **l**ince: <e-answer size=3>qu</e-answer>ince
+* bi**c**ar: bi<e-answer size=3>ll</e-answer>ar
+* co**c**er: co<e-answer size=3>rr</e-answer>er
 
-<details> <summary>Ver as solucións</summary>
-
-* a**r**o: a**ll**o
-* cu**ñ**a: cu**nh**a
-* a**r**ela: a**qu**ela
-* **f**ío: **ch**ío
-* afo**g**ar: afo**rr**ar
-* **p**aga: **ch**aga
-* fi**l**eira: fi**gu**eira
-
-</details>
+<e-validate>Corrixe as respostas</e-validate>
