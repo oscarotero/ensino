@@ -18,6 +18,9 @@ eleventyExcludeFromCollections: false
 1. Restos de pedras, terras etc., que arrastra unha corrente de auga. 
 2. Montón de fragmentos que resultan dunha demolición, dun derrubamento ou restos dunha construción.
 
+</div>
+</e-card>
+
 <e-card color="1">
 <div>Á espreita</div>
 <div>Vixiar con disimulo para non ser visto</div>
