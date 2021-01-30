@@ -52,7 +52,7 @@ class Card extends HTMLElement {
                 box-shadow: 0 3px 10px 2px #0004;
               }
               .card ::slotted(:first-child) {
-                font-size: 1.6em;
+                font-size: 1.4em;
                 font-weight: bold;
                 text-align: center;
                 line-height: 1.2;
