@@ -43,25 +43,18 @@ eleventyExcludeFromCollections: false
 <div>Bucina que, nos barcos, coches de policía, ambulancias etc se emprega para facer sinais</div>
 </e-card>
 
-<<<<<<< HEAD
-=======
 <e-card color="7">
 <div>Cal é a función dun adverbio na oración?</div>
 <div>Complementar un verbo, un adxectivo ou outro adverbio</div>
 </e-card> 
 
->>>>>>> 37b57ebb5d9fbfe6c01e17893dc3cd4783436c10
 <e-card color="5">
 <div>Que é unha lingua románica?</div>
 <div>As linguas románicas son as que derivan do latín</div>
 </e-card>
 
 <e-card color="5">
-<<<<<<< HEAD
-<div>Cal destas linguas non é románica: castelán – galego – catalán – Éuscaro – aranés?</div>
-=======
 <div>Cal destas linguas non é románica: castelán – galego – catalán – éuscaro – aranés?</div>
->>>>>>> 37b57ebb5d9fbfe6c01e17893dc3cd4783436c10
 <div>Éuscaro</div>
 </e-card>
 
