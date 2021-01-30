@@ -69,7 +69,6 @@ Seis:
 - o erre dobre
 - o ele dobre
 - o ene dobre
-- o ene dobre
 - o gue u
 - o que u
 </div>
@@ -107,12 +106,13 @@ Como se chama esta letra *j*?
 
 Sete:
 
-- o a aberto,
+- o a
 - o e aberto
 - o e fechado
 - o i
 - o o aberto
-- o o fechado e o u
+- o o fechado
+- o u
 
 </div>
 </e-card>
