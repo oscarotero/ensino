@@ -5,7 +5,7 @@ tags:
   - post
   - cartons
 ---
-A ver se sabes o que significan as seguintes palabras:
+
 
 <e-card color="1">
   <div>Bogada</div>
