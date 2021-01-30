@@ -52,7 +52,7 @@ Predomina a subxectividade sobre a obxectividade
 
 <e-card color="3">
   <div>Soletrea a palabra \*aquí\*</div>
-  <div>Conxunto de roupas que se lava dunha vez</div>
+  <div>O a, o que u, o i</div>
 </e-card>
 
 <e-card color="3">
@@ -61,61 +61,21 @@ Predomina a subxectividade sobre a obxectividade
 </e-card>
 
 <e-card color="3">
-  <div>Como se chama esta letra \*q?\*</div>
+  <div>Como se chama esta letra \*q\*?</div>
   <div>Que</div>
 </e-card>
 
 <e-card color="3">
-  <div>Como se chama esta letra \*x?\*</div>
+  <div>Como se chama esta letra \*x\*?</div>
   <div>Xe</div>
 </e-card>
 
 <e-card color="3">
-  <div>Como se chama esta letra \*j?\*</div>
+  <div>Como se chama esta letra \*j\*?</div>
   <div>Iota</div>
 </e-card>
 
 <e-card color="3">
   <div>Cantas vogais hai en galego?</div>
   <div>Sete: o a aberto, o e aberto, o e fechado, o i, o o aberto, o o fechado e o u</div>
-</e-card>
-
-<e-card>
-  <div>Bogada</div>
-  <div>Conxunto de roupas que se lava dunha vez</div>
-</e-card>
-
-<e-card color="4">
-  <div>Bogada</div>
-  <div>Conxunto de roupas que se lava dunha vez</div>
-</e-card>
-
-<e-card color="5">
-  <div>Bogada</div>
-  <div>Conxunto de roupas que se lava dunha vez</div>
-</e-card>
-
-<e-card color="6">
-  <div>Bogada</div>
-  <div>Conxunto de roupas que se lava dunha vez</div>
-</e-card>
-
-<e-card color="7">
-  <div>Bogada</div>
-  <div>Conxunto de roupas que se lava dunha vez</div>
-</e-card>
-
-<e-card color="8">
-  <div>Bogada</div>
-  <div>Conxunto de roupas que se lava dunha vez</div>
-</e-card>
-
-<e-card color="9">
-  <div>Bogada</div>
-  <div>Conxunto de roupas que se lava dunha vez</div>
-</e-card>
-
-<e-card color="10">
-  <div>Bogada</div>
-  <div>Conxunto de roupas que se lava dunha vez</div>
 </e-card>
