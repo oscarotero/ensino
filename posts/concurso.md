@@ -1,6 +1,6 @@
 ---
-title: Flashcards / Cartóns de estudo
-summary: 1º da ESO. Unidade 1
+title: 1º da ESO
+summary: Unidade 1
 tags:
   - post
   - cartons
