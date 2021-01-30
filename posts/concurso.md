@@ -39,15 +39,19 @@ A ver se sabes o que significan as seguintes palabras:
 
 <e-card color="2">
   <div>Características da linguaxe literaria</div>
-  <div>
+ <div>
+
 Emprega recursos ou figuras estilísticas
 Ten finalidade expresiva, non unicamente informativa
 Predomina a subxectividade sobre a obxectividade
+
 </div>
+
+
 </e-card>
 
 <e-card color="3">
-  <div>Soletrea a palabra *aquí*</div>
+  <div>Soletrea a palabra \*aquí\*</div>
   <div>Conxunto de roupas que se lava dunha vez</div>
 </e-card>
 
@@ -57,17 +61,17 @@ Predomina a subxectividade sobre a obxectividade
 </e-card>
 
 <e-card color="3">
-  <div>Como se chama esta letra *q?*</div>
+  <div>Como se chama esta letra \*q?\*</div>
   <div>Que</div>
 </e-card>
 
 <e-card color="3">
-  <div>Como se chama esta letra *x?*</div>
+  <div>Como se chama esta letra \*x?\*</div>
   <div>Xe</div>
 </e-card>
 
 <e-card color="3">
-  <div>Como se chama esta letra *j?*</div>
+  <div>Como se chama esta letra \*j?\*</div>
   <div>Iota</div>
 </e-card>
 
