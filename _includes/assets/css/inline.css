@@ -255,3 +255,13 @@ e-validate {
 	display: block;
 	margin: 3em 0;
 }
+e-card p,
+e-card li,
+e-card ol,
+e-card ul {
+	margin: 0;
+}
+e-card ol,
+e-card ul {
+	padding-left: 1em;
+}

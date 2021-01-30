@@ -24,8 +24,10 @@ class Card extends HTMLElement {
                   position: relative;
                   will-change: transform;
                   display: inline-grid;
+                  vertical-align: top;
                   cursor: pointer;
-                  max-width: 18em;
+                  width: 18em;
+                  max-width: 100%;
                   min-height: 14em;
                   margin: 0 1rem 1rem 0;
               }
@@ -52,6 +54,8 @@ class Card extends HTMLElement {
               .card ::slotted(:first-child) {
                 font-size: 1.6em;
                 font-weight: bold;
+                text-align: center;
+                line-height: 1.2;
               }
               .card.is-reversed ::slotted(:first-child) {
                 transform: rotateY(180deg);

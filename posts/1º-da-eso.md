@@ -41,9 +41,9 @@ A ver se sabes o que significan as seguintes palabras:
   <div>Características da linguaxe literaria</div>
  <div>
 
-Emprega recursos ou figuras estilísticas
-Ten finalidade expresiva, non unicamente informativa
-Predomina a subxectividade sobre a obxectividade
+- Emprega recursos ou figuras estilísticas
+- Ten finalidade expresiva, non unicamente informativa
+- Predomina a subxectividade sobre a obxectividade
 
 </div>
 
@@ -51,31 +51,68 @@ Predomina a subxectividade sobre a obxectividade
 </e-card>
 
 <e-card color="3">
-  <div>Soletrea a palabra \*aquí\*</div>
+  <div>
+
+Soletrea a palabra *aquí*
+
+</div>
   <div>O a, o que u, o i</div>
 </e-card>
 
 <e-card color="3">
   <div>Cantos dígrafos hai en galego?</div>
-  <div>Seis: o ce hache, o erre dobre, o ele dobre, o ene dobre, o ene dobre, o gue u, o que u</div>
+  <div>
+
+Seis:
+
+- o ce hache
+- o erre dobre
+- o ele dobre
+- o ene dobre
+- o ene dobre
+- o gue u
+- o que u
+</div>
 </e-card>
 
 <e-card color="3">
-  <div>Como se chama esta letra \*q\*?</div>
+  <div>
+
+Como se chama esta letra *q*?
+
+  </div>
   <div>Que</div>
 </e-card>
 
 <e-card color="3">
-  <div>Como se chama esta letra \*x\*?</div>
+  <div>
+
+Como se chama esta letra *x*?
+
+</div>
   <div>Xe</div>
 </e-card>
 
 <e-card color="3">
-  <div>Como se chama esta letra \*j\*?</div>
+  <div>
+
+Como se chama esta letra *j*?
+</div>
   <div>Iota</div>
 </e-card>
 
 <e-card color="3">
   <div>Cantas vogais hai en galego?</div>
-  <div>Sete: o a aberto, o e aberto, o e fechado, o i, o o aberto, o o fechado e o u</div>
+  <div>
+
+Sete:
+
+- o a aberto,
+- o e aberto
+- o e fechado
+- o i
+- o o aberto
+- o o fechado e o u
+
+</div>
 </e-card>
