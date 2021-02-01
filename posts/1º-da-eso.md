@@ -66,11 +66,11 @@ Soletrea a palabra *aquí*
 Seis:
 
 - o ce hache > ch
-- o erre dobre > rr
+- o gue u > gu
 - o ele dobre > ll
 - o ene hache > nh
-- o gue u > gu
-- o que u que
+- o que u > que
+- o erre dobre > rr
 </div>
 </e-card>
 
