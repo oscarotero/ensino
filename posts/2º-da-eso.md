@@ -134,8 +134,7 @@ Ex.: Hai, grosso modo, dúas opinións maioritarias</div>
 
 <e-card color="1">
 <div>In albis</div>
-<div> En branco
-
+<div>En branco</div>
 Ex.: Quedou in albis e non puido responder</div>
 </e-card>
 
