@@ -37,13 +37,13 @@ eleventyExcludeFromCollections: false
 </e-card>
 
 <e-card color="1">
-<div>Serea</div>
 <div>Ser fantástico con busto de muller e o resto do corpo de peixe</div>
+<div>Serea</div>
 </e-card>
 
 <e-card color="1">
-<div>Sirena</div>
 <div>Bucina que, nos barcos, coches de policía, ambulancias etc se emprega para facer sinais</div>
+<div>Sirena</div>
 </e-card>
 
 <e-card color="7">
@@ -135,7 +135,8 @@ Ex.: Hai, grosso modo, dúas opinións maioritarias</div>
 <e-card color="1">
 <div>In albis</div>
 <div> En branco
-Ex.: Quedou in albis e non puidon responder</div>
+
+Ex.: Quedou in albis e non puido responder</div>
 </e-card>
 
 <e-card color="1">
