@@ -125,3 +125,21 @@ eleventyExcludeFromCollections: false
 <div>Trasgo ou trasno</div>
 <div>Ser fantástico que acostuma facer trasnadas</div>
 </e-card>
+
+<e-card color="1">
+<div>Grosso modo</div>
+<div> A grandes liñas, máis ou menos
+Ex.: Hai, grosso modo, dúas opinións maioritarias</div>
+</e-card>
+
+<e-card color="1">
+<div>In albis</div>
+<div> En branco
+Ex.: Quedou in albis e non puidon responder</div>
+</e-card>
+
+<e-card color="1">
+<div>Ex professo</div>
+<div> A propósito
+Ex.: Deixei ex professo este tema para o final</div>
+</e-card>
