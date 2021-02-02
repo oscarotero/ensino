@@ -69,7 +69,7 @@ Seis:
 - o gue u > gu
 - o ele dobre > ll
 - o ene hache > nh
-- o que u > que
+- o que u > qu
 - o erre dobre > rr
 </div>
 </e-card>
