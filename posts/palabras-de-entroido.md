@@ -37,7 +37,7 @@ eleventyExcludeFromCollections: false
 
 <e-card color="6">
   <div>Obxecto con que se tapa a cara ou parte dela para non ser recoñecido, en particular aquel que cobre a zona que está arredor dos ollos</div>
-  <div>Antiface</div>
+  <div>Anteface</div>
 </e-card>
 
 <e-card color="7">
