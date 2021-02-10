@@ -11,6 +11,11 @@ eleventyExcludeFromCollections: false
 </e-card>
 
 <e-card color="10">
+  <div>O que é o triángulo máxico do Entroido?</div>
+  <div>Coñécese así unha zona comprendida entre Xinzo de Limia, Laza e Verín, cunha gran tradición en festexar o Entroido  .</div>
+</e-card>
+
+<e-card color="10">
   <div>Que é entroidar?</div>
   <div>Festexar o Entroido</div>
 </e-card>
