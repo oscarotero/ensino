@@ -56,7 +56,7 @@ eleventyExcludeFromCollections: false
 </e-card>
 
 <e-card color="9">
-  <div>Que levan nas mans as pantallas de Xinzo nas mans?</div>
+  <div>Que levan as pantallas de Xinzo nas mans?</div>
   <div>Dúas vinchas de porco ou de vaca que levan nas mans, secas e inchadas coma globos</div>
 </e-card>
 
