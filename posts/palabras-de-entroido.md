@@ -79,3 +79,13 @@ eleventyExcludeFromCollections: false
   <div>Por que se chama peliqueiro?</div>
   <div>O nome de peliqueiro vénlle a este personaxe dun dos complementos que leva, unha pelica de gato ou coello que colga pola parte posterior da mitra</div>
 </e-card>
+
+<e-card color="7">
+  <div>O que é a farrapada?</div>
+  <div>É un batalla de farrapos manchados de lama que os participantes na festa se tiran uns a outros o luns borralleiro en Laza</div>
+</e-card>
+
+<e-card color="1">
+  <div>O que é a farrapada?</div>
+  <div>É un batalla de farrapos manchados de lama que os participantes na festa se tiran uns a outros o luns borralleiro en Laza</div>
+</e-card>
