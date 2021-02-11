@@ -86,6 +86,11 @@ eleventyExcludeFromCollections: false
 </e-card>
 
 <e-card color="1">
-  <div>O que é a farrapada?</div>
-  <div>É un batalla de farrapos manchados de lama que os participantes na festa se tiran uns a outros o luns borralleiro en Laza</div>
+  <div>Sobremesas de Entroido</div>
+  <div>Filloas, orellas, flores, chulas, rosquillas, bica</div>
+</e-card>
+
+<e-card color="5">
+  <div>Personaxe do Entroido de Salcedo, na Pobra do Brollón</div>
+  <div>O oso</div>
 </e-card>
