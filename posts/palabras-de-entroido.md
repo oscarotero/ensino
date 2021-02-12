@@ -10,6 +10,11 @@ eleventyExcludeFromCollections: false
   <div>Procede do latín INTROITO “entrada na Coresma”</div>
 </e-card>
 
+<e-card color="5">
+  <div>O que é a Coresma?</div>
+  <div>Período de corenta e seis días consagrado polos católicos e os ortodoxos á penitencia, que vai desde o mércores de Cinsa até o día da Pascua, ambos incluídos. </div>
+</e-card> 
+
 <e-card color="7">
   <div>O que é o triángulo máxico do Entroido?</div>
   <div>Coñécese así unha zona comprendida entre Xinzo de Limia, Laza e Verín, cunha gran tradición en festexar o Entroido</div>
@@ -93,4 +98,14 @@ eleventyExcludeFromCollections: false
 <e-card color="5">
   <div>Personaxe do Entroido de Salcedo, na Pobra do Brollón</div>
   <div>O oso</div>
+</e-card>
+
+<e-card color="10">
+  <div>Cabeleira postiza</div>
+  <div>Perruca</div>
+</e-card>
+
+<e-card color="1">
+  <div>A palabbra maquillaxe é masculina ou feminina?</div>
+  <div>É feminina: a maquillaxe</div>
 </e-card>
