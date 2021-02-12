@@ -106,6 +106,6 @@ eleventyExcludeFromCollections: false
 </e-card>
 
 <e-card color="1">
-  <div>A palabbra maquillaxe é masculina ou feminina?</div>
+  <div>A palabra maquillaxe é masculina ou feminina?</div>
   <div>É feminina: a maquillaxe</div>
 </e-card>
