@@ -9,7 +9,8 @@ eleventyExcludeFromCollections: false
 ---
 Vimos un vídeo de Tik tak draw sobre a súa vida e a súa obra. Lembrades? Era este:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uib7oh1Sdog" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5sLT5qSVuWg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Despois de velo, pedinvos que fixésedes este cuestionario do portal Gciencia sobre a autora. Que aínda non o fixeches? E a que esperas?  [Canto sabes de Rosalía de Castro?](https://www.gciencia.com/historias-gc/canto-sabes-de-rosalia-de-castro/)
 
