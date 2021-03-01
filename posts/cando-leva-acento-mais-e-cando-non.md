@@ -18,7 +18,7 @@ Un truco moi eficaz para acertarmos á hora de acentuarmos esta palabra é lembr
 
 **1. Cando *mais* é unha conxunción adversativa.**
 
-> Ex.: Ten moitos méritos, *mais* non os suficientes para oposto.
+> Ex.: Ten moitos méritos, *mais* non os suficientes para o posto.
 
 Saberemos que se trata dunha conxunción adversativa, se a podemos substituír por *pero*.
 
