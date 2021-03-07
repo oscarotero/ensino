@@ -3,6 +3,7 @@ title: Irene González
 summary: A primeira futbolista nun equipo masculino
 tags:
   - post
+  - feminismo
 eleventyExcludeFromCollections: false
 ---
 <article> 
@@ -11,10 +12,10 @@ eleventyExcludeFromCollections: false
 
 ![](/static/img/irene_porteira_pioneira.jpg)
 
-*Mamá,
-futbolista quero ser,
-para xogar como Irene,
-que xoga moi ben.*
+*Mamá,  
+futbolista quero ser,  
+para xogar como Irene,  
+que xoga moi ben.*  
 
 Esta copla popular dá mostra do coñecida que foi Irene González na cidade da Coruña na década de 1920. Irene foi unha verdadeira pioneira do fútbol feminino. Nunca tal se vira, nin en Galicia nin en ningures: unha moza xogando ao fútbol entre homes!
 
