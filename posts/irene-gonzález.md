@@ -25,9 +25,9 @@ O equipo en que debutou foi o Orillamar e despois fundou o seu propio club, o Ir
 
 Malia os impedimentos por parte da familia (o seu pai arrastrouna fóra do campo en máis dunha ocasión), Irene foi tan popular que a xente acudía aos campos só para vela, coa súa viseira, o seu xersei branco, a súa saia-pantalón, as xeonlleiras, e exercendo de capitá, sen parar de dar enérxicas instrucións aos seus defensas.
 
-Mais a súa carreira truncouse no ano 1928, cando enfermou de tuberculose. Organizáronse partidos benéficos para tentar axudala economicamente, pois era moi humilde, pero foi insuficiente.
+Infelizmente a súa carreira truncouse no ano 1928, cando enfermou de tuberculose. Organizáronse partidos benéficos para tentar axudala economicamente, pois era moi humilde, mais foi insuficiente.
 
-Irene non puido gañarlle o partido á doenza, pero venceu os que consideraban que o fútbol non era cousa de mulleres.
+Irene non puido gañarlle o partido á doenza, mais venceu os que consideraban que o fútbol non era cousa de mulleres.
 
 Rodríguez, Anaír e Díaz, Nuria (2018): *Pioneiras galegas que abriron camiño.* Vigo: Edicións Xerais de Galicia. \[Texto con adaptacións]
 
