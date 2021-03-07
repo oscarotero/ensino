@@ -21,11 +21,11 @@ Esta copla popular dá mostra do coñecida que foi Irene González na cidade da 
 
 Irene González foi a primeira muller, que se coñeza, en xogar ao fútbol nun equipo masculino. Era alta, forte, rápida e decidida, e xogou como gardameta.
 
-O equipo en que debutou foi o Orillamar e despois fundou o seu propio club, o Irene C. F. Era tan boa baixo os paus que se fixo respectar polos demais xogadores, que a trataban como unha igual. Se cadra, parte da seguridade coa que atrapaba os balóns lla insuflaba o pequeno boneco de futbolista que colocaba no fondo da portaría como amuleto.
+O equipo en que debutou foi o Orillamar e despois fundou o seu propio club, o Irene C. F. Era tan boa baixo os paus que se fixo respectar polos demais xogadores, que a trataban como unha igual. Se cadra, parte da seguridade coa que impedía a entrada da bóla lla insuflaba o pequeno boneco de futbolista que colocaba no fondo da portaría como amuleto.
 
 Malia os impedimentos por parte da familia (o seu pai arrastrouna fóra do campo en máis dunha ocasión), Irene foi tan popular que a xente acudía aos campos só para vela, coa súa viseira, o seu xersei branco, a súa saia-pantalón, as xeonlleiras, e exercendo de capitá, sen parar de dar enérxicas instrucións aos seus defensas.
 
-Infelizmente a súa carreira truncouse no ano 1928, cando enfermou de tuberculose. Organizáronse partidos benéficos para tentar axudala economicamente, pois era moi humilde, mais foi insuficiente.
+Infelizmente a súa carreira malogrouse no ano 1928, cando enfermou de tuberculose. Organizáronse partidos benéficos para tentar axudala economicamente, pois era moi humilde, mais foi insuficiente.
 
 Irene non puido gañarlle o partido á doenza, mais venceu os que consideraban que o fútbol non era cousa de mulleres.
 
