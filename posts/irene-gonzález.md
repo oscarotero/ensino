@@ -29,6 +29,6 @@ Mais a súa carreira truncouse no ano 1928, cando enfermou de tuberculose. Organ
 
 Irene non puido gañarlle o partido á enfermidade, pero venceu aos que consideraban que o fútbol non era cousa de mulleres.
 
-Anaír Rodríguez, *Pioneiras galegas que abriron camiño*
+Rodríguez, Anaír e Díaz, Nuria (2018): *Pioneiras galegas que abriron camiño.* Vigo: Edicións Xerais de Galicia.
 
 </article>
