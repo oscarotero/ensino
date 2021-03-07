@@ -20,4 +20,4 @@ Un preconcepto ou un prexuízo é unha opinión que non é baseada en datos obxe
 1. Olla con atención o vídeo e vai anotando todos os preconceptos ou prexuízos que aparecen mencionados. Fai unha listaxe.
 2. Como soubeches identificar os preconceptos?
 3. As imaxes confirman ou negan as afirmacións que fai o locutor? Cal pode ser o motivo de que aconteza isto?
-4. **Responde em campo** é un bo título para a campaña? Por que?
+4. Cres que **Responde em campo** é un bo título para a campaña? Por que?
