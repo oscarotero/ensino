@@ -12,9 +12,9 @@ eleventyExcludeFromCollections: false
 
 ![](/static/img/irene_porteira_pioneira.jpg)
 
-*Mamá,  
-futbolista quero ser,  
-para xogar como Irene,  
+*Mamá,\
+futbolista quero ser,\
+para xogar como Irene,\
 que xoga moi ben.*  
 
 Esta copla popular dá mostra do coñecida que foi Irene González na cidade da Coruña na década de 1920. Irene foi unha verdadeira pioneira do fútbol feminino. Nunca tal se vira, nin en Galicia nin en ningures: unha moza xogando ao fútbol entre homes!
@@ -27,8 +27,8 @@ Malia os impedimentos por parte da familia (o seu pai arrastrouna fóra do campo
 
 Mais a súa carreira truncouse no ano 1928, cando enfermou de tuberculose. Organizáronse partidos benéficos para tentar axudala economicamente, pois era moi humilde, pero foi insuficiente.
 
-Irene non puido gañarlle o partido á enfermidade, pero venceu aos que consideraban que o fútbol non era cousa de mulleres.
+Irene non puido gañarlle o partido á doenza, pero venceu os que consideraban que o fútbol non era cousa de mulleres.
 
-Rodríguez, Anaír e Díaz, Nuria (2018): *Pioneiras galegas que abriron camiño.* Vigo: Edicións Xerais de Galicia.
+Rodríguez, Anaír e Díaz, Nuria (2018): *Pioneiras galegas que abriron camiño.* Vigo: Edicións Xerais de Galicia. \[Texto con adaptacións]
 
 </article>
