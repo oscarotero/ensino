@@ -17,7 +17,7 @@ Por que se reivindica o Día Internacional da Muller? A resposta en (case) #Meno
 
 <!--StartFragment-->
 
-O 8 de marzo reivindícase a igualdade entre homes e mulleres. No seguinte vídeo recóllense as 12 accións, pequenas pero con gran impacto, que establece a Organización das Nacións Unidas para a consecución dunha igualdade real:
+O 8 de marzo reivindícase a igualdade entre homes e mulleres. No seguinte vídeo recóllense as 12 accións, pequenas pero con grande impacto, que estabelece a Organización das Nacións Unidas para a consecución dunha igualdade real:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8_QeAXgV5tA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
