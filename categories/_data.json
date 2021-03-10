@@ -1,5 +1,4 @@
 {
   "layout": "layouts/categories.njk",
-  "permalink": "categories/{{ title | slug }}/index.html",
   "tags": "category"
 }

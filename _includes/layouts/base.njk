@@ -9,15 +9,14 @@
   		{% set css %}
     		{% include "assets/css/inline.css" %}
   		{% endset %}
-  		<style>{{ css | cssmin | safe }}</style>
+  		<style>{{ css | safe }}</style>
   		{% set js %}
     		{% include "assets/js/inline.js" %}
   		{% endset %}
-  		<script>{{ js | jsmin | safe }}</script>
+  		<script>{{ js | safe }}</script>
 		<script type="module" src="/static/components/answer.js"></script>
 		<script type="module" src="/static/components/layout.js"></script>
 		<script type="module" src="/static/components/tag.js"></script>
-		<script type="module" src="/static/components/card.js"></script>
 		<script type="module" src="/static/components/validate.js"></script>
 	</head>
 
@@ -29,7 +28,7 @@
 		</header>
 
 		<main>
-			{{ layoutContent | safe }}
+			{{ content | safe }}
 		</main>
 	</body>
 </html>

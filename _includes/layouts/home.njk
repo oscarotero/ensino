@@ -2,14 +2,14 @@
 layout: layouts/base.njk
 ---
 
-{{ layoutContent | safe }}
+{{ content | safe }}
 
 <nav>
     <ul>
-        {% for cat in collections.category %}
+        {% for cat in search.pages("category") %}
         <li>
             <h3>
-                <a href="{{ cat.url | url }}">
+                <a href="{{ cat.data.url | url }}">
                     {{ cat.data.title }}
                 </a>
             </h3>

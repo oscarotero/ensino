@@ -5,17 +5,17 @@ layout: layouts/base.njk
 <header>
 <h1>{{ title }}</h1>
 
-{{ layoutContent | safe }}
+{{ content | safe }}
 </header>
 
-{% set postslist = collections[filter] %}
+{% set postslist = search.pages(filter) %}
 
 <nav>
 	<ul>
 	{% for post in postslist %}
 		<li>
 			<h3>
-				<a href="{{ post.url | url }}">
+				<a href="{{ post.data.url | url }}">
 					{% if post.data.title %}
 						{{ post.data.title }}
 					{% else %}
