@@ -84,6 +84,6 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
 ### Tarefa 3
 
-Sabías que hai un canción moi coñecida en que se brinca coas semellanzas fonéticas entre dúas palabras, unha con be e outra con uve. Podes escoitar a versión que fixo dela [Andrés do Barro](https://gl.wikipedia.org/wiki/Andr%C3%A9s_do_Barro) aquí: [Vou a Bueu](https://www.youtube.com/watch?v=TMRPK2Tjjzs). Máis recentemente puidemos ver en TikTok a [particular versión da canción](https://www.tiktok.com/@digochoeu/video/6932072589334564102?is_copy_url=1&is_from_webapp=v3) que realizaron Esther Estévez e mais as [Tanxugueiras](https://www.tiktok.com/@digochoeu/video/6932072589334564102?is_copy_url=1&is_from_webapp=v3)
+Sabías que hai un canción moi coñecida en que se brinca coas semellanzas fonéticas entre dúas palabras, unha con be e outra con uve. Podes escoitar a versión que fixo dela [Andrés do Barro](https://gl.wikipedia.org/wiki/Andr%C3%A9s_do_Barro) aquí: [Vou a Bueu](https://www.youtube.com/watch?v=TMRPK2Tjjzs). Máis recentemente, puidemos ver en TikTok a [particular versión da canción](https://www.tiktok.com/@digochoeu/video/6932072589334564102?is_copy_url=1&is_from_webapp=v3) que realizaron Esther Estévez e mais as [Tanxugueiras](https://www.tiktok.com/@digochoeu/video/6932072589334564102?is_copy_url=1&is_from_webapp=v3)
 
 En Bueu teñen moi claro como hai que ir alí, mais como irías ti. Sabes o que é un *bou* con *b?*
