@@ -65,12 +65,12 @@ Soletrea a palabra *aquí*
 
 Seis:
 
-- o ce hache
-- o erre dobre
-- o ele dobre
-- o ene dobre
-- o gue u
-- o que u
+- o ce hache > ch
+- o gue u > gu
+- o ele dobre > ll
+- o ene hache > nh
+- o que u > qu
+- o erre dobre > rr
 </div>
 </e-card>
 
@@ -115,4 +115,9 @@ Sete:
 - o u
 
 </div>
+</e-card>
+
+<e-card color="4">
+  <div>Cales son elementos que interveñen na comunicación humana?</div>
+  <div>Emisor, destinatario, mensaxe, código, canle, contexto e feedback </div>
 </e-card>

@@ -18,7 +18,7 @@ Un truco moi eficaz para acertarmos á hora de acentuarmos esta palabra é lembr
 
 **1. Cando *mais* é unha conxunción adversativa.**
 
-> Ex.: Ten moitos méritos, *mais* non os suficientes para oposto.
+> Ex.: Ten moitos méritos, *mais* non os suficientes para o posto.
 
 Saberemos que se trata dunha conxunción adversativa, se a podemos substituír por *pero*.
 
@@ -38,7 +38,7 @@ Saberemos que é unha conxunción copulativa, se a podemos substituír pola conx
 
 No resto dos casos, que son os máis 😉, temos que acentuar *máis*.
 
-Aínda que *máis* leva acento a maioría das veces, non acontece o mesmo con *[ademais](http://www.crtvg.es/informativos/non-escribas-ademais).* Como moi ben explica Esther Estévez no vídeo do #DígochoEu: ***ademais* nunca se acentúa**, porque é unha palabra aguda que acaba en ditongo decrecente.
+Aínda que *máis* leva acento a maioría das veces, non acontece o mesmo con *[ademais](https://www.youtube.com/watch?v=k0TG40BtW78).* Como moi ben explica Esther Estévez no vídeo do #DígochoEu: ***ademais* nunca se acentúa**, porque é unha palabra aguda que acaba en ditongo decrecente.
 
 - - -
 
