@@ -11,7 +11,7 @@ Por que o 8 de marzo é o Día da Muller?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5l6ewz3nTjc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Por que se reivindica o Día Internacional da Muller? A resposta en (case) #MenosDunMinuto[](https://twitter.com/hashtag/MenosDunMinuto?src=hashtag_click):
+O que se reivindica o Día Internacional da Muller? A resposta en (case) #MenosDunMinuto[](https://twitter.com/hashtag/MenosDunMinuto?src=hashtag_click):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I4bRTxMltaA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
