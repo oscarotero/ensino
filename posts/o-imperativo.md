@@ -41,7 +41,7 @@ No caso das formas para vostede ou vostede, temos que substituír a vogal temát
 * *com-e-r > com-a. Exs.: Coma vostede; coman vostedes*
 * *exix-i-r > exix-a. Exs.: Exixa vostede unha compensación; Exixan vostedes unha compensación*
 
-Decatátesche de que as formas positivas de imperativo para vostede e vostedes coinciden coas formas de 3º persoa (singular e plural) do presente de subxuntivo.
+Decatátesche de que as formas positivas de imperativo para vostede e vostedes coinciden coas formas de 3º persoa (singular e plural) do presente de subxuntivo?
 
 #### As formas negativas
 
@@ -59,6 +59,7 @@ Aínda que esta é a regra xeral, hai verbos que son irregulares (*pór, facer, 
 ## Exercicio 1
 
 Completa co verbo en imperativo as seguintes oracións:
+
 1. <e-answer>Comede</e-answer> (comer) todo o que tedes no prato.
 2. Non te oio, <e-answer>berra</e-answer> (berrar) máis.
 3. <e-answer>Entra</e-answer> (entrar), están agardando por ti.
@@ -68,9 +69,4 @@ Completa co verbo en imperativo as seguintes oracións:
 7. Rapaces, <e-answer>facede</e-answer> (facer) o que vos din e todo irá ben.
 8. O xantar xa está preparado, Óscar, <e-answer>pon</e-answer> (pór) a mesa, por favor.
 
-<e-validate>Corrixe as respostas</e-validate> 
-
-
-
-
-
+<e-validate>Corrixe as respostas</e-validate>
