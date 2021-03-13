@@ -16,6 +16,11 @@ eleventyExcludeFromCollections: false
 </e-card>
 
 <e-card color="3">
+  <div>Chuvia ou choiva</div>
+  <div>Auga que cae das nubes en forma de pingas.</div>
+</e-card>
+
+<e-card color="3">
   <div>Chuvascada</div>
   <div>Chuvia forte que dura pouco tempo.</div>
 </e-card>
