@@ -35,12 +35,12 @@ eleventyExcludeFromCollections: false
   <div>Chuvia forte e abundante e corrente que se forma. Cando a auga cae a xerros, a cachón.</div>
 </e-card>
 
-<e-card color="6">
+<e-card color="7">
   <div>Saraiba</div>
   <div>Chuvia conxelada que cae en forma de grans máis ou menos grandes.</div>
 </e-card>
 
-<e-card color="7">
+<e-card color="8">
   <div>Xistra</div>
   <div>Chuvia ou neve acompañada de vento forte e xélido.</div>
 </e-card>
