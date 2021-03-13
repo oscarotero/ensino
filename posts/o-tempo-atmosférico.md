@@ -27,7 +27,7 @@ eleventyExcludeFromCollections: false
 
 <e-card color="5">
   <div>Arroiada</div>
-  <div>Chuvia forte e abundante e corrente que se forma. Úsase cando a auga cae a xerros, a cachón.</div>
+  <div>Chuvia forte e abundante e corrente que se forma. Cando a auga cae a xerros, a cachón.</div>
 </e-card>
 
 <e-card color="6">
