@@ -6,18 +6,18 @@ tags:
 eleventyExcludeFromCollections: false
 ---
 <e-card color="1">
+  <div>Chuvia ou choiva</div>
+  <div>Auga que cae das nubes en forma de pingas.</div>
+</e-card>
+
+<e-card color="2">
   <div>Orballo</div>
   <div>Chuvia miúda, esa chuvia que non molla mais que empapa.</div>
 </e-card>
 
-<e-card color="2">
+<e-card color="3">
   <div>Melura</div>
   <div>Chuvia moi fina que se desprende da néboa.</div>
-</e-card>
-
-<e-card color="3">
-  <div>Chuvia ou choiva</div>
-  <div>Auga que cae das nubes en forma de pingas.</div>
 </e-card>
 
 <e-card color="4">
