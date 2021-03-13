@@ -20,17 +20,17 @@ eleventyExcludeFromCollections: false
   <div>Auga que cae das nubes en forma de pingas.</div>
 </e-card>
 
-<e-card color="3">
+<e-card color="4">
   <div>Chuvascada</div>
   <div>Chuvia forte que dura pouco tempo.</div>
 </e-card>
 
-<e-card color="4">
+<e-card color="5">
   <div>Trebón</div>
   <div>Chuvia intensa e súbita que pode ir acompañada de vento e que adoita ter pouca duración.</div>
 </e-card>
 
-<e-card color="5">
+<e-card color="6">
   <div>Arroiada</div>
   <div>Chuvia forte e abundante e corrente que se forma. Cando a auga cae a xerros, a cachón.</div>
 </e-card>
