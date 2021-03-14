@@ -14,9 +14,15 @@ Trátase dun acento especial, que non responde a ningunha regra. Usámolo simple
 
 ## Recursos
 
-Na seguinte ligazón, podes repasar cales son as palabras que levan acento diacrítico na nosa lingua:
+Preme nesta ligazón para ver as palabras que si levan [acento diacrítico](https://laurarubio.net/posts/o-acento-diacritico/)
 
-Vídeo do #DígochoEu: [Quítalle o acento ao cu!](http://www.crtvg.es/informativos/quitalle-o-acento-ao-cu)
+E clica nas de abaixo para coñecer algúns monosílabos que nunca levan acento:[](https://www.youtube.com/watch?v=VtBV9-5gkVM)
+
+[Vídeo do #DígochoEu: Quítalle o acento ao cu!](https://www.youtube.com/watch?v=VtBV9-5gkVM)
+
+[Vídeo do #DígochoEu: Non digas que si a todo](https://www.youtube.com/watch?v=UzkerarcTXU)
+
+
 
 - - -
 
@@ -29,8 +35,18 @@ Os monosílabos das seguintes oracións levan acento, si ou non?
 3. Uso o mel para adozar o iogur.
 4. Nesta avaliación está a traballar moito mais, teño fe en que vai aprobar.
 5. Está san coma un buxo.
-6. A miña festa preferida e a de san Xoán.
-7. Imos ao cinema? Imos, si, quero ver o último filme de Steven Spielberg.
-8. Limpo o po unha vez por semana.
-9. Limpa o po dos móbeis so despois de limpar o do chan.
-10. ra
+6. Imos ao cinema? Imos, si, quero ver o último filme de Steven Spielberg.
+7. Limpo o po unha vez por semana.
+8. El non o sabe, non lle digas nada. 
+9. As notas musicais son dó, re, mi, fa, sol, la, si.
+10. Comprei un gorro de la para o inverno.
+11. As ras viven preto da auga.
+12. Os membros da seita crían que o fin do mundo sería en 2020.
+13. Parabéns! Fixeches un bo traballo.
+14. Nin fuma nin bebe alcohol, leva unha vida moi sa.
+15. Aquí tes un pa, ponte a cavar.
+16. Os fans da artista levan horas esperando por ela á porta do hotel.
+17. Esquecín o sal, por iso a sopa está eslamiada.
+18. A miña festa preferida é a de san Xoán.
+19. Mozart naceu cun don para a música.
+20. Só pode haber dous acompañantes por persoa no cuarto.
