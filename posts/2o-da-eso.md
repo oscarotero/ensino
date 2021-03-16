@@ -174,7 +174,7 @@ Ex.: Deixei ex professo este tema para o final</div>
 <div>Espírito ou ser fabuloso, da mitoloxía xermánica, con figura de anano, que habita no interior da Terra onde custodia as minas e os tesouros</div>
 </e-card>
 
-<e-card color="2">
+<e-card color="3">
 <div>A posteriori</div>
 <div>Con posterioridade</div>
 </e-card>
