@@ -49,10 +49,10 @@ Os monosílabos das seguintes oracións levan acento, si ou non?
 19. Mozart naceu cun don para a música.
 20. Só pode haber dous acompañantes por persoa no cuarto.
 21. Compra pan para o xantar.
-22. A semana arranca con sol e moita calor.
+22. Foi a unha praia nudista para poder tomar sol completamente nu.
 23. A miña cor preferida é o azul.
 24. Aquí tes unha pa, ponte a cavar.
-25. Foi a unha praia nudista para poder tomar sol completamente nu.
+25. Non me contestes neses ton.
 
 
 
