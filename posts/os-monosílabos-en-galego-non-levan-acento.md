@@ -22,8 +22,6 @@ E clica nas de abaixo para coñecer algúns monosílabos que nunca levan acento:
 
 [Vídeo do #DígochoEu: Non digas que si a todo](https://www.youtube.com/watch?v=UzkerarcTXU)
 
-
-
 - - -
 
 ## Exercicios
@@ -37,16 +35,21 @@ Os monosílabos das seguintes oracións levan acento, si ou non?
 5. Está san coma un buxo.
 6. Imos ao cinema? Imos, si, quero ver o último filme de Steven Spielberg.
 7. Limpo o po unha vez por semana.
-8. El non o sabe, non lle digas nada. 
+8. El non sabe ren, por favor, non llo contes. 
 9. As notas musicais son dó, re, mi, fa, sol, la, si.
 10. Comprei un gorro de la para o inverno.
 11. As ras viven preto da auga.
 12. Os membros da seita crían que o fin do mundo sería en 2020.
 13. Parabéns! Fixeches un bo traballo.
 14. Nin fuma nin bebe alcohol, leva unha vida moi sa.
-15. Aquí tes un pa, ponte a cavar.
+15. Aquí tes unha pa, ponte a cavar.
 16. Os fans da artista levan horas esperando por ela á porta do hotel.
 17. Esquecín o sal, por iso a sopa está eslamiada.
 18. A miña festa preferida é a de san Xoán.
 19. Mozart naceu cun don para a música.
 20. Só pode haber dous acompañantes por persoa no cuarto.
+21. A semana arranca con sol e moita calor.
+22. A miña cor preferida é o azul.
+23. Compra pan para o xantar.
+
+
