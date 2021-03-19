@@ -42,14 +42,17 @@ Os monosílabos das seguintes oracións levan acento, si ou non?
 12. Os membros da seita crían que o fin do mundo sería en 2020.
 13. Parabéns! Fixeches un bo traballo.
 14. Nin fuma nin bebe alcohol, leva unha vida moi sa.
-15. Aquí tes unha pa, ponte a cavar.
+15. O son das ondas do mar é moi relaxante.
 16. Os fans da artista levan horas esperando por ela á porta do hotel.
 17. Esquecín o sal, por iso a sopa está eslamiada.
 18. A miña festa preferida é a de san Xoán.
 19. Mozart naceu cun don para a música.
 20. Só pode haber dous acompañantes por persoa no cuarto.
-21. A semana arranca con sol e moita calor.
-22. A miña cor preferida é o azul.
-23. Compra pan para o xantar.
+21. Compra pan para o xantar.
+22. A semana arranca con sol e moita calor.
+23. A miña cor preferida é o azul.
+24. Aquí tes unha pa, ponte a cavar.
+25. Foi a unha praia nudista para poder tomar sol completamente nu.
+
 
 
