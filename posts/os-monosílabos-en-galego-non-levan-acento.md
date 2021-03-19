@@ -44,7 +44,7 @@ Os monosílabos das seguintes oracións levan acento, si ou non?
 14. Nin fuma nin bebe alcohol, leva unha vida moi sa.
 15. O son das ondas do mar é moi relaxante.
 16. Os fans da artista levan horas esperando por ela á porta do hotel.
-17. Esquecín o sal, por iso a sopa está eslamiada.
+17. A sopa está eslamiada, esqueciches o sal?
 18. A miña festa preferida é a de san Xoán.
 19. Mozart naceu cun don para a música.
 20. Só pode haber dous acompañantes por persoa no cuarto.
