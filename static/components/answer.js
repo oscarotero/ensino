@@ -5,7 +5,8 @@ class Answer extends HTMLElement {
         const shadow = this.attachShadow({mode: 'open'});
         shadow.innerHTML = `
             <style>
-                input {
+                input,
+                select {
                     margin: 0;
                     background: white;
                     font-family: inherit;
@@ -16,27 +17,30 @@ class Answer extends HTMLElement {
                     border: solid 1px #0003;
                     box-shadow: inset 0 1px 3px #0002;
                     border-radius: 5px;
+                    min-width: 3em;
                 }
+                select:focus,
                 input:focus {
                     box-shadow: var(--shadow);
                     position: relative;
                     z-index: 2;
                 }
+                select:hover,
                 input:hover {
                     border-color: #0006;
                 }
                 input::placeholder {
                     color: var(--gray);
                 }
-                input.is-right {
+                .is-right {
                     box-shadow: 0 0 0 1px var(--correct);
                     background: none;
                 }
-                input.is-wrong {
+                .is-wrong {
                     box-shadow: 0 0 0 3px var(--error), var(--shadow);
                     color: var(--error);
                 }
-                input.is-highlight {
+                .is-highlight {
                     background: rgba(255,255,0,0.5);
                 }
                 .answer {
@@ -53,14 +57,12 @@ class Answer extends HTMLElement {
                 }
             </style>
             <span class="answer">
-                <input type="text">
                 <span class="message"></span>
             </span>
         `;
 
-        this.input = shadow.querySelector('input');
-        this.input.size = this.getAttribute('size') || 8;
-        this.input.placeholder = this.getAttribute('placeholder') || '...';
+        this.input = createInput(this);
+        shadow.querySelector('.answer').prepend(this.input);
         this.message = shadow.querySelector('.message');
         this.input.addEventListener('focus', () => this.reset());
 
@@ -93,3 +95,28 @@ class Answer extends HTMLElement {
 }
 
 customElements.define('e-answer', Answer);
+
+function createInput(el) {
+    if (el.getAttribute("options")) {
+        const select = document.createElement("select");
+        const placeholder = document.createElement("option");
+        placeholder.value = "";
+        placeholder.label = el.getAttribute('placeholder') || '...';
+        select.appendChild(placeholder);
+
+        el.getAttribute("options").split(",").forEach((value) => {
+            const option = document.createElement("option");
+            option.label = value;
+            option.value = value;
+            select.appendChild(option);
+        })
+
+        return select;
+    }
+
+    const input = document.createElement("input");;
+    input.type = "text";
+    input.size = el.getAttribute('size') || 8;
+    input.placeholder = el.getAttribute('placeholder') || '...';
+    return input;
+}

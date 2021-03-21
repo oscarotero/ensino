@@ -3,7 +3,6 @@ title: 8 de marzo, Día da Muller
 tags:
   - post
   - feminismo
-eleventyExcludeFromCollections: false
 ---
 # Recursos
 

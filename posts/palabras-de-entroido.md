@@ -3,7 +3,6 @@ title: Palabras de Entroido
 tags:
   - post
   - cartons
-eleventyExcludeFromCollections: false
 ---
 <e-card color="1">
   <div>De onde vén a palabra Entroido?</div>

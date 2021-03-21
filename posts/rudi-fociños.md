@@ -4,7 +4,6 @@ summary: ""
 tags:
   - post
   - recuperacion
-eleventyExcludeFromCollections: false
 ---
 <article>
 

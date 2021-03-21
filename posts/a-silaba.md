@@ -4,7 +4,6 @@ summary: ""
 tags:
   - post
   - semana-9
-eleventyExcludeFromCollections: false
 ---
 Denominamos sílaba a cada golpe de voz con que pronunciamos unha palabra.
 

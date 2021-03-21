@@ -5,7 +5,6 @@ summary: Hoxe imos profundar un pouco máis na figura de Rosalía de Castro.
 tags:
   - post
   - semana-5
-eleventyExcludeFromCollections: false
 ---
 Vimos un vídeo de Tik tak draw sobre a súa vida e a súa obra. Lembrades? Era este:
 

@@ -3,7 +3,6 @@ title: Violencia de xénero
 tags:
   - post
   - feminismo
-eleventyExcludeFromCollections: false
 ---
 #### Se me quixeses (vídeo, 2:22 min)
 

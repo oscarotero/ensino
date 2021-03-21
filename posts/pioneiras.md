@@ -3,7 +3,6 @@ title: Pioneiras
 tags:
   - post
   - feminismo
-eleventyExcludeFromCollections: false
 ---
 #### Mullerandum: a igualdade multiplica
 

@@ -4,7 +4,6 @@ summary: En que se parecen?
 tags:
   - post
   - semana-9
-eleventyExcludeFromCollections: false
 ---
 Se o pensas ben, a nosa lingua parécese moito a un deses xogos de construción aos que todos xogamos de pequenos. Lémbraste daqueles bloquiños de cores? Eu teño pasado horas deitada no chan a xuntar uns cos outros. 
 

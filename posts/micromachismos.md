@@ -3,7 +3,6 @@ title: Micromachismos
 tags:
   - post
   - feminismo
-eleventyExcludeFromCollections: false
 ---
 A Asociación Berenguela pola Igualdade presenta "Micromachismos. Machismo invisibilizado", un vídeo colaborativo e interxeracional feito coa participación de veciñas, asociacións e estabelecementos de Vedra co obxectivo de facer visíbel o machismo cotián, tan arraigado que chega a ser imperceptíbel.
 

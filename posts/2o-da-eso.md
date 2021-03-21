@@ -4,7 +4,6 @@ summary: Unidade 1
 tags:
   - post
   - cartons
-eleventyExcludeFromCollections: false
 ---
 <e-card color="1">
 <div>Crebas ou quebras</div>

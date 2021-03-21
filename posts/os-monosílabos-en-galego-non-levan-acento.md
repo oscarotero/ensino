@@ -4,7 +4,6 @@ summary: Ou si?
 tags:
   - post
   - semana-6
-eleventyExcludeFromCollections: false
 ---
 Non levan, non. Segundo as [Normas ortográficas e morfolóxicas do idioma galego](https://gl.wikipedia.org/wiki/Normas_ortogr%C3%A1ficas_e_morfol%C3%B3xicas_do_idioma_galego) (NOMIG, 2003) as palabras monosílabas non se acentúan en galego.
 
@@ -28,8 +27,8 @@ E clica nas de abaixo para coñecer algúns monosílabos que nunca levan acento:
 
 Os monosílabos das seguintes oracións levan acento, si ou non?
 
-1. Marcou un gol no último minuto do partido.
-2. Como o chan estaba húmido, escorregou e caeu de cu.
+1. Marcou un <e-answer options="gol,gól">gol</e-answer> no último minuto do partido.
+2. Como o chan estaba húmido, escorregou e caeu de <e-answer options="cu,cú">cu</e-answer>.
 3. Uso o mel para adozar o iogur.
 4. Nesta avaliación está a traballar moito mais, teño fe en que vai aprobar.
 5. Está san coma un buxo.
@@ -54,5 +53,5 @@ Os monosílabos das seguintes oracións levan acento, si ou non?
 24. Aquí tes unha pa, ponte a cavar.
 25. Non me contestes nese ton.
 
-
+<e-validate>Validar</e-validate>
 

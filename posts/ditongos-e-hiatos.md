@@ -3,7 +3,6 @@ title: Ditongos e hiatos
 tags:
   - post
   - semana-9
-eleventyExcludeFromCollections: false
 ---
 Como os recoñezo?
 

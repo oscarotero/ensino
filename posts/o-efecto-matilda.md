@@ -3,7 +3,6 @@ title: O efecto Matilda
 tags:
   - post
   - feminismo
-eleventyExcludeFromCollections: false
 ---
 Cousiñas de Muller é o título do vídeo realizado pola compañía de teatro A Panadaría para a Unidade de Igualdade da Universidade de Vigo, para conmemorar o Día Mundial da Muller e a Nena na Ciencia 2019. A peza alude ao chamado Efecto Matilda, un prexuízo que perdurou durante séculos na ciencia, e que expón como mulleres científicas notábeis reciben menos recoñecemento polo seu traballo do que recibiría un compañeiro home no exame obxectivo do seu desempeño.
 

@@ -4,7 +4,6 @@ summary: A primeira futbolista nun equipo masculino
 tags:
   - post
   - feminismo
-eleventyExcludeFromCollections: false
 ---
 <article> 
 

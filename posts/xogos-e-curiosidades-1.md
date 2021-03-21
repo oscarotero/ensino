@@ -4,7 +4,6 @@ summary: Cousiñas para pasarmos mellor este tempo na casa.
 tags:
   - post
   - semana-5
-eleventyExcludeFromCollections: false
 ---
 [Proxecta](https://proxecta.netlify.com/)
 

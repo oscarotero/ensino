@@ -3,7 +3,6 @@ title: Chove no mollado
 tags:
   - post
   - cartons
-eleventyExcludeFromCollections: false
 ---
 <e-card color="1">
   <div>Chuvia ou choiva</div>

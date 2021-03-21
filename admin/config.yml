@@ -30,7 +30,7 @@ collections:
         default: ["post"]
 
       - label: "Ocultar"
-        name: "eleventyExcludeFromCollections"
+        name: "draft"
         widget: "boolean"
         default: false
         required: false

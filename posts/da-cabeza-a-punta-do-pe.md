@@ -4,7 +4,6 @@ summary: Todos os nomes das distintas partes do corpo humano.
 tags:
   - post
   - semana-8
-eleventyExcludeFromCollections: false
 ---
 [](http://aprofa.gal/2020/01/16/partes-do-corpo-4/)Deixo abaixo a ligazón a este marabilloso contido que descubrín no blog de Pilar Ponte, a profa, para traballares o léxico relacionado co corpo. Revisa primeiro o material gráfico que encontrarás no primeiro link e despois tenta facer os xogos do Portal das palabras:
 

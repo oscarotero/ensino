@@ -4,7 +4,6 @@ summary: ""
 tags:
   - post
   - semana-8
-eleventyExcludeFromCollections: false
 ---
 O imperativo é un dos tres modos verbais do verbo. Os outros dous son indicativo e o subxuntivo. 
 

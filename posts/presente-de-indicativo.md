@@ -4,7 +4,6 @@ summary: Adestramento para conxugarmos ben os verbos en presente de indicativo
 tags:
   - post
   - semana-5
-eleventyExcludeFromCollections: false
 ---
 ## Recursos
 

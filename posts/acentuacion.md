@@ -4,7 +4,6 @@ summary: null
 tags:
   - post
   - semana-11
-eleventyExcludeFromCollections: false
 ---
 Neste esquema sintetizamos as regras xerais de uso do acento gráfico.
 

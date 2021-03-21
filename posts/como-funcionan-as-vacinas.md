@@ -6,7 +6,6 @@ summary: "Para combater a desinformación que hai en Internet sobre as vacinas, 
 tags:
   - post
   - semana-11
-eleventyExcludeFromCollections: false
 ---
 
 <iframe src="https://player.vimeo.com/video/369814054" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

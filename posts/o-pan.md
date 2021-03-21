@@ -4,7 +4,6 @@ summary: Todas as palabras que necesitas para falares do pan
 tags:
   - post
   - semana-10
-eleventyExcludeFromCollections: false
 ---
 ## Exercicio 1
 

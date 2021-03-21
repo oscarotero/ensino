@@ -4,7 +4,6 @@ summary: Cando os acentuamos?
 tags:
   - post
   - semana-11
-eleventyExcludeFromCollections: false
 ---
 Cando temos as vogais I e U xuntas nunha palabra aplicamos as seguintes regras:
 

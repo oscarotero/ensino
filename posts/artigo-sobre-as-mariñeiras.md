@@ -3,7 +3,6 @@ title: Artigo sobre as mariñeiras
 tags:
   - post
   - semana-10
-eleventyExcludeFromCollections: false
 ---
 <article>
 
