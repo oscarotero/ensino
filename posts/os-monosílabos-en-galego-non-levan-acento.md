@@ -41,7 +41,7 @@ Os monosílabos das seguintes oracións levan acento, si ou non?
 12. Os membros da seita crían que o <e-answer options="fin,fín">fin</e-answer> do mundo sería en 2020.
 13. Parabéns! Fixeches un <e-answer options="bo,bó">bo</e-answer> traballo.
 14. Nin fuma nin bebe alcohol, leva unha vida moi <e-answer options="sa,sá">sa</e-answer>.
-15. O <e-answer options="son,són">son</e-answer> das ondas do mar é moi relaxante.
+15. O <e-answer options="son,són">son</e-answer> das ondas do <e-answer options="mar,már">mar</e-answer> é moi relaxante.
 16. Os <e-answer options="fans,fáns">fans</e-answer> da artista levan horas esperando por ela á porta do hotel.
 17. A sopa está eslamiada, esqueciches o <e-answer options="sal,sál">sal</e-answer>?
 18. A miña festa preferida é a de <e-answer options="san,sán">san</e-answer> Xoán.
