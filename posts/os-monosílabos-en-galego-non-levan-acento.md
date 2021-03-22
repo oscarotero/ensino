@@ -33,7 +33,7 @@ Os monosílabos das seguintes oracións levan acento, si ou non?
 4. Nesta avaliación está a traballar moito <e-answer options="mais,máis">máis</e-answer>, teño <e-answer options="fe,fé">fe</e-answer> en que vai aprobar.
 5. Está <e-answer options="san,sán">san</e-answer> coma un buxo.
 6. Imos ao cinema? Imos, <e-answer options="si,sí">si</e-answer>, quero ver o último filme de Steven Spielberg.
-7. Limpo o <e-answer options="po,pó">po</e-answer> unha vez por semana.
+7. Limpo o <e-answer options="po,pó">po</e-answer> unha vez <e-answer options="por,pór">por</e-answer> semana.
 8. El non sabe <e-answer options="ren,rén">ren</e-answer>, por favor, non llo contes. 
 9. As notas musicais son <e-answer options="do,dó">dó</e-answer>, <e-answer options="re,ré">re</e-answer>, <e-answer options="mi,mí">mi</e-answer>, <e-answer options="fa,fá">fa</e-answer>, <e-answer options="sol,sól">sol</e-answer>, <e-answer options="la,lá">la</e-answer>, <e-answer options="si,sí">si</e-answer>.
 10. Comprei un gorro de <e-answer options="la,lá">la</e-answer> para o inverno.
