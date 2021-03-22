@@ -35,7 +35,7 @@ Os monosílabos das seguintes oracións levan acento, si ou non?
 6. Imos ao cinema? Imos, <e-answer options="si,sí">si</e-answer>, quero ver o último filme de Steven Spielberg.
 7. Limpo o <e-answer options="po,pó">po</e-answer> unha vez por semana.
 8. El non sabe <e-answer options="ren,rén">ren</e-answer>, por favor, non llo contes. 
-9. As notas musicais son <e-answer options="do,dó">do</e-answer>, <e-answer options="re,ré">re</e-answer>, <e-answer options="mi,mí">mi</e-answer>, <e-answer options="fa,fá">fa</e-answer>, <e-answer options="sol,sól">sol</e-answer>, <e-answer options="la,lá">la</e-answer>, <e-answer options="si,sí">si</e-answer>.
+9. As notas musicais son <e-answer options="do,dó">dó</e-answer>, <e-answer options="re,ré">re</e-answer>, <e-answer options="mi,mí">mi</e-answer>, <e-answer options="fa,fá">fa</e-answer>, <e-answer options="sol,sól">sol</e-answer>, <e-answer options="la,lá">la</e-answer>, <e-answer options="si,sí">si</e-answer>.
 10. Comprei un gorro de <e-answer options="la,lá">la</e-answer> para o inverno.
 11. As <e-answer options="ras,rás">ras</e-answer> viven preto da auga.
 12. Os membros da seita crían que o <e-answer options="fin,fín">fin</e-answer> do mundo sería en 2020.
@@ -53,5 +53,5 @@ Os monosílabos das seguintes oracións levan acento, si ou non?
 24. Aquí tes unha <e-answer options="pa,pá">pa</e-answer>, ponte a cavar.
 25. Non me contestes nese <e-answer options="ton,tón">ton</e-answer>.
 
-<e-validate>Corrixe as respostas/e-validate>
+<e-validate>Corrixe as respostas</e-validate>
 
