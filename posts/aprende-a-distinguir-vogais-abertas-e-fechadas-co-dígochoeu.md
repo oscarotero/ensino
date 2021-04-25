@@ -48,4 +48,4 @@ En galego apenas imos ter que distinguir entre vogais medias abertas e fechadas 
 
   Exemplos con *\-eo: europeo, feo, cheo, mareo, xeo.* Agás ***ceo*** e ***evanxeo,*** que son con ***e* aberto**. 
 
-  *Fideo* pode ser aberto ou fechado. E atención á palabra *veo,* con *e* fechado, é a palabra que se usa na expresión “darlle ao veo”, con *e* aberto é o pano que levan as noivas na cabeza “Levaba un veo precioso”
+  *Fideo* pode ser aberto ou fechado. E atención á palabra *veo,* **con *e* fechado**, é a palabra que se usa na expresión **“darlle ao veo”**, con ***e* aberto** é o pano que levan as noivas na cabeza **“Levaba un veo precioso”**
