@@ -11,7 +11,21 @@ draft: false
 
 [Ligazón á lista de reprodución en Youtube](https://www.youtube.com/playlist?list=PLPJdEqiyl2dDQCP7S74R5yHZvI017RTQ_)
 
-En galego só imos ter que distinguir entre vogais medias abertas e fechadas en posición tónica e en posición pretónica. No resto de posicións, sempre imos ter vogais medias fechadas: e ou o.
+En galego só imos ter que distinguir entre vogais medias abertas e fechadas en posición tónica e en posición pretónica. No resto de posicións, sempre imos ter vogais medias fechadas: *e* ou *o.*
+
+## Vogais medias abertas en posición tónica
+
+* Teñen vogal media aberta as palabras que levan acento diacrítico. Exs.: *bóla, cómpre, dó, é, fóra, nó, nós, óso, pé, póla, présa, sé, só, vén, vés, vós*
+
+  A única excepción é o verbo ***pór*** (poñer) con *o* fechado.
+* Practicamente todas as palabras agudas rematadas en ***\-en*** son con ***e* aberto**. 
+
+  Exemplos: *alén, alguén, amén, ben, cadaquén, cen, quen, parabén, parabéns, refén, tren, sen* (=tempa ou vidalla).
+
+  Excepcións:** *sen*** (prep.), ***en*** (prep.), ***dolmen*** (ten *o* aberto e *e* fechado).
+* Teñen ***e* aberto** as palabras acabadas en ***\-ense,*** típicas dos xentilicios (*almeriense, estradense, estadounidense)* e tamén o topónimo *Ourense.* O *e* aberto de *Ourense* mantense tamén no xentilicio: *ourensán* e *ourensá.*
+
+  A única **excepción** é ***suspense*** que é con *e* fechado.
 
 ## Vogais medias fechadas en posición tónica
 
@@ -24,14 +38,3 @@ En galego só imos ter que distinguir entre vogais medias abertas e fechadas en 
   Son con ***o* pechado** as palabras acabadas en ***\-on*** e **\-*ons.*** Exs.: *recesión, papón, pantalóns, saltóns, non.*
 
   As únicas **excepcións** son ***con*** e ***don***
-
-## Vogais medias abertas en posición tónica
-
-* Practicamente todas as palabras agudas rematadas en ***\-en*** son con ***e* aberto**. 
-
-  Exemplos: *alén, alguén, amén, ben, cadaquén, cen, quen, parabén, parabéns, refén, tren, sen* (=tempa ou vidalla).
-
-  Excepcións:** *sen*** (prep.), ***en*** (prep.), ***dolmen*** (ten *o* aberto e *e* fechado).
-* Teñen ***e* aberto** as palabras acabadas en ***\-ense,*** típicas dos xentilicios (*almeriense, estradense, estadounidense)* e tamén o topónimo *Ourense.* O e aberto de *Ourense* mantense tamén no xentilicio: *ourensán* e *ourensá.*
-
-  A única **excepción** é ***suspense*** que é con *e* fechado.
