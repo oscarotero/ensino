@@ -20,7 +20,7 @@ En galego apenas imos ter que distinguir entre vogais medias abertas e fechadas 
   A única **excepción** é o verbo ***pór*** (poñer) con *o* fechado.
 * Practicamente todas as palabras agudas rematadas en ***\-en*** son con ***e* aberto**. 
 
-  Exemplos: *alén, alguén, amén, ben, cadaquén, cen, quen, parabén, parabéns, refén, tren, sen* (=tempa ou vidalla).
+  Exemplos: *alén, alguén, amén, ben, cadaquén, cen, quen, parabén, parabéns, refén, tren, sen* (= tempa ou vidalla).
 
   Excepcións: ***sen*** (prep.), ***en*** (prep.), ***dolmen*** (ten *o* aberto e *e* fechado).
 * Teñen ***e* aberto** as palabras acabadas en ***\-ense,*** típicas dos xentilicios (*almeriense, estradense, estadounidense)* e tamén o topónimo *Ourense.* O *e* aberto de *Ourense* mantense tamén no xentilicio: *ourensán* e *ourensá.*
