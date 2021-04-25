@@ -15,22 +15,23 @@ En galego só imos ter que distinguir entre vogais medias abertas e fechadas en 
 
 ## Vogais medias fechadas en posición tónica
 
-As palabras acabadas en **\-*eno, -ena, -eño*** e **\-*eña*** pronúncianse con ***e* pechado**. Exs.: *neno, pequeno, empeño, leña*
+* As palabras acabadas en **\-*eno, -ena, -eño*** e **\-*eña*** pronúncianse con ***e* pechado**. Exs.: *neno, pequeno, empeño, leña.*
+* As palabras acabadas en **\-*ono, -ona, -oño*** e ***\-oña*** pronúncianse con ***o* pechado.** Exs: *outono, bombona, mono, mona, zanfona, papona, moño, soño, vergoña.*
 
-As palabras acabadas en **\-*ono, -ona, -oño*** e ***\-oña*** pronúncianse con ***o* pechado.** Exs: *outono, bombona, mono, mona, zanfona, papona, moño, soño, vergoña*
+  **Excepción**: ***demoño*** é con ***o* aberto** igual que ***demo*** é con ***e* aberto**.
+* Teñen *o* pechado tamén todas as palabras acabadas en ***\-onza*** e ***\-onzo***. Ex.: *vergonza.*
 
-**Excepción**: ***demoño*** é con ***o* aberto** igual que ***demo*** é con ***e* aberto**.
+  Son con ***o* pechado** as palabras acabadas en ***\-on*** e **\-*ons.*** Exs.: *recesión, papón, pantalóns, saltóns, non.*
 
-Teñen *o* pechado tamén todas as palabras acabadas en ***\-onza*** e ***\-onzo**.* Ex.: *vergonza*
-
-Son con ***o* pechado** as palabras acabadas en ***\-on*** e **\-*ons.*** Exs.: *recesión, papón, pantalóns, saltóns, non*
-
-As únicas **excepcións** son ***con*** e ***don***
+  As únicas **excepcións** son ***con*** e ***don***
 
 ## Vogais medias abertas en posición tónica
 
-Practicamente todas as palabras agudas rematadas en ***\-en*** son con ***e* aberto**.
+* Practicamente todas as palabras agudas rematadas en ***\-en*** son con ***e* aberto**. 
 
-Exemplos: *alén, alguén, amén, ben, cadaquén, cen, quen, parabén, parabéns, refén, tren, sen* (=tempa ou vidalla)
+  Exemplos: *alén, alguén, amén, ben, cadaquén, cen, quen, parabén, parabéns, refén, tren, sen* (=tempa ou vidalla).
 
-Excepcións:** *sen*** (prep.), ***en*** (prep.), ***dolmen*** (ten *o* aberto e *e* fechado)
+  Excepcións:** *sen*** (prep.), ***en*** (prep.), ***dolmen*** (ten *o* aberto e *e* fechado).
+* Teñen ***e* aberto** as palabras acabadas en ***\-ense,*** típicas dos xentilicios (*almeriense, estradense, estadounidense)* e tamén o topónimo *Ourense.* O e aberto de *Ourense* mantense tamén no xentilicio: *ourensán* e *ourensá.*
+
+  A única **excepción** é ***suspense*** que é con *e* fechado.
