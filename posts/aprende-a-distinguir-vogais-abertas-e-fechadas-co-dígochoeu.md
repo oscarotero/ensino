@@ -38,3 +38,14 @@ En galego apenas imos ter que distinguir entre vogais medias abertas e fechadas 
   Son con ***o* pechado** as palabras acabadas en ***\-on*** e **\-*ons.*** Exs.: *recesión, papón, pantalóns, saltóns, non.*
 
   As únicas **excepcións** son ***con*** e ***don***
+* As palabras terminadas en ***\-ea*** e ***\-eo*** adoitan ser con ***e fechado***. 
+
+  Exemplos con *\-ea: aldea, batea, cea, chea, fea.* 
+
+  Todas menos dúas ***idea*** e ***cheminea***, que son ***e* aberto**. 
+
+  O *e* de *marea* e *diarrea* pode ser aberto ou fechado.
+
+  Exemplos con *\-eo: europeo, feo, cheo, mareo, xeo.* Agás ***ceo*** e ***evanxeo,*** que son con ***e* aberto**. 
+
+  *Fideo* pode ser aberto ou fechado. E atención á palabra *veo,* con *e* fechado, é a palabra que se usa na expresión “darlle ao veo”, con *e* aberto é o pano que levan as noivas na cabeza “Levaba un veo precioso”
