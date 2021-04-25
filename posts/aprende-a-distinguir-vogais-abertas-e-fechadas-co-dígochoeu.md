@@ -17,7 +17,7 @@ En galego apenas imos ter que distinguir entre vogais medias abertas e fechadas 
 
 * Teñen vogal media aberta as palabras que levan acento diacrítico. Exs.: *bóla, cómpre, dó, é, fóra, nó, nós, óso, pé, póla, présa, sé, só, vén, vés, vós*
 
-  A única excepción é o verbo ***pór*** (poñer) con *o* fechado.
+  A única **excepción** é o verbo ***pór*** (poñer) con *o* fechado.
 * Practicamente todas as palabras agudas rematadas en ***\-en*** son con ***e* aberto**. 
 
   Exemplos: *alén, alguén, amén, ben, cadaquén, cen, quen, parabén, parabéns, refén, tren, sen* (=tempa ou vidalla).
