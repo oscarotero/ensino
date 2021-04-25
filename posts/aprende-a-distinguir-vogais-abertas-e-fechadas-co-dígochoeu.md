@@ -22,7 +22,7 @@ En galego apenas imos ter que distinguir entre vogais medias abertas e fechadas 
 
   Exemplos: *alén, alguén, amén, ben, cadaquén, cen, quen, parabén, parabéns, refén, tren, sen* (=tempa ou vidalla).
 
-  Excepcións:***sen*** (prep.), ***en*** (prep.), ***dolmen*** (ten *o* aberto e *e* fechado).
+  Excepcións: ***sen*** (prep.), ***en*** (prep.), ***dolmen*** (ten *o* aberto e *e* fechado).
 * Teñen ***e* aberto** as palabras acabadas en ***\-ense,*** típicas dos xentilicios (*almeriense, estradense, estadounidense)* e tamén o topónimo *Ourense.* O *e* aberto de *Ourense* mantense tamén no xentilicio: *ourensán* e *ourensá.*
 
   A única **excepción** é ***suspense*** que é con *e* fechado.
