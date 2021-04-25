@@ -3,7 +3,7 @@ title: "Aprende a distinguir vogais abertas e fechadas co #DígochoEu"
 tags:
   - post
   - fonéticagalega
-draft: true
+draft: false
 ---
 # Lista de reprodución con todos os episodios
 
