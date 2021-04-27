@@ -11,7 +11,7 @@ draft: false
 
 [Ligazón á lista de reprodución en Youtube](https://www.youtube.com/playlist?list=PLPJdEqiyl2dDQCP7S74R5yHZvI017RTQ_)
 
-En galego apenas imos ter que distinguir entre vogais medias abertas e fechadas en posición tónica e en posición pretónica. No resto de posicións a vogal media sempre vai ser fechada: *e* ou *o.*
+En galego apenas imos ter que distinguir entre vogais medias abertas e fechadas en posición tónica e en posición pretónica. No resto de posicións, se aparece unha vogal media, vai ser sempre fechada: *e* ou *o.*
 
 ## Vogais medias abertas en posición tónica
 
