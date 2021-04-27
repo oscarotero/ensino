@@ -78,7 +78,7 @@ En galego apenas imos ter que distinguir entre vogais medias abertas e fechadas 
 
   Exemplos con *\-ea: aldea, batea, cea, chea, fea.* 
 
-  Todas menos dúas ***idea*** e ***cheminea***, que son ***e* aberto**. 
+  Todas menos dúas: ***idea*** e ***cheminea***, que son con ***e* aberto**. 
 
   O *e* de *marea* e *diarrea* pode ser aberto ou fechado.
 
