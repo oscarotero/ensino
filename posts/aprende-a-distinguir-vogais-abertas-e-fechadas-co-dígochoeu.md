@@ -70,7 +70,7 @@ En galego apenas imos ter que distinguir entre vogais medias abertas e fechadas 
 
   *Don* pode ser aberto ou fechado en calquera dos significados. Iso si, *dona* é con *o* fechado
 * Todas as palabras terminadas en ***-onta*** e ***-onto*** son con ***o* fechado**: *remonta, pronta, conta, conto, pronto, reconto.*
-* E tamén se pronuncian con** *o* fechado** a inmensa maioría das terminadas en ***-onte:*** ponte, fonte, monte, rinoceronte, horizonte.*
+* E tamén se pronuncian con ***o fechado*** a inmensa maioría das terminadas en ***-onte:*** *ponte, fonte, monte, rinoceronte, horizonte.*
 
   Só hai unha excepción: teñen o aberto *onte, antonte* e *trasantonte.*
 * Os **adverbios** terminados **en** ***-mente*** son con ***e*** **fechado**. Cando se une un adxectivo co sufixo *\-mente* as dúas conservan a súa pronuncia: consci**e**ntem**e**nte (aberto o primeiro e fechado o segundo).
