@@ -23,10 +23,36 @@ En galego apenas imos ter que distinguir entre vogais medias abertas e fechadas 
 
   Exemplos: *alén, alguén, amén, ben, cadaquén, cen, quen, parabén, parabéns, refén, tren, sen* (= tempa ou vidalla).
 
-  Excepcións: ***sen*** (prep.), ***en*** (prep.), ***dolmen*** (ten *o* aberto e *e* fechado).
+  Excepcións: Teñen *e* fechado ***sen*** (prep.), ***en*** (prep.) e ***dolmen*** (ten *o* aberto e *e* fechado).
 * Teñen ***e* aberto** as palabras acabadas en ***\-ense,*** típicas dos xentilicios (*almeriense, estradense, estadounidense)* e tamén o topónimo *Ourense.* O *e* aberto de *Ourense* mantense tamén no xentilicio: *ourensán* e *ourensá.*
 
   A única **excepción** é ***suspense*** que é con *e* fechado.
+* Teñen ***e*** ***aberto*** ***quente***, e ***as que acaban en -iente***: *consciente, obediente, paciente, suficiente.*
+
+  No resto dos casos hai dúas pronuncias válidas: d**e**nte, x**e**nte, presid**e**nte, influ**e**nte, m**e**nte. Na zona occidental tenden a facelo fechado, e maioritariamente aberto no resto.
+* Nas palabras **graves terminadas en *\-ia, -io, -ie,*** o normal é que **o *e* ou o *o* da sílaba tónica** desas palabras sexa **aberto**.
+
+  Exemplos:
+
+  Teñen *e* aberto: *pandemia, anorexia, cemiterio, trienio, serio, seria, serie, intemperie, especie*
+
+  Teñen *o* aberto: *memoria, homofobia, polinomio, microscopio*
+
+  As **excepcións** máis curiosas a esta regras son:
+
+  *colexio, rexio, rexia...* que teñen *e* fechado, aínda que outras palabras terminadas en *\-exio* e *\-exia* admiten as dúas pronuncias: *privilexio, sacrilexio*
+
+  *Premio* e *femia* son con *e* fechado. *Comedia* é fechado, polo xeral, aínda que tamén se admite a pronuncia con *e* aberto. *Medio, media, multimedia* sempre con *e* fechado.
+
+  *Necio, necia, soberbio, soberbia* tamén son con *e* fechado, igual que *recio, recia* ou *aprecio. Codia* tamén é con *o* fechado
+* As **acabadas en *\-encia*** teñen a pronuncia máis común con ***e* aberto**, mais hai zonas en que o fan con *e* fechado
+
+  Exs.: *independencia, asistencia.*
+* As **acabadas en *\-iencia*** son sempre con ***e* aberto**: *ciencia, audiencia, paciencia.*
+
+
+
+
 
 ## Vogais medias fechadas en posición tónica
 
@@ -39,6 +65,15 @@ En galego apenas imos ter que distinguir entre vogais medias abertas e fechadas 
   Son con ***o* pechado** as palabras acabadas en ***\-on*** e **\-*ons.*** Exs.: *recesión, papón, pantalóns, saltóns, non.*
 
   As únicas **excepcións** son ***con*** e ***don***
+
+  *con:* “a preposición ten *o* pechado” mais *con* co significado de “pena” é con *o* aberto
+
+  *Don* pode ser aberto ou fechado en calquera dos significados. Iso si, *dona* é con *o* fechado
+* Todas as palabras terminadas en ***\-onta*** e** *\-onto*** son con ***o* fechado**: *remonta, pronta, conta, conto, pronto, reconto.*
+* E tamén se pronuncian con** *o* fechado** a inmensa maioría das terminadas en **\*-onte:** ponte, fonte, monte, rinoceronte, horizonte.*
+
+  Só hai unha excepción: teñen o aberto *onte, antonte* e *trasantonte.*
+* Os **adverbios** terminados **en *\-mente*** son con* **e*** **fechado**. Cando se une un adxectivo co sufixo *\-mente* as dúas conservan a súa pronuncia: consci**e**ntem**e**nte (aberto o primeiro e fechado o segundo).
 * As palabras terminadas en ***\-ea*** e ***\-eo*** adoitan ser con ***e fechado***. 
 
   Exemplos con *\-ea: aldea, batea, cea, chea, fea.* 
