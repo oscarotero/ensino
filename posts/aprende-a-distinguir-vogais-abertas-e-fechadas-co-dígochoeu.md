@@ -34,18 +34,18 @@ En galego apenas imos ter que distinguir entre vogais medias abertas e fechadas 
 
   Exemplos:
 
-  Teñen *e* aberto: *pandemia, anorexia, cemiterio, trienio, serio, seria, serie, intemperie, especie*
+  Teñen *e* aberto: *pandemia, anorexia, cemiterio, trienio, serio, seria, serie, intemperie, especie.*
 
-  Teñen *o* aberto: *memoria, homofobia, polinomio, microscopio*
+  Teñen *o* aberto: *memoria, homofobia, polinomio, microscopio.*
 
   As **excepcións** máis curiosas a esta regras son:
 
-  *colexio, rexio, rexia...* que teñen *e* fechado, aínda que outras palabras terminadas en *\-exio* e *\-exia* admiten as dúas pronuncias: *privilexio, sacrilexio*
+  *colexio, rexio, rexia...* que teñen *e* fechado, aínda que outras palabras terminadas en *\-exio* e *\-exia* admiten as dúas pronuncias: *privilexio, sacrilexio.*
 
   *Premio* e *femia* son con *e* fechado. *Comedia* é fechado, polo xeral, aínda que tamén se admite a pronuncia con *e* aberto. *Medio, media, multimedia* sempre con *e* fechado.
 
-  *Necio, necia, soberbio, soberbia* tamén son con *e* fechado, igual que *recio, recia* ou *aprecio. Codia* tamén é con *o* fechado
-* As **acabadas en *\-encia*** teñen a pronuncia máis común con ***e* aberto**, mais hai zonas en que o fan con *e* fechado
+  *Necio, necia, soberbio, soberbia* tamén son con *e* fechado, igual que *recio, recia* ou *aprecio. Codia* tamén é con *o* fechado.
+* As **acabadas en *\-encia*** teñen a pronuncia máis común con ***e* aberto**, mais hai zonas en que o fan con *e* fechado.
 
   Exs.: *independencia, asistencia.*
 * As **acabadas en *\-iencia*** son sempre con ***e* aberto**: *ciencia, audiencia, paciencia.*
