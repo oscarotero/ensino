@@ -69,11 +69,11 @@ En galego apenas imos ter que distinguir entre vogais medias abertas e fechadas 
   *con:* “a preposición ten *o* pechado” mais *con* co significado de “pena” é con *o* aberto
 
   *Don* pode ser aberto ou fechado en calquera dos significados. Iso si, *dona* é con *o* fechado
-* Todas as palabras terminadas en ***\-onta*** e** *\-onto*** son con ***o* fechado**: *remonta, pronta, conta, conto, pronto, reconto.*
-* E tamén se pronuncian con** *o* fechado** a inmensa maioría das terminadas en **\*-onte:** ponte, fonte, monte, rinoceronte, horizonte.*
+* Todas as palabras terminadas en ***-onta*** e ***-onto*** son con ***o* fechado**: *remonta, pronta, conta, conto, pronto, reconto.*
+* E tamén se pronuncian con** *o* fechado** a inmensa maioría das terminadas en ***-onte:*** ponte, fonte, monte, rinoceronte, horizonte.*
 
   Só hai unha excepción: teñen o aberto *onte, antonte* e *trasantonte.*
-* Os **adverbios** terminados **en *\-mente*** son con* **e*** **fechado**. Cando se une un adxectivo co sufixo *\-mente* as dúas conservan a súa pronuncia: consci**e**ntem**e**nte (aberto o primeiro e fechado o segundo).
+* Os **adverbios** terminados **en** ***-mente*** son con ***e*** **fechado**. Cando se une un adxectivo co sufixo *\-mente* as dúas conservan a súa pronuncia: consci**e**ntem**e**nte (aberto o primeiro e fechado o segundo).
 * As palabras terminadas en ***\-ea*** e ***\-eo*** adoitan ser con ***e fechado***. 
 
   Exemplos con *\-ea: aldea, batea, cea, chea, fea.* 
@@ -82,6 +82,6 @@ En galego apenas imos ter que distinguir entre vogais medias abertas e fechadas 
 
   O *e* de *marea* e *diarrea* pode ser aberto ou fechado.
 
-  Exemplos con *\-eo: europeo, feo, cheo, mareo, xeo.* Agás ***ceo*** e ***evanxeo,*** que son con ***e* aberto**. 
+  Exemplos con *-eo: europeo, feo, cheo, mareo, xeo.* Agás ***ceo*** e ***evanxeo,*** que son con ***e* aberto**. 
 
   *Fideo* pode ser aberto ou fechado. E atención á palabra *veo:* **con *e* fechado** é a palabra que se usa na expresión **“darlle ao veo”**, con ***e* aberto** é o pano que levan as noivas na cabeza **“Levaba un veo precioso”.**
