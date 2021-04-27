@@ -15,7 +15,7 @@ En galego apenas imos ter que distinguir entre vogais medias abertas e fechadas 
 
 ## Vogais medias abertas en posición tónica
 
-* Polo xeral, cando a vogal media procede dun Ĕ ou dun Ŏ latino, temos en galego unha vogal media aberta e en castelán un ditongo: *certo, dez, deserto, destra, fel, ferro, festa, herba, hedra, inverno, lebre, mel, neto, neve, néboa, pel, pedra, sempre, sete, servo, terra, corno, logo, morte, nove, porco, proba, rogo, roda, escola, sogra, sorte.*
+* Cando a vogal media procede dun Ĕ ou dun Ŏ latino, polo xeral temos en galego unha vogal media aberta e en castelán un ditongo: *certo, dez, deserto, destra, fel, ferro, festa, herba, hedra, inverno, lebre, mel, neto, neve, néboa, pel, pedra, sempre, sete, servo, terra, corno, logo, morte, nove, porco, proba, rogo, roda, escola, sogra, sorte.*
 * Teñen vogal media aberta as palabras que levan acento diacrítico. Exs.: *bóla, cómpre, dó, é, fóra, nó, nós, óso, pé, póla, présa, sé, só, vén, vés, vós.*
 
   A única **excepción** é o verbo ***pór*** (poñer) con *o* fechado.
