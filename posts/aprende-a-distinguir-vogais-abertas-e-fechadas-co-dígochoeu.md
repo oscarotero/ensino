@@ -29,7 +29,7 @@ En galego apenas imos ter que distinguir entre vogais medias abertas e fechadas 
   A única **excepción** é ***suspense*** que é con *e* fechado.
 * Teñen ***e*** ***aberto*** ***quente***, e ***as que acaban en -iente***: *consciente, obediente, paciente, suficiente.*
 
-  No resto dos casos hai dúas pronuncias válidas: d**e**nte, x**e**nte, presid**e**nte, influ**e**nte, m**e**nte. Na zona occidental tenden a facelo fechado, e maioritariamente aberto no resto.
+  No resto dos casos hai dúas pronuncias válidas: *d**e**nte, x**e**nte, presid**e**nte, influ**e**nte, m**e**nte.* Na zona occidental tenden a facelo fechado, e maioritariamente aberto no resto.
 * Nas palabras **graves terminadas en *\-ia, -io, -ie,*** o normal é que **o *e* ou o *o* da sílaba tónica** desas palabras sexa **aberto**.
 
   Exemplos:
