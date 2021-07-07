@@ -5,19 +5,20 @@ tags:
   - post
   - semana-6
 ---
+
 ## Recursos
 
 [Conxugador de verbos en galego](http://cotovia.org/proxecto/conxugador/index.html)
 
 [Dicionario da Real Academia Galega (RAG)](https://academia.gal/dicionario)
 
-- - -
+---
 
 ## Exercicios
 
 Pon as seguintes oracións en pasado.
 
-*Ex.: Cando vindes? > Cando viñestes?*
+_Ex.: Cando vindes? > Cando viñestes?_
 
 1. A roupa non me cabe no armario.
 2. Acordo cedo para ter tempo de almorzar.
@@ -25,7 +26,7 @@ Pon as seguintes oracións en pasado.
 4. Teñen un coche pintado dunha cor moi rechamante.
 5. Nós somos os que temos as ideas.
 6. Anxo ve todo o que pasa na rúa desde a xanela.
-7. Traemos lapis e papel para todos. 
+7. Traemos lapis e papel para todos.
 8. Ando moi ocupado e non teño tempo de nada.
 9. Todos os animais foxen do lume.
 10. Despois do xantar dorme a sesta.
@@ -43,7 +44,7 @@ Pon as seguintes oracións en pasado.
 4. **Tiveron** un coche pintado dunha cor moi rechamante.
 5. Nós **fomos** os que **tivemos** as ideas.
 6. Anxo **viu** todo o que **pasou** na rúa desde a xanela.
-7. **Trouxemos** lapis e papel para todos. 
+7. **Trouxemos** lapis e papel para todos.
 8. **Andei** moi ocupado e non **tiven** tempo de nada.
 9. Todos os animais **fuxiron** do lume.
 10. Despois do xantar **durmiu** a sesta.

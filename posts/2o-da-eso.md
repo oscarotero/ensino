@@ -5,6 +5,7 @@ tags:
   - post
   - cartons
 ---
+
 <e-card color="1">
 <div>Crebas ou quebras</div>
 <div>Restos de naufraxios ou cargas dos barcos que o mar arrastra até a costa</div>
@@ -14,8 +15,9 @@ tags:
 <div>Entullo</div>
 <div>
 
-1. Restos de pedras, terras etc., que arrastra unha corrente de auga. 
-2. Montón de fragmentos que resultan dunha demolición, dun derrubamento ou restos dunha construción.
+1. Restos de pedras, terras etc., que arrastra unha corrente de auga.
+2. Montón de fragmentos que resultan dunha demolición, dun derrubamento ou
+   restos dunha construción.
 
 </div>
 </e-card>
@@ -48,7 +50,7 @@ tags:
 <e-card color="8">
 <div>Cal é a función dun adverbio na oración?</div>
 <div>Complementar un verbo, un adxectivo ou outro adverbio</div>
-</e-card> 
+</e-card>
 
 <e-card color="9">
 <div>Que é unha lingua románica?</div>
@@ -63,22 +65,22 @@ tags:
 <e-card color="1">
 <div>Que linguas teñen o estatuto de linguas oficiais no Estado español?</div>
 <div>Cinco: castelán, galego, catalán, éuscaro, aranés</div>
-</e-card>  
+</e-card>
 
 <e-card color="2">
 <div>Cal é a diferenza entre unha oración e unha frase?</div>
 <div>As oracións teñen un verbo ou máis dun verbo en forma persoal e as frases non</div>
-</e-card>  
+</e-card>
 
 <e-card color="3">
 <div>Cales son as palabras invariábeis?</div>
 <div>Adverbios, preposicións, conxuncións e interxeccións</div>
-</e-card> 
+</e-card>
 
 <e-card color="4">
 <div>Que é un enunciado?</div>
 <div>Un texto delimitado por pausas con sentido completo</div>
-</e-card>  
+</e-card>
 
 <e-card color="5">
 <div>Que son os xéneros literarios?</div>
@@ -118,7 +120,7 @@ tags:
 <e-card color="2">
 <div>Adverbio</div>
 <div>Clase de palabra que indica circunstancias de lugar, modo, tempo ou cantidade, ou expresa afirmación, negación ou dúbida.</div>
-</e-card> 
+</e-card>
 
 <e-card color="3">
 <div>Trasgo ou trasno</div>

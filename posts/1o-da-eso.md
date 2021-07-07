@@ -6,7 +6,6 @@ tags:
   - cartons
 ---
 
-
 <e-card color="1">
   <div>Bogada</div>
   <div>Conxunto de roupas que se lava dunha vez</div>
@@ -47,13 +46,12 @@ tags:
 
 </div>
 
-
 </e-card>
 
 <e-card color="3">
   <div>
 
-Soletrea a palabra *aquí*
+Soletrea a palabra _aquí_
 
 </div>
   <div>O a, o que u, o i</div>
@@ -71,22 +69,23 @@ Seis:
 - o ene hache > nh
 - o que u > qu
 - o erre dobre > rr
+
 </div>
 </e-card>
 
 <e-card color="3">
   <div>
 
-Como se chama esta letra *q*?
+Como se chama esta letra _q_?
 
-  </div>
+</div>
   <div>Que</div>
 </e-card>
 
 <e-card color="3">
   <div>
 
-Como se chama esta letra *x*?
+Como se chama esta letra _x_?
 
 </div>
   <div>Xe</div>
@@ -95,7 +94,8 @@ Como se chama esta letra *x*?
 <e-card color="3">
   <div>
 
-Como se chama esta letra *j*?
+Como se chama esta letra _j_?
+
 </div>
   <div>Iota</div>
 </e-card>

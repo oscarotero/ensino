@@ -5,9 +5,11 @@ tags:
   - post
   - semana-10
 ---
+
 ## Exercicio 1
 
-Relaciona cada unha das seguintes palabras co número que aparece na imaxe. Escribe debaixo as túas respostas.
+Relaciona cada unha das seguintes palabras co número que aparece na imaxe.
+Escribe debaixo as túas respostas.
 
 <e-layout>
   <e-tag color=3>alvéolo</e-tag>
@@ -51,14 +53,14 @@ Relaciona cada unha das seguintes palabras co número que aparece na imaxe. Escr
 
 ## Exercicio 2
 
-Relaciona cada unha destas palabras do ámbito do pan cun sinónimo: 
+Relaciona cada unha destas palabras do ámbito do pan cun sinónimo:
 
 <e-layout>
-<e-tag color=4>fungalla</e-tag> 
-<e-tag color=4>codecha</e-tag> 
-<e-tag color=4>alvéolo</e-tag> 
-<e-tag color=4>bolo</e-tag> 
-<e-tag color=4>tafona</e-tag> 
+<e-tag color=4>fungalla</e-tag>
+<e-tag color=4>codecha</e-tag>
+<e-tag color=4>alvéolo</e-tag>
+<e-tag color=4>bolo</e-tag>
+<e-tag color=4>tafona</e-tag>
 <e-tag color=4>lévedo</e-tag>
 </e-layout>
 
@@ -78,57 +80,64 @@ buraco : <e-answer>alvéolo</e-answer>
 
 ## Exercicio 3
 
-Completa as seguintes oracións coas palabras que faltan: 
+Completa as seguintes oracións coas palabras que faltan:
 
 <e-layout>
 <e-tag color=2>fermento</e-tag>
 <e-tag color=2>broa</e-tag>
 <e-tag color=2>panceiros</e-tag>
 <e-tag color=2>cornecho</e-tag>
-<e-tag color=2>codia</e-tag> 
-<e-tag color=2>pan de forma</e-tag> 
-<e-tag color=2>encetar</e-tag> 
-<e-tag color=2>migallas</e-tag> 
-<e-tag color=2>torradas</e-tag> 
-<e-tag color=2>miolo</e-tag> 
-<e-tag color=2>reseso</e-tag> 
+<e-tag color=2>codia</e-tag>
+<e-tag color=2>pan de forma</e-tag>
+<e-tag color=2>encetar</e-tag>
+<e-tag color=2>migallas</e-tag>
+<e-tag color=2>torradas</e-tag>
+<e-tag color=2>miolo</e-tag>
+<e-tag color=2>reseso</e-tag>
 <e-tag color=2>rocho</e-tag>
 </e-layout>
 
-1. Ti que tes bos dentes, come a <e-answer>codia</e-answer> e déixame a min o <e-answer>miolo</e-answer>.
-2. Compra pan abondo que nesta casa somos todos moi <e-answer>panceiros</e-answer>.
+1. Ti que tes bos dentes, come a <e-answer>codia</e-answer> e déixame a min o
+   <e-answer>miolo</e-answer>.
+2. Compra pan abondo que nesta casa somos todos moi
+   <e-answer>panceiros</e-answer>.
 3. O pan <e-answer>reseso</e-answer> pódese aproveitar para facer un pudin.
 4. No verán almorzo <e-answer>torradas</e-answer> de pan con aceite e tomate.
 5. Comín o <e-answer>cornecho</e-answer> do bolo mentres esperaba pola comida.
-6. Para facermos pan, necesitamos 4 ingredientes: fariña, auga, <e-answer>fermento</e-answer> e sal.
-7. Sempre quere <e-answer>encetar</e-answer> el o molete para comer o <e-answer>rocho</e-answer>.
+6. Para facermos pan, necesitamos 4 ingredientes: fariña, auga,
+   <e-answer>fermento</e-answer> e sal.
+7. Sempre quere <e-answer>encetar</e-answer> el o molete para comer o
+   <e-answer>rocho</e-answer>.
 8. Está prohibido dar <e-answer>migallas</e-answer> de pan ás pombas.
-9. Non podemos cear un sándwich porque se acabou o <e-answer>pan de forma</e-answer>.
-10. As sardiñas asadas con <e-answer>broa</e-answer> son un prato típico da festa de San Xoán.
+9. Non podemos cear un sándwich porque se acabou o <e-answer>pan de
+   forma</e-answer>.
+10. As sardiñas asadas con <e-answer>broa</e-answer> son un prato típico da
+    festa de San Xoán.
 
 <e-validate>Corrixe as respostas</e-validate>
 
 ## Exercicio 4
 
-Na seguinte serie hai catro palabras intrusas que non usamos para falar de porcións de pan. Localízaas:
+Na seguinte serie hai catro palabras intrusas que non usamos para falar de
+porcións de pan. Localízaas:
 
 <e-layout>
-<e-tag color=7>rebanda</e-tag> 
-<e-tag color=7>codecha</e-tag> 
-<e-tag color=7>toro</e-tag> 
-<e-tag color=7>pedazo</e-tag> 
-<e-tag color=7>codelo</e-tag> 
-<e-tag color=7>cubo</e-tag> 
-<e-tag color=7>faragulla</e-tag> 
-<e-tag color=7>anaco</e-tag> 
-<e-tag color=7>dente</e-tag> 
-<e-tag color=7>rocho</e-tag> 
+<e-tag color=7>rebanda</e-tag>
+<e-tag color=7>codecha</e-tag>
+<e-tag color=7>toro</e-tag>
+<e-tag color=7>pedazo</e-tag>
+<e-tag color=7>codelo</e-tag>
+<e-tag color=7>cubo</e-tag>
+<e-tag color=7>faragulla</e-tag>
+<e-tag color=7>anaco</e-tag>
+<e-tag color=7>dente</e-tag>
+<e-tag color=7>rocho</e-tag>
 <e-tag color=7>filete</e-tag>
 </e-layout>
 
 Completa os espazos coas palabras intrusas:
 
-1. un <e-answer>filete</e-answer>  de porco
+1. un <e-answer>filete</e-answer> de porco
 2. un <e-answer>cubo</e-answer> de xeo
 3. un <e-answer>toro</e-answer> de pescada
 4. un <e-answer>dente</e-answer> de allo

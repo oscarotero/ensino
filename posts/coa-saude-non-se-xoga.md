@@ -7,7 +7,9 @@ tags:
   - post
   - semana-6
 ---
-[Verdadeiro ou falso: Que me pasa, doutor?](https://portaldaspalabras.gal/xogo/que-me-pasa-doutor/)
+
+[Verdadeiro ou falso: Que me pasa,
+doutor?](https://portaldaspalabras.gal/xogo/que-me-pasa-doutor/)
 
 [Canto sabes?: Con boa saúde](https://portaldaspalabras.gal/xogo/con-boa-saude/)
 

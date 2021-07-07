@@ -5,55 +5,66 @@ tags:
   - post
   - semana-8
 ---
-O imperativo é un dos tres modos verbais do verbo. Os outros dous son indicativo e o subxuntivo. 
+
+O imperativo é un dos tres modos verbais do verbo. Os outros dous son indicativo
+e o subxuntivo.
 
 ## Usos do imperativo
 
 Usamos o imperativo cada vez que...
 
-* Damos instrucións: *Pica a cebola ben finiña.*
-* Aconsellamos ou facemos recomendacións: *Reclame os seus dereitos*
-* Damos ordes: *Ordena o teu cuarto agora!*
-* Prohibimos: *Non toquedes a comida do expositor*
+- Damos instrucións: _Pica a cebola ben finiña._
+- Aconsellamos ou facemos recomendacións: _Reclame os seus dereitos_
+- Damos ordes: _Ordena o teu cuarto agora!_
+- Prohibimos: _Non toquedes a comida do expositor_
 
 ### Cales son as súas formas?
 
 #### As formas positivas
 
-O imperativo afirmativo en galego ten **catro formas**: ti e vós (informal); vostede e vostedes (formal)
+O imperativo afirmativo en galego ten **catro formas**: ti e vós (informal);
+vostede e vostedes (formal)
 
-* 2ª persoa de singular: *Ti, **anda***
-* 2ª persoa de plural: *Vós, **andade***
-* 2ª persoa de singular de respecto: *Vostede, **veña** comigo, por favor*
-* 2ª persoa de plural de respecto: *Vostedes, **veñan** comigo, por favor* 
+- 2ª persoa de singular: _Ti, **anda**_
+- 2ª persoa de plural: _Vós, **andade**_
+- 2ª persoa de singular de respecto: _Vostede, **veña** comigo, por favor_
+- 2ª persoa de plural de respecto: _Vostedes, **veñan** comigo, por favor_
 
 ##### Como se forman?
 
-As formas para ti e para vós obtéñense eliminando o *\-s* final das formas do presente de indicativo: 
+As formas para ti e para vós obtéñense eliminando o _-s_ final das formas do
+presente de indicativo:
 
-* *Ti anda(s) > Anda ti*
-* *Vós andade(s) > Andade vós*
+- _Ti anda(s) > Anda ti_
+- _Vós andade(s) > Andade vós_
 
-No caso das formas para vostede ou vostede, temos que substituír a vogal temática do infinitivo por *e,* nos verbos da 1ª conxugación, e por *a,* nos verbos da 2ª e 3ª conxugación:
+No caso das formas para vostede ou vostede, temos que substituír a vogal
+temática do infinitivo por _e,_ nos verbos da 1ª conxugación, e por _a,_ nos
+verbos da 2ª e 3ª conxugación:
 
-* *and-a-r > and-e.  Exs.:  Ande vostede; anden vostedes*
-* *com-e-r > com-a. Exs.: Coma vostede; coman vostedes*
-* *exix-i-r > exix-a. Exs.: Exixa vostede unha compensación; Exixan vostedes unha compensación*
+- _and-a-r > and-e. Exs.: Ande vostede; anden vostedes_
+- _com-e-r > com-a. Exs.: Coma vostede; coman vostedes_
+- _exix-i-r > exix-a. Exs.: Exixa vostede unha compensación; Exixan vostedes
+  unha compensación_
 
-Decatátesche de que as formas positivas de imperativo para vostede e vostedes coinciden coas formas de 3º persoa (singular e plural) do presente de subxuntivo?
+Decatátesche de que as formas positivas de imperativo para vostede e vostedes
+coinciden coas formas de 3º persoa (singular e plural) do presente de
+subxuntivo?
 
 #### As formas negativas
 
-As formas negativas de imperativo son as mesmas que empregamos para o presente de subxuntivo:
+As formas negativas de imperativo son as mesmas que empregamos para o presente
+de subxuntivo:
 
-* *Non corras ti, non corrades vós*
-* *Non corra vostede; non corran vostedes*
+- _Non corras ti, non corrades vós_
+- _Non corra vostede; non corran vostedes_
 
-Aínda que esta é a regra xeral, hai verbos que son irregulares (*pór, facer, ser, estar* etc.).
+Aínda que esta é a regra xeral, hai verbos que son irregulares (_pór, facer,
+ser, estar_ etc.).
 
-* Exs.: *Pon ti, fai ti* 
+- Exs.: _Pon ti, fai ti_
 
-- - -
+---
 
 ## Exercicio 1
 
@@ -62,10 +73,11 @@ Completa co verbo en imperativo as seguintes oracións:
 1. <e-answer>Comede</e-answer> (comer) todo o que tedes no prato.
 2. Non te oio, <e-answer>berra</e-answer> (berrar) máis.
 3. <e-answer>Entra</e-answer> (entrar), están agardando por ti.
-4. <e-answer>Sé</e-answer> (ser) bo  e non me amoles!
+4. <e-answer>Sé</e-answer> (ser) bo e non me amoles!
 5. Se vas conducir, non <e-answer>bebas</e-answer> beber.
 6. <e-answer>Ven</e-answer> (vir) aquí, non te vou morder.
 7. Rapaces, <e-answer>facede</e-answer> (facer) o que vos din e todo irá ben.
-8. O xantar xa está preparado, Óscar, <e-answer>pon</e-answer> (pór) a mesa, por favor.
+8. O xantar xa está preparado, Óscar, <e-answer>pon</e-answer> (pór) a mesa, por
+   favor.
 
 <e-validate>Corrixe as respostas</e-validate>

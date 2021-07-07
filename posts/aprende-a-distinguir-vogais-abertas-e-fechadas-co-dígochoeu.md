@@ -5,83 +5,122 @@ tags:
   - fonéticagalega
 draft: false
 ---
+
 # Aprende a distinguir vogais abertas e fechadas co #DígochoEu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLPJdEqiyl2dDQCP7S74R5yHZvI017RTQ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Ligazón á lista de reprodución en Youtube](https://www.youtube.com/playlist?list=PLPJdEqiyl2dDQCP7S74R5yHZvI017RTQ_)
+[Ligazón á lista de reprodución en
+Youtube](https://www.youtube.com/playlist?list=PLPJdEqiyl2dDQCP7S74R5yHZvI017RTQ_)
 
-En galego apenas imos ter que distinguir entre vogais medias abertas (ε, ᴐ) e fechadas (e, o) en posición tónica e en posición pretónica. No resto de posicións, se aparece unha vogal media, o máis habitual é que sexa fechada.
+En galego apenas imos ter que distinguir entre vogais medias abertas (ε, ᴐ) e
+fechadas (e, o) en posición tónica e en posición pretónica. No resto de
+posicións, se aparece unha vogal media, o máis habitual é que sexa fechada.
 
 ## Vogais medias abertas en posición tónica
 
-* Cando a vogal media procede dun Ĕ ou dun Ŏ latino, polo xeral temos en galego unha vogal media aberta e en castelán, un ditongo: *certo, dez, deserto, destra, fel, ferro, festa, herba, hedra, inverno, lebre, mel, neto, neve, néboa, pel, pedra, sempre, sete, servo, terra, corno, logo, morte, nove, porco, proba, rogo, roda, escola, sogra, sorte.*
-* Teñen vogal media aberta as palabras que levan acento diacrítico. Exs.: *bóla, cómpre, dó, é, fóra, nó, nós, óso, pé, póla, présa, sé, só, vén, vés, vós.*
+- Cando a vogal media procede dun Ĕ ou dun Ŏ latino, polo xeral temos en galego
+  unha vogal media aberta e en castelán, un ditongo: _certo, dez, deserto,
+  destra, fel, ferro, festa, herba, hedra, inverno, lebre, mel, neto, neve,
+  néboa, pel, pedra, sempre, sete, servo, terra, corno, logo, morte, nove,
+  porco, proba, rogo, roda, escola, sogra, sorte._
+- Teñen vogal media aberta as palabras que levan acento diacrítico. Exs.: _bóla,
+  cómpre, dó, é, fóra, nó, nós, óso, pé, póla, présa, sé, só, vén, vés, vós._
 
-  A única **excepción** é o verbo ***pór*** (poñer) con *o* fechado.
-* Practicamente todas as palabras agudas rematadas en ***\-en*** son con ***e* aberto**. 
+  A única **excepción** é o verbo _**pór**_ (poñer) con _o_ fechado.
+- Practicamente todas as palabras agudas rematadas en _**-en**_ son con **_e_
+  aberto**.
 
-  Exemplos: *alén, alguén, amén, ben, cadaquén, cen, quen, parabén, parabéns, refén, tren, sen* (= tempa ou vidalla).
+  Exemplos: _alén, alguén, amén, ben, cadaquén, cen, quen, parabén, parabéns,
+  refén, tren, sen_ (= tempa ou vidalla).
 
-  Excepcións: Teñen *e* fechado ***sen*** (prep.), ***en*** (prep.) e ***dolmen*** (con *o* aberto e *e* fechado).
-* Teñen ***e* aberto** as palabras acabadas en ***\-ense,*** típicas dos xentilicios (*almeriense, estradense, estadounidense)* e tamén o topónimo *Ourense.* O *e* aberto de *Ourense* mantense tamén no xentilicio: *ourensán* e *ourensá.*
+  Excepcións: Teñen _e_ fechado _**sen**_ (prep.), _**en**_ (prep.) e
+  _**dolmen**_ (con _o_ aberto e _e_ fechado).
+- Teñen **_e_ aberto** as palabras acabadas en _**-ense,**_ típicas dos
+  xentilicios (_almeriense, estradense, estadounidense)_ e tamén o topónimo
+  _Ourense._ O _e_ aberto de _Ourense_ mantense tamén no xentilicio: _ourensán_
+  e _ourensá._
 
-  A única **excepción** é ***suspense*** que é con *e* fechado.
-* Teñen ***e*** **aberto** ***quente***, e **as que acaban en** ***-iente***: *consciente, obediente, paciente, suficiente.*
+  A única **excepción** é _**suspense**_ que é con _e_ fechado.
+- Teñen _**e**_ **aberto** _**quente**_, e **as que acaban en** _**-iente**_:
+  _consciente, obediente, paciente, suficiente._
 
-  No resto dos casos hai dúas pronuncias válidas: *d**e**nte, x**e**nte, presid**e**nte, influ**e**nte, m**e**nte.* Na zona occidental tenden a facelo fechado, e maioritariamente aberto no resto.
-* Nas palabras **graves terminadas en *\-ia, -io, -ie,*** o normal é que **o *e* ou o *o* da sílaba tónica** desas palabras sexa **aberto**.
+  No resto dos casos hai dúas pronuncias válidas: _d**e**nte, x**e**nte,
+  presid**e**nte, influ**e**nte, m**e**nte._ Na zona occidental tenden a facelo
+  fechado, e maioritariamente aberto no resto.
+- Nas palabras **graves terminadas en _-ia, -io, -ie,_** o normal é que **o _e_
+  ou o _o_ da sílaba tónica** desas palabras sexa **aberto**.
 
   Exemplos:
 
-  Teñen *e* aberto: *pandemia, anorexia, cemiterio, trienio, serio, seria, serie, intemperie, especie.*
+  Teñen _e_ aberto: _pandemia, anorexia, cemiterio, trienio, serio, seria,
+  serie, intemperie, especie._
 
-  Teñen *o* aberto: *memoria, homofobia, polinomio, microscopio.*
+  Teñen _o_ aberto: _memoria, homofobia, polinomio, microscopio._
 
   As **excepcións** máis curiosas a esta regras son:
 
-  *colexio, rexio, rexia...* que teñen *e* fechado, aínda que outras palabras terminadas en *\-exio* e *\-exia* admiten as dúas pronuncias: *privilexio, sacrilexio.*
+  _colexio, rexio, rexia..._ que teñen _e_ fechado, aínda que outras palabras
+  terminadas en _-exio_ e _-exia_ admiten as dúas pronuncias: _privilexio,
+  sacrilexio._
 
-  *Premio* e *femia* son con *e* fechado. *Comedia* é fechado, polo xeral, aínda que tamén se admite a pronuncia con *e* aberto. *Medio, media, multimedia* sempre con *e* fechado.
+  _Premio_ e _femia_ son con _e_ fechado. _Comedia_ é fechado, polo xeral, aínda
+  que tamén se admite a pronuncia con _e_ aberto. _Medio, media, multimedia_
+  sempre con _e_ fechado.
 
-  *Necio, necia, soberbio, soberbia* tamén son con *e* fechado, igual que *recio, recia* ou *aprecio. Codia* tamén é con *o* fechado.
-* As **acabadas en *\-encia*** teñen a pronuncia máis común con ***e* aberto**, mais hai zonas en que o fan con *e* fechado.
+  _Necio, necia, soberbio, soberbia_ tamén son con _e_ fechado, igual que
+  _recio, recia_ ou _aprecio. Codia_ tamén é con _o_ fechado.
+- As **acabadas en _-encia_** teñen a pronuncia máis común con **_e_ aberto**,
+  mais hai zonas en que o fan con _e_ fechado.
 
-  Exs.: *independencia, asistencia.*
-* As **acabadas en *\-iencia*** son sempre con ***e* aberto**: *ciencia, audiencia, paciencia.*
-
-
-
-
+  Exs.: _independencia, asistencia._
+- As **acabadas en _-iencia_** son sempre con **_e_ aberto**: _ciencia,
+  audiencia, paciencia._
 
 ## Vogais medias fechadas en posición tónica
 
-* As palabras acabadas en **\-*eno, -ena, -eño*** e **\-*eña*** pronúncianse con ***e* pechado**. Exs.: *neno, pequeno, empeño, leña.*
-* As palabras acabadas en **\-*ono, -ona, -oño*** e ***\-oña*** pronúncianse con ***o* pechado.** Exs: *outono, bombona, mono, mona, zanfona, papona, moño, soño, vergoña.*
+- As palabras acabadas en **-_eno, -ena, -eño_** e **-_eña_** pronúncianse con
+  **_e_ pechado**. Exs.: _neno, pequeno, empeño, leña._
+- As palabras acabadas en **-_ono, -ona, -oño_** e _**-oña**_ pronúncianse con
+  **_o_ pechado.** Exs: _outono, bombona, mono, mona, zanfona, papona, moño,
+  soño, vergoña._
 
-  **Excepción**: ***demoño*** é con ***o* aberto** igual que ***demo*** é con ***e* aberto**.
-* Teñen *o* pechado tamén todas as palabras acabadas en ***\-onza*** e ***\-onzo***. Ex.: *vergonza.*
+  **Excepción**: _**demoño**_ é con **_o_ aberto** igual que _**demo**_ é con
+  **_e_ aberto**.
+- Teñen _o_ pechado tamén todas as palabras acabadas en _**-onza**_ e
+  _**-onzo**_. Ex.: _vergonza._
 
-  Son con ***o* pechado** as palabras acabadas en ***\-on*** e **\-*ons.*** Exs.: *recesión, papón, pantalóns, saltóns, non.*
+  Son con **_o_ pechado** as palabras acabadas en _**-on**_ e **-_ons._** Exs.:
+  _recesión, papón, pantalóns, saltóns, non._
 
-  As únicas **excepcións** son ***con*** e ***don***
+  As únicas **excepcións** son _**con**_ e _**don**_
 
-  *con:* “a preposición ten *o* pechado” mais *con* co significado de “pena” é con *o* aberto
+  _con:_ “a preposición ten _o_ pechado” mais _con_ co significado de “pena” é
+  con _o_ aberto
 
-  *Don* pode ser aberto ou fechado en calquera dos significados. Iso si, *dona* é con *o* fechado
-* Todas as palabras terminadas en ***-onta*** e ***-onto*** son con ***o* fechado**: *remonta, pronta, conta, conto, pronto, reconto.*
-* E tamén se pronuncian con ***o fechado*** a inmensa maioría das terminadas en ***-onte:*** *ponte, fonte, monte, rinoceronte, horizonte.*
+  _Don_ pode ser aberto ou fechado en calquera dos significados. Iso si, _dona_
+  é con _o_ fechado
+- Todas as palabras terminadas en _**-onta**_ e _**-onto**_ son con **_o_
+  fechado**: _remonta, pronta, conta, conto, pronto, reconto._
+- E tamén se pronuncian con _**o fechado**_ a inmensa maioría das terminadas en
+  _**-onte:**_ _ponte, fonte, monte, rinoceronte, horizonte._
 
-  Só hai unha excepción: teñen o aberto *onte, antonte* e *trasantonte.*
-* Os **adverbios** terminados **en** ***-mente*** son con ***e*** **fechado**. Cando se une un adxectivo co sufixo *\-mente* as dúas conservan a súa pronuncia: consci**e**ntem**e**nte (aberto o primeiro e fechado o segundo).
-* As palabras terminadas en ***\-ea*** e ***\-eo*** adoitan ser con ***e fechado***. 
+  Só hai unha excepción: teñen o aberto _onte, antonte_ e _trasantonte._
+- Os **adverbios** terminados **en** _**-mente**_ son con _**e**_ **fechado**.
+  Cando se une un adxectivo co sufixo _-mente_ as dúas conservan a súa
+  pronuncia: consci**e**ntem**e**nte (aberto o primeiro e fechado o segundo).
+- As palabras terminadas en _**-ea**_ e _**-eo**_ adoitan ser con _**e
+  fechado**_.
 
-  Exemplos con *\-ea: aldea, batea, cea, chea, fea.* 
+  Exemplos con _-ea: aldea, batea, cea, chea, fea._
 
-  Todas menos dúas: ***idea*** e ***cheminea***, que son con ***e* aberto**. 
+  Todas menos dúas: _**idea**_ e _**cheminea**_, que son con **_e_ aberto**.
 
-  O *e* de *marea* e *diarrea* pode ser aberto ou fechado.
+  O _e_ de _marea_ e _diarrea_ pode ser aberto ou fechado.
 
-  Exemplos con *-eo: europeo, feo, cheo, mareo, xeo.* Agás ***ceo*** e ***evanxeo,*** que son con ***e* aberto**. 
+  Exemplos con _-eo: europeo, feo, cheo, mareo, xeo._ Agás _**ceo**_ e
+  _**evanxeo,**_ que son con **_e_ aberto**.
 
-  *Fideo* pode ser aberto ou fechado. E atención á palabra *veo:* **con *e* fechado** é a palabra que se usa na expresión **“darlle ao veo”**, con ***e* aberto** é o pano que levan as noivas na cabeza **“Levaba un veo precioso”.**
+  _Fideo_ pode ser aberto ou fechado. E atención á palabra _veo:_ **con _e_
+  fechado** é a palabra que se usa na expresión **“darlle ao veo”**, con **_e_
+  aberto** é o pano que levan as noivas na cabeza **“Levaba un veo precioso”.**

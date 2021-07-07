@@ -1,7 +1,8 @@
 ---
 title: Contacta comigo
-permalink: /contacto/
+url: /contacto/
 ---
+
 Se tes dúbidas, contacta comigo
 
 <form name="contact" method="POST" netlify>

@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-permalink: /
+url: /
 title: Benvida
 ---
 

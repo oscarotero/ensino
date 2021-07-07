@@ -19,7 +19,7 @@ const Post = createClass({
         </article>
       </main>
     `;
-  }
+  },
 });
 
 export default Post;

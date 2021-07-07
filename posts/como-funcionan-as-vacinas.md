@@ -10,12 +10,14 @@ tags:
 
 <iframe src="https://player.vimeo.com/video/369814054" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-____
+---
 
 ## Preguntas
 
-1. Por que cren Iria Veiga e Javier Balea que non se debe cuestionar o uso das vacinas?
+1. Por que cren Iria Veiga e Javier Balea que non se debe cuestionar o uso das
+   vacinas?
 
 2. Como axudan as vacinas ao noso corpo a protexerse dos microorganismos?
 
-3. Por que a vacinación é importante nón só para cada persoa individualmente, senón tamén para toda a poboación en xeral?
+3. Por que a vacinación é importante nón só para cada persoa individualmente,
+   senón tamén para toda a poboación en xeral?

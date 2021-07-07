@@ -4,13 +4,14 @@ Sitio con recursos de ensino de galego para secundaria
 
 ## Caracteres útiles
 
-→ 
+→
 
 ## Custom elements
 
 ### e-answer
 
-Para poñer respostas por parte dos alumnos que logo que van a validar. O contido sería a resposta correcta.
+Para poñer respostas por parte dos alumnos que logo que van a validar. O contido
+sería a resposta correcta.
 
 - size: Tamaño do campo
 - placeholder: Texto por defecto
@@ -26,7 +27,8 @@ Cal é a capital de Galicia?
 
 ### e-validate
 
-Crea un botón que valida todas as respostas introducidas con `<e-answer>`. Exemplo:
+Crea un botón que valida todas as respostas introducidas con `<e-answer>`.
+Exemplo:
 
 ```html
 <e-validate>Corrixe as respostas</e-validate>
@@ -36,7 +38,8 @@ Crea un botón que valida todas as respostas introducidas con `<e-answer>`. Exem
 
 Mostra un texto curto (palabra, número, letras) en tamaño grande.
 
-- color: Cor que se vai empregar. Hai 10 temas diferentes, cada un representado por un número do 1 ao 10
+- color: Cor que se vai empregar. Hai 10 temas diferentes, cada un representado
+  por un número do 1 ao 10
 - desc: Descripción curta que aparece debaixo do texto destacado
 
 Exemplo:

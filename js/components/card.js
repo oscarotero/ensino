@@ -1,22 +1,22 @@
 const themes = [
-  ['#fff', '#340e09'],
-  ['#a2a8f0', '#432452'],
-  ['#d11046', '#cffafa'],
-  ['#dbc173', '#3f5056'],
-  ['#cce69a', '#353224'],
-  ['#0c44dd', '#f7c843'],
-  ['#ba7e4c', '#020168'],
-  ['#751084', '#2ce1d7'],
-  ['#286a37', '#bdf6b0'],
-  ['#b1bac2', '#463507'],
-  ['#d5de62', '#9f1458'],
+  ["#fff", "#340e09"],
+  ["#a2a8f0", "#432452"],
+  ["#d11046", "#cffafa"],
+  ["#dbc173", "#3f5056"],
+  ["#cce69a", "#353224"],
+  ["#0c44dd", "#f7c843"],
+  ["#ba7e4c", "#020168"],
+  ["#751084", "#2ce1d7"],
+  ["#286a37", "#bdf6b0"],
+  ["#b1bac2", "#463507"],
+  ["#d5de62", "#9f1458"],
 ];
 class Card extends HTMLElement {
   constructor() {
-      super();
+    super();
 
-      const shadow = this.attachShadow({mode: 'open'});
-      shadow.innerHTML = `
+    const shadow = this.attachShadow({ mode: "open" });
+    shadow.innerHTML = `
           <style>
               .card {
                   perspective: 1500px;
@@ -76,16 +76,16 @@ class Card extends HTMLElement {
           </div>
       `;
 
-      const theme = themes[this.getAttribute('color') || 0];
-      const tag = shadow.querySelector('.card');
+    const theme = themes[this.getAttribute("color") || 0];
+    const tag = shadow.querySelector(".card");
 
-      tag.addEventListener("click", () => {
-        tag.classList.toggle("is-reversed")
-      })
+    tag.addEventListener("click", () => {
+      tag.classList.toggle("is-reversed");
+    });
 
-      tag.style.setProperty('--color', theme[1]);
-      tag.style.setProperty('--background', theme[0]);
+    tag.style.setProperty("--color", theme[1]);
+    tag.style.setProperty("--background", theme[0]);
   }
 }
 
-customElements.define('e-card', Card);
+customElements.define("e-card", Card);

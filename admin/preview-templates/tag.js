@@ -14,7 +14,7 @@ const Tag = createClass({
 
       </main>
     `;
-  }
+  },
 });
 
 export default Tag;

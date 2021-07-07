@@ -1,9 +1,9 @@
 class Answer extends HTMLElement {
-    constructor() {
-        super();
+  constructor() {
+    super();
 
-        const shadow = this.attachShadow({mode: 'open'});
-        shadow.innerHTML = `
+    const shadow = this.attachShadow({ mode: "open" });
+    shadow.innerHTML = `
             <style>
                 input,
                 select {
@@ -61,62 +61,62 @@ class Answer extends HTMLElement {
             </span>
         `;
 
-        this.input = createInput(this);
-        shadow.querySelector('.answer').prepend(this.input);
-        this.message = shadow.querySelector('.message');
-        this.input.addEventListener('focus', () => this.reset());
+    this.input = createInput(this);
+    shadow.querySelector(".answer").prepend(this.input);
+    this.message = shadow.querySelector(".message");
+    this.input.addEventListener("focus", () => this.reset());
 
-        if (this.hasAttribute('highlight')) {
-            this.input.classList.add('is-highlight');
-        }
+    if (this.hasAttribute("highlight")) {
+      this.input.classList.add("is-highlight");
+    }
+  }
+
+  validate() {
+    const solution = this.innerHTML;
+    const value = this.input.value;
+
+    if (value.toLowerCase() === solution.toLowerCase()) {
+      this.input.classList.add("is-right");
+      this.input.classList.remove("is-wrong");
+      this.message.innerHTML = "👍";
+      return true;
     }
 
-    validate() {
-        const solution = this.innerHTML;
-        const value = this.input.value;
+    this.input.classList.remove("is-right");
+    this.input.classList.add("is-wrong");
+    this.message.innerHTML = "👎";
+    return false;
+  }
 
-        if (value.toLowerCase() === solution.toLowerCase()) {
-            this.input.classList.add('is-right');
-            this.input.classList.remove('is-wrong');
-            this.message.innerHTML = '👍';
-            return true;
-        }
-
-        this.input.classList.remove('is-right');
-        this.input.classList.add('is-wrong');
-        this.message.innerHTML = '👎';
-        return false;
-    }
-
-    reset() {
-        this.input.classList.remove('is-right', 'is-wrong');
-        this.message.innerHTML = '';
-    }
+  reset() {
+    this.input.classList.remove("is-right", "is-wrong");
+    this.message.innerHTML = "";
+  }
 }
 
-customElements.define('e-answer', Answer);
+customElements.define("e-answer", Answer);
 
 function createInput(el) {
-    if (el.getAttribute("options")) {
-        const select = document.createElement("select");
-        const placeholder = document.createElement("option");
-        placeholder.value = "";
-        placeholder.label = el.getAttribute('placeholder') || '...';
-        select.appendChild(placeholder);
+  if (el.getAttribute("options")) {
+    const select = document.createElement("select");
+    const placeholder = document.createElement("option");
+    placeholder.value = "";
+    placeholder.label = el.getAttribute("placeholder") || "...";
+    select.appendChild(placeholder);
 
-        el.getAttribute("options").split(",").forEach((value) => {
-            const option = document.createElement("option");
-            option.label = value;
-            option.value = value;
-            select.appendChild(option);
-        })
+    el.getAttribute("options").split(",").forEach((value) => {
+      const option = document.createElement("option");
+      option.label = value;
+      option.value = value;
+      select.appendChild(option);
+    });
 
-        return select;
-    }
+    return select;
+  }
 
-    const input = document.createElement("input");;
-    input.type = "text";
-    input.size = el.getAttribute('size') || 8;
-    input.placeholder = el.getAttribute('placeholder') || '...';
-    return input;
+  const input = document.createElement("input");
+  input.type = "text";
+  input.size = el.getAttribute("size") || 8;
+  input.placeholder = el.getAttribute("placeholder") || "...";
+  return input;
 }

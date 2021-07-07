@@ -4,6 +4,7 @@ tags:
   - post
   - cartons
 ---
+
 <e-card color="1">
   <div>De onde vén a palabra Entroido?</div>
   <div>Procede do latín INTROITO “entrada na Coresma”</div>
@@ -12,7 +13,7 @@ tags:
 <e-card color="5">
   <div>O que é a Coresma?</div>
   <div>Período de corenta e seis días consagrado polos católicos e os ortodoxos á penitencia, que vai desde o mércores de Cinsa até o día da Pascua, ambos incluídos. </div>
-</e-card> 
+</e-card>
 
 <e-card color="7">
   <div>O que é o triángulo máxico do Entroido?</div>

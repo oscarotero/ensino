@@ -5,15 +5,16 @@ tags:
   - post
   - semana-11
 ---
+
 Cando temos as vogais I e U xuntas nunha palabra aplicamos as seguintes regras:
 
-1. Todo I e U tónicos levan acento gráfico sempre que van
-precedidos ou seguidos doutra vogal (fuxía, saúdo)
+1. Todo I e U tónicos levan acento gráfico sempre que van precedidos ou seguidos
+   doutra vogal (fuxía, saúdo)
 
-2. Cando temos IU ou UI leva acento a segunda vogal se é a
-tónica (xuíza, ruído)
+2. Cando temos IU ou UI leva acento a segunda vogal se é a tónica (xuíza, ruído)
 
-De acordo con isto, as seguintes palabras levarían acento. Xustifica a túa resposta:
+De acordo con isto, as seguintes palabras levarían acento. Xustifica a túa
+resposta:
 
 1. tua:
 2. sair:
@@ -25,6 +26,3 @@ De acordo con isto, as seguintes palabras levarían acento. Xustifica a túa res
 8. saude:
 9. viuvo:
 10. oir:
-
-
-
