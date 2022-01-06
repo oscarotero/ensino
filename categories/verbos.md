@@ -1,4 +1,4 @@
 ---
 title: Verbos em português
-filter: verbos
+filter: verbos em português
 ---
