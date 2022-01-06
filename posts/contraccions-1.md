@@ -70,7 +70,7 @@ Como moi ben explica Esther Estévez, os artigos que acompañan algúns destes n
 contraccións. De acordo con isto, cando van precedidos dunha preposición coa que
 contraen *(a, con, de, en* ou *por),* temos que facer a contracción igualmente: **vivo na Coruña, pasei polo Carballiño, vén da Estrada** etc.
 
-Ficou claro? Non? Pois aquí che deixo un segundo vídeo de Esther, neste caso para Tiktok, sobre as [contraccións cos topónimos](https://www.tiktok.com/@digochoeu/video/7049350513925672198?is_copy_url=1&is_from_webapp=v1), e non peques máis [](https://www.tiktok.com/@digochoeu/video/7049350513925672198?is_copy_url=1&is_from_webapp=v1) en galego!
+Ficou claro? Aínda non? Pois aquí che deixo unha segunda explicación de Esther, neste caso para un usuario de Tiktok, sobre as [contraccións cos topónimos](https://www.tiktok.com/@digochoeu/video/7049350513925672198?is_copy_url=1&is_from_webapp=v1). Olla o vídeo e non peques máis en galego!
 
 ### Exercicio 2
 
