@@ -2,7 +2,7 @@
 title: Presente de indicativo
 tags:
   - post
-  - verbosemportuguês
+  - verbosemportugues
 draft: false
 ---
 Conjuga no presente de indicativo os verbos:
