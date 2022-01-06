@@ -74,7 +74,7 @@ Ficou claro? Aínda non? Pois aquí che deixo unha segunda explicación de Esthe
 
 ### Exercicio 2
 
-Realiza a contracción cando sexa preciso:
+Realiza a contracción cando for preciso:
 
 1. Antón vai <e-answer>na</e-answer> (en) Guarda e non volve até a noite.
 2. Este ano quería ir á festa do queixo <e-answer>de</e-answer> (de) Arzúa.
