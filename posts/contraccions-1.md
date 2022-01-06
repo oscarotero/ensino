@@ -5,9 +5,8 @@ tags:
   - post
   - semana-7
 ---
-
-As formas do artigo determinado _(o, a, os, as)_ contraen coas preposicións _a,
-con, de, en_ e _por_ en galego.
+As formas do artigo determinado *(o, a, os, as)* contraen coas preposicións *a,
+con, de, en* e *por* en galego.
 
 | preposicións/artigos | o    | a    | os    | as    |
 | -------------------- | ---- | ---- | ----- | ----- |
@@ -70,8 +69,9 @@ Estrada), mentres que outros se usan sempre sen el (Negreira, Vigo, Lugo).
 Como moi ben explica Esther Estévez, os artigos que acompañan algúns destes
 nomes de lugar compórtanse coma o resto dos artigos no que se refire ás
 contraccións. De acordo con isto, cando van precedidos dunha preposición coa que
-contraen _(a, con, de, en_ ou _por),_ temos que facer a contracción igualmente:
-**vivo na Coruña, pasei polo Carballiño, vén da Estrada** etc.
+contraen *(a, con, de, en* ou *por),* temos que facer a contracción igualmente: **vivo na Coruña, pasei polo Carballiño, vén da Estrada** etc.
+
+Ficou claro? Non? Pois aquí che deixo un segundo vídeo, neste caso para Tiktok, de Esther sobre [as contraccións cos topónimos](https://www.tiktok.com/@digochoeu/video/7049350513925672198?is_copy_url=1&is_from_webapp=v1) 
 
 ### Exercicio 2
 
