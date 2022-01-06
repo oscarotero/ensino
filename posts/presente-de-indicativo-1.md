@@ -14,12 +14,16 @@ Conjuga no presente de indicativo os verbos:
 - Nós <e-answer>somos</e-answer>
 - Eles, elas, vocês <e-answer>são</e-answer>
 
+<e-validate>Confere as respostas</e-validate>
+
 ## Estar
 - Eu <e-answer>estou</e-answer>
 - Tu <e-answer>estás</e-answer>
 - Ele, ela, você <e-answer>está</e-answer>
 - Nós <e-answer>estamos</e-answer>
 - Eles, elas, vocês <e-answer>estão</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
 
 ## Ter
 - Eu <e-answer>tenho</e-answer>
@@ -28,12 +32,16 @@ Conjuga no presente de indicativo os verbos:
 - Nós <e-answer>temos</e-answer>
 - Eles, elas, vocês <e-answer>têm</e-answer>
 
+<e-validate>Confere as respostas</e-validate>
+
 ## Fazer
 - Eu <e-answer>faço</e-answer>
 - Tu <e-answer>fazes</e-answer>
 - Ele, ela, você <e-answer>faz</e-answer>
 - Nós <e-answer>fazemos</e-answer>
 - Eles, elas, vocês <e-answer>fazem</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
 
 ## Chamar-se
 - Eu <e-answer>chamo</e-answer>-<e-answer>me</e-answer>
@@ -42,12 +50,16 @@ Conjuga no presente de indicativo os verbos:
 - Nós <e-answer>chamamo</e-answer>-<e-answer>nos</e-answer>
 - Eles, elas, vocês <e-answer>chamam</e-answer>-<e-answer>se</e-answer>
 
+<e-validate>Confere as respostas</e-validate>
+
 ## Morar
 - Eu <e-answer>moro</e-answer>
 - Tu <e-answer>moras</e-answer>
 - Ele, ela, você <e-answer>mora</e-answer>
 - Nós <e-answer>moramos</e-answer>
 - Eles, elas, vocês <e-answer>moram</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
 
 ## Poder
 - Eu <e-answer>posso</e-answer>
@@ -56,12 +68,16 @@ Conjuga no presente de indicativo os verbos:
 - Nós <e-answer>podemos</e-answer>
 - Eles, elas, vocês <e-answer>podem</e-answer>
 
+<e-validate>Confere as respostas</e-validate>
+
 ## Ir
 - Eu <e-answer>vou</e-answer>
 - Tu <e-answer>vais</e-answer>
 - Ele, ela, você <e-answer>vai</e-answer>
 - Nós <e-answer>vamos</e-answer>
 - Eles, elas, vocês <e-answer>vão</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
 
 ## Dar
 - Eu <e-answer>dou</e-answer>
@@ -70,12 +86,16 @@ Conjuga no presente de indicativo os verbos:
 - Nós <e-answer>damos</e-answer>
 - Eles, elas, vocês <e-answer>dão</e-answer>
 
+<e-validate>Confere as respostas</e-validate>
+
 ## Trazer
 - Eu <e-answer>trago</e-answer>
 - Tu <e-answer>trazes</e-answer>
 - Ele, ela, você <e-answer>traz</e-answer>
 - Nós <e-answer>trazemos</e-answer>
 - Eles, elas, vocês <e-answer>trazem</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
 
 ## Começar
 - Eu <e-answer>começo</e-answer>
@@ -84,12 +104,16 @@ Conjuga no presente de indicativo os verbos:
 - Nós <e-answer>começamos</e-answer>
 - Eles, elas, vocês <e-answer>começam</e-answer>
 
+<e-validate>Confere as respostas</e-validate>
+
 ## Escrever
 - Eu <e-answer>escrevo</e-answer>
 - Tu <e-answer>escreves</e-answer>
 - Ele, ela, você <e-answer>escreve</e-answer>
 - Nós <e-answer>escrevemos</e-answer>
 - Eles, elas, vocês <e-answer>escrevem</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
 
 ## Ler
 - Eu <e-answer>leio</e-answer>
@@ -98,6 +122,8 @@ Conjuga no presente de indicativo os verbos:
 - Nós <e-answer>lemos</e-answer>
 - Eles, elas, vocês <e-answer>leem</e-answer>
 
+<e-validate>Confere as respostas</e-validate>
+
 ## Ver
 - Eu <e-answer>vejo</e-answer>
 - Tu <e-answer>vês</e-answer>
@@ -105,3 +131,4 @@ Conjuga no presente de indicativo os verbos:
 - Nós <e-answer>vemos</e-answer>
 - Eles, elas, vocês <e-answer>veem</e-answer>
 
+<e-validate>Confere as respostas</e-validate>
