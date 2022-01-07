@@ -79,6 +79,15 @@ Conjuga no pretérito perfeito os verbos:
 
 <e-validate>Confere as respostas</e-validate>
 
+## Vir
+- Eu <e-answer>vim</e-answer>
+- Tu <e-answer>vieste</e-answer>
+- Ele, ela, você <e-answer>veio</e-answer>
+- Nós <e-answer>viemos</e-answer>
+- Eles, elas, vocês <e-answer>vieram</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
+
 ## Dar
 - Eu <e-answer>dei</e-answer>
 - Tu <e-answer>deste</e-answer>
