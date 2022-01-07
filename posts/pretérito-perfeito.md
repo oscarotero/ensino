@@ -17,7 +17,7 @@ Conjuga no pretérito perfeito os verbos:
 <e-validate>Confere as respostas</e-validate>
 
 ## Estar
-- Eu <e-answer>estive/e-answer>
+- Eu <e-answer>estive</e-answer>
 - Tu <e-answer>estiveste</e-answer>
 - Ele, ela, você <e-answer>esteve</e-answer>
 - Nós <e-answer>estivemos</e-answer>
