@@ -91,7 +91,7 @@ Conjuga no pretérito perfeito os verbos:
 ## Trazer
 - Eu <e-answer>trouxe</e-answer>
 - Tu <e-answer>trouxeste</e-answer>
-- Ele, ela, você <e-answer>trouxo</e-answer>
+- Ele, ela, você <e-answer>trouxe</e-answer>
 - Nós <e-answer>trouxemos</e-answer>
 - Eles, elas, vocês <e-answer>trouxeram</e-answer>
 
