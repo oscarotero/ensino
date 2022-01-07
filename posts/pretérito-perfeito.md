@@ -62,7 +62,7 @@ Conjuga no pretérito perfeito os verbos:
 <e-validate>Confere as respostas</e-validate>
 
 ## Poder
-- Eu <e-answer>pude/e-answer>
+- Eu <e-answer>pude</e-answer>
 - Tu <e-answer>pudeste</e-answer>
 - Ele, ela, você <e-answer>pôde</e-answer>
 - Nós <e-answer>pudemos</e-answer>
