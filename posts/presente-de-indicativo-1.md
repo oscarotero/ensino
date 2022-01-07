@@ -79,6 +79,15 @@ Conjuga no presente de indicativo os verbos:
 
 <e-validate>Confere as respostas</e-validate>
 
+## Vir
+- Eu <e-answer>venho</e-answer>
+- Tu <e-answer>vens/e-answer>
+- Ele, ela, você <e-answer>vem</e-answer>
+- Nós <e-answer>vimos</e-answer>
+- Eles, elas, vocês <e-answer>vêm</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
+
 ## Dar
 - Eu <e-answer>dou</e-answer>
 - Tu <e-answer>dás</e-answer>
