@@ -1,8 +1,8 @@
 ---
-title: Presente de indicativo
+title: "Treino de verbos: presente de indicativo"
 tags:
   - post
-  - verbosemportugues
+  - portugues
 draft: false
 ---
 Conjuga no presente de indicativo os verbos:
