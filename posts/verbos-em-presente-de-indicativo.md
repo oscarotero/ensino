@@ -1,8 +1,8 @@
 ---
-title: Verbos em presente de indicativo
+title: "Cartões de estudo: presente de indicativo"
 tags:
   - post
-  - cartons
+  - verbosemportuguês
 draft: false
 ---
 <e-card color="1">
