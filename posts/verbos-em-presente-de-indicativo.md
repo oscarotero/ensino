@@ -26,7 +26,7 @@ draft: false
       <li>tu estás </li>
       <li>ele, ela, você está </li>
       <li>nós estamos </li>
-      <li>eles, elas, vocês est </li>
+      <li>eles, elas, vocês estão </li>
     </ul>
   </div>
 </e-card>
