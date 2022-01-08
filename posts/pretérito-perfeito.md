@@ -1,8 +1,8 @@
 ---
-title: Pretérito perfeito
+title: "Treino de verbos para 3º da ESO: pretérito perfeito de indicativo"
 tags:
   - post
-  - verbosemportugues
+  - portugues
 draft: false
 ---
 Conjuga no pretérito perfeito os verbos: 
