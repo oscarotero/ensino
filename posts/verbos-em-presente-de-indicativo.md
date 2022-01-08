@@ -2,7 +2,7 @@
 title: "Cartões de estudo: presente de indicativo"
 tags:
   - post
-  - verbosemportuguês
+  - portugues
 draft: false
 ---
 <e-card color="1">
