@@ -1,5 +1,5 @@
 ---
-title: "Cartões de estudo para 2º da ESO: pretérito perfeito de indicativo"
+title: "Cartões de estudo - 2º da ESO: pretérito perfeito de indicativo"
 tags:
   - post
   - portugues
