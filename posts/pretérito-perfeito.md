@@ -1,5 +1,5 @@
 ---
-title: "Treino de verbos para 3º da ESO: pretérito perfeito de indicativo"
+title: "Treino de verbos - 3º da ESO: pretérito perfeito de indicativo"
 tags:
   - post
   - portugues
