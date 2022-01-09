@@ -2,6 +2,7 @@
 title: "Cartões de estudo - 2º ESO: verbos"
 tags:
   - post
+  - portugues
 draft: false
 ---
 <e-card color="1">
