@@ -1,5 +1,5 @@
 ---
-title: "Cartões de estudo - 2º ESO: verbos"
+title: "Cartões de estudo - 2º ESO e 3º ESO: verbos"
 tags:
   - post
   - portugues
@@ -314,6 +314,58 @@ draft: false
       <li>ele, ela, você disse </li>
       <li>nós dissemos </li>
       <li>eles, elas, vocês disseram </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Presente de indicativo de morar</div>
+  <div>
+    <ul>
+      <li>eu moro </li>
+      <li>tu moras </li>
+      <li>ele, ela, você mora </li>
+      <li>nós moramos </li>
+      <li>eles, elas, vocês moram </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito de indicativo de morar</div>
+  <div>
+    <ul>
+      <li>eu morei </li>
+      <li>tu moraste </li>
+      <li>ele, ela, você morou </li>
+      <li>nós morámos </li>
+      <li>eles, elas, vocês moraram </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Presente de indicativo de poder</div>
+  <div>
+    <ul>
+      <li>eu posso </li>
+      <li>tu podes </li>
+      <li>ele, ela, você pode </li>
+      <li>nós podemos </li>
+      <li>eles, elas, vocês podem </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito de indicativo de poder</div>
+  <div>
+    <ul>
+      <li>eu pude </li>
+      <li>tu pudeste </li>
+      <li>ele, ela, você pôde </li>
+      <li>nós pudemos </li>
+      <li>eles, elas, vocês puderam </li>
     </ul>
   </div>
 </e-card>
