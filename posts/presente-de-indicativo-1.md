@@ -52,6 +52,24 @@ Conjuga no presente de indicativo os verbos:
 
 <e-validate>Confere as respostas</e-validate>
 
+## Praticar
+- Eu <e-answer>pratico</e-answer>
+- Tu <e-answer>praticas</e-answer>
+- Ele, ela, você <e-answer>pratica</e-answer>
+- Nós <e-answer>praticamos</e-answer>
+- Eles, elas, vocês <e-answer>praticam</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
+
+## Subir
+- Eu <e-answer>subo</e-answer>
+- Tu <e-answer>sobes</e-answer>
+- Ele, ela, você <e-answer>sobe</e-answer>
+- Nós <e-answer>subimos</e-answer>
+- Eles, elas, vocês <e-answer>sobem</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
+
 ## Morar
 - Eu <e-answer>moro</e-answer>
 - Tu <e-answer>moras</e-answer>
@@ -67,6 +85,33 @@ Conjuga no presente de indicativo os verbos:
 - Ele, ela, você <e-answer>pode</e-answer>
 - Nós <e-answer>podemos</e-answer>
 - Eles, elas, vocês <e-answer>podem</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
+
+## Pedir
+- Eu <e-answer>peço</e-answer>
+- Tu <e-answer>pedes</e-answer>
+- Ele, ela, você <e-answer>pede</e-answer>
+- Nós <e-answer>pedimos</e-answer>
+- Eles, elas, vocês <e-answer>pedem</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
+
+## Descer
+- Eu <e-answer>desço</e-answer>
+- Tu <e-answer>desces</e-answer>
+- Ele, ela, você <e-answer>desce</e-answer>
+- Nós <e-answer>descemos</e-answer>
+- Eles, elas, vocês <e-answer>descem</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
+
+## Medir
+- Eu <e-answer>meço</e-answer>
+- Tu <e-answer>medes</e-answer>
+- Ele, ela, você <e-answer>mede</e-answer>
+- Nós <e-answer>medimos</e-answer>
+- Eles, elas, vocês <e-answer>medem</e-answer>
 
 <e-validate>Confere as respostas</e-validate>
 
@@ -141,3 +186,13 @@ Conjuga no presente de indicativo os verbos:
 - Eles, elas, vocês <e-answer>veem</e-answer>
 
 <e-validate>Confere as respostas</e-validate>
+
+## Dizer
+- Eu <e-answer>digo</e-answer>
+- Tu <e-answer>dizes</e-answer>
+- Ele, ela, você <e-answer>diz</e-answer>
+- Nós <e-answer>dizemos</e-answer>
+- Eles, elas, vocês <e-answer>dizem</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
+
