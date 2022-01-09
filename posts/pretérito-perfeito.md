@@ -52,6 +52,24 @@ Conjuga no pretérito perfeito os verbos:
 
 <e-validate>Confere as respostas</e-validate>
 
+## Praticar
+- Eu <e-answer>pratiquei</e-answer>
+- Tu <e-answer>praticaste</e-answer>
+- Ele, ela, você <e-answer>praticou</e-answer>
+- Nós <e-answer>praticámos</e-answer>
+- Eles, elas, vocês <e-answer>praticaram</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
+
+## Subir
+- Eu <e-answer>subi</e-answer>
+- Tu <e-answer>subiste</e-answer>
+- Ele, ela, você <e-answer>subiu</e-answer>
+- Nós <e-answer>subimos</e-answer>
+- Eles, elas, vocês <e-answer>subiram</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
+
 ## Morar
 - Eu <e-answer>morei</e-answer>
 - Tu <e-answer>moraste</e-answer>
@@ -67,6 +85,33 @@ Conjuga no pretérito perfeito os verbos:
 - Ele, ela, você <e-answer>pôde</e-answer>
 - Nós <e-answer>pudemos</e-answer>
 - Eles, elas, vocês <e-answer>puderam</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
+
+## Pedir
+- Eu <e-answer>pedi</e-answer>
+- Tu <e-answer>pediste</e-answer>
+- Ele, ela, você <e-answer>pediu</e-answer>
+- Nós <e-answer>pedimos</e-answer>
+- Eles, elas, vocês <e-answer>pediram</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
+
+## Descer
+- Eu <e-answer>desci</e-answer>
+- Tu <e-answer>desceste</e-answer>
+- Ele, ela, você <e-answer>desceu</e-answer>
+- Nós <e-answer>descemos</e-answer>
+- Eles, elas, vocês <e-answer>desceram</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
+
+## Medir
+- Eu <e-answer>medi</e-answer>
+- Tu <e-answer>mediste</e-answer>
+- Ele, ela, você <e-answer>mediu</e-answer>
+- Nós <e-answer>medimos</e-answer>
+- Eles, elas, vocês <e-answer>mediram</e-answer>
 
 <e-validate>Confere as respostas</e-validate>
 
@@ -141,3 +186,13 @@ Conjuga no pretérito perfeito os verbos:
 - Eles, elas, vocês <e-answer>viram</e-answer>
 
 <e-validate>Confere as respostas</e-validate>
+
+## Dizer
+- Eu <e-answer>disse</e-answer>
+- Tu <e-answer>disseste</e-answer>
+- Ele, ela, você <e-answer>disse</e-answer>
+- Nós <e-answer>dissemos</e-answer>
+- Eles, elas, vocês <e-answer>disseram</e-answer>
+
+<e-validate>Confere as respostas</e-validate>
+
