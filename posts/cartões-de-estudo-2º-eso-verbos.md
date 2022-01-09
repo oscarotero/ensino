@@ -70,7 +70,7 @@ draft: false
   </div>
 </e-card>
 
-<e-card color="1">
+<e-card color="2">
   <div>Pretérito perfeito de indicativo de ter</div>
   <div>
     <ul>
