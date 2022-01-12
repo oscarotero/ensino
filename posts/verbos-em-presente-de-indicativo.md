@@ -227,6 +227,19 @@ draft: false
 </e-card>
 
 <e-card color="1">
+  <div>Presente de indicativo de dormir</div>
+  <div>
+    <ul>
+      <li>eu durmo </li>
+      <li>tu dormes </li>
+      <li>ele, ela, você dorme </li>
+      <li>nós dormimos </li>
+      <li>eles, elas, vocês dormem </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
   <div>Presente de indicativo de subir</div>
   <div>
     <ul>
@@ -235,19 +248,6 @@ draft: false
       <li>ele, ela, você sobe </li>
       <li>nós subimos </li>
       <li>eles, elas, vocês sobem </li>
-    </ul>
-  </div>
-</e-card>
-
-<e-card color="1">
-  <div>Presente de indicativo de fugir</div>
-  <div>
-    <ul>
-      <li>eu fujo </li>
-      <li>tu foges </li>
-      <li>ele, ela, você foge </li>
-      <li>nós fugimos </li>
-      <li>eles, elas, vocês fogem </li>
     </ul>
   </div>
 </e-card>
@@ -300,19 +300,6 @@ draft: false
       <li>ele, ela, você vem </li>
       <li>nós vimos </li>
       <li>eles, elas, vocês vêm </li>
-    </ul>
-  </div>
-</e-card>
-
-<e-card color="1">
-  <div>Presente de indicativo de pôr</div>
-  <div>
-    <ul>
-      <li>eu ponho </li>
-      <li>tu pões </li>
-      <li>ele, ela, você põe </li>
-      <li>nós pomos </li>
-      <li>eles, elas, vocês põem </li>
     </ul>
   </div>
 </e-card>
