@@ -186,3 +186,42 @@ draft: false
     </ul>
   </div>
 </e-card>
+
+<e-card color="1">
+  <div>Presente de indicativo de querer</div>
+  <div>
+    <ul>
+      <li>eu quero </li>
+      <li>tu queres </li>
+      <li>ele, ela, você quer </li>
+      <li>nós queremos </li>
+      <li>eles, elas, vocês querem </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Presente de indicativo de ouvir</div>
+  <div>
+    <ul>
+      <li>eu ouço </li>
+      <li>tu ouves </li>
+      <li>ele, ela, você ouve </li>
+      <li>nós ouvimos </li>
+      <li>eles, elas, vocês ouvem </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Presente de indicativo de pedir</div>
+  <div>
+    <ul>
+      <li>eu peço </li>
+      <li>tu pedes </li>
+      <li>ele, ela, você pede </li>
+      <li>nós pedimos </li>
+      <li>eles, elas, vocês pedem </li>
+    </ul>
+  </div>
+</e-card>
