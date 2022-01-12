@@ -225,3 +225,120 @@ draft: false
     </ul>
   </div>
 </e-card>
+
+<e-card color="1">
+  <div>Presente de indicativo de subir</div>
+  <div>
+    <ul>
+      <li>eu subo </li>
+      <li>tu sobes </li>
+      <li>ele, ela, você sobe </li>
+      <li>nós subimos </li>
+      <li>eles, elas, vocês sobem </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Presente de indicativo de fugir</div>
+  <div>
+    <ul>
+      <li>eu fujo </li>
+      <li>tu foges </li>
+      <li>ele, ela, você foge </li>
+      <li>nós fugimos </li>
+      <li>eles, elas, vocês fogem </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Presente de indicativo de fugir</div>
+  <div>
+    <ul>
+      <li>eu fujo </li>
+      <li>tu foges </li>
+      <li>ele, ela, você foge </li>
+      <li>nós fugimos </li>
+      <li>eles, elas, vocês fogem </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Presente de indicativo de rir</div>
+  <div>
+    <ul>
+      <li>eu rio </li>
+      <li>tu ris </li>
+      <li>ele, ela, você ri </li>
+      <li>nós rimos </li>
+      <li>eles, elas, vocês riem </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Presente de indicativo de ir</div>
+  <div>
+    <ul>
+      <li>eu vou </li>
+      <li>tu vais </li>
+      <li>ele, ela, você vai </li>
+      <li>nós vamos </li>
+      <li>eles, elas, vocês vão </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Presente de indicativo de vir</div>
+  <div>
+    <ul>
+      <li>eu venho </li>
+      <li>tu vens </li>
+      <li>ele, ela, você vem </li>
+      <li>nós vimos </li>
+      <li>eles, elas, vocês vêm </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Presente de indicativo de pôr</div>
+  <div>
+    <ul>
+      <li>eu ponho </li>
+      <li>tu pões </li>
+      <li>ele, ela, você põe </li>
+      <li>nós pomos </li>
+      <li>eles, elas, vocês põem </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Presente de indicativo de pôr</div>
+  <div>
+    <ul>
+      <li>eu ponho </li>
+      <li>tu pões </li>
+      <li>ele, ela, você põe </li>
+      <li>nós pomos </li>
+      <li>eles, elas, vocês põem </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Presente de indicativo de construir</div>
+  <div>
+    <ul>
+      <li>eu construo </li>
+      <li>tu constróis </li>
+      <li>ele, ela, você constrói </li>
+      <li>nós construímos </li>
+      <li>eles, elas, vocês constroem </li>
+    </ul>
+  </div>
+</e-card>
