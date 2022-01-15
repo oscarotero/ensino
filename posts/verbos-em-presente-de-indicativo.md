@@ -110,19 +110,6 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de ler</div>
-  <div>
-    <ul>
-      <li>eu leio </li>
-      <li>tu lês </li>
-      <li>ele, ela, você lê </li>
-      <li>nós lemos </li>
-      <li>eles, elas, vocês leem </li>
-    </ul>
-  </div>
-</e-card>
-
-<e-card color="1">
   <div>Presente de indicativo de dizer</div>
   <div>
     <ul>
