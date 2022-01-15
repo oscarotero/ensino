@@ -156,3 +156,93 @@ Conjuga no presente de indicativo os verbos:
 * Eles, elas, vocês <e-answer>ouvem</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+## Pedir
+
+* Eu <e-answer>peço</e-answer>
+* Tu <e-answer>pedes</e-answer>
+* Ele, ela, você <e-answer>pede</e-answer>
+* Nós <e-answer>pedimos</e-answer>
+* Eles, elas, vocês <e-answer>pedem</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Dormir
+
+* Eu <e-answer>durmo</e-answer>
+* Tu <e-answer>dormes</e-answer>
+* Ele, ela, você <e-answer>dorme</e-answer>
+* Nós <e-answer>dormimos</e-answer>
+* Eles, elas, vocês <e-answer>dormem</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Subir
+
+* Eu <e-answer>subo</e-answer>
+* Tu <e-answer>sobes</e-answer>
+* Ele, ela, você <e-answer>sobe</e-answer>
+* Nós <e-answer>subimos</e-answer>
+* Eles, elas, vocês <e-answer>sobem</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Fugir
+
+* Eu <e-answer>fujo</e-answer>
+* Tu <e-answer>foges</e-answer>
+* Ele, ela, você <e-answer>foge</e-answer>
+* Nós <e-answer>fugimos</e-answer>
+* Eles, elas, vocês <e-answer>fogem</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Rir
+
+* Eu <e-answer>rio</e-answer>
+* Tu <e-answer>ris</e-answer>
+* Ele, ela, você <e-answer>ri</e-answer>
+* Nós <e-answer>rimos</e-answer>
+* Eles, elas, vocês <e-answer>riem</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Ir
+
+* Eu <e-answer>vou</e-answer>
+* Tu <e-answer>vais</e-answer>
+* Ele, ela, você <e-answer>vai</e-answer>
+* Nós <e-answer>vamos</e-answer>
+* Eles, elas, vocês <e-answer>vão</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Vir
+
+* Eu <e-answer>venho</e-answer>
+* Tu <e-answer>vens</e-answer>
+* Ele, ela, você <e-answer>vem</e-answer>
+* Nós <e-answer>vimos</e-answer>
+* Eles, elas, vocês <e-answer>vêm</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Pôr
+
+* Eu <e-answer>ponho</e-answer>
+* Tu <e-answer>pões</e-answer>
+* Ele, ela, você <e-answer>põe</e-answer>
+* Nós <e-answer>pomos</e-answer>
+* Eles, elas, vocês <e-answer>põem</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Construir
+
+* Eu <e-answer>construo</e-answer>
+* Tu <e-answer>constróis</e-answer>
+* Ele, ela, você <e-answer>constrói</e-answer>
+* Nós <e-answer>construímos</e-answer>
+* Eles, elas, vocês <e-answer>constroem</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
