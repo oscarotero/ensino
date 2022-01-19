@@ -102,15 +102,15 @@ Ex.: **minuscula**: *Minúscula* leva acento porque é unha palabra esdrúxula
 
 <details> <summary>Ver as solucións</summary>
 
-1. **difícil**: *Difícil* leva acento porque é unha palabra grave que acaba en consoante -l.
-2. **papel**: *Papel* non leva acento porque é unha palabra aguda que acaba en consoante distinta -n, -s ou -ns. 
-3. **lapis**: *Lapis* non leva gráfico porque é unha palabra grave que acaba en consoante -s.
-4. **canción**: *Canción* leva acento porque é unha palabra aguda que acaba en -n.
+1. **difícil**: *Difícil* leva acento porque é unha palabra grave que acaba en consoante *\-l.*
+2. **papel**: *Papel* non leva acento porque é unha palabra aguda que acaba en consoante distinta *\-n, -s* ou *\-ns.* 
+3. **lapis**: *Lapis* non leva gráfico porque é unha palabra grave que acaba en consoante *\-s.*
+4. **canción**: *Canción* leva acento porque é unha palabra aguda que acaba en *\-n.*
 5. **acuático**: *Acuático* leva acento porque é unha palabra esdrúxula.
 6. **esquimó**: *Esquimó* leva acento porque é unha palabra aguda terminada en vogal.
-7. **estéril**: *Estéril* leva acento porque é unha palabra grave que termina en consoante -l.
+7. **estéril**: *Estéril* leva acento porque é unha palabra grave que termina en consoante *\-l.*
 8. **pexego**: *Pexego* non leva acento porque é unha palabra grave que acaba en vogal. 
 9. **alí**: *Alí* leva acento porque é unha palabra aguda que acaba en vogal. 
-10. **chinés**: *Chinés* leva acento porque é unha palabra aguda que acaba en consoante -s.
+10. **chinés**: *Chinés* leva acento porque é unha palabra aguda que acaba en consoante *\-s.*
 
 </details>
