@@ -46,4 +46,4 @@ Completa co verbo correspondente en presente de indicativo.
     mollada en auga fría na testa.
 15. Cando te <e-answer>pos</e-answer> (pór) así, non hai quen te ature.
 
-<e-validate>Corrixe as respostas</e-validate>
+<e-validate>Ver as solucións</e-validate>
