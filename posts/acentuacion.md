@@ -7,7 +7,7 @@ tags:
   - acentuacion
 ---
 
-Neste esquema sintetizamos as regras xerais de uso do acento gráfico.
+Neste esquema sintetizamos as regras xerais de uso do acento gráfico en galego.
 
 | Esdrúxulas                                                               | Graves                                                                   | Agudas                                                                   |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
