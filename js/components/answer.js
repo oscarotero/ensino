@@ -72,8 +72,8 @@ class Answer extends HTMLElement {
   }
 
   validate() {
-    const solution = this.innerHTML;
-    const value = this.input.value;
+    const solution = this.innerHTML.trim();
+    const value = this.input.value.trim();
 
     if (value.toLowerCase() === solution.toLowerCase()) {
       this.input.classList.add("is-right");
