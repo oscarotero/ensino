@@ -4,6 +4,7 @@ summary: Ou si?
 tags:
   - post
   - semana-6
+  - acentuacion
 ---
 
 Non levan, non. Segundo as
