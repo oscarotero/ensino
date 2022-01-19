@@ -30,19 +30,19 @@ debes usar palabras con acento gráfico:
 
 <e-answer> limón </e-answer>
 
-![](/static/img/lámpada.jpg)
+![](/img/lámpada.jpg)
 
 <e-answer> lámpada </e-answer>
 
-![](/static/img/cámara.jpg)
+![](/img/cámara.jpg)
 
 <e-answer> cámara </e-answer>
 
-![](/static/img/café.jpg)
+![](/img/café.jpg)
 
 <e-answer> café </e-answer>
 
-![](/static/img/semáforo.jpg)
+![](/img/semáforo.jpg)
 
 <e-answer> semáforo </e-answer>
 
