@@ -87,7 +87,7 @@ Coloca o acento gráfico nas seguintes palabras cando o precisen, logo indica a
 súa clasificación segundo a acentuación (agudas, graves ou esdrúxulas) e
 xustifica a aparición ou non de acento gráfico:
 
-Ex.: minuscula: Minúscula leva acento porque é unha palabra esdrúxula
+Ex.: **minuscula**: *Minúscula* leva acento porque é unha palabra esdrúxula
 
 1. dificil:
 2. papel:
