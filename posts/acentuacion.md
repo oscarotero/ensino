@@ -6,16 +6,15 @@ tags:
   - semana-11
   - acentuacion
 ---
-
 Neste esquema sintetizamos as regras xerais de uso do acento gráfico en galego.
 
 | Esdrúxulas                                                               | Graves                                                                   | Agudas                                                                   |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| <e-tag color=2>´</e-tag><e-tag color=1>_</e-tag><e-tag color=1>_</e-tag> | <e-tag color=1>_</e-tag><e-tag color=2>´</e-tag><e-tag color=1>_</e-tag> | <e-tag color=1>_</e-tag><e-tag color=1>_</e-tag><e-tag color=2>´</e-tag> |
-| As palabras esdrúxulas **acentúanse sempre**                             | Só se acaban en **consoante distinta a _-n_, _-s_ ou _-ns_**             | Cando terminan en **vogal** ou en **_-n_, _-s_ ou _-ns_**                |
-| Exemplo: _médico_                                                        | Exemplo: _fácil_                                                         | Exemplo: _verán_                                                         |
+| <e-tag color=2>´</e-tag><e-tag color=1>*</e-tag><e-tag color=1>*</e-tag> | <e-tag color=1>*</e-tag><e-tag color=2>´</e-tag><e-tag color=1>*</e-tag> | <e-tag color=1>*</e-tag><e-tag color=1>*</e-tag><e-tag color=2>´</e-tag> |
+| As palabras esdrúxulas **acentúanse sempre**                             | Só se acaban en **consoante distinta a *\-n*, *\-s* ou *\-ns***          | Cando terminan en **vogal** ou en ***\-n*, *\-s* ou *\-ns***             |
+| Exemplo: *médico*                                                        | Exemplo: *fácil*                                                         | Exemplo: *verán*                                                         |
 
----
+- - -
 
 ## Exercicio 1
 
@@ -100,3 +99,18 @@ Ex.: minuscula: Minúscula leva acento porque é unha palabra esdrúxula
 8. pexego:
 9. ali:
 10. chines:
+
+<details> <summary>Ver as solucións</summary>
+
+1. **difícil**: *Difícil* leva acento porque é unha palabra grave que acaba en consoante -l.
+2. **papel**: *Papel* non leva acento porque é unha palabra aguda que acaba en consoante distinta -n, -s ou -ns. 
+3. **lapis**: *Lapis* non leva gráfico porque é unha palabra grave que acaba en consoante -s.
+4. **canción**: *Canción* leva acento porque é unha palabra aguda que acaba en -n.
+5. **acuático**: *Acuático* leva acento porque é unha palabra esdrúxula.
+6. **esquimó**: *Esquimó* leva acento porque é unha palabra aguda terminada en vogal.
+7. **estéril**: *Estéril* leva acento porque é unha palabra grave que termina en consoante -l.
+8. **pexego**: *Pexego* non leva acento porque é unha palabra grave que acaba en vogal. 
+9. **alí**: *Alí* leva acento porque é unha palabra aguda que acaba en vogal. 
+10. **chinés**: *Chinés* leva acento porque é unha palabra aguda que acaba en consoante -s.
+
+</details>
