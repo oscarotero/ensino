@@ -5,7 +5,6 @@ tags:
   - semana-8
   - acentuacion
 ---
-
 ## O que é o acento gráfico?
 
 O acento diacrítico serve para diferenciar na escrita dúas palabras que se
@@ -17,25 +16,25 @@ Exemplo:
 
 ### Significados diferentes
 
-- _as_ "artigo determinado"
-- _ás_ "membros do corpo das aves, dos insectos e doutros animais cos que voan"
+* *as* "artigo determinado"
+* *ás* "membros do corpo das aves, dos insectos e doutros animais cos que voan"
 
 ### Orixes distintas
 
-- _oso_ "animal" deriva da palabra latina URSUM
-- _óso_ "do corpo" provén do termo latino OSSUM
+* *oso* "animal" deriva da palabra latina URSUM
+* *óso* "do corpo" provén do termo latino OSSUM
 
 ### Pronuncia diferente
 
-- _bola_ "peza de pan" pronúnciase con o fechado
-- _bóla_ "esfera, pelota" pronúnciase con o aberto
+* *bola* "peza de pan" pronúnciase con o fechado
+* *bóla* "esfera, pelota" pronúnciase con o aberto
 
   Nestes casos, a palabra que se acentúa é sempre a que ten a vogal aberta.
 
 ### Non pertencen á mesma categoría gramatical
 
-- _da_ "contracción de _de_ + _a_"
-- _dá_ "P3 do presente de indicativo do verbo _dar_"
+* *da* "contracción de *de* + *a*"
+* *dá* "P3 do presente de indicativo do verbo *dar*"
 
 Neste último caso, temos que manter o acento diacrítico ao engadir un pronome?
 Ti que cres? Atento ao vídeo:
@@ -71,56 +70,59 @@ En galego levan acento diacrítico as seguintes palabras:
 | **ves** (verbo ver)                      | **vés** (verbo vir)                  |
 | **vos** (pron. átono)                    | **vós** (pron. tónico)               |
 
----
+- - -
 
 ## Exercicio 1
 
 Completa estas oracións poñendo as palabras con acento diacrítico ou sen el onde
 cumpra.
 
-_pola - póla_
+*pola - póla*
 
-- A <e-answer>póla</e-answer> da árbore partiu co peso das mazás.
-- Tes que cruzar <e-answer>pola</e-answer> ponte e despois virar á dereita.
+* A <e-answer>póla</e-answer> da árbore partiu co peso das mazás.
+* Tes que cruzar <e-answer>pola</e-answer> ponte e despois virar á dereita.
 
-_compre - cómpre_
+*compre - cómpre*
 
-- Temos o frigorífico baleiro, <e-answer>cómpre</e-answer> ir ao supermercado.
-- Dille que che <e-answer>compre</e-answer> un xeado.
+* Temos o frigorífico baleiro, <e-answer>cómpre</e-answer> ir ao supermercado.
+* Dille que che <e-answer>compre</e-answer> un xeado.
 
-_fora - fóra_
+*fora - fóra*
 
-- Nunca <e-answer>fora</e-answer> antes en avión.
-- Entra axiña <e-answer>fóra</e-answer> vai moito frío.
+* Nunca <e-answer>fora</e-answer> antes en avión.
+* Entra axiña <e-answer>fóra</e-answer> vai moito frío.
 
-_cha - chá_
+*cha - chá*
 
-- Vilalba é a capital da comarca da Terra<e-answer>Chá</e-answer>.
-- Non <e-answer>cha</e-answer> quero, non me rogues máis con ela.
+* Vilalba é a capital da comarca da Terra<e-answer>Chá</e-answer>.
+* Non <e-answer>cha</e-answer> quero, non me rogues máis con ela.
 
-_pe - pé_
+*pe - pé*
 
-- Escordei un <e-answer>pé</e-answer> xogando ao fútbol.
-- Di catro palabras que comecen pola letra <e-answer>pe</e-answer>.
+* Escordei un <e-answer>pé</e-answer> xogando ao fútbol.
+* Di catro palabras que comecen pola letra <e-answer>pe</e-answer>.
 
-_das - dás_
+*das - dás*
 
-- Vive <e-answer>das</e-answer> esmolas que lle dan os que pasan.
-- Non me <e-answer>dás</e-answer> pena ningunha.
+* Vive <e-answer>das</e-answer> esmolas que lle dan os que pasan.
+* Non me <e-answer>dás</e-answer> pena ningunha.
 
-_e - é_
+*e - é*
 
-- Non hai quen o ature, <e-answer>é</e-answer> un caprichoso.
-- Merca unha ducia de ovos <e-answer>e</e-answer> un quilo de patacas.
+* Non hai quen o ature, <e-answer>é</e-answer> un caprichoso.
+* Merca unha ducia de ovos <e-answer>e</e-answer> un quilo de patacas.
 
-_presa - présa_
+*presa - présa*
 
-- Esta mañá escapou unha <e-answer>presa</e-answer> da cadea de Teixeiro.
-- Non teñas tanta <e-answer>présa</e-answer> que hai tempo de sobra.
+* Esta mañá escapou unha <e-answer>presa</e-answer> da cadea de Teixeiro.
+* Non teñas tanta <e-answer>présa</e-answer> que hai tempo de sobra.
 
-_a - á_
+*a - á*
 
-- O paxaro non pode voar porque ten unha <e-answer>á</e-answer> quebrada.
-- Lin <e-answer>a</e-answer> novela nunha tarde.
+* O paxaro non pode voar porque ten unha <e-answer>á</e-answer> quebrada.
+* Lin <e-answer>a</e-answer> novela nunha tarde.
 
 <e-validate>Corrixe as respostas</e-validate>
+
+## Recursos para adestrares a acentuación diacrítica:
+[Quizziz](https://quizizz.com/join/quiz/6009c73c004a13001bca6d48/start?studentShare=true) creado por Ana Alonso Lozano
