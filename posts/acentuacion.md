@@ -22,11 +22,11 @@ Neste esquema sintetizamos as regras xerais de uso do acento gráfico.
 Escribe o nome dos elementos fotografados. Ten en conta que en todos os casos
 debes usar palabras con acento gráfico:
 
-![](/static/img/móbil.jpg)
+![](/img/móbil.jpg)
 
 <e-answer> móbil </e-answer>
 
-![](/static/img/limón.jpg)
+![](/img/limón.jpg)
 
 <e-answer> limón </e-answer>
 
