@@ -3,6 +3,7 @@ title: O acento diacrítico
 tags:
   - post
   - semana-8
+  - acentuacion
 ---
 
 ## O que é o acento gráfico?
