@@ -4,6 +4,7 @@ summary: Por que non dou unha?
 tags:
   - post
   - semana-6
+  - ortografia
 ---
 En galego resúltanos difícil sabermos cando unha palabra se escribe con *b* e
 cando con *v,* porque a pronunciamos sempre da mesma maneira.
