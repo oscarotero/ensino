@@ -30,7 +30,7 @@ require un certo adestramento pola nosa parte.
 
 Menos mal que na rede hai moitos sitios con consellos e actividades para mellorarmos a nosa competencia nesta cuestión.  
 
-Comeza por veres o vídeo do Dígocho eu:
+Comeza por veres o vídeo do #DígochoEu:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/neJadbc70Ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
