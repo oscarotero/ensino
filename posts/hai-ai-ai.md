@@ -4,6 +4,7 @@ summary: Aprende a distinguilos
 tags:
   - post
   - semana-7
+  - ortografia
 ---
 
 ## **Non confundas aí, ai! e hai**
