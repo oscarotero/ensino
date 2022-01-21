@@ -30,12 +30,11 @@ require un certo adestramento pola nosa parte.
 
 Menos mal que na rede hai moitos sitios con consellos e actividades para mellorarmos a nosa competencia nesta cuestión.  
 
-Comeza por veres o vídeo do #DígochoEu:
+Primeiro comeza por veres este vídeo do #DígochoEu:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/neJadbc70Ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-E despois continúa o teu adestramento no site: 
-[Ortografía: O uso do b e do v](http://cotovia.org/proxecto/ort/ort_ud3_01.html?orix=ort&tema=ort_ud3_01.html)
+E despois podes continuar o teu adestramento no site: [Ortografía: O uso do b e do v](http://cotovia.org/proxecto/ort/ort_ud3_01.html?orix=ort&tema=ort_ud3_01.html)
 
 [](https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1326967726/contido/ortografia/ortografia/o_uso_do_bv.html)
 
