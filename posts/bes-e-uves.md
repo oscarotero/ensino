@@ -32,7 +32,7 @@ Menos mal que na rede hai moitos sitios con consellos e actividades para mellora
 
 Comeza por veres o vídeo do Dígocho eu:
 
-[https://www.youtube.com/watch?v=neJadbc70A](https://www.youtube.com/watch?v=neJadbc70Ac)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/neJadbc70Ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 E despois continúa o teu adestramento no site: 
 [Ortografía: O uso do b e do v](http://cotovia.org/proxecto/ort/ort_ud3_01.html?orix=ort&tema=ort_ud3_01.html)
