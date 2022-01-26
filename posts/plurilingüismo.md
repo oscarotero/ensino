@@ -42,7 +42,7 @@ da poboación](https://praza.gal/acontece/o-galego-resiste-como-lingua-maioritar
 Hai xa algún tempo, encontrei en Tiktok este vídeo que unha moza valenciana fixera para responder esta pregunta:
 [Fóra de Valencia onde che serve a túa lingua?](https://www.tiktok.com/@redeula_/video/6899137134800784642?lang=en)
 
-É unha pregunta que nos fan con bastante frecuencia aos que falamos unha lingua supostamente minoritaria. O caso é que ela fixo unha coreografía para explicar todos os lugares onde lle resulta útil a súa lingua. Son estes:
+É unha pregunta que nos fan con bastante frecuencia aos que falamos unha lingua supostamente minoritaria. O caso é que ela creou unha coreografía para explicar todos os lugares onde lle resulta útil a súa lingua. Son estes:
 
 * País valenciano
 * Cataluña norte (sur de Francia)
@@ -51,7 +51,7 @@ Hai xa algún tempo, encontrei en Tiktok este vídeo que unha moza valenciana fi
 * Faixa de Aragón
 * Alguer (Sardeña)
 
-Despois de ver o vídeo fun consultar á Galipedia información sobre o catalán e aí depareime con esta información:
+Despois de ver o vídeo fun consultar na Galipedia información sobre o catalán e aí depareime con esta afirmación:
 
 "O **catalán** é a lingua habitual duns 4,4 millóns de persoas; ademais, son capaces de falalo uns 7,7 millóns e é comprendido por preto de **10,5 millóns de persoas**"
 
