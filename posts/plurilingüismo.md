@@ -8,9 +8,9 @@ draft: false
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gd9wSXraYaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Son moi poucos os países monolingües, en Europa temos o caso de Islandia, mais o habitual na maioría dos países é que coexistan varias linguas:
+Son moi poucos os países monolingües, en Europa temos o caso de Islandia, mais o habitual na maioría dos lugares é que coexistan varias linguas:
 
-España é un país plurilingüe no que conviven 7 linguas: castelán, galego, asturleonés, éuscaro, aragonés, catalán e aranés.
+España é un país plurilingüe en que conviven 7 linguas: castelán, galego, asturleonés, éuscaro, aragonés, catalán e aranés.
 
 Canda o castelán, que é a lingua oficial en todo o estado, teñen o estatuto de cooficiais nos seus respectivos territorios o galego, o éuscaro, o catalán, o aranés.
 
@@ -30,7 +30,7 @@ Unha lingua pode ser minoritaria nun territorio e maioritaria noutro.
 
 # Lingua hexemónica ou dominante e lingua minorizada
 
-Lingua hexemónica ou dominante é a lingua que se encontra nunha posición de vantanxe con respecto á outra coa que convive nun territorio. Esta outra lingua que se encontra en desvantaxe recibe o  nome de minorizada.
+Lingua hexemónica ou dominante é a lingua que se encontra nunha posición de vantaxe con respecto á outra coa que convive nun territorio. Esta outra lingua que se encontra en desvantaxe recibe o  nome de minorizada.
 
 En que situación se encontra o galego?
 
@@ -39,11 +39,10 @@ extraído do artigo de Miguel Prado para Praza: [O galego resiste como lingua ma
 da poboación](https://praza.gal/acontece/o-galego-resiste-como-lingua-maioritaria-da-metade-da-poboacion)
 
 
-Hai uns días encontreime con este vídeo de Tiktok realizado por unha valenciana para responder a
-esta pregunta:
+Hai xa algún tempo, encontrei en Tiktok este vídeo que unha moza valenciana fixera para responder esta pregunta:
 [Fóra de Valencia onde che serve a túa lingua?](https://www.tiktok.com/@redeula_/video/6899137134800784642?lang=en)
 
-É unha pregunta que nos fan con bastante frecuencia aos que falamos unha lingua supostamente minoritaria. O caso é que a moza fixo unha coreografía para explicar todos os lugares onde lle resulta útil a súa lingua. Son estes:
+É unha pregunta que nos fan con bastante frecuencia aos que falamos unha lingua supostamente minoritaria. O caso é que ela fixo unha coreografía para explicar todos os lugares onde lle resulta útil a súa lingua. Son estes:
 
 * País valenciano
 * Cataluña norte (sur de Francia)
