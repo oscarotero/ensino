@@ -22,6 +22,12 @@ En Portugal hai 2 linguas oficiais: o portugués e o mirandés, que é unha vari
 
 En Finlandia son 2 as linguas oficiais: o finés e o sueco.
 
+Para a comunicación non hai linguas mellores do que outras, que unha lingua sexa oficial é simplemente unha decisión política. Sabiades que desde hai tempo existe un movemento que reinvindica a oficialidade da lingua asturiana. O que opinades dos motivos que dá o músico Rodrigo Cuevas para defender [Yá yá yá! Oficilidá!](https://twitter.com/rodrigocuevasg/status/1448984608939335680)?
+
+Este artista viviu varios anos na Galiza e ten colaborado con músicos galegos como Baiuca, co que gravou Veleno:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I97z1hNnwMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Lingua minoritaria e lingua maioritaria
 
 Cando nun territorio conviven varias linguas, chamamos linguas minoritaria á que ten un menor número de falantes e lingua maioritaria á que ten o maior número de falantes.
@@ -37,7 +43,6 @@ En que situación se encontra o galego?
 "Na actualidade usa o galego sempre ou máis galego que castelán o 52,3% da poboación..." dato
 extraído do artigo de Miguel Prado para Praza: [O galego resiste como lingua maioritaria da metade
 da poboación](https://praza.gal/acontece/o-galego-resiste-como-lingua-maioritaria-da-metade-da-poboacion)
-
 
 Hai xa algún tempo, encontrei en Tiktok este vídeo que unha moza valenciana fixera para responder esta pregunta:
 [Fóra de Valencia onde che serve a túa lingua?](https://www.tiktok.com/@redeula_/video/6899137134800784642?lang=en)
@@ -55,13 +60,10 @@ Despois de ver o vídeo fun consultar na Galipedia información sobre o catalán
 
 "O **catalán** é a lingua habitual duns 4,4 millóns de persoas; ademais, son capaces de falalo uns 7,7 millóns e é comprendido por preto de **10,5 millóns de persoas**"
 
-
 Con estes datos na man xa non parece unha lingua minoritaria, sobre todo se os comparamos con
 outras linguas menos cuestionadas:
 
-
 O **dinamarqués**, a lingua oficial de Dinamarca, é falado por **5,5 millóns de persoas**
-
 
 O **islandés**, a lingua oficial de Islandia, é falado só por **300.000 persoas**.
 
