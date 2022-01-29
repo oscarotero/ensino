@@ -4,6 +4,8 @@ summary: As pronuncias do x
 tags:
   - post
   - semana-11
+  - ortografia
+  - 3_eso
 ---
 
 O x ten en galego dúas pronuncias distintas: como en _xeado_ e como en _sexto._
