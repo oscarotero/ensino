@@ -1,4 +1,4 @@
 ---
 title: Ortografía
-filter: ortografia
+filter: ortografia, 3_eso
 ---
