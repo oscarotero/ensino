@@ -1,7 +1,6 @@
 ---
 title: "Treino de verbos - 1º ESO: presente de indicativo"
 tags:
-  - post
   - portugues
 draft: false
 ---

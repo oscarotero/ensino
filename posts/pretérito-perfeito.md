@@ -1,7 +1,6 @@
 ---
 title: "Treino de verbos: pretérito perfeito de indicativo"
 tags:
-  - post
   - portugues
 draft: false
 ---

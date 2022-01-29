@@ -1,7 +1,6 @@
 ---
 title: Plurilingüismo
 tags:
-  - post
   - plurilinguismo
   - 3_eso
 draft: false

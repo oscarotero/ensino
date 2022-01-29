@@ -2,7 +2,6 @@
 title: Contraccións (2)
 summary: Artigo indeterminado + preposición
 tags:
-  - post
   - semana-8
 ---
 

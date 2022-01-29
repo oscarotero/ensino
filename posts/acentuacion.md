@@ -2,7 +2,6 @@
 title: As regras de acentuación
 summary: null
 tags:
-  - post
   - semana-11
   - acentuacion
 ---

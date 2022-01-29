@@ -1,9 +1,9 @@
 ---
 layout: layouts/home.njk
 url: /
-title: Benvida
+title: Benvinda
 ---
 
-# Benvida
+# Benvinda
 
 Esta é a portada do sitio. Se tes dúbidas, [contacta comigo](/contacto)

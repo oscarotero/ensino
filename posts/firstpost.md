@@ -3,7 +3,6 @@ title: A pluma viva de Rosalía
 summary: Hoxe imos profundar un pouco máis na figura de Rosalía de Castro.
   Sabedes xa moitas cousas sobre ela porque...
 tags:
-  - post
   - semana-5
 ---
 

@@ -2,7 +2,6 @@
 title: O imperativo
 summary: ""
 tags:
-  - post
   - semana-8
 ---
 

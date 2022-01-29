@@ -1,7 +1,6 @@
 ---
 title: Pippi Mediaslongas
 tags:
-  - post
   - recuperacion
 ---
 

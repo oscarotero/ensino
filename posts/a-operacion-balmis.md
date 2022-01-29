@@ -2,7 +2,6 @@
 title: A operación Balmis
 summary: É posíbel que oíses falar estes días nos telexornais da operación Balmis.
 tags:
-  - post
   - semana-6
 ---
 

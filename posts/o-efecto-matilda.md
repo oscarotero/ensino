@@ -1,7 +1,6 @@
 ---
 title: O efecto Matilda
 tags:
-  - post
   - feminismo
 ---
 

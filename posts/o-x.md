@@ -2,7 +2,6 @@
 title: O x
 summary: As pronuncias do x
 tags:
-  - post
   - semana-11
   - ortografia
   - 3_eso

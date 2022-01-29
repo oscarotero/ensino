@@ -1,7 +1,6 @@
 ---
 title: O acento diacrítico
 tags:
-  - post
   - semana-8
   - acentuacion
 ---

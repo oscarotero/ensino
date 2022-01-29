@@ -2,7 +2,6 @@
 title: Contraccións (1)
 summary: Artigo determinado + preposición
 tags:
-  - post
   - semana-7
 ---
 As formas do artigo determinado *(o, a, os, as)* contraen coas preposicións *a,

@@ -11,9 +11,7 @@ layout: layouts/base.njk
 {% set hasCategories = false %}
 <nav class="categories">
     <ul>
-        {% for cat in categories %}
-				{% set page = search.page("category filter='" + cat + "'") %}
-				{% if page %}	
+        {% for page in search.pages("type=category '" + id + "'") %}
         <li>
             <h3>
                 <a href="{{ page.data.url | url }}">
@@ -23,12 +21,11 @@ layout: layouts/base.njk
 
 						{% set hasCategories = true %}
         </li>
-				{% endif %}
         {% endfor %}
     </ul>
 </nav>
 
-{% set postslist = search.pages(filter) %}
+{% set postslist = search.pages("type=exercise '" + id + "'") %}
 
 {% if hasCategories and postslist.length %}
 	<hr>

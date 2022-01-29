@@ -1,7 +1,6 @@
 ---
 title: Violencia de xénero
 tags:
-  - post
   - feminismo
 ---
 

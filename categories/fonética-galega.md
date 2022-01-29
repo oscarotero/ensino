@@ -1,4 +1,4 @@
 ---
 title: Fonética Galega
-filter: fonéticagalega
+id: fonéticagalega
 ---

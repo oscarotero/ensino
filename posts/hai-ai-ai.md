@@ -2,7 +2,6 @@
 title: Aí, ai! e hai
 summary: Aprende a distinguilos
 tags:
-  - post
   - semana-7
   - ortografia
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Cartões de estudo - 2º ESO e 3º ESO: verbos"
 tags:
-  - post
   - portugues
 draft: false
 ---

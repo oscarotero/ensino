@@ -1,7 +1,6 @@
 ---
 title: Ditongos e hiatos
 tags:
-  - post
   - semana-9
 ---
 

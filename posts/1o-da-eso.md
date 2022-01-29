@@ -2,7 +2,6 @@
 title: 1º da ESO
 summary: Unidade 1
 tags:
-  - post
   - cartons
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: O alfabeto galego
 tags:
-  - post
   - semana-7
 ---
 

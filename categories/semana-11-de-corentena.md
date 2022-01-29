@@ -1,4 +1,4 @@
 ---
 title: Semana 11 de corentena
-filter: semana-11
+id: semana-11
 ---

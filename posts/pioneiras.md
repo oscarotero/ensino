@@ -1,7 +1,6 @@
 ---
 title: Pioneiras
 tags:
-  - post
   - feminismo
 ---
 

@@ -2,7 +2,6 @@
 title: Novos emojis
 summary: Como lles chamamos?
 tags:
-  - post
   - semana-7
 ---
 

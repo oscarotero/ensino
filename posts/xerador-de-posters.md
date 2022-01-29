@@ -3,7 +3,6 @@ title: Instrucións para lavarmos as mans
 summary: Nestes tempos de coronavirus xa todos sabemos da importancia vital
   deste pequeno xesto.
 tags:
-  - post
   - semana-8
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Micromachismos
 tags:
-  - post
   - feminismo
 ---
 

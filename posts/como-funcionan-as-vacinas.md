@@ -4,7 +4,6 @@ summary: "Para combater a desinformación que hai en Internet sobre as vacinas, 
   espazo de divulgación científica Concienciadas de Praza.gal dedicou o terceiro
   episodio a este tema. "
 tags:
-  - post
   - semana-11
 ---
 

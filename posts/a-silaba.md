@@ -2,7 +2,6 @@
 title: A sílaba
 summary: ""
 tags:
-  - post
   - semana-9
 ---
 

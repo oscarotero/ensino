@@ -2,7 +2,6 @@
 title: Bes e uves
 summary: Por que non dou unha?
 tags:
-  - post
   - semana-6
   - ortografia
 ---

@@ -2,7 +2,6 @@
 title: Os monosílabos en galego non levan acento gráfico
 summary: Ou si?
 tags:
-  - post
   - semana-6
   - acentuacion
 ---

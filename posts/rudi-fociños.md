@@ -2,7 +2,6 @@
 title: Rudi Fociños
 summary: ""
 tags:
-  - post
   - recuperacion
 ---
 

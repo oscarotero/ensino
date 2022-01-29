@@ -1,7 +1,6 @@
 ---
 title: "Treino de verbos: presente de indicativo"
 tags:
-  - post
   - portugues
 draft: false
 ---

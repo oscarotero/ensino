@@ -1,7 +1,6 @@
 ---
 title: Palabras de Entroido
 tags:
-  - post
   - cartons
 ---
 

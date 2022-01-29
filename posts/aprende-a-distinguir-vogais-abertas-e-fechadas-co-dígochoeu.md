@@ -1,7 +1,6 @@
 ---
 title: Vogais medias abertas e fechadas
 tags:
-  - post
   - fonéticagalega
 draft: false
 ---

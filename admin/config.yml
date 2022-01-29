@@ -24,10 +24,10 @@ collections:
         widget: "text"
         required: false
 
-      - label: "Etiquetas"
+      - label: "Categorías nas que aparece"
         name: "tags"
         widget: "list"
-        default: ["post"]
+        default: []
 
       - label: "Ocultar"
         name: "draft"
@@ -67,13 +67,14 @@ collections:
         name: "title"
         widget: "string"
       
-      - label: "Etiqueta que usa"
-        name: "filter"
+      - label: "Identificador"
+        name: "id"
         widget: "string"
 
-      - label: "Subcategorías"
-        name: "categories"
+      - label: "Categorías nas que aparece"
+        name: "tags"
         widget: "list"
+        default: []
 
       - label: "Corpo"
         name: "body"

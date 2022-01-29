@@ -2,7 +2,6 @@
 title: "I e U "
 summary: Cando os acentuamos?
 tags:
-  - post
   - semana-11
 ---
 

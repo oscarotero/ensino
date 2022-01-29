@@ -1,7 +1,6 @@
 ---
 title: Chove no mollado
 tags:
-  - post
   - cartons
 ---
 

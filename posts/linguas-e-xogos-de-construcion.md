@@ -2,7 +2,6 @@
 title: Linguas e xogos de construción
 summary: En que se parecen?
 tags:
-  - post
   - semana-9
 ---
 

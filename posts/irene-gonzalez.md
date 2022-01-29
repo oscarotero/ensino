@@ -2,7 +2,6 @@
 title: Irene González
 summary: A primeira futbolista nun equipo masculino
 tags:
-  - post
   - feminismo
 ---
 

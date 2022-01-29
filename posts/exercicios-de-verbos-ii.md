@@ -2,7 +2,6 @@
 title: Exercicios de verbos (2)
 summary: Para practicares o pretérito perfecto de indicativo
 tags:
-  - post
   - semana-6
 ---
 

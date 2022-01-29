@@ -2,7 +2,6 @@
 title: "Os animais "
 summary: Actividades completarias ás da unidade 9 do voso libro de texto
 tags:
-  - post
   - semana-5
 ---
 
