@@ -8,7 +8,31 @@ layout: layouts/base.njk
 {{ content | safe }}
 </header>
 
+{% set hasCategories = false %}
+<nav class="categories">
+    <ul>
+        {% for cat in categories %}
+				{% set page = search.page("category filter='" + cat + "'") %}
+				{% if page %}	
+        <li>
+            <h3>
+                <a href="{{ page.data.url | url }}">
+                    {{ page.data.title }}
+                </a>
+            </h3>
+
+						{% set hasCategories = true %}
+        </li>
+				{% endif %}
+        {% endfor %}
+    </ul>
+</nav>
+
 {% set postslist = search.pages(filter) %}
+
+{% if hasCategories and postslist.length %}
+	<hr>
+{% endif %}
 
 <nav>
 	<ul>

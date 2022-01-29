@@ -71,6 +71,10 @@ collections:
         name: "filter"
         widget: "string"
 
+      - label: "Subcategorías"
+        name: "categories"
+        widget: "list"
+
       - label: "Corpo"
         name: "body"
         widget: "markdown"
