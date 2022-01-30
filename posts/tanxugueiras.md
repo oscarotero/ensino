@@ -1,7 +1,6 @@
 ---
 title: Tanxugueiras
 tags:
-  - 3_eso
   - lexico
 draft: false
 ---
