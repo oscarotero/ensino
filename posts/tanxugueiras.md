@@ -22,6 +22,4 @@ Maltrato moral, de palabra ou de obra.
 
 Sinónimos: Afronta, agravio, insulto, inxuria, ofensa, vexame, vexación.
 
-Exemplo:
-
-<a href="https://twitter.com/intent/tweet?button_hashtag=aldraxe&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #aldraxe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Exemplo: [\#aldraxe](https://twitter.com/search?q=%23aldraxe&src=typed_query&f=top)
