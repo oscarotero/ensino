@@ -1,5 +1,5 @@
 ---
-title: Tanxugueiras
+title: Tanxugueiras no Benidorm Fest
 tags:
   - lexico
 draft: false
