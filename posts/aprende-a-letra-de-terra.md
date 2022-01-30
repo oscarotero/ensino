@@ -1,5 +1,5 @@
 ---
-title: Aprende a letra de Terra
+title: Aprende a letra de Terra de Tanxugueiras
 tags:
   - lexico
 draft: false
