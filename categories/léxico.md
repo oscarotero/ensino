@@ -4,7 +4,7 @@ id: lexico
 tags:
   - 3_eso
 ---
-### Aturuxo
+#### Aturuxo
 
 Berro agudo, forte e prolongado que se emite en sinal de alegría, nas festas e foliadas ou mentres se realizan algúns labores agrícolas.
 
