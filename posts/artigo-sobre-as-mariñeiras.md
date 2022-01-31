@@ -1,7 +1,7 @@
 ---
 title: Artigo sobre as mariñeiras
 tags:
-  - semana-10
+  - comprension_lectora
 ---
 
 <article>
