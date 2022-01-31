@@ -11,4 +11,4 @@ draft: false
 
 
 
-[O casamento dos paxariños: o Día da Marmota galego ou o Día de San Valentín](https://www.nosdiario.gal/articulo/cultura/casamento-paxarinos-dia-da-marmota-galego-dia-san-valentin/20160201213831044514.html), artigo de R. Castro publicado no Diario Nós
+[O casamento dos paxariños: o Día da Marmota galego ou o Día de San Valentín](https://www.nosdiario.gal/articulo/cultura/casamento-paxarinos-dia-da-marmota-galego-dia-san-valentin/20160201213831044514.html), artigo de R. Castro publicado no *Diario Nós.*
