@@ -1,5 +1,6 @@
 ---
 title: Sociolingüística
 id: sociolinguistica
-tags: []
+tags:
+  - 3_eso
 ---
