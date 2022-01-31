@@ -30,4 +30,6 @@ Maltrato moral, de palabra ou de obra.
 
 Sinónimos: Afronta, agravio, insulto, inxuria, ofensa, vexame, vexación.
 
-Exemplo: [\#aldraxe](https://twitter.com/search?q=%23aldraxe&src=typed_query&f=top)
+Exemplo 1: [\#aldraxe](https://twitter.com/search?q=%23aldraxe&src=typed_query&f=top)
+
+Exemplo 2: <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@digochoeu/video/7059366753813433605" data-video-id="7059366753813433605" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@digochoeu" href="https://www.tiktok.com/@digochoeu">@digochoeu</a> Que indignada estaba! @tanxugueiras 😅 <a title="dígochoeu" target="_blank" href="https://www.tiktok.com/tag/d%C3%ADgochoeu">#DígochoEu</a> <a title="galego" target="_blank" href="https://www.tiktok.com/tag/galego">#galego</a> <a title="galicia" target="_blank" href="https://www.tiktok.com/tag/galicia">#Galicia</a> <a title="tvg" target="_blank" href="https://www.tiktok.com/tag/tvg">#TVG</a> <a title="benidormfest" target="_blank" href="https://www.tiktok.com/tag/benidormfest">#BenidormFest</a> <a title="eurovision" target="_blank" href="https://www.tiktok.com/tag/eurovision">#Eurovision</a> <a target="_blank" title="♬ original sound - #DígochoEu" href="https://www.tiktok.com/music/original-sound-7059366715561429766">♬ original sound - #DígochoEu</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
