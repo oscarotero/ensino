@@ -3,7 +3,7 @@ title: A pluma viva de Rosalía
 summary: Hoxe imos profundar un pouco máis na figura de Rosalía de Castro.
   Sabedes xa moitas cousas sobre ela porque...
 tags:
-  - semana-5
+  - comprension_lectora
 ---
 
 Vimos un vídeo de Tik tak draw sobre a súa vida e a súa obra. Lembrades? Era
