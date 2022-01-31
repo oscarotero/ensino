@@ -1,8 +1,7 @@
 ---
 title: O acento diacrítico (1)
 tags:
-  - semana-8
-  - acentuacion
+  - acentuacion_diacritica
 ---
 ## O que é o acento gráfico?
 
