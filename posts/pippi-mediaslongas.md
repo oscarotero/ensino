@@ -1,7 +1,7 @@
 ---
 title: Pippi Mediaslongas
 tags:
-  - recuperacion
+  - comprension_lectora
 ---
 
 <article>
