@@ -1,5 +1,5 @@
 ---
-title: Cando leva acento mais e cando non?
+title: Cando leva acento mais e cando non? - Acentuación diacrítica (6)
 summary: Hai unha morea de recursos na rede en que se ocupan desta cuestión.
 tags:
   - acentuacion
