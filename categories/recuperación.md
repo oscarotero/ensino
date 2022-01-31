@@ -1,4 +1,0 @@
----
-title: Recuperación
-id: recuperacion
----
