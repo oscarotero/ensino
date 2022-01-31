@@ -2,7 +2,7 @@
 title: Rudi Fociños
 summary: ""
 tags:
-  - recuperacion
+  - comprension_lectora
 ---
 
 <article>
