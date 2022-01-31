@@ -1,5 +1,5 @@
 ---
-title: Slow Mo em galego
+title: Slow Mo en galego
 tags:
   - 3_eso
 draft: false
