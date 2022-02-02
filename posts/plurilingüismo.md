@@ -6,19 +6,19 @@ draft: false
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gd9wSXraYaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Son moi poucos os países monolingües, en Europa temos o caso de Islandia, mais o habitual na maioría dos lugares é que coexistan varias linguas:
+Son moi poucos os países monolingües, na Europa temos o caso de Islandia, mais o habitual na maioría dos lugares é que coexistan varias linguas:
 
-España é un país plurilingüe en que conviven 7 linguas: castelán, galego, asturleonés, éuscaro, aragonés, catalán e aranés.
+España é un país plurilingüe en que conviven sete linguas: **castelán**, **galego**, **asturleonés**, **éuscaro**, **aragonés**, **catalán** e **aranés**.
 
-Canda o castelán, que é a lingua oficial en todo o estado, teñen o estatuto de cooficiais nos seus respectivos territorios o galego, o éuscaro, o catalán, o aranés.
+Canda o **castelán**, que é a **lingua oficial** en todo o estado, teñen o estatuto de **cooficiais** nos seus respectivos territorios o **galego**, o **éuscaro**, o **catalán**, o **aranés**.
 
-En Suíza as linguas oficiais son catro: o francés, o alemán, o italiano e o romanche.
+Na Suíza as linguas oficiais son catro: o francés, o alemán, o italiano e o romanche.
 
-En Bélxica teñen tres linguas oficiais: o neerlandés, o francés e o alemán.
+Na Bélxica teñen tres linguas oficiais: o neerlandés, o francés e o alemán.
 
-En Portugal hai 2 linguas oficiais: o portugués e o mirandés, que é unha variedade do asturleonés.
+En Portugal hai dúas linguas oficiais: o portugués e o mirandés, que é unha variedade do asturleonés.
 
-En Finlandia son 2 as linguas oficiais: o finés e o sueco.
+Na Finlandia son dúas as linguas oficiais: o finés e o sueco.
 
 Na Guinea Ecuatorial teñen tres linguas oficiais: español, francés e portugués.
 
@@ -30,9 +30,9 @@ Este artista viviu varios anos na Galiza e ten colaborado con músicos galegos c
 
 # Lingua minoritaria e lingua maioritaria
 
-Cando nun territorio conviven varias linguas, chamamos linguas minoritaria á que ten un menor número de falantes e lingua maioritaria á que ten o maior número de falantes.
+Cando nun territorio conviven varias linguas, chamamos lingua minoritaria á que ten un menor número de falantes e lingua maioritaria á que ten o maior número de falantes.
 
-Unha lingua pode ser minoritaria nun territorio e maioritaria noutro.
+Unha lingua pode ser minoritaria nun territorio e maioritaria noutro. O alemán, por exemplo, que é a lingua maioritaria na Alemaña, na Bélxica é unha lingua minoritaria, onde é falado por menos de 1% da poboación.
 
 # Lingua hexemónica ou dominante e lingua minorizada
 
