@@ -4,18 +4,10 @@ tags:
   - sociolinguistica
 draft: false
 ---
-A lusofonia é o conjunto dos países que têm o português como língua oficial ou dominante. São nove: Portugal, Brasil, Cabo Verde, Guiné-Bissau, São Tomé e Príncipe, Guiné-Equatorial, Angola, Moçambique e Timor-Leste.
-Além de nestes países, o português é língua oficial em Macau, uma região administrativa especial da China desde 1999.
-
-
+A lusofonia é o conjunto dos países que têm o português como língua oficial ou dominante. São nove: **Portugal**, **Brasil**, **Cabo Verde**, **Guiné-Bissau**, **São Tomé e Príncipe**, **Guiné-Equatorial**, **Angola**, **Moçambique** e **Timor-Leste**.
+Além de nestes países, o português é língua oficial em **Macau**, uma região administrativa especial da China desde 1999.
 
 [![](/img/mapa-lusofonia-bandeiras.png)](https://laurarubio.net/img/mapa-lusofonia-bandeiras.png)
-
-
-
-
-
-
 
 Imagem tirada de [Geo5 International](http://geo5.net/tag/portugues/) 
 
