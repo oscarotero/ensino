@@ -4,7 +4,9 @@ tags:
   - portugues
 draft: false
 ---
-Conjuga no presente de indicativo os verbos:
+Conjuga no presente de indicativo os seguintes verbos:
+
+Lembra-te! Para colocar o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal. 
 
 ## Ser
 
