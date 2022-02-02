@@ -60,12 +60,11 @@ Despois de ver o vídeo fun consultar na Galipedia información sobre o catalán
 
 "O **catalán** é a lingua habitual duns 4,4 millóns de persoas; ademais, son capaces de falalo uns 7,7 millóns e é comprendido por preto de **10,5 millóns de persoas**"
 
-Con estes datos na man xa non parece unha lingua minoritaria, sobre todo se os comparamos con
-outras linguas menos cuestionadas:
+Con estes datos na man xa non parece unha lingua minoritaria, sobre todo se os comparamos con outras linguas menos cuestionadas:
 
-O **dinamarqués**, a lingua oficial de Dinamarca, é falado por **5,5 millóns de persoas**
+O **dinamarqués**, a lingua oficial da Dinamarca, é falado por **5,5 millóns de persoas**
 
-O **islandés**, a lingua oficial de Islandia, é falado só por **300.000 persoas**.
+O **islandés**, a lingua oficial da Islandia, é falado só por **300.000 persoas**.
 
 Ao fío deste tema, aproveito para traer aquí o single en catalán de Rosalía:
 
