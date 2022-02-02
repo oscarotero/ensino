@@ -4,7 +4,10 @@ tags:
   - portugues
 draft: false
 ---
-Conjuga no pretérito perfeito os verbos: 
+Conjuga no pretérito perfeito os seguintes verbos: 
+
+Lembra-te! Para colocar o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal. 
+
 
 ## Ser
 - Eu <e-answer>fui</e-answer>
