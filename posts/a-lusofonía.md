@@ -1,5 +1,5 @@
 ---
-title: A lusofonía
+title: A lusofonia
 tags:
   - sociolinguistica
 draft: false
