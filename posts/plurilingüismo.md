@@ -20,6 +20,8 @@ En Portugal hai 2 linguas oficiais: o portugués e o mirandés, que é unha vari
 
 En Finlandia son 2 as linguas oficiais: o finés e o sueco.
 
+Na Guinea Ecuatorial teñen tres linguas oficiais: español, francés e portugués.
+
 Para a comunicación non hai linguas mellores do que outras, que unha lingua sexa oficial é simplemente unha decisión política. Sabiades que desde hai tempo existe un movemento que reinvindica a oficialidade da lingua asturiana. O que opinades dos motivos que dá o músico Rodrigo Cuevas para defender [Yá yá yá! Oficilidá!](https://twitter.com/rodrigocuevasg/status/1448984608939335680)?
 
 Este artista viviu varios anos na Galiza e ten colaborado con músicos galegos como Baiuca, co que gravou Veleno:
