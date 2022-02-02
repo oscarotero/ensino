@@ -12,9 +12,9 @@ España é un país plurilingüe en que conviven 7 linguas: castelán, galego, a
 
 Canda o castelán, que é a lingua oficial en todo o estado, teñen o estatuto de cooficiais nos seus respectivos territorios o galego, o éuscaro, o catalán, o aranés.
 
-En Suíza fálanse catro linguas: o francés, o alemán, o italiano e o romanche.
+En Suíza as linguas oficiais son catro: o francés, o alemán, o italiano e o romanche.
 
-En Bélxica teñen tres linguas: o neerlandés, o francés e o alemán.
+En Bélxica teñen tres linguas oficiais: o neerlandés, o francés e o alemán.
 
 En Portugal hai 2 linguas oficiais: o portugués e o mirandés, que é unha variedade do asturleonés.
 
@@ -22,7 +22,7 @@ En Finlandia son 2 as linguas oficiais: o finés e o sueco.
 
 Na Guinea Ecuatorial teñen tres linguas oficiais: español, francés e portugués.
 
-Para a comunicación non hai linguas mellores do que outras, que unha lingua sexa oficial é simplemente unha decisión política. Sabiades que desde hai tempo existe un movemento que reivindica a oficialidade da lingua asturiana. O que opinades dos motivos que dá o músico Rodrigo Cuevas para defender [Yá yá yá! Oficilidá!](https://twitter.com/rodrigocuevasg/status/1448984608939335680)?
+Para a comunicación non hai linguas mellores do que outras, que unha lingua sexa oficial é simplemente unha decisión política. Sabiades que desde hai tempo existe un movemento que reivindica a oficialidade da lingua asturiana (variedade falada en Asturias do asturleonés). O que opinades dos motivos que dá o músico Rodrigo Cuevas para defender [Yá yá yá! Oficilidá!](https://twitter.com/rodrigocuevasg/status/1448984608939335680)?
 
 Este artista viviu varios anos na Galiza e ten colaborado con músicos galegos como Baiuca, co que gravou Veleno:
 
@@ -73,7 +73,7 @@ Ao fío deste tema, aproveito para traer aquí o single en catalán de Rosalía:
 
 Xa o coñeciades?
 
-Volvendo a Galiza, a artista [Guadi Galego](https://gl.wikipedia.org/wiki/Guadi_Galego) publicou en 2019 o seu disco Immersion en castelán, galego, asturiano (variedade falada en Asturias do asturleonés), éuscaro, catalán, portugués e occitano-aranés, sete das nove linguas peninsulares. Por este traballo recibiu o Premio á [Promoción da Realidade Plurilingüe do Estado Español](https://www.nosdiario.gal/articulo/cultura/guadi-galego-premio-promocion-da-realidade-plurilingue-estado-espanol/20191121112437087186.html)
+Volvendo a Galiza, a artista [Guadi Galego](https://gl.wikipedia.org/wiki/Guadi_Galego) publicou en 2019 o seu disco Immersion en castelán, galego, asturiano, éuscaro, catalán, portugués e occitano-aranés, sete das nove linguas peninsulares. Por este traballo recibiu o Premio á [Promoción da Realidade Plurilingüe do Estado Español](https://www.nosdiario.gal/articulo/cultura/guadi-galego-premio-promocion-da-realidade-plurilingue-estado-espanol/20191121112437087186.html)
 
 O disco pódese escoitar clicando aquí: [Immersion](https://open.spotify.com/album/22govFGOMzXM7YcMu2ApBK?autoplay=true&v=L). No caso de que non poidades escoitalo porque non tedes conta nesta plataforma, deixo a seguir unha outra alternativa: o vídeo de Cedeira, o primeiro tema do seu álbum *O mundo está parado,* que está dispoñíbel en Youtube. Trátase dunha canción en que lle rende homenaxe á súa vila. Ela é de Cedeira e canta con Iván Ferreiro.
 
