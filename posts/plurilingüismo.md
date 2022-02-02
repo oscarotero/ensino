@@ -32,7 +32,7 @@ Este artista viviu varios anos na Galiza e ten colaborado con músicos galegos c
 
 Cando nun territorio conviven varias linguas, chamamos lingua minoritaria á que ten un menor número de falantes e lingua maioritaria á que ten o maior número de falantes.
 
-Unha lingua pode ser minoritaria nun territorio e maioritaria noutro. O alemán, por exemplo, que é a lingua maioritaria na Alemaña, na Bélxica é unha lingua minoritaria, onde é falado por menos de 1% da poboación.
+Unha lingua pode ser minoritaria nun territorio e maioritaria noutro. O alemán, por exemplo, que é a lingua maioritaria na Alemaña, na Bélxica, onde é falado por menos de 1% da poboación, é unha lingua minoritaria.
 
 # Lingua hexemónica ou dominante e lingua minorizada
 
