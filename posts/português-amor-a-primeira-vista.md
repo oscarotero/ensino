@@ -1,5 +1,5 @@
 ---
-title: Português, amor a primeira vista
+title: Português, amor à primeira vista
 tags:
   - sociolinguistica
 draft: false
