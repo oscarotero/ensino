@@ -1,6 +1,7 @@
 ---
 title: O reintegracionismo
-tags: []
+tags:
+  - sociolinguistica
 draft: false
 ---
 [Wiki reintegracionista da AGAL](http://agal-gz.org/faq/doku.php?id=pt_agal)
