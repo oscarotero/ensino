@@ -1,6 +1,7 @@
 ---
 title: Parabéns a você
 tags:
+  - musicas
   - portugues
 draft: false
 ---
