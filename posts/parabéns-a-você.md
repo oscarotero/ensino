@@ -11,36 +11,24 @@ draft: false
 
 # Letra 
 
-Parabéns a você,
-
-nesta data querida.
-
-Muitas felicidades,
-
+Parabéns a você,\
+nesta data querida.\
+Muitas felicidades,\
 muitos anos de vida.
 
-Hoje é dia de festa,
-
-cantam as nossas almas.
-
-Para a/o menina/o \_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
+Hoje é dia de festa,\
+cantam as nossas almas.\
+Para a/o menina/o \_\_\_\_\_\_\_\_\_\_\_\_\_\__\
 uma salva de palmas!
 
-Tenha tudo de bom, 
-
-do que a vida contém,
-
-tenha muita saúde
-
+Tenha tudo de bom, \
+do que a vida contém,\
+tenha muita saúde\
 e amigos também.
 
 Resposta da menina ou do menino que faz anos
 
-Obrigada/o meus amigos,
-
-do fundo do coração
-
-por me terem cantado
-
+Obrigada/o meus amigos,\
+do fundo do coração\
+por me terem cantado\
 esta linda canção.
