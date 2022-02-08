@@ -150,7 +150,7 @@ Lembra-te! Para colocar o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 a
 
 ## Ouvir
 
-* Eu <e-answer>ouço</e-answer>
+* Eu <e-answer>ouço</e-answer> ou <e-answer>oiço</e-answer>
 * Tu <e-answer>ouves</e-answer>
 * Ele, ela, você <e-answer>ouve</e-answer>
 * Nós <e-answer>ouvimos</e-answer>
