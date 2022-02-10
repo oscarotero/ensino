@@ -1,5 +1,5 @@
 ---
-title: LECTURAS
+title: Lecturas
 tags:
   - 3_eso
 draft: false
