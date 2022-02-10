@@ -5,3 +5,5 @@ tags:
 draft: false
 ---
 Bélico = de guerra
+
+Antonte = no día anterior ao de onte
