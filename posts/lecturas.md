@@ -1,7 +1,7 @@
 ---
 title: LECTURAS
 tags:
-  - 3_ESO
+  - 3_eso
 draft: false
 ---
 # Lecturas – 2ª avaliación
