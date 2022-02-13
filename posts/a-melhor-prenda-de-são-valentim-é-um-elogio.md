@@ -16,6 +16,11 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
   <div>Com boa disposição; alegre; divertido.</div>
 </e-card>
 
+<e-card color="6">
+  <div>Bom/boa</div>
+  <div>Que tem ou demonstra bondade.</div>
+</e-card>
+
 <e-card color="7">
   <div>Calmo</div>
   <div>Tranquilo, sossegado.</div>
@@ -184,6 +189,11 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
 <e-card color="10">
   <div>Tolerante</div>
   <div>Que aceita e convive com a diferença (de ideias, de comportamentos etc.).</div>
+</e-card>
+
+<e-card color="1">
+  <div>Único</div>
+  <div>Superior aos demais, excecional, incomparável.</div>
 </e-card>
 
 <e-card color="2">
