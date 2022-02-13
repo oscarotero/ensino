@@ -4,7 +4,7 @@ tags:
   - portugues
 draft: false
 ---
-Estes são alguns dos elogios que as turmas de português ofereceram como presente este ano, mas sabes qual é o significado de cada un deles?
+Estes são alguns dos elogios que as turmas de português ofereceram como presente este ano, mas sabes qual é o significado de cada um deles?
 
 <e-card color="1">
   <div>Atencioso</div>
