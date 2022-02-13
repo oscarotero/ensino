@@ -2,7 +2,6 @@
 title: Dança kuduro
 tags:
   - musicas
-  - portugues
 draft: false
 ---
 Dança kuduro - Daddy Kall e Latino (4:33 min)
