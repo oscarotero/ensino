@@ -8,21 +8,21 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
 
 <e-card color="1">
   <div>Atencioso</div>
-  <div>respeitoso; delicado; cortês. Que tem ou presta atenção; atento.</div>
+  <div>Respeitoso; delicado; cortês. Que tem ou presta atenção; atento.</div>
 </e-card>
 
 <e-card color="5">
   <div>Bem-disposto</div>
-  <div>com boa disposição; alegre; divertido.</div>
+  <div>Com boa disposição; alegre; divertido.</div>
 </e-card>
 
 <e-card color="7">
   <div>Calmo</div>
-  <div>tranquilo, sossegado.</div>
+  <div>Tranquilo, sossegado.</div>
 </e-card>
 
 <e-card color="10">
-  <div>charmoso</div>
+  <div>Charmoso</div>
   <div>Que tem charme (= sedução, encanto), encantador.</div>
 </e-card>
 
@@ -155,4 +155,3 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
   <div>Zen</div>
   <div>Calmo, relaxado, sereno.</div>
 </e-card>
-
