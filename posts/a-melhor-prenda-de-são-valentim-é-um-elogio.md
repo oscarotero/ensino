@@ -4,7 +4,7 @@ tags:
   - portugues
 draft: false
 ---
-Estes são alguns dos elogios que as turmas de português ofereceram como presente este ano, mas sabes qual é o significado de todos?
+Estes são alguns dos elogios que as turmas de português ofereceram como presente este ano, mas sabes qual é o significado de cada un deles?
 
 <e-card color="1">
   <div>Atencioso</div>
@@ -23,7 +23,7 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
 
 <e-card color="10">
   <div>Charmoso</div>
-  <div>Que tem charme (= sedução, encanto), encantador.</div>
+  <div>Que tem charme (= encanto), encantador.</div>
 </e-card>
 
 <e-card color="2">
@@ -98,12 +98,12 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
 
 <e-card color="5">
   <div>Meigo ou meiguinho</div>
-  <div>carinhoso, tenro = riquiño (em galego).</div>
+  <div>Carinhoso, ternurento = riquiño (em galego).</div>
 </e-card>
 
 <e-card color="7">
   <div>Nobre</div>
-  <div>Com bons sentimentos e que faz o bem.</div>
+  <div>Que tem bons sentimentos e tenta fazer o bem.</div>
 </e-card>
 
 <e-card color="10">
@@ -137,7 +137,7 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
 </e-card>
 
 <e-card color="7">
-  <div>Tenro</div>
+  <div>Ternurento</div>
   <div>Delicado, mimoso.</div>
 </e-card>
 
