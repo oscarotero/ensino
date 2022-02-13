@@ -51,6 +51,11 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
   <div>Que não se sente ansioso, tenso ou pressionado.</div>
 </e-card>
 
+<e-card color="10">
+  <div>Desenrascado ou despachado</div>
+  <div>Que é eficaz, hábil na resolução de situações complicadas ou inesperadas.</div>
+</e-card>
+
 <e-card color="7">
   <div>Doce</div>
   <div>Afetuoso, carinhoso.</div>
@@ -59,6 +64,11 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
 <e-card color="10">
   <div>Engraçado</div>
   <div>Que tem graça, gracioso.</div>
+</e-card>
+
+<e-card color="1">
+  <div>Espantoso</div>
+  <div>Incrível, extraordinário, maravilhoso, imenso, enorme.</div>
 </e-card>
 
 <e-card color="2">
@@ -91,6 +101,11 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
   <div>Que gosta de introduzir novidades ou mudanças.</div>
 </e-card>
 
+<e-card color="3">
+  <div>Janota</div>
+  <div>Que tem muito cuidado com a apresentação, catita, bem-posto. Que veste à moda.</div>
+</e-card>
+
 <e-card color="1">
   <div>Jeitoso</div>
   <div>Que tem jeito, hábil. Que tem boa aparência, bonito, elegante.</div>
@@ -106,9 +121,19 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
   <div>Que tem bons sentimentos e tenta fazer o bem.</div>
 </e-card>
 
+<e-card color="1">
+  <div>Otimista</div>
+  <div>Que pensa que tudo é ou resultará o melhor possível.</div>
+</e-card>
+
 <e-card color="10">
   <div>Ótimo</div>
   <div>Muito bom, boníssimo, excelente, magnífico.</div>
+</e-card>
+
+<e-card color="5">
+  <div>Ousado</div>
+  <div>Que não recua perante o perigo, corajoso, audaz.</div>
 </e-card>
 
 <e-card color="2">
@@ -134,6 +159,11 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
 <e-card color="5">
   <div>Simpático</div>
   <div>Que agrada ou atrai. Amável.</div>
+</e-card>
+
+<e-card color="8">
+  <div>Sorridente</div>
+  <div>Que sorri, alegre.</div>
 </e-card>
 
 <e-card color="7">
