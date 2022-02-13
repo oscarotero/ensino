@@ -156,9 +156,19 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
   <div>Pessoa incapaz de fazer ou dizer coisas desagradáveis a outra.</div>
 </e-card>
 
+<e-card color="9">
+  <div>Sensível</div>
+  <div>Que partilha as dores e problemas dos outros. Emotivo.</div>
+</e-card>
+
 <e-card color="5">
   <div>Simpático</div>
   <div>Que agrada ou atrai. Amável.</div>
+</e-card>
+
+<e-card color="2">
+  <div>Sincero</div>
+  <div>Que é verdadeiro e espontâneo.</div>
 </e-card>
 
 <e-card color="8">
