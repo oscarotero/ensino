@@ -147,7 +147,7 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
 </e-card>
 
 <e-card color="2">
-  <div>Valente ou valoroso/div>
+  <div>Valente ou valoroso</div>
   <div>Que não tem medo.</div>
 </e-card>
 
