@@ -8,7 +8,7 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
 
 <e-card color="1">
   <div>Atencioso</div>
-  <div>Respeitoso; delicado; cortês. Que tem ou presta atenção; atento.</div>
+  <div>Respeitador; delicado; cortês. Que tem ou presta atenção; atento.</div>
 </e-card>
 
 <e-card color="2">
@@ -182,7 +182,7 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
 </e-card>
 
 <e-card color="6">
-  <div>Respeitoso</div>
+  <div>Respeitador</div>
   <div>Pessoa incapaz de fazer ou dizer coisas desagradáveis a outra.</div>
 </e-card>
 
