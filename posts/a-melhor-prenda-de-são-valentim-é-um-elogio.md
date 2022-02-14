@@ -92,8 +92,8 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
 </e-card>
 
 <e-card color="8">
-  <div>Hilário</div>
-  <div>Alegre</div>
+  <div>Generoso</div>
+  <div>Que gosta de dar</div>
 </e-card>
 
 <e-card color="9">
@@ -148,7 +148,7 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
 
 <e-card color="9">
   <div>Lutador/-a</div>
-  <div>Que luta, se esforça para alcançar um objetivo</div>
+  <div>Que luta, que se esforça para alcançar um objetivo</div>
 </e-card>
 
 <e-card color="10">
