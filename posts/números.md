@@ -12,12 +12,10 @@ um - <e-answer>dois</e-answer> - três - <e-answer>quatro</e-answer> - cinco - <
 
 10 ao 100
 
-dez - <e-answer>vinte</e-answer> - trinta - <e-answer>quarenta</e-answer> - cinquenta - <e-answer>sesenta</e-answer> - setenta - <e-answer>oitenta</e-answer> - noventa - <e-answer>cem</e-answer>
-
-
+dez - <e-answer>vinte</e-answer> - trinta - <e-answer>quarenta</e-answer> - cinquenta - <e-answer>sessenta</e-answer> - setenta - <e-answer>oitenta</e-answer> - noventa - <e-answer>cem</e-answer>
 
 100 ao 1000
 
-cem - <e-answer>duzentos</e-answer> - trezentos - <e-answer>quatrocentos</e-answer> - quinhentos - <e-answer>seiscentos</e-answer> - setecentos - <e-answer>oitocentos/e-answer> - novecentos - <e-answer>mil</e-answer>
+cem - <e-answer>duzentos</e-answer> - trezentos - <e-answer>quatrocentos</e-answer> - quinhentos - <e-answer>seiscentos</e-answer> - setecentos - <e-answer>oitocentos</e-answer> - novecentos - <e-answer>mil</e-answer>
 
 <e-validate>Corrixe as respostas</evalidate>
