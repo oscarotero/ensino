@@ -4,6 +4,11 @@ tags:
   - 3_eso
 draft: false
 ---
+*Leite* é unha palabra masculina. Cando teñas dúbidas, lémbrate da canción do Xabarín O leite mola!:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_9hRR-xyi1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Aprende a formar o masculino desde o feminino:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D5lNYb9xvMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,3 +32,11 @@ Non digas *estreno:
 Non digas *espinilla:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yac-KuHWH2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Deixa de ser un *villano do escuadrón suicida: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPgEpYuAq_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Pódese dicir fantasma en galego:
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@digochoeu/video/6926878201943821574" data-video-id="6926878201943821574" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@digochoeu" href="https://www.tiktok.com/@digochoeu">@digochoeu</a> Reply to @alvaruttus_009 <a title="dígochoeu" target="_blank" href="https://www.tiktok.com/tag/d%C3%ADgochoeu">#DígochoEu</a> <a title="galego" target="_blank" href="https://www.tiktok.com/tag/galego">#galego</a> <a title="galicia" target="_blank" href="https://www.tiktok.com/tag/galicia">#Galicia</a> <a title="tvg" target="_blank" href="https://www.tiktok.com/tag/tvg">#TVG</a> <a title="aprendecontiktok" target="_blank" href="https://www.tiktok.com/tag/aprendecontiktok">#aprendecontiktok</a> <a target="_blank" title="♬ original sound - #DígochoEu" href="https://www.tiktok.com/music/original-sound-6926878163771378437">♬ original sound - #DígochoEu</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
