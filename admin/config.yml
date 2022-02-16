@@ -1,19 +1,19 @@
 backend:
   name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  branch: master
 
+# local_backend: true
 # Uncomment below to enable drafts
 # publish_mode: editorial_workflow
 
-media_folder: "img" # Media files will be stored in the repo under images/uploads
+media_folder: "img"
 
 collections:
-  # Exercicios
-  - name: "exercicios" # Used in routes, e.g., /admin/collections/blog
-    label: "Exercicios" # Used in the UI
-    folder: "posts" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  - name: "exercicios"
+    label: "Exercicios"
+    folder: "posts"
+    create: true
+    slug: "{{slug}}"
     fields:
       - label: "Título"
         name: "title"
@@ -26,8 +26,12 @@ collections:
 
       - label: "Categorías nas que aparece"
         name: "tags"
-        widget: "list"
-        default: []
+        widget: "relation" 
+        collection: "etiquetas"
+        value_field: "id"
+        display_fields: ["title"]
+        search_fields: ["title"]
+        multiple: true
 
       - label: "Ocultar"
         name: "draft"
@@ -73,8 +77,12 @@ collections:
 
       - label: "Categorías nas que aparece"
         name: "tags"
-        widget: "list"
-        default: []
+        widget: "relation" 
+        collection: "etiquetas"
+        value_field: "id"
+        display_fields: ["title"]
+        search_fields: ["title"]
+        multiple: true
 
       - label: "Corpo"
         name: "body"
