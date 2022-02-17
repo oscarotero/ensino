@@ -19,8 +19,7 @@ non sirve pa na
 Así que vente, dime como vou vivir
 cando ti non veñas por aquí.
 
-
-Ola, ontás? Non vas quedar?
+Olá, ontás? Non vas quedar?
 Onvás, ontás, non vas querer quedar?
-Ontas, non vas querer quedar?
+Ontás, non vas quedar?
 Onvás, ontás, non vas querer
