@@ -16,7 +16,7 @@ Todo o que che din
 xa non vale na
 que ti que nin me vexas só me fagas sufrir
 non sirve pa na
-Así que vente, dime como vou vir
+Así que vente, dime como vou vivir
 cando ti non veñas por aquí.
 
 
