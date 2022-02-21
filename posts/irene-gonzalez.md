@@ -9,7 +9,7 @@ tags:
 
 # Futbolista quero ser
 
-![](/static/img/irene_porteira_pioneira.jpg)
+![](/img/irene_porteira_pioneira.jpg)
 
 _Mamá,\
 futbolista quero ser,\

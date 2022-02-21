@@ -35,7 +35,7 @@ aparecer no noso cartaz.
    que premer sobre a pestana **custom** e escribilo dentro do cadro. Isto
    último foi o fixen eu, velaquí o resultado:
 
-   ![imaxe](/static/img/cartaz-lavado-de-mans.png)
+   ![imaxe](/img/cartaz-lavado-de-mans.png)
 
 ---
 

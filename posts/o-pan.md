@@ -24,7 +24,7 @@ Escribe debaixo as túas respostas.
   <e-tag color=3>rocho</e-tag>
 </e-layout>
 
-![](/static/img/pan.jpg)
+![](/img/pan.jpg)
 
 1 : <e-answer size=16>migallas</e-anwser>
 
