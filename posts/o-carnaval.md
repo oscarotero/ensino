@@ -14,7 +14,7 @@ Agora vamos ver um timelapse, uma série de fotografias montadas como um filme e
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IOCFBKvYD0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Para te familiarizares com o samba, a música e a dança máis populares do Carnaval, dá uma vista de olhos nestes vídeos:
+Para te familiarizares com o samba, a música e a dança mais populares do Carnaval, dá uma vista de olhos nestes vídeos:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6u9uOyt0D_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
