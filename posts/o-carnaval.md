@@ -10,7 +10,7 @@ Os desfiles decorrem num local chamado sambódromo e as escolas de samba ensaiam
 
 Ainda que o espetáculo do sambódromo é a imagen que todos temos na cabeça do Carnaval brasileiro, o certo é que apenas os brasileiros ricos e os turistas se podem permitir aceder a este evento porque os bilhetes são muito caros. Como não têm dinheiro, muitos brasileiros vão ver os ensaios. Isto é o que fazem os vizinhos da favela Mangueira, a única favela que tem uma escola de samba própria que participa no desfile.
 
-Agora vamos ver um timelapse, uma série de fotografias montadas como um filme que mostram tudo o que acontece no sambódromo a câmara rápida:
+Agora vamos ver um timelapse, uma série de fotografias montadas como um filme e que nos mostram tudo o que acontece no sambódromo a câmara rápida:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IOCFBKvYD0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
