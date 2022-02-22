@@ -4,7 +4,7 @@ tags:
   - portugues
 draft: false
 ---
-A sua  é uma festa muito diferente da nossa. A primeira diferença é que eles festejam o Carnaval no verão e está calor. Outra é que a música e dança ali são fundamentais, tocar e dançar o samba é o jeito de festejar. O samba é um género musical que tem a sua origem nas comunidades afro-brasileiras da cidade do Rio de Janeiro a começos do século XX. Durante a época do Carnaval toca-se e dança-se samba-enredo, que é uma modalidade específica de samba criada para desfilar.
+A sua  é uma festa muito diferente da nossa. A primeira diferença é que eles festejam o Carnaval no verão e está calor. Outra é que a música e dança ali são fundamentais, tocar e dançar o samba é o jeito de festejar deles. O samba é um género musical que tem a sua origem nas comunidades afro-brasileiras da cidade do Rio de Janeiro a começos do século XX. Durante a época do Carnaval toca-se e dança-se samba-enredo, que é uma modalidade específica de samba criada para desfilar.
 
 Os desfiles decorrem num lugar chamado sambódromo e as escolas de samba ensaiam durante todo o ano as danças que realizarão ali. Os desfiles desenvolvem-se durante vários días e cada escola tem uma hora aproximadamente para desfilar. Durante esse tempo ouve-se samba-enredo e todos marcham ao ritmo dele. São miles as pessoas que  fazem parte de cada escola e ao acabar uma marchar uma, marcha a seguinte.
 
