@@ -1,5 +1,5 @@
 ---
-title: Plural das palavras acabadas em ão
+title: O plural das palavras acabadas em ão
 tags:
   - portugues
 draft: false
@@ -21,22 +21,21 @@ Vamos pòr em plural *mão, pão* e *razão*
 * Razones > razoes > razões
 
 
-
 É facílimo! Treina com as seguintes palavras. Passa para o plural:
 
-limão > limões
+limão > <e-answer>limões</e-answer>
 
-alemão > alemães
+alemão > <e-answer>alemães</e-answer>
 
-canção > canções
+canção > <e-answer>canções</e-answer>
 
-calção > calções
+calção > <e-answer>calções</e-answer>
 
-foguetão > foguetões
+foguetão > <e-answer>foguetões</e-answer>
 
-melão > melões
+melão > <e-answer>melões</e-answer>
 
-cão > cães
+cão > <e-answer>l</e-answer>cães
 
 lião > liões
 
