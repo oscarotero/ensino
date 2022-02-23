@@ -38,18 +38,21 @@ Lembra-te! Para colocar o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 a
 12. avião > <e-answer>aviões</e-answer>
 13. botão > <e-answer>botões</e-answer>
 14. capitão > <e-answer>capitães</e-answer>
-15. dragão > <e-answer>dragões</e-answer>
-16. feijão > <e-answer>feijões</e-answer>
-17. brincalhão > <e-answer>brincalhões</e-answer>
-18. vulcão > <e-answer>vulcões</e-answer>
-19. coração > <e-answer>corações</e-answer>
-20. camião > <e-answer>camiões</e-answer>
-21. pulmão > <e-answer>pulmões</e-answer>
-22. fogão > <e-answer>fogões</e-answer>
-23. balão > <e-answer>balões</e-answer>
-24. tubarão > <e-answer>tubarões</e-answer>
-25. verão > <e-answer>verões</e-answer>
-26. pinhão > <e-answer>pinhões</e-answer>
-27. anão > <e-answer>anões</e-answer>
+15. estação > <e-answer>estações</e-answer>
+16. dragão > <e-answer>dragões</e-answer>
+17. feijão > <e-answer>feijões</e-answer>
+18. brincalhão > <e-answer>brincalhões</e-answer>
+19. vulcão > <e-answer>vulcões</e-answer>
+20. coração > <e-answer>corações</e-answer>
+21. camião > <e-answer>camiões</e-answer>
+22. pulmão > <e-answer>pulmões</e-answer>
+23. fogão > <e-answer>fogões</e-answer>
+24. balão > <e-answer>balões</e-answer>
+25. tubarão > <e-answer>tubarões</e-answer>
+26. verão > <e-answer>verões</e-answer>
+27. pinhão > <e-answer>pinhões</e-answer>
+28. anão > <e-answer>anões</e-answer>
+29. condição > <e-answer>condições</e-answer>
+30. questão > <e-answer>questões</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
