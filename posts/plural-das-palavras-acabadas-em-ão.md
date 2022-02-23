@@ -4,7 +4,7 @@ tags:
   - portugues
 draft: false
 ---
-Conhecer o plural das palavras em dois simples passos:
+Aprende  o plural das palavras acabadas em ão em dois simples passos:
 
 Bora! Vamos pôr em plural *mão, pão* e *razão*
 
@@ -21,6 +21,8 @@ Bora! Vamos pôr em plural *mão, pão* e *razão*
 * Razones > razoes > razões
 
 É facílimo! Agora é o teu turno! Passa para o plural as seguintes palavras:
+
+Lembra-te! Para colocar o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal
 
 * limão > <e-answer>limões</e-answer>
 * alemão > <e-answer>alemães</e-answer>
