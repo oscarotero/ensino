@@ -35,46 +35,36 @@ foguetão > <e-answer>foguetões</e-answer>
 
 melão > <e-answer>melões</e-answer>
 
-cão > <e-answer>l</e-answer>cães
+cão > <e-answer>cães</e-answer>
 
-lião > liões
+lião > <e-answer>liões</e-answer>
 
-avião > aviões
+avião > <e-answer>aviões</e-answer>
 
-botão > botões
+botão > <e-answer>botões</e-answer>
 
-capitão > capitães
+capitão > <e-answer>capitães</e-answer>
 
-dragão > dragões
+dragão > <e-answer>dragões</e-answer>
 
-feijão > feijões
+feijão > <e-answer>feijões</e-answer>
 
-vulcão > vulcões
+vulcão > <e-answer>vulcões</e-answer>
 
-coração > corações
+coração > <e-answer>corações</e-answer>
 
-camião > camiões
+camião > <e-answer>camiões</e-answer>
 
-vilão > vilães, vilãos, vilões
+pulmão > <e-answer>pulmões</e-answer>
 
-pulmão > pulmões
+fogão > <e-answer>fogões</e-answer>
 
-fogão > fogões
+balão > <e-answer>balões</e-answer>
 
-balão > balões
+tubarão > <e-answer>tubarões</e-answer>
 
-tubarão > tubarões
+pinhão > <e-answer>pinhões</e-answer>
 
-pinhão > pinhões
+anão > <e-answer>anões</e-answer>
 
-pião > piões
-
-mamão > mamões
-
-anão > anões
-
-pavão > pavões
-
-portão > portões
-
-boião > boiões
+<e-validate>Verifica as respostas</e-validate>
