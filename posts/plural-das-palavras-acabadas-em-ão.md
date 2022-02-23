@@ -6,8 +6,6 @@ draft: false
 ---
 Aprende  o plural das palavras acabadas em ão em dois simples passos:
 
-Bora! Vamos pôr em plural *mão, pão* e *razão*
-
 1º Vemos qual é o plural da palavra em castelhano:
 
 * mano > manos
@@ -20,7 +18,7 @@ Bora! Vamos pôr em plural *mão, pão* e *razão*
 * Panes > paes > pães
 * Razones > razoes > razões
 
-É facílimo! Agora é o teu turno! Passa para o plural as seguintes palavras:
+É canja! Agora é a tua vez! Passa para o plural as seguintes palavras:
 
 Lembra-te! Para colocar o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal
 
