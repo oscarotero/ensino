@@ -28,7 +28,7 @@ Lembra-te! Para colocar o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 a
 4. irmão > <e-answer>irmãos</e-answer>
 5. ladrão > <e-answer>ladrões</e-answer>
 6. calção > <e-answer>calções</e-answer>
-7. cidadão > <e-answer>cidadãos/e-answer>
+7. cidadão > <e-answer>cidadãos</e-answer>
 8. foguetão > <e-answer>foguetões</e-answer>
 9. melão > <e-answer>melões</e-answer>
 10. cão > <e-answer>cães</e-answer>
