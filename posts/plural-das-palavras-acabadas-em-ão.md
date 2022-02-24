@@ -60,9 +60,9 @@ Lembra-te! Para colocar o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 a
 
 A regra que acabamos de aprender também a podemos aplicar a alguns aumentativos: 
 
-Exemplo: narigão > narigões
+Exemplo: *narigão* > *narigões*
 
-Bora! Tenta tu agora! Qual é plural de:
+Bora! Tenta tu agora! Qual é o plural de:
 
 1. sabichão > <e-answer>sabichões</e-answer>
 2. pobretão > <e-answer>pobretões</e-answer>
