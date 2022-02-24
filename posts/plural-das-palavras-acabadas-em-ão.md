@@ -12,7 +12,7 @@ Aprende  o plural das palavras acabadas em ão em dois simples passos:
 * pan > panes
 * razón > razones
 
-2º Feito isto, só temos que tirar o N e escrever no seu lugar um til:
+2º Feito isto, só temos que tirar o N e escrever no seu lugar um til sobre a vogal anterior:
 
 * Manos > maos > mãos
 * Panes > paes > pães
