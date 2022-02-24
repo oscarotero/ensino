@@ -71,4 +71,6 @@ Bora! Tenta tu agora! Qual é plural de:
 5. casarão > <e-answer>casarões</e-answer>
 6. charlatão > <e-answer>charlatães</e-answer>
 
+<e-validate>Verifica as respostas</e-validate>
+
 Como *verão* e *anão, charlatão* é uma dessas palavras que admiten duas formas de plural. Olha o vídeo da RTP ensina para saberes quais são as duas formas de plural de [charlatão](https://ensina.rtp.pt/artigo/plural-de-palavras-terminadas-em-ao/)
