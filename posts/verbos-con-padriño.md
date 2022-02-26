@@ -4,7 +4,9 @@ tags:
   - 3_eso
 draft: false
 ---
-Todo o que che din - Verto (04:04 min)
+## Todo o que che din - Verto 
+
+(04:04 min)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sdhbZUNrjKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -30,10 +32,11 @@ Todo o que che din - Verto (04:04 min)
 >
 > Onvás, ontás, non vas querer.
 
+- - -
 
+## Dálle - Verto 
 
-
-Dálle - Verto (03:28 min)
+(03:28 min)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UNaNNbyn4KY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -61,9 +64,11 @@ Dálle - Verto (03:28 min)
 >
 > **dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle**
 
+- - -
 
+## Sempre igual - Verto 
 
-Sempre igual - Verto (03:07 min)
+(03:07 min)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SMIULbtShf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
