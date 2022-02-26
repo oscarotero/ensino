@@ -31,6 +31,8 @@ Todo o que che din - Verto (04:04 min)
 > Onvás, ontás, non vas querer.
 
 
+
+
 Dálle - Verto (03:28 min)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UNaNNbyn4KY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -49,7 +51,7 @@ Dálle - Verto (03:28 min)
 >
 > todo o mundo atento a cada paso que **da** Verto 
 >
-> sinto que casi xa da igual sinto que casi xa está 
+> sinto que casi xa **da** igual sinto que casi xa está 
 >
 > sinto que papi mami ali casi todas están a esperar 
 >
@@ -58,6 +60,8 @@ Dálle - Verto (03:28 min)
 > quitándolle o sitio a quenes están denigrando persoas dicindo que é trap 
 >
 > **dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle**
+
+
 
 Sempre igual - Verto (03:07 min)
 
