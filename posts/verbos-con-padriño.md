@@ -18,7 +18,7 @@ draft: false
 >
 > que ti que nin me vexas só me fagas sufrir
 >
-> non **sirve** pa na
+> non *\*sirve* pa na
 >
 > Así que vente, dime como vou vivir
 >
