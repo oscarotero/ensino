@@ -56,11 +56,11 @@ draft: false
 >
 > sinto que casi xa **da** igual sinto que casi xa está 
 >
-> sinto que papi mami ali casi todas están a esperar 
+> sinto que papi mami alí *\*casi* todas están a esperar 
 >
 > sinto que de aquí non podo baixar síntome mal síntome mal 
 >
-> quitándolle o sitio a *quenes están denigrando persoas dicindo que é trap 
+> quitándolle o sitio a *\*quenes* están denigrando persoas dicindo que é trap 
 >
 > **dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle**
 
@@ -80,7 +80,7 @@ draft: false
 >
 > e eu **sego** igual
 >
-> \*xoven triste e sen un fogar
+> *\*xoven* triste e sen un fogar
 >
 > vivindo en Compostela
 >
@@ -92,7 +92,7 @@ draft: false
 >
 >  e eu **sego** igual
 >
-> \*xoven triste e sen un fogar
+> *\*xoven* triste e sen un fogar
 >
 > vivindo en Compostela
 >
