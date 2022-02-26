@@ -54,9 +54,9 @@ draft: false
 >
 > todo o mundo atento a cada paso que **da** Verto 
 >
-> sinto que casi xa **da** igual sinto que casi xa está 
+> sinto que *\*casi* xa **da** igual sinto que *\*casi* xa está 
 >
-> sinto que papi mami alí *\*casi* todas están a esperar 
+> sinto que papi mami ali *\*casi* todas están a esperar 
 >
 > sinto que de aquí non podo baixar síntome mal síntome mal 
 >
