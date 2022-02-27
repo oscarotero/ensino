@@ -40,8 +40,6 @@ Con tanta mascarada non resulta doado sabermos quen é quen polo que imos darlle
 
 [O oso de Salcedo na Proba de Brollón](https://www.youtube.com/watch?v=ngDNWdFAyTo) (vídeo, 2:36 min)
 
-
-
 #### Doces de Entroido
 
 [Unha ducia de doces do Entroido](https://praza.gal/ducias/doces-de-entroido), artigo de Carmela S. Arines en *Praza*
@@ -55,3 +53,11 @@ Con tanta mascarada non resulta doado sabermos quen é quen polo que imos darlle
 #### Vocabulario básico para o Entroido
 
 [Palabras de Entroido](https://laurarubio.net/posts/palabras-de-entroido/)
+
+\#DígochoEu: Como é? Entroido ou Antroido? 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/duiI0oZLPa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+DígochoEu: Non digas *antifaz
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P1cbygc6Wdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
