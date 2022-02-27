@@ -44,7 +44,7 @@ Con tanta mascarada non resulta doado sabermos quen é quen polo que imos darlle
 
 [Unha ducia de doces do Entroido](https://praza.gal/ducias/doces-de-entroido), artigo de Carmela S. Arines en *Praza*
 
-[Freixós - filloas](https://www.youtube.com/watch?v=683qLcL0-pw), vídeo-receita de Bolboretas no Bandullo
+[Freixós - filloas](https://www.youtube.com/watch?v=683qLcL0-pw), vídeo-receita (+ léxico) de Bolboretas no Bandullo
 
 #### Xogos
 
