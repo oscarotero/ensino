@@ -3,7 +3,6 @@ title: Palabras de Entroido
 tags:
   - cartons
 ---
-
 <e-card color="1">
   <div>De onde vén a palabra Entroido?</div>
   <div>Procede do latín INTROITO “entrada na Coresma”</div>
@@ -71,7 +70,7 @@ tags:
 
 <e-card color="10">
   <div>Sinónimos de carauta</div>
-  <div>Careta, carantoña, máscara, felo...</div>
+  <div>Careta, carantoña, caranta, caroza, máscara, felo</div>
 </e-card>
 
 <e-card color="1">
