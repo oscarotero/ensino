@@ -44,6 +44,8 @@ Con tanta mascarada non resulta doado sabermos quen é quen polo que imos darlle
 
 [Unha ducia de doces do Entroido](https://praza.gal/ducias/doces-de-entroido), artigo de Carmela S. Arines en *Praza*
 
+[Freixós - Filloas, vídeo receita de Bolboretas no Bandullo](https://www.youtube.com/watch?v=683qLcL0-pw)
+
 #### Xogos
 
 [Canto sabes do Entroido?](https://www.gciencia.com/destinos/canto-sabes-do-noso-entroido/) Trivia de *GCiencia*
