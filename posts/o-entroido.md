@@ -6,7 +6,7 @@ draft: false
 ---
 ### O que é o Entroido?
 
-É unha festa popular de orixe pagá. Nas seus comezos, formaría parte dos ritos vinculados ao inverno, concretamente á fin do frío e á chegada da primavera e do tempo de sementar e, segundo isto, a finalidade das máscaras sería a de espantar os malos espíritos das colleitas.
+É unha festa popular de orixe pagá. Nos seus comezos, formaría parte dos ritos vinculados ao inverno, concretamente á fin do frío e á chegada da primavera e do tempo de sementar e, segundo isto, a finalidade das máscaras sería a de espantar os malos espíritos das colleitas.
 
 O Entroido tradicional foi concibido como a celebración do mundo ao revés, o escenario de todo o que está mal visto facer o resto do ano. Antigamente, o sentido do Entroido entendíase fronte á Coresma, que no cristianismo é o tempo da penitencia, da pureza e de pedir perdón polos pecados. Este xeito de concibir o Entroido xa non ten tanto peso na actualidade.
 
@@ -54,10 +54,10 @@ Con tanta mascarada non resulta doado sabermos quen é quen polo que imos darlle
 
 [Palabras de Entroido](https://laurarubio.net/posts/palabras-de-entroido/)
 
-\#DígochoEu: Como é? Entroido ou Antroido? 
+Como é? Entroido ou Antroido? 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/duiI0oZLPa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-DígochoEu: Non digas *antifaz
+Non digas *antifaz
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P1cbygc6Wdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
