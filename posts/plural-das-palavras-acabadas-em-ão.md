@@ -39,24 +39,21 @@ Lembra-te! Para colocar o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 a
 15. capitão > <e-answer>capitães</e-answer>
 16. estação > <e-answer>estações</e-answer>
 17. dragão > <e-answer>dragões</e-answer>
-18. vulcão > <e-answer>vulcões</e-answer>
-19. coração > <e-answer>corações</e-answer>
-20. camião > <e-answer>camiões</e-answer>
-21. pulmão > <e-answer>pulmões</e-answer>
-22. fogão > <e-answer>fogões</e-answer>
-23. balão > <e-answer>balões</e-answer>
-24. verão > <e-answer>verãos</e-answer> Esta palavra tem dois plurais, o outro é *verões*
-25. tubarão > <e-answer>tubarões</e-answer>
-26. opinião > <e-answer>opiniões</e-answer>
-27. pinhão > <e-answer>pinhões</e-answer>
-28. condição > <e-answer>condições</e-answer>
-29. questão > <e-answer>questões</e-answer>
-30. confissão > <e-answer>confissões</e-answer>
-31. anão > <e-answer>anãos</e-answer> *Anão* também tem dois plurais, a outra forma é *anões*
+18. coração > <e-answer>corações</e-answer>
+19. camião > <e-answer>camiões</e-answer>
+20. pulmão > <e-answer>pulmões</e-answer>
+21. fogão > <e-answer>fogões</e-answer>
+22. balão > <e-answer>balões</e-answer>
+23. verão > <e-answer>verãos</e-answer> Esta palavra tem dois plurais, o outro é *verões*
+24. tubarão > <e-answer>tubarões</e-answer>
+25. opinião > <e-answer>opiniões</e-answer>
+26. pinhão > <e-answer>pinhões</e-answer>
+27. condição > <e-answer>condições</e-answer>
+28. questão > <e-answer>questões</e-answer>
+29. confissão > <e-answer>confissões</e-answer>
+30. anão > <e-answer>anãos</e-answer> *Anão* também tem dois plurais, a outra forma é *anões*
 
 <e-validate>Verifica as respostas</e-validate>
-
-
 
 A regra que acabamos de aprender também a podemos aplicar a alguns aumentativos: 
 
