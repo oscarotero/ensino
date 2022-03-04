@@ -105,19 +105,19 @@ draft: false
 > (03:49)
 >
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/0330IKoCh0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Xuntos pra gañala vida día a día e hoxe e *\*mañán* tamén
-
-xuntos e que sintan todos que *si van xuntiños
-
-temos máis camiños pra facelos ben
-
-Xuntos non **habrá** quen **poda**
-
-miña nai querida xa o sabemos ben
-
-xuntos máis fortes, máis bravos, xustos máis ben
-
-xuntos nos *trunfos
-
-e xuntos nos erros tamén
+>
+> Xuntos pra gañala vida día a día e hoxe e *\*mañán* tamén
+>
+> xuntos e que sintan todos que *si van xuntiños
+>
+> temos máis camiños pra facelos ben
+>
+> Xuntos non **habrá** quen **poda**
+>
+> miña nai querida xa o sabemos ben
+>
+> xuntos máis fortes, máis bravos, xustos máis ben
+>
+> xuntos nos *trunfos
+>
+> e xuntos nos erros tamén
