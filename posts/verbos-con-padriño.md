@@ -97,15 +97,17 @@ draft: false
 > vivindo en Compostela
 >
 > todo é sempre igual
->
-> \---
->
-> ## Xuntos - Familia Caamagno 
->
-> (03:49)
->
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/0330IKoCh0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
->
+
+\---
+
+## Xuntos - Familia Caamagno 
+
+(03:49 min)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0330IKoCh0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 > Xuntos pra gañala vida día a día e hoxe e *\*mañán* tamén
 >
 > xuntos e que sintan todos que *si van xuntiños
