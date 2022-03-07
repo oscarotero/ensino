@@ -471,3 +471,55 @@ draft: false
     </ul>
   </div>
 </e-card>
+
+<e-card color="1">
+  <div>Presente de indicativo de escrever</div>
+  <div>
+    <ul>
+      <li>eu escrevo </li>
+      <li>tu escreves </li>
+      <li>ele, ela, você escreve </li>
+      <li>nós escrevemos </li>
+      <li>eles, elas, vocês escrevem </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito de indicativo de escrever</div>
+  <div>
+    <ul>
+      <li>eu escrevi </li>
+      <li>tu escreveste </li>
+      <li>ele, ela, você escreveu </li>
+      <li>nós escrevemos </li>
+      <li>eles, elas, vocês escreveram </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Presente de indicativo de escrever</div>
+  <div>
+    <ul>
+      <li>eu leio </li>
+      <li>tu lês </li>
+      <li>ele, ela, você lê </li>
+      <li>nós lemos </li>
+      <li>eles, elas, vocês leem </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Presente de indicativo de escrever</div>
+  <div>
+    <ul>
+      <li>eu li </li>
+      <li>tu leste </li>
+      <li>ele, ela, você leu </li>
+      <li>nós lemos </li>
+      <li>eles, elas, vocês leram </li>
+    </ul>
+  </div>
+</e-card>
