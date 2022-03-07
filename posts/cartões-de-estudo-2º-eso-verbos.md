@@ -264,7 +264,6 @@ draft: false
   </div>
 </e-card>
 
-
 <e-card color="1">
   <div>Presente de indicativo de vir</div>
   <div>
@@ -365,6 +364,32 @@ draft: false
       <li>ele, ela, você pôde </li>
       <li>nós pudemos </li>
       <li>eles, elas, vocês puderam </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Presente de indicativo de trazer</div>
+  <div>
+    <ul>
+      <li>eu trago </li>
+      <li>tu trazes </li>
+      <li>ele, ela, você traz </li>
+      <li>nós trazemos </li>
+      <li>eles, elas, vocês trazem </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito de indicativo de poder</div>
+  <div>
+    <ul>
+      <li>eu trouxe </li>
+      <li>tu trouxeste </li>
+      <li>ele, ela, você trouxe </li>
+      <li>nós trouxemos </li>
+      <li>eles, elas, vocês trouxeram </li>
     </ul>
   </div>
 </e-card>
