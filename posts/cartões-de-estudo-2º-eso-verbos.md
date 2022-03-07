@@ -239,6 +239,32 @@ draft: false
 </e-card>
 
 <e-card color="1">
+  <div>Presente de indicativo de ir</div>
+  <div>
+    <ul>
+      <li>eu vou </li>
+      <li>tu vais </li>
+      <li>ele, ela, você vai </li>
+      <li>nós vamos </li>
+      <li>eles, elas, vocês vão </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito de indicativo de ir</div>
+  <div>
+    <ul>
+      <li>eu fui </li>
+      <li>tu foste </li>
+      <li>ele, ela, você foi </li>
+      <li>nós fomos </li>
+      <li>eles, elas, vocês foram </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
   <div>Presente de indicativo de ver</div>
   <div>
     <ul>
@@ -286,6 +312,32 @@ draft: false
       <li>ele, ela, você veio </li>
       <li>nós viemos </li>
       <li>eles, elas, vocês vieram </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Presente de indicativo de dar</div>
+  <div>
+    <ul>
+      <li>eu dou </li>
+      <li>tu dás </li>
+      <li>ele, ela, você dá </li>
+      <li>nós damos </li>
+      <li>eles, elas, vocês dão </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito de indicativo de dar</div>
+  <div>
+    <ul>
+      <li>eu dei</li>
+      <li>tu deste</li>
+      <li>ele, ela, você deu</li>
+      <li>nós demos</li>
+      <li>eles, elas, vocês deram </li>
     </ul>
   </div>
 </e-card>
@@ -382,14 +434,40 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de indicativo de poder</div>
+  <div>Pretérito perfeito indicativo de trazer</div>
   <div>
     <ul>
-      <li>eu trouxe </li>
-      <li>tu trouxeste </li>
-      <li>ele, ela, você trouxe </li>
-      <li>nós trouxemos </li>
-      <li>eles, elas, vocês trouxeram </li>
+      <li>eu trouxe</li>
+      <li>tu trouxeste</li>
+      <li>ele, ela, você troouxe</li>
+      <li>nós trouxemos</li>
+      <li>eles, elas, vocês trouxeram</li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Presente de indicativo de começar</div>
+  <div>
+    <ul>
+      <li>eu começo </li>
+      <li>tu começas </li>
+      <li>ele, ela, você começa </li>
+      <li>nós começamos </li>
+      <li>eles, elas, vocês começam </li>
+    </ul>
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Pretérito perfeito de indicativo de começar</div>
+  <div>
+    <ul>
+      <li>eu comecei </li>
+      <li>tu começaste </li>
+      <li>ele, ela, você começou </li>
+      <li>nós começámos </li>
+      <li>eles, elas, vocês começaram </li>
     </ul>
   </div>
 </e-card>
