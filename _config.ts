@@ -1,7 +1,7 @@
 import lume from "lume/mod.ts";
 import slugifyUrls from "lume/plugins/slugify_urls.ts";
 import inline from "lume/plugins/inline.ts";
-import netlifyCms from "https://raw.githubusercontent.com/lumeland/experimental-plugins/main/netlifycms/mod.ts";
+import netlifyCms from "lume/plugins/netlify_cms.ts";
 
 const site = lume({
   src: ".",
