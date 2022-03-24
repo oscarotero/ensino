@@ -14,7 +14,7 @@ draft: false
 
 ## Significados: de meu, de teu, de seu
 
-1) Indicar que teño a propiedade exclusiva de algo. Úsase con bens materiais que podes comprar, vender, ter, perder ou transmitir a outros:
+1. Indicar que teño a propiedade exclusiva de algo. Úsase con bens materiais que podes comprar, vender, ter, perder ou transmitir a outros:
 
 * *Tendes un apartamento de voso?*
 * *Ese libro é de teu ou emprestároncho.*
@@ -27,7 +27,7 @@ As expresións *de meu, de teu, de seu, de noso, de voso* e *de seu* empréganse
 
 * *Tantos anos de traballo e non tendes nada de voso.*
 
-2) Indicar que alguén posúe algo en por si, por propia natureza, como característica ou propiedade da súa maneira de ser.
+2. Indicar que alguén posúe algo en por si, por propia natureza, como característica ou propiedade da súa maneira de ser.
 
 * *Como é lista de seu, entende todo á primeira.*
 * *Podes pedirlle axuda cando precises, Ana é boa de seu.*
@@ -37,13 +37,13 @@ Estas formas poden indicar que unha característica é propia da natureza dunha 
 
 * *Seguro que non espera nada a cambio. É que é boíño de seu.*
 
-3) Indicar que algo sucede por si mesmo, sen participación externa:
+3. Indicar que algo sucede por si mesmo, sen participación externa:
 
 * *O cadro caeu de seu, non lle tocou ninguén.*
-* *É tan forte que curou de seu, sen tomar mediación ningunha.*
+* *É tan forte que curou de seu, sen tomar medicación ningunha.*
 * *Non apaguei a TV, parou de seu. Debeu marchar a corrente.*
 
-4) Indicar relación de parentesco (No norte de Galicia e mais no leste, entre Lugo e Asturias, e sobre todo entre Lugo e León)
+4. Indicar relación de parentesco (No norte de Galicia e mais no leste, entre Lugo e Asturias, e sobre todo entre Lugo e León)
 
 * *Unha tía de noso.*
 * *Un fillo de meu.*
