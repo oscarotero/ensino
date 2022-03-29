@@ -2,7 +2,6 @@
   "imports": {
     "lume": "https://deno.land/x/lume@v1.7.2/mod.ts",
     "lume/": "https://deno.land/x/lume@v1.7.2/",
-    "https://deno.land/x/lume/": "https://deno.land/x/lume@v1.7.2/",
-    "lume/plugins/date/locale": "https://deno.land/x/date_fns@v2.22.1/locale"
+    "https://deno.land/x/lume/": "https://deno.land/x/lume@v1.7.2/"
   }
 }
