@@ -13,7 +13,7 @@ draft: false
 * **Parroquia**: unidade territorial en que se dividen os concellos. Tamén é unha división relixiosa. Toda parroquia ten como patrón un santo.\
 * **Aldea** (sinónimos: lugar, barrio, xudaría, … ): unidade territorial mínima. Grupo de casas, normalmente en zona rural, cuxos habitantes se dedican a actividades agrícolas. Non se debe confundir con pobo.\
 * **Vila**: núcleo de poboación maior ca a aldea e menor ca a cidade. Nos primeiros séculos da chegada dos romanos a Galicia, unha "vila" era unha casa rural coas súas dependencias para o gando e a agricultura e as terras agrícolas que a rodeaban. Non se debe confundir con pobo.\
-* n**Cidade**: núcleo de poboación grande e con moitos habitantes que se dedican a actividades non agrícolas.\
+* **Cidade**: núcleo de poboación grande e con moitos habitantes que se dedican a actividades non agrícolas.\
 * **Barrio** (urbano): cada unha das partes en que se dividen as vilas grandes ou as cidades.\
 * **Pobo**: conxunto dos habitantes dun territorio, cidade, vila ou aldea.\
 * **Localidade**: aldea, vila ou cidade; núcleo de poboación.\
