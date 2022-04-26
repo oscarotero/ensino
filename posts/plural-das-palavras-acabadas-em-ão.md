@@ -4,7 +4,7 @@ tags:
   - portugues
 draft: false
 ---
-Aprende  o plural das palavras acabadas em ão em dois simples passos:
+Aprende  o plural das palavras acabadas em -ão em dois simples passos:
 
 1º Vemos qual é o plural da palavra em castelhano:
 
@@ -20,7 +20,7 @@ Aprende  o plural das palavras acabadas em ão em dois simples passos:
 
 É canja! Agora é a tua vez! Passa para o plural as seguintes palavras:
 
-Lembra-te! Para colocar o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal
+Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal
 
 1. limão > <e-answer>limões</e-answer>
 2. alemão > <e-answer>alemães</e-answer>
