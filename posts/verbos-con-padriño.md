@@ -118,7 +118,7 @@ draft: false
 >
 > xuntos máis fortes, máis bravos, xustos máis ben
 >
-> xuntos nos *trunfos
+> xuntos nos **trunfos*
 >
 > e xuntos nos erros tamén
 
