@@ -144,6 +144,6 @@ Teño gana de poñerme tonto,
 cargala e dicirlles que lles quero moito.
 Vamos enchernos e vamos falar de cousas!
 
-**É** que o día que sexamos vellos
+**É** que o día que **sexamos** vellos
 vainos joder non ter pasado máis tempo
 cheos coma cadelos falando de cousas.
