@@ -128,7 +128,7 @@ draft: false
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T0Lma3MZ01s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> Ao final sempre **faigo** o mismo
+> Ao final sempre **faigo** o *\*mismo*
 > levo toda a semana insistindo:
 > **vamos** enchernos e **vamos** falar de cousas!
 >
@@ -145,5 +145,5 @@ draft: false
 > Vamos enchernos e vamos falar de cousas!
 >
 > **É** que o día que **sexamos** vellos
-> vainos joder non ter pasado máis tempo
+> vainos *\*joder* non ter pasado máis tempo
 > cheos coma cadelos falando de cousas.
