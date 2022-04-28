@@ -108,7 +108,7 @@ draft: false
 
 > Xuntos pra gañala vida día a día e hoxe e *\*mañán* tamén
 >
-> xuntos e que sintan todos que *si van xuntiños
+> xuntos e que sintan todos que **si* van xuntiños
 >
 > temos máis camiños pra facelos ben
 >
