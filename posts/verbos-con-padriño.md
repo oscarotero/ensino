@@ -128,22 +128,22 @@ draft: false
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T0Lma3MZ01s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Ao final sempre **faigo** o mismo
-levo toda a semana insistindo:
-vamos enchernos e vamos falar de cousas!
-
-**É** que a veces levo o demo dentro,
-e ata que é de noite non se pon contento.
-Vamos enchernos e vamos falar de cousas!
-
-Agora que aínda **é** divertido,
-agora que aínda están os meus amigos,
-vamos enchernos e vamos falar de cousas!
-
-Teño gana de poñerme tonto,
-cargala e dicirlles que lles quero moito.
-Vamos enchernos e vamos falar de cousas!
-
-**É** que o día que **sexamos** vellos
-vainos joder non ter pasado máis tempo
-cheos coma cadelos falando de cousas.
+> Ao final sempre **faigo** o mismo
+> levo toda a semana insistindo:
+> **vamos** enchernos e **vamos** falar de cousas!
+>
+> **É** que a veces levo o demo dentro,
+> e ata que é de noite non se pon contento.
+> Vamos enchernos e vamos falar de cousas!
+>
+> Agora que aínda **é** divertido,
+> agora que aínda están os meus amigos,
+> vamos enchernos e vamos falar de cousas!
+>
+> Teño gana de poñerme tonto,
+> cargala e dicirlles que lles quero moito.
+> Vamos enchernos e vamos falar de cousas!
+>
+> **É** que o día que **sexamos** vellos
+> vainos joder non ter pasado máis tempo
+> cheos coma cadelos falando de cousas.
