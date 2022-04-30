@@ -60,28 +60,20 @@ draft: false
 
 ### Retrouso ou refrán
 
-> Xa non podo deixar de pensar
->
-> en como o mundo non para
->
+> Xa non podo deixar de pensar\
+> en como o mundo non para\
 > e eu **sego** igual.
 >
-> *\*Xoven* triste e sen un fogar
->
-> vivindo en Compostela
->
+> *\*Xoven* triste e sen un fogar\
+> vivindo en Compostela\
 > todo é sempre igual.
 >
-> Xa non podo deixar de pensar
+> Xa non podo deixar de pensar\
+> en como o mundo non para\
+> e eu **sego** igual.
 >
->  en como o mundo non para
->
->  e eu **sego** igual.
->
-> *\*Xoven* triste e sen un fogar
->
-> vivindo en Compostela
->
+> *\*Xoven* triste e sen un fogar\
+> vivindo en Compostela\
 > todo é sempre igual.
 
 - - -
