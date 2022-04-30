@@ -98,7 +98,7 @@ draft: false
 >
 > todo é sempre igual
 
----
+- - -
 
 ## Xuntos - Familia Caamagno
 
@@ -106,44 +106,39 @@ draft: false
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0330IKoCh0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> Xuntos pra gañala vida día a día e hoxe e *\*mañán* tamén
+> Xuntos pra gañala vida día a día e hoxe e *\*mañán* tamén\
+> xuntos e que sintan todos que **si* van xuntiños\
+> temos máis camiños pra facelos ben.
 >
-> xuntos e que sintan todos que **si* van xuntiños
+> Xuntos non **habrá** quen **poda**\
+> miña nai querida xa o sabemos ben.
 >
-> temos máis camiños pra facelos ben
->
-> Xuntos non **habrá** quen **poda**
->
-> miña nai querida xa o sabemos ben
->
-> xuntos máis fortes, máis bravos, xustos máis ben
->
-> xuntos nos **trunfos*
->
-> e xuntos nos erros tamén
+> Xuntos máis fortes, máis bravos, xustos máis ben\
+> xuntos nos **trunfos*\
+> e xuntos nos erros tamén.
 
----
+- - -
 
 ### Grande Amore – Vamos enchernos (e vamos falar de cousas!) (04:26 min)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T0Lma3MZ01s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> Ao final sempre **faigo** o *\*mismo*  
-> levo toda a semana insistindo:  
+> Ao final sempre **faigo** o *\*mismo*\
+> levo toda a semana insistindo:\
 > **vamos** enchernos e **vamos** falar de cousas!
 >
-> **É** que a veces levo o demo dentro,  
-> e ata que é de noite non se pon contento.  
+> **É** que a veces levo o demo dentro,\
+> e ata que é de noite non se pon contento.\
 > Vamos enchernos e vamos falar de cousas!
 >
-> Agora que aínda **é** divertido,  
-> agora que aínda están os meus amigos,  
+> Agora que aínda **é** divertido,\
+> agora que aínda están os meus amigos,\
 > vamos enchernos e vamos falar de cousas!
 >
-> Teño gana de poñerme tonto,  
-> cargala e dicirlles que lles quero moito.  
+> Teño gana de poñerme tonto,\
+> cargala e dicirlles que lles quero moito.\
 > Vamos enchernos e vamos falar de cousas!
 >
-> **É** que o día que **sexamos** vellos  
-> vainos *\*joder* non ter pasado máis tempo  
+> **É** que o día que **sexamos** vellos\
+> vainos *\*joder* non ter pasado máis tempo\
 > cheos coma cadelos falando de cousas.
