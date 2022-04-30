@@ -14,11 +14,11 @@ draft: false
 
 > Todo o que che **din**
 >
-> xa non vale na
+> xa non vale ná
 >
-> que ti que nin me vexas só me fagas sufrir
+> Que ti que nin me vexas só me fagas sufrir
 >
-> non *\*sirve* pa na
+> non *\*sirve* pa ná
 >
 > Así que vente, dime como vou vivir
 >
@@ -50,7 +50,7 @@ draft: false
 >
 > parece que o xogo xa non é do madrileño 
 >
-> eu non son español fillo da puta eu son galego 
+> eu non son español fillo da puta, eu son galego 
 >
 > todo o mundo atento a cada paso que **da** Verto 
 >
@@ -78,19 +78,19 @@ draft: false
 >
 > en como o mundo non para
 >
-> e eu **sego** igual.\
+> e eu **sego** igual.
 >
 > *\*Xoven* triste e sen un fogar
 >
 > vivindo en Compostela
 >
-> todo é sempre igual.\
+> todo é sempre igual.
 >
 > Xa non podo deixar de pensar
 >
 >  en como o mundo non para
 >
->  e eu **sego** igual.\
+>  e eu **sego** igual.
 >
 > *\*Xoven* triste e sen un fogar
 >
