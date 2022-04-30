@@ -35,26 +35,17 @@ draft: false
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UNaNNbyn4KY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> Euuu
->
-> sinto que a peña xa nos vai tomando en serio
->
-> estaba visto dende que saíu oie gayego
->
-> todos se queixaban que faltaba isto en galego
->
-> parece que o xogo xa non é do madrileño 
->
-> eu non son español fillo da puta, eu son galego 
->
-> todo o mundo atento a cada paso que **da** Verto 
->
-> sinto que *\*casi* xa **da** igual sinto que *\*casi* xa está 
->
-> sinto que papi mami ali *\*casi* todas están a esperar 
->
-> sinto que de aquí non podo baixar síntome mal síntome mal 
->
+> Euuu\
+> sinto que a peña xa nos vai tomando en serio\
+> estaba visto dende que saíu oie gayego\
+> todos se queixaban que faltaba isto en galego\
+> parece que o xogo xa non é do madrileño\
+> eu non son español fillo da puta, eu son galego\
+> todo o mundo atento a cada paso que **dá** Verto\
+> sinto que *\*casi* xa **dá** igual sinto que *\*casi* xa está\
+> sinto que papi mami ali *\*casi* todas están a esperar\
+> sinto que de aquí non podo baixar\
+> síntome mal, síntome mal\
 > quitándolle o sitio a *\*quenes* están denigrando persoas dicindo que é trap 
 >
 > **dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle dálle**
