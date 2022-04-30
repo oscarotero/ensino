@@ -78,25 +78,25 @@ draft: false
 >
 > en como o mundo non para
 >
-> e eu **sego** igual
+> e eu **sego** igual.\
 >
-> *\*xoven* triste e sen un fogar
+> *\*Xoven* triste e sen un fogar
 >
 > vivindo en Compostela
 >
-> todo é sempre igual
+> todo é sempre igual.\
 >
 > Xa non podo deixar de pensar
 >
 >  en como o mundo non para
 >
->  e eu **sego** igual
+>  e eu **sego** igual.\
 >
-> *\*xoven* triste e sen un fogar
+> *\*Xoven* triste e sen un fogar
 >
 > vivindo en Compostela
 >
-> todo é sempre igual
+> todo é sempre igual.
 
 - - -
 
