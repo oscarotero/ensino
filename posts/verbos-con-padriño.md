@@ -12,24 +12,19 @@ draft: false
 
 ### Retrouso ou refrán
 
-> Todo o que che **din**
->
+> Todo o que che **din**\
 > xa non vale ná.
 >
-> Que ti que nin me vexas só me fagas sufrir
->
+> Que ti que nin me vexas só me fagas sufrir\
 > non *\*sirve* pa ná.
 >
-> Así que vente, dime como vou vivir
->
+> Así que vente, dime como vou vivir\
 > cando ti non veñas por aquí.
 >
-> Olá, ontás? Non vas quedar?
->
+> Olá, ontás? Non vas quedar?\
 > Onvás, ontás, non vas querer quedar?
 >
-> Ontás, non vas quedar?
->
+> Ontás, non vas quedar?\
 > Onvás, ontás, non vas querer.
 
 - - -
