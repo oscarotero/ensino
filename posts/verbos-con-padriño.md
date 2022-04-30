@@ -14,11 +14,11 @@ draft: false
 
 > Todo o que che **din**
 >
-> xa non vale ná
+> xa non vale ná.
 >
 > Que ti que nin me vexas só me fagas sufrir
 >
-> non *\*sirve* pa ná
+> non *\*sirve* pa ná.
 >
 > Así que vente, dime como vou vivir
 >
