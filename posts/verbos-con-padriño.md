@@ -105,7 +105,7 @@ draft: false
 > levo toda a semana insistindo:\
 > **vamos** enchernos e **vamos** falar de cousas!
 >
-> **É** que a veces levo o demo dentro,\
+> **É** que **a veces* levo o demo dentro,\
 > e ata que é de noite non se pon contento.\
 > Vamos enchernos e vamos falar de cousas!
 >
