@@ -64,7 +64,7 @@ draft: false
       <li>tu chamas-te </li>
       <li>ele, ela, você chama-se </li>
       <li>nós chamamo-nos </li>
-      <li>eles, elas, vocês chama-se </li>
+      <li>eles, elas, vocês chamam-se </li>
     </ul>
   </div>
 </e-card>
