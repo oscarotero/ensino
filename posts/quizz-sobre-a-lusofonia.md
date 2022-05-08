@@ -9,17 +9,20 @@ draft: false
 <e-card color="1">
   <div>Oito</div>
   <div>
+Resposta errada!
   </div>
 </e-card>
 
 <e-card color="2">
   <div>Três</div>
   <div>
+Resposta errada!
   </div>
 </e-card>
 
 <e-card color="3">
   <div>Nove</div>
+<div>
 Sim, são nove!
 <ul>
 <li>Portugal</li>
@@ -37,5 +40,6 @@ Sim, são nove!
 <e-card color="4">
   <div>Onze</div>
   <div>
+Resposta errada!
   </div>
 </e-card>
