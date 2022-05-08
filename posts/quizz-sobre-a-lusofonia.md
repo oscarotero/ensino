@@ -184,3 +184,33 @@ Resposta certa!
 Resposta errada!
   </div>
 </e-card>
+
+7. Qual é cantora brasileira que atingiu este ano o primeiro lugar no ranking das músicas mais ouvidas no mundo?
+
+<e-card color="5">
+  <div>Anitta</div>
+  <div>
+Resposta certíssima!
+  </div>
+</e-card>
+
+<e-card color="6">
+  <div>Ludmilla</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="7">
+  <div>Ivete Sangalo</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="8">
+  <div>Adriana Calcanhoto</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
