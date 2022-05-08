@@ -155,7 +155,7 @@ Resposta certa!
   </div>
 </e-card>
 
-6. O kuduro é un género musical originário de?
+6. O kuduro é um género musical originário de?
 
 <e-card color="1">
   <div>Madeira</div>
