@@ -88,7 +88,7 @@ Resposta errada!
   </div>
 </e-card>
 
-<e-card color="1">
+<e-card color="2">
   <div>Brasília</div>
   <div>
 Resposta certa!
