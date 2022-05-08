@@ -65,7 +65,7 @@ Resposta errada!
   </div>
 </e-card>
 
-2. Qual é a capital do Brasil?
+3. Qual é a capital do Brasil?
 
 <e-card color="9">
   <div>Praia</div>
@@ -120,6 +120,66 @@ Resposta errada!
 
 <e-card color="6">
   <div>Bossa Nova</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+5. Em que continente fica Angola?
+
+<e-card color="7">
+  <div>Ásia</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="8">
+  <div>Oceânia</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="9">
+  <div>África</div>
+  <div>
+Resposta certa!
+  </div>
+</e-card>
+
+<e-card color="10">
+  <div>América do Sul</div>
+  <div>
+Resposta certa!
+  </div>
+</e-card>
+
+6. O kuduro é un género musical originário de?
+
+<e-card color="1">
+  <div>Madeira</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Brasil</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="3">
+  <div>Angola</div>
+  <div>
+Resposta certa!
+  </div>
+</e-card>
+
+<e-card color="4">
+  <div>Cabo Verde</div>
   <div>
 Resposta errada!
   </div>
