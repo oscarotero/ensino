@@ -40,27 +40,27 @@ Resposta errada!
 <e-card color="5">
   <div>José Saramago</div>
   <div>
-Certo!
+Resposta certa!
   </div>
 </e-card>
 
 <e-card color="6">
   <div>Fernando Pessoa</div>
   <div>
-Errado!
+Resposta errada!
   </div>
 </e-card>
 
 <e-card color="7">
   <div>José Luís Peixoto</div>
 <div>
-Errado!
+Resposta errada!
 </div>
 </e-card>
 
 <e-card color="8">
   <div>Eça de Queirós</div>
   <div>
-Errado!
+Resposta errada!
   </div>
 </e-card>
