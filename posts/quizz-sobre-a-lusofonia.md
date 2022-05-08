@@ -23,19 +23,9 @@ Resposta errada!
 <e-card color="3">
   <div>Nove</div>
 <div>
-Sim, são nove!
-<ul>
-<li>Portugal</li>
-<li>Brasil</li>
-<li>Cabo Verde</li>
-<li>Guiné-Bissau</li> 
-<li>São Tomé e Príncipe</li>
-<li>Guiné-Equatorial</li>
-<li>Angola</li>
-<li>Moçambique</li>
-<li>Timor-Leste</li>
-
-  </div>
+Resposta certíssima!
+Os nove países são: Portugal, Brasil, Cabo Verde, Guiné-Bissau, São Tomé e Príncipe, Guiné-Equatorial, Angola, Moçambique e Timor-Leste.
+</div>
 </e-card>
 
 <e-card color="4">
