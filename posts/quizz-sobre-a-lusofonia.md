@@ -94,3 +94,33 @@ Resposta errada!
 Resposta certa!
   </div>
 </e-card>
+
+4. Ao som de que música se dança no Carnaval brasileiro?
+
+<e-card color="3">
+  <div>Fado</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="4">
+  <div>Samba</div>
+  <div>
+Resposta certa!
+  </div>
+</e-card>
+
+<e-card color="5">
+  <div>Morna</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="6">
+  <div>Bossa Nova</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
