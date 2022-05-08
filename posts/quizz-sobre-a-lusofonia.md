@@ -64,3 +64,33 @@ Resposta errada!
 Resposta errada!
   </div>
 </e-card>
+
+2. Qual é a capital do Brasil?
+
+<e-card color="9">
+  <div>Praia</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="10">
+  <div>São Paulo</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Rio de Janeiro</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Brasília</div>
+  <div>
+Resposta certa!
+  </div>
+</e-card>
