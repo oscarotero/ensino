@@ -35,31 +35,31 @@ Resposta errada!
   </div>
 </e-card>
 
-2. Qual é o nome do único autor português premiado com o Nobel de Literatura até o momento?
+2. Qual é o prato típico do Brasil?
 
 <e-card color="5">
-  <div>José Saramago</div>
+  <div>Feijoada/div>
   <div>
 Resposta certa!
   </div>
 </e-card>
 
 <e-card color="6">
-  <div>Fernando Pessoa</div>
+  <div>Francesinha</div>
   <div>
 Resposta errada!
   </div>
 </e-card>
 
 <e-card color="7">
-  <div>José Luís Peixoto</div>
+  <div>Funge</div>
 <div>
 Resposta errada!
 </div>
 </e-card>
 
 <e-card color="8">
-  <div>Eça de Queirós</div>
+  <div>Cachupa</div>
   <div>
 Resposta errada!
   </div>
