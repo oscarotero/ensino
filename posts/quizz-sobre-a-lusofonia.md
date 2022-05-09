@@ -38,7 +38,7 @@ Resposta errada!
 2. Qual é o prato típico do Brasil?
 
 <e-card color="5">
-  <div>Feijoada/div>
+  <div>Feijoada</div>
   <div>
 Resposta certa!
   </div>
