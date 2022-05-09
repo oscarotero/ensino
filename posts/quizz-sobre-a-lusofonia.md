@@ -214,3 +214,63 @@ Resposta errada!
 Resposta errada!
   </div>
 </e-card>
+
+8. Qual é a capital de Moçambique?
+
+<e-card color="9">
+  <div>Rabat</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="10">
+  <div>Luanda</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Maputo</div>
+  <div>
+Resposta certa!
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Nairobi</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+9. Quais são as línguas oficiais da Guiné-Equatorial?
+
+<e-card color="1">
+  <div>Espanhol, francês e português</div>
+  <div>
+Resposta certa!
+  </div>
+</e-card>
+
+<e-card color="a">
+  <div>Árabe e português</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="a">
+  <div>Francês, inglês e português</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="a">
+  <div>Francês e portguês</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
