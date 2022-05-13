@@ -18,4 +18,4 @@ A metade **durme** cunha mantiña case todo o ano
 
 Pouco máis de cen millóns serían capaces de comer octópodos, e menos aínda **sabrían** pelar unha nécora...
 
-Só unhas poucas viven ao norte da Península Ibérica
+Só unhas poucas viven ao norte da Península Ibérica.
