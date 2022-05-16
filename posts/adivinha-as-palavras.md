@@ -9,7 +9,7 @@ Dou-te apenas duas dicas:
 1. Todas levam um xis.
 2. Escrevem-se igual em português e em galego, portanto, se souberes como se diz em galego, sabes como se diz em português.
 
----
+- - -
 
 Fruto suculento e saboroso produzido pela ameixeira.
 
@@ -17,7 +17,7 @@ Fruto suculento e saboroso produzido pela ameixeira.
 
 <e-answer> ameixa </e-answer>
 
---- 
+- - -
 
 Mulher a quem se atribuem capacidades sobrenaturais que, supostamente, lhe permitem prever o futuro, causar malefícios, produzir encantamentos etc.
 
@@ -25,7 +25,15 @@ Mulher a quem se atribuem capacidades sobrenaturais que, supostamente, lhe permi
 
 <e-answer> bruxa </e-answer>
 
---- 
+- - -
+
+Capital da União Europeia.
+
+![](/img/bruxelas.jpg)
+
+<e-answer> Bruxelas </e-answer>
+
+- - -
 
 Qualquer recipiente rígido usado para guardar ou transportar alguma coisa.
 
@@ -33,7 +41,7 @@ Qualquer recipiente rígido usado para guardar ou transportar alguma coisa.
 
 <e-answer> caixa </e-answer>
 
---- 
+- - -
 
 Parte da perna compreendida entre o quadril e o joelho.
 
@@ -41,7 +49,7 @@ Parte da perna compreendida entre o quadril e o joelho.
 
 <e-answer> coxa </e-answer>
 
---- 
+- - -
 
 Conjunto de abelhas.
 
@@ -49,7 +57,7 @@ Conjunto de abelhas.
 
 <e-answer> enxame </e-answer>
 
---- 
+- - -
 
 Resíduos que se deitam fora.
 
@@ -57,7 +65,7 @@ Resíduos que se deitam fora.
 
 <e-answer> lixo </e-answer>
 
---- 
+- - -
 
 Cidadão do México.
 
@@ -65,7 +73,7 @@ Cidadão do México.
 
 <e-answer> mexicano </e-answer>
 
---- 
+- - -
 
 Animal vertebrado que nasce e vive na água e que respira por guelras.
 
@@ -73,7 +81,7 @@ Animal vertebrado que nasce e vive na água e que respira por guelras.
 
 <e-answer> peixe </e-answer>
 
---- 
+- - -
 
 Parte do rosto mais ou menos proeminente, por baixo do lábio inferior.
 
@@ -81,7 +89,7 @@ Parte do rosto mais ou menos proeminente, por baixo do lábio inferior.
 
 <e-answer> queixo </e-answer>
 
---- 
+- - -
 
 Fragmento de mineral ou de rocha que a erosão tornou liso e arredondado.
 
@@ -89,7 +97,7 @@ Fragmento de mineral ou de rocha que a erosão tornou liso e arredondado.
 
 <e-answer> seixo </e-answer>
 
---- 
+- - -
 
 Jogo de tabuleiro.
 
@@ -97,7 +105,7 @@ Jogo de tabuleiro.
 
 <e-answer> xadrez </e-answer>
 
---- 
+- - -
 
 Líquido medicamentoso adocicado, usado com fins terapêuticos.
 
@@ -105,8 +113,6 @@ Líquido medicamentoso adocicado, usado com fins terapêuticos.
 
 <e-answer> xarope </e-answer>
 
---- 
-
-
+- - -
 
 <e-validate>Verifica as respostas</e-validate>
