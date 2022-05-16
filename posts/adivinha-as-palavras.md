@@ -11,7 +11,7 @@ Dou-te apenas duas dicas:
 
 - - -
 
-Fruto suculento e saboroso produzido pela ameixeira.
+1. Fruto suculento e saboroso produzido pela ameixeira.
 
 ![](/img/ameixas_vermelhas.jpg)
 
@@ -19,7 +19,7 @@ Fruto suculento e saboroso produzido pela ameixeira.
 
 - - -
 
-Mulher a quem se atribuem capacidades sobrenaturais que, supostamente, lhe permitem prever o futuro, causar malefícios, produzir encantamentos etc.
+2. Mulher a quem se atribuem capacidades sobrenaturais que, supostamente, lhe permitem prever o futuro, causar malefícios, produzir encantamentos etc.
 
 ![](/img/bruxa.jpg)
 
@@ -27,7 +27,7 @@ Mulher a quem se atribuem capacidades sobrenaturais que, supostamente, lhe permi
 
 - - -
 
-Capital da União Europeia.
+3. Capital da União Europeia.
 
 ![](/img/bruxelas.jpg)
 
@@ -35,7 +35,7 @@ Capital da União Europeia.
 
 - - -
 
-Qualquer recipiente rígido usado para guardar ou transportar alguma coisa.
+4. Qualquer recipiente rígido usado para guardar ou transportar alguma coisa.
 
 ![](/img/caixa.jpg)
 
@@ -43,7 +43,7 @@ Qualquer recipiente rígido usado para guardar ou transportar alguma coisa.
 
 - - -
 
-Parte da perna compreendida entre o quadril e o joelho.
+5. Parte da perna compreendida entre o quadril e o joelho.
 
 ![](/img/coxa.jpg)
 
@@ -51,7 +51,7 @@ Parte da perna compreendida entre o quadril e o joelho.
 
 - - -
 
-Conjunto de abelhas.
+6. Conjunto de abelhas.
 
 ![](/img/enxame.jpg)
 
@@ -59,7 +59,7 @@ Conjunto de abelhas.
 
 - - -
 
-Resíduos que se deitam fora.
+7. Resíduos que se deitam fora.
 
 ![](/img/lixo.jpg)
 
@@ -67,7 +67,7 @@ Resíduos que se deitam fora.
 
 - - -
 
-Cidadão do México.
+8. Cidadão do México.
 
 ![](/img/mexicano.jpg)
 
@@ -75,7 +75,7 @@ Cidadão do México.
 
 - - -
 
-Animal vertebrado que nasce e vive na água e que respira por guelras.
+9. Animal vertebrado que nasce e vive na água e que respira por guelras.
 
 ![](/img/peixe.jpg)
 
@@ -83,7 +83,7 @@ Animal vertebrado que nasce e vive na água e que respira por guelras.
 
 - - -
 
-Parte do rosto mais ou menos proeminente, por baixo do lábio inferior.
+10. Parte do rosto mais ou menos proeminente, por baixo do lábio inferior.
 
 ![](/img/queixo.jpg)
 
@@ -91,7 +91,7 @@ Parte do rosto mais ou menos proeminente, por baixo do lábio inferior.
 
 - - -
 
-Fragmento de mineral ou de rocha que a erosão tornou liso e arredondado.
+11. Fragmento de mineral ou de rocha que a erosão tornou liso e arredondado.
 
 ![](/img/seixo.jpg)
 
@@ -99,7 +99,7 @@ Fragmento de mineral ou de rocha que a erosão tornou liso e arredondado.
 
 - - -
 
-Jogo de tabuleiro.
+12. Jogo de tabuleiro.
 
 ![](/img/xadrez.jpg)
 
@@ -107,7 +107,7 @@ Jogo de tabuleiro.
 
 - - -
 
-Líquido medicamentoso adocicado, usado com fins terapêuticos.
+13. Líquido medicamentoso adocicado, usado com fins terapêuticos.
 
 ![](/img/xarope.webp)
 
