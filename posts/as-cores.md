@@ -98,7 +98,7 @@ Cor de viño
 
 <div style="height:100px;max-width:400px;background:#7a0b41;"></div>
 
-<e-answer> Cor de vinho </e-answer>
+<e-answer> Cor </e-answer> <e-answer> de </e-answer> <e-answer> vinho </e-answer>
 
 
 
@@ -125,7 +125,7 @@ Laranxa
 
 <div style="height:100px;max-width:400px;background:orange;"></div>
 
-<e-answer> Cor </answer> <e-answer> de </answer> <e-answer> laranja </answer>
+<e-answer> Cor </e-answer> <e-answer> de </e-answer> <e-answer> laranja </e-answer>
 
 
 
