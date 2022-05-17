@@ -57,9 +57,23 @@ Dou-te apenas duas dicas:
 
 <e-answer> enxame </e-answer>
 
+
+
+\---
+
+7. Substância à base de cera que serve para conservar e dar lustro ao calçado e a outros objetos.
+
+![](/img/graxa.jpg)
+
+
+
+<e-answer> Graxa </e-answer>
+
+
+
 - - -
 
-7. Resíduos que se deitam fora.
+8. Resíduos que se deitam fora.
 
 ![](/img/lixo.jpg)
 
@@ -67,7 +81,7 @@ Dou-te apenas duas dicas:
 
 - - -
 
-8. Cidadão do México.
+9. Cidadão dum país da América do Norte que fica ao lado dos Estados Unidos da América (EUA).
 
 ![](/img/mexicano.jpg)
 
@@ -75,7 +89,7 @@ Dou-te apenas duas dicas:
 
 - - -
 
-9. Animal vertebrado que nasce e vive na água e que respira por guelras.
+10. Animal vertebrado que nasce e vive na água e que respira por guelras.
 
 ![](/img/peixe.jpg)
 
@@ -83,7 +97,7 @@ Dou-te apenas duas dicas:
 
 - - -
 
-10. Parte do rosto mais ou menos proeminente, por baixo do lábio inferior.
+11. Parte do rosto mais ou menos proeminente, por baixo do lábio inferior.
 
 ![](/img/queixo.jpg)
 
@@ -91,7 +105,7 @@ Dou-te apenas duas dicas:
 
 - - -
 
-11. Fragmento de mineral ou de rocha que a erosão tornou liso e arredondado.
+12. Fragmento de mineral ou de rocha que a erosão tornou liso e arredondado.
 
 ![](/img/seixo.jpg)
 
@@ -99,7 +113,7 @@ Dou-te apenas duas dicas:
 
 - - -
 
-12. Jogo de tabuleiro.
+13. Jogo de tabuleiro.
 
 ![](/img/xadrez.jpg)
 
@@ -107,7 +121,7 @@ Dou-te apenas duas dicas:
 
 - - -
 
-13. Líquido medicamentoso adocicado, usado com fins terapêuticos.
+14. Líquido medicamentoso adocicado, usado com fins terapêuticos.
 
 ![](/img/xarope.webp)
 
