@@ -6,202 +6,224 @@ draft: false
 ---
 Aprende as cores em português a partir do galego 
 
-- - -
+
+---
+
 
 Negro 
 
-![](/img/preto.webp)
+<div style="height:100px;max-width:400px;background:black;"></div>
 
 Em português também é <e-answer> Negro </e-answer> mas têm ainda uma outra forma. Qual? <e-answer> Preto </e-answer>
 
 
 
-\---
+
+---
+
 
 
 
 Branco 
 
-![](/img/branco.jpg)
+<div style="height:100px;max-width:400px;background:white;border:solid black 1px;"></div>
 
 <e-answer> Branco </e-answer>
 
 
 
-\---
+
+---
+
 
 
 
 Beixe 
 
-![](/img/bege.jpg)
+<div style="height:100px;max-width:400px;background:#fce3a9;"></div>
 
 <e-answer> Bege </e-answer>
 
 
 
-\---
+
+---
+
 
 
 
 Cinzento
 
-![](/img/cinzento.jpg)
+<div style="height:100px;max-width:400px;background:gray;"></div>
 
 <e-answer> Cinzento </e-answer>
 
 
 
-\---
+
+---
+
 
 
 
 Vermello
 
-![](/img/vermelho.jpg)
+<div style="height:100px;max-width:400px;background:red;"></div>
 
 <e-answer> Vermelho </e-answer>
 
 
 
-\---
+
+---
+
 
 
 
 Granate 
 
-![](/img/granada.png)
+<div style="height:100px;max-width:400px;background:darkred;"></div>
 
 <e-answer> Granada </e-answer>
 
 
 
-\---
+
+---
+
 
 
 
 Cor de viño
 
-![](/img/cor_de_vinho.webp)
+<div style="height:100px;max-width:400px;background:#7a0b41;"></div>
 
 <e-answer> Cor de vinho </e-answer>
 
 
 
-\---
+---
+
 
 
 
 Amarelo
 
-![](/img/amarelo.jpg)
+<div style="height:100px;max-width:400px;background:yellow;"></div>
 
 <e-answer> Amarelo </answer>
 
 
 
-\---
+
+---
+
 
 
 
 Laranxa
 
-![](/img/cor_de_laranja.jpg)
+<div style="height:100px;max-width:400px;background:orange;"></div>
 
 <e-answer> Cor </answer> <e-answer> de </answer> <e-answer> laranja </answer>
 
 
 
-\---
+
+---
+
 
 
 
 Verde
 
-![](/img/verde.png)
+<div style="height:100px;max-width:400px;background:green;"></div>
 
 <e-answer> Verde </answer>
 
 
 
-\---
+
+---
+
 
 
 
 Azul
 
-![](/img/azul.jpg)
+<div style="height:100px;max-width:400px;background:blue;"></div>
 
 <e-answer> Azul </answer>
 
 
 
-\---
+
+---
+
 
 
 
 Turquesa 
 
-![](/img/turquesa.png)
+<div style="height:100px;max-width:400px;background:turquoise;"></div>
 
 <e-answer> Turquesa </answer>
 
 
 
-\---
+
+---
+
 
 
 
 Rosa 
 
-![](/img/cor-de-rosa.png)
+<div style="height:100px;max-width:400px;background:pink;"></div>
 
 <e-answer> Cor-de-rosa </answer>
 
+---
 
-
-\---
 
 
 
 Púrpura 
 
-![](/img/roxo.jpg)
+<div style="height:100px;max-width:400px;background:purple;"></div>
 
 <e-answer> Roxo </answer>
 
 
 
-\---
+
+---
+
 
 
 
 Violeta
 
-![](/img/violeta.png)
+<div style="height:100px;max-width:400px;background:darkviolet;"></div>
 
 <e-answer> Violeta </e-answer>
 
-
-
-\---
+---
 
 
 
 Lila
 
-![](/img/lilás.png)
+
+<div style="height:100px;max-width:400px;background:violet;"></div>
 
 <e-answer> Lilás </e-answer>
 
-
-
-\---
-
-
+---
 
 Castaño ou marrón
 
-![](/img/castanho.jpg)
+
+<div style="height:100px;max-width:400px;background:sienna;"></div>
 
 Em Portugal só usam <e-answer> Castanho </e-answer> mas no Brasil também se diz <e-answer> Marrom </e-answer>, como na Galiza.
