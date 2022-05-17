@@ -12,7 +12,7 @@ Negro
 
 ![](/img/preto.webp)
 
-Em português também é <e-answer> Negro </e-answer> mas têm mais uma forma para esta cor. Qual? <e-answer> Preto </e-answer>
+Em português também é <e-answer> Negro </e-answer> mas têm ainda uma outra forma. Qual? <e-answer> Preto </e-answer>
 
 
 
