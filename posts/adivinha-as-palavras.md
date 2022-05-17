@@ -58,8 +58,7 @@ Dou-te apenas duas dicas:
 <e-answer> enxame </e-answer>
 
 
-
-\---
+---
 
 7. Substância à base de cera que serve para conservar e dar lustro ao calçado e a outros objetos.
 
@@ -68,7 +67,6 @@ Dou-te apenas duas dicas:
 
 
 <e-answer> Graxa </e-answer>
-
 
 
 - - -
