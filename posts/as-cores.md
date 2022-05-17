@@ -54,7 +54,7 @@ Beixe
 
 Cinzento
 
-<div style="height:100px;max-width:400px;background:gray;"></div>
+<div style="height:100px;max-width:400px;background:grey;"></div>
 
 <e-answer> Cinzento </e-answer>
 
