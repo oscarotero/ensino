@@ -4,11 +4,11 @@ tags:
   - portugues
 draft: false
 ---
+![]()
+
 Aprende as cores em português a partir do galego 
 
-
----
-
+- - -
 
 Negro 
 
@@ -16,13 +16,7 @@ Negro
 
 Em português também é <e-answer> Negro </e-answer> mas têm ainda uma outra forma. Qual? <e-answer> Preto </e-answer>
 
-
-
-
----
-
-
-
+- - -
 
 Branco 
 
@@ -30,13 +24,7 @@ Branco
 
 <e-answer> Branco </e-answer>
 
-
-
-
----
-
-
-
+- - -
 
 Beixe 
 
@@ -44,13 +32,7 @@ Beixe
 
 <e-answer> Bege </e-answer>
 
-
-
-
----
-
-
-
+- - -
 
 Cinzento
 
@@ -58,13 +40,7 @@ Cinzento
 
 <e-answer> Cinzento </e-answer>
 
-
-
-
----
-
-
-
+- - -
 
 Vermello
 
@@ -72,13 +48,7 @@ Vermello
 
 <e-answer> Vermelho </e-answer>
 
-
-
-
----
-
-
-
+- - -
 
 Granate 
 
@@ -86,13 +56,7 @@ Granate
 
 <e-answer> Granada </e-answer>
 
-
-
-
----
-
-
-
+- - -
 
 Cor de viño
 
@@ -100,12 +64,7 @@ Cor de viño
 
 <e-answer> Cor </e-answer> <e-answer> de </e-answer> <e-answer> vinho </e-answer>
 
-
-
----
-
-
-
+- - -
 
 Amarelo
 
@@ -113,13 +72,7 @@ Amarelo
 
 <e-answer> Amarelo </answer>
 
-
-
-
----
-
-
-
+- - -
 
 Laranxa
 
@@ -127,13 +80,7 @@ Laranxa
 
 <e-answer> Cor </e-answer> <e-answer> de </e-answer> <e-answer> laranja </e-answer>
 
-
-
-
----
-
-
-
+- - -
 
 Verde
 
@@ -141,13 +88,7 @@ Verde
 
 <e-answer> Verde </answer>
 
-
-
-
----
-
-
-
+- - -
 
 Azul
 
@@ -155,13 +96,7 @@ Azul
 
 <e-answer> Azul </answer>
 
-
-
-
----
-
-
-
+- - -
 
 Turquesa 
 
@@ -169,13 +104,7 @@ Turquesa
 
 <e-answer> Turquesa </answer>
 
-
-
-
----
-
-
-
+- - -
 
 Rosa 
 
@@ -183,10 +112,15 @@ Rosa
 
 <e-answer> Cor-de-rosa </answer>
 
+- - -
+
+Salmón
+
+<div style="height:100px;max-width:400px;background:salmon;"></div>
+
+<e-answer> Salmão </e-answer>
+
 ---
-
-
-
 
 Púrpura 
 
@@ -194,13 +128,7 @@ Púrpura
 
 <e-answer> Roxo </answer>
 
-
-
-
----
-
-
-
+- - -
 
 Violeta
 
@@ -208,25 +136,22 @@ Violeta
 
 <e-answer> Violeta </e-answer>
 
----
-
-
+- - -
 
 Lila
-
 
 <div style="height:100px;max-width:400px;background:violet;"></div>
 
 <e-answer> Lilás </e-answer>
 
----
+- - -
 
 Castaño ou marrón
-
 
 <div style="height:100px;max-width:400px;background:sienna;"></div>
 
 Em Portugal só usam <e-answer> Castanho </e-answer> mas no Brasil também se diz <e-answer> Marrom </e-answer>, como na Galiza.
 
----
+- - -
+
 <e-validate>Verifica as respostas</e-validate>
