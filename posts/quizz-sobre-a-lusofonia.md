@@ -238,7 +238,7 @@ Resposta certa!
   </div>
 </e-card>
 
-<e-card color="1">
+<e-card color="2">
   <div>Nairobi</div>
   <div>
 Resposta errada!
@@ -247,28 +247,28 @@ Resposta errada!
 
 9. Quais são as línguas oficiais da Guiné-Equatorial?
 
-<e-card color="1">
+<e-card color="3">
   <div>Espanhol, francês e português</div>
   <div>
 Resposta certa!
   </div>
 </e-card>
 
-<e-card color="a">
+<e-card color="4">
   <div>Árabe e português</div>
   <div>
 Resposta errada!
   </div>
 </e-card>
 
-<e-card color="a">
+<e-card color="5">
   <div>Francês, inglês e português</div>
   <div>
 Resposta errada!
   </div>
 </e-card>
 
-<e-card color="a">
+<e-card color="6">
   <div>Francês e portguês</div>
   <div>
 Resposta errada!
