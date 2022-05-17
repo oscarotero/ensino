@@ -34,11 +34,11 @@ Beixe
 
 - - -
 
-Cinzento
+Cincento ou cinza
 
 <div style="height:100px;max-width:400px;background:grey;"></div>
 
-<e-answer> Cinzento </e-answer>
+<e-answer> Cinzento </e-answer> ou <e-answer> Cinza </e-answer>
 
 - - -
 
