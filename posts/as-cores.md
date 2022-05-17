@@ -227,3 +227,6 @@ Castaño ou marrón
 <div style="height:100px;max-width:400px;background:sienna;"></div>
 
 Em Portugal só usam <e-answer> Castanho </e-answer> mas no Brasil também se diz <e-answer> Marrom </e-answer>, como na Galiza.
+
+---
+<e-validate>Verifica as respostas</e-validate>
