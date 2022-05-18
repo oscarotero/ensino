@@ -28,7 +28,7 @@ Branco
 
 Cor de pel
 
-<div style="height:100px;max-width:400px;background:#dfbaa0;"></div>
+<div style="height:100px;max-width:400px;background:#f9c9a1;"></div>
 
 <e-answer> Cor de pele </e-answer>
 
