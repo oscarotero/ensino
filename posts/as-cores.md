@@ -124,7 +124,7 @@ Salmón
 
 Púrpura 
 
-<div style="height:100px;max-width:400px;background:purple;"></div>
+<div style="height:100px;max-width:400px;background:#501e65;"></div>
 
 <e-answer> Roxo </answer>
 
@@ -132,7 +132,7 @@ Púrpura
 
 Violeta
 
-<div style="height:100px;max-width:400px;background:darkviolet;"></div>
+<div style="height:100px;max-width:400px;background:#8901cf;"></div>
 
 <e-answer> Violeta </e-answer>
 
@@ -140,7 +140,7 @@ Violeta
 
 Lila
 
-<div style="height:100px;max-width:400px;background:violet;"></div>
+<div style="height:100px;max-width:400px;background:#d4c0ee;"></div>
 
 <e-answer> Lilás </e-answer>
 
