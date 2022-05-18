@@ -4,3 +4,84 @@ tags:
   - portugues
 draft: false
 ---
+![](/img/agenda.jpg)
+
+<e-answer> agenda </e-answer>
+
+- - -
+
+![](/img/giz.jpg)
+
+<e-answer> giz </e-answer>
+
+- - -
+
+![](/img/anjo.jpg)
+
+<e-answer> anjo </e-answer>
+
+- - -
+
+![](/img/gema.jpg)
+
+<e-answer> gema </e-answer>
+
+- - -
+
+![](/img/azulejo.jpg)
+
+<e-answer> azulejo </e-answer>
+
+- - -
+
+![](/img/beijo.jpg)
+
+<e-answer> beijo </e-answer>
+
+- - -
+
+![](/img/gente.jpg)
+
+<e-answer> gente </e-answer>
+
+- - -
+
+![](/img/caranguejo.jpg)
+
+<e-answer> caranguejo </e-answer>
+
+- - -
+
+![](/img/janeiro.jpg)
+
+<e-answer> janeiro </e-answer>
+
+- - -
+
+![](/img/girafa.jpg)
+
+<e-answer> girafa </e-answer>
+
+- - -
+
+![](/img/janela.jpg)
+
+<e-answer> janela </e-answer>
+
+- - -
+
+![](/img/laranja.jpg)
+
+<e-answer> laranja </e-answer>
+
+- - -
+
+![](/img/joaninha.jpg)
+
+<e-answer> joaninha </e-answer>
+
+- - -
+
+![](/img/página.jpg)
+
+<e-answer> página </e-answer>
