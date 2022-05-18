@@ -4,6 +4,14 @@ tags:
   - portugues
 draft: false
 ---
+As seguintes palavras são praticamente igual em galego em português, só muda uma letra.
+
+A razão é que eles usam até três grafias distintas (x, g e j) em muitas das palavras que nós escrevemos sempre com um x.
+
+Bora! Tenta adivinhar qual é a letra por que temos que substituír o nosso xis para a palavra ficar em português.
+
+
+
 ![](/img/agenda.jpg)
 
 <e-answer> agenda </e-answer>
