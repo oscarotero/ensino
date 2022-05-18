@@ -26,6 +26,14 @@ Branco
 
 - - -
 
+Cor pel
+
+<div style="height:100px;max-width:400px;background:#dfbaa0;"></div>
+
+<e-answer> Cor pele </e-answer>
+
+---
+
 Beixe 
 
 <div style="height:100px;max-width:400px;background:#fce3a9;"></div>
