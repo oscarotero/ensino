@@ -26,11 +26,11 @@ Branco
 
 - - -
 
-Cor pel
+Cor de pel
 
 <div style="height:100px;max-width:400px;background:#dfbaa0;"></div>
 
-<e-answer> Cor pele </e-answer>
+<e-answer> Cor de pele </e-answer>
 
 ---
 
