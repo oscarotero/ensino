@@ -10,6 +10,16 @@ A razão é que eles usam até três grafias distintas (x, g e j) para escrever 
 
 Bora! Tenta adivinhar qual é a letra por que temos que substituír o nosso xis para a palavra ficar em português.
 
+
+- - -
+
+![](/img/janela.jpg)
+
+<e-answer> janela </e-answer>
+
+---
+
+
 ![](/img/agenda.jpg)
 
 <e-answer> agenda </e-answer>
@@ -68,11 +78,6 @@ Bora! Tenta adivinhar qual é a letra por que temos que substituír o nosso xis 
 
 <e-answer> girafa </e-answer>
 
-- - -
-
-![](/img/janela.jpg)
-
-<e-answer> janela </e-answer>
 
 - - -
 
