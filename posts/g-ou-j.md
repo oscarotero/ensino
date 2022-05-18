@@ -85,3 +85,5 @@ draft: false
 ![](/img/página.jpg)
 
 <e-answer> página </e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
