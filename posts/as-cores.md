@@ -28,11 +28,11 @@ Branco
 
 Cor de pel
 
-<div style="height:100px;max-width:400px;background:#f9c9a1;"></div>
+<div style="height:100px;max-width:400px;background:#f2c29e;"></div>
 
 <e-answer> Cor</e-answer> <e-answer> de </e-answer><e-answer> pele </e-answer>
 
----
+- - -
 
 Beixe 
 
@@ -128,7 +128,7 @@ Salmón
 
 <e-answer> Salmão </e-answer>
 
----
+- - -
 
 Púrpura 
 
