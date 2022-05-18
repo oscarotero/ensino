@@ -30,7 +30,7 @@ Cor de pel
 
 <div style="height:100px;max-width:400px;background:#f9c9a1;"></div>
 
-<e-answer> Cor de pele </e-answer>
+<e-answer> Cor</e-answer> <e-answer> de </e-answer><e-answer> pele </e-answer>
 
 ---
 
