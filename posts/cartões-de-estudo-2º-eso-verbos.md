@@ -439,7 +439,7 @@ draft: false
     <ul>
       <li>eu trouxe</li>
       <li>tu trouxeste</li>
-      <li>ele, ela, você troouxe</li>
+      <li>ele, ela, você trouxe</li>
       <li>nós trouxemos</li>
       <li>eles, elas, vocês trouxeram</li>
     </ul>
@@ -499,7 +499,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de escrever</div>
+  <div>Presente de indicativo de ler</div>
   <div>
     <ul>
       <li>eu leio </li>
@@ -512,7 +512,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Presente de indicativo de escrever</div>
+  <div>Pretérito perfeito de ler</div>
   <div>
     <ul>
       <li>eu li </li>
