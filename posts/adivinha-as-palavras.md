@@ -59,13 +59,11 @@ Dou-te apenas duas dicas:
 
 - - -
 
-
 7. Substância à base de cera que serve para conservar e dar lustro ao calçado e a outros objetos.
 
 ![](/img/graxa.jpg)
 
 <e-answer> Graxa </e-answer>
-
 
 - - -
 
