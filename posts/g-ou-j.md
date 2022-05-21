@@ -4,12 +4,13 @@ tags:
   - portugues
 draft: false
 ---
+![]()
+
 As seguintes palavras são praticamente igual em galego em português, só muda uma letra.
 
 A razão é que eles usam até três grafias distintas (x, g e j) para escrever muitas palavras que nós escrevemos sempre com uma única letra: com x.
 
 Bora! Tenta adivinhar qual é a letra por que temos que substituír o nosso xis para a palavra ficar em português.
-
 
 - - -
 
@@ -17,8 +18,7 @@ Bora! Tenta adivinhar qual é a letra por que temos que substituír o nosso xis 
 
 <e-answer> janela </e-answer>
 
----
-
+- - -
 
 ![](/img/agenda.jpg)
 
@@ -78,7 +78,6 @@ Bora! Tenta adivinhar qual é a letra por que temos que substituír o nosso xis 
 
 <e-answer> girafa </e-answer>
 
-
 - - -
 
 ![](/img/laranja.jpg)
@@ -96,5 +95,11 @@ Bora! Tenta adivinhar qual é a letra por que temos que substituír o nosso xis 
 ![](/img/página.jpg)
 
 <e-answer> página </e-answer>
+
+- - -
+
+![](/img/bob_esponja.webp)
+
+Bob <e-answer> Esponja </e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
