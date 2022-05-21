@@ -26,8 +26,6 @@ Bora! Tenta adivinhar qual é a letra por que temos que substituír o nosso xis 
 
 - - -
 
-![](/img/giz.jpg)
-
 <e-answer> giz </e-answer>
 
 - - -
@@ -92,7 +90,7 @@ Bora! Tenta adivinhar qual é a letra por que temos que substituír o nosso xis 
 
 - - -
 
-![](/img/página.jpg)
+![](/img/pagina.jpg)
 
 <e-answer> página </e-answer>
 
