@@ -76,7 +76,7 @@ E que não usas quando falas galego
 
 ![](/img/porca_parafuso.jpg)
 
-12 e 13. A <e-answer> porca </e-answer> e o <e-answer> parafuso </e-answer>
+12. A <e-answer> porca </e-answer> e  13. O <e-answer> parafuso </e-answer>
 
 - - -
 
