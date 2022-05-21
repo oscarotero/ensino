@@ -8,7 +8,7 @@ E que não usas quando falas galego
 
 - - -
 
-![](/img/caderno.jpg){width=4500 height=450}
+![](/img/caderno.jpg){width=450 height=450}
 
 1. O <e-answer> caderno </e-answer>
 
