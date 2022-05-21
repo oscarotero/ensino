@@ -89,3 +89,5 @@ E que não usas quando falas galego
 ![](/img/troco.jpg)
 
 15. O <e-answer> troco </e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
