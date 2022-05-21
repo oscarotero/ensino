@@ -13,7 +13,7 @@ Dou-te apenas duas dicas:
 
 1. Fruto suculento e saboroso produzido pela ameixeira.
 
-![](/img/ameixas_vermelhas.jpg){width=600 height=600}
+![](/img/ameixas_vermelhas.jpg)
 
 <e-answer> ameixa </e-answer>
 
@@ -21,7 +21,7 @@ Dou-te apenas duas dicas:
 
 2. Mulher a quem se atribuem capacidades sobrenaturais que, supostamente, lhe permitem prever o futuro, causar malefícios, produzir encantamentos etc.
 
-![](/img/bruxa.jpg){width=600 height=600}
+![](/img/bruxa.jpg)
 
 <e-answer> bruxa </e-answer>
 
@@ -29,7 +29,7 @@ Dou-te apenas duas dicas:
 
 3. Capital da União Europeia.
 
-![](/img/bruxelas.jpg){width=600 height=600}
+![](/img/bruxelas.jpg)
 
 <e-answer> Bruxelas </e-answer>
 
@@ -37,7 +37,7 @@ Dou-te apenas duas dicas:
 
 4. Qualquer recipiente rígido usado para guardar ou transportar alguma coisa.
 
-![](/img/caixa.jpg){width=600 height=600}
+![](/img/caixa.jpg)
 
 <e-answer> caixa </e-answer>
 
@@ -45,7 +45,7 @@ Dou-te apenas duas dicas:
 
 5. Parte da perna compreendida entre o quadril e o joelho.
 
-![](/img/coxa.jpg){width=600 height=600}
+![](/img/coxa.jpg)
 
 <e-answer> coxa </e-answer>
 
@@ -53,7 +53,7 @@ Dou-te apenas duas dicas:
 
 6. Conjunto de abelhas.
 
-![](/img/enxame.jpg){width=600 height=600}
+![](/img/enxame.jpg)
 
 <e-answer> enxame </e-answer>
 
@@ -62,7 +62,7 @@ Dou-te apenas duas dicas:
 
 7. Substância à base de cera que serve para conservar e dar lustro ao calçado e a outros objetos.
 
-![](/img/graxa.jpg){width=600 height=600}
+![](/img/graxa.jpg)
 
 <e-answer> Graxa </e-answer>
 
@@ -71,7 +71,7 @@ Dou-te apenas duas dicas:
 
 8. Resíduos que se deitam fora.
 
-![](/img/lixo.jpg){width=600 height=600}
+![](/img/lixo.jpg)
 
 <e-answer> lixo </e-answer>
 
@@ -79,7 +79,7 @@ Dou-te apenas duas dicas:
 
 9. Cidadão dum país da América do Norte que fica ao lado dos Estados Unidos da América (EUA).
 
-![](/img/mexicano.jpg){width=600 height=600}
+![](/img/mexicano.jpg)
 
 <e-answer> mexicano </e-answer>
 
@@ -87,7 +87,7 @@ Dou-te apenas duas dicas:
 
 10. Animal vertebrado que nasce e vive na água e que respira por guelras.
 
-![](/img/peixe.jpg){width=600 height=600}
+![](/img/peixe.jpg)
 
 <e-answer> peixe </e-answer>
 
@@ -95,7 +95,7 @@ Dou-te apenas duas dicas:
 
 11. Parte do rosto mais ou menos proeminente, por baixo do lábio inferior.
 
-![](/img/queixo.jpg){width=600 height=600}
+![](/img/queixo.jpg)
 
 <e-answer> queixo </e-answer>
 
@@ -103,7 +103,7 @@ Dou-te apenas duas dicas:
 
 12. Fragmento de mineral ou de rocha que a erosão tornou liso e arredondado.
 
-![](/img/seixo.jpg){width=600 height=600}
+![](/img/seixo.jpg)
 
 <e-answer> seixo </e-answer>
 
@@ -111,7 +111,7 @@ Dou-te apenas duas dicas:
 
 13. Jogo de tabuleiro.
 
-![](/img/xadrez.jpg){width=600 height=600}
+![](/img/xadrez.jpg)
 
 <e-answer> xadrez </e-answer>
 
