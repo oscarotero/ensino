@@ -46,7 +46,7 @@ E que não usas quando falas galego
 
 ![](/img/fita_adesiva.jpg){width=450 height=450}
 
-7. A <e-answer> fita </e-answer> adesiva (pt) / adhesiva (gl)
+7. A <e-answer> fita </e-answer> adhesiva (gl) / adesiva (pt)
 
 - - -
 
