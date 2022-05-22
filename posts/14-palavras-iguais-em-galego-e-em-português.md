@@ -50,7 +50,7 @@ E que não usas quando falas galego
 
 - - -
 
-![](/img/frigorífico.jpg)
+![](/img/frigorifico.jpg)
 
 8. O <e-answer> frigorífico </e-answer>
 
