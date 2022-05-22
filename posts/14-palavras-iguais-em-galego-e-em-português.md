@@ -86,7 +86,7 @@ E que não usas quando falas galego
 
 - - -
 
-![](/img/trocado.jpg)
+![](/img/troco.jpg)
 
 15. O <e-answer> troco </e-answer>
 
