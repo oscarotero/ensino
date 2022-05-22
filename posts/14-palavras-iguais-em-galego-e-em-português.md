@@ -8,85 +8,85 @@ E que não usas quando falas galego
 
 - - -
 
-![](/img/caderno.jpg){width=600 height=600}
+![](/img/caderno.jpg)
 
 1. O <e-answer> caderno </e-answer>
 
 - - -
 
-![](/img/caneca.jpg){width=600 height=600}
+![](/img/caneca.jpg)
 
 2. A <e-answer> caneca </e-answer>
 
 - - -
 
-![](/img/cola.jpg){width=600 height=600}
+![](/img/cola.jpg)
 
 3. A <e-answer> cola </e-answer>
 
 - - -
 
-![](/img/computador.jpg){width=600 height=600}
+![](/img/computador.jpg)
 
 4. O <e-answer> computador </e-answer>
 
 - - -
 
-![](/img/corredor.jpg){width=600 height=600}
+![](/img/corredor.jpg)
 
 5. O <e-answer> corredor </e-answer>
 
 - - -
 
-![](/img/desodorizante.jpg){width=600 height=600}
+![](/img/desodorizante.jpg)
 
 6. O <e-answer> desodorizante </e-answer>
 
 - - -
 
-![](/img/fita_adesiva.jpg){width=600 height=600}
+![](/img/fita_adesiva.jpg)
 
 7. A <e-answer> fita </e-answer> adhesiva (gl) / adesiva (pt)
 
 - - -
 
-![](/img/frigorífico.jpg){width=600 height=600}
+![](/img/frigorífico.jpg)
 
 8. O <e-answer> frigorífico </e-answer>
 
 - - -
 
-![](/img/garfo.jpg){width=600 height=600}
+![](/img/garfo.jpg)
 
 9. O <e-answer> garfo </e-answer>
 
 - - -
 
-![](/img/lareira.jpg){width=600 height=600}
+![](/img/lareira.jpg)
 
 10. A <e-answer> lareira </e-answer>
 
 - - -
 
-![](/img/marcador.jpg){width=600 height=600}
+![](/img/marcador.jpg)
 
 11. O <e-answer> marcador </e-answer>
 
 - - -
 
-![](/img/porca_parafuso.jpg){width=600 height=600}
+![](/img/porca_parafuso.jpg)
 
 12. A <e-answer> porca </e-answer> e  13. O <e-answer> parafuso </e-answer>
 
 - - -
 
-![](/img/presente_.jpg){width=600 height=600}
+![](/img/presente_.jpg)
 
 14. O <e-answer> presente </e-answer>
 
 - - -
 
-![](/img/troco.jpg){width=600 height=600}
+![](/img/troco.jpg)
 
 15. O <e-answer> troco </e-answer>
 
