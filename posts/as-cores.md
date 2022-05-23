@@ -8,6 +8,12 @@ draft: false
 
 Aprende as cores em português a partir do galego 
 
+Antes de começarmos, lembra que a palavra cor é feminina em galego e em português, mas os nomes das cores são masculinos.
+
+Exemplo: 
+Qual é a túa cor favorita?
+A minha cor favorita é o roxo
+
 - - -
 
 Negro 
