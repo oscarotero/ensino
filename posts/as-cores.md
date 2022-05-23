@@ -84,9 +84,15 @@ Amarelo
 
 Dourado 
 
-<div style="height:100px;max-width:400px;background:#b69646</div>
+<div style="height:100px;max-width:400px;background:#d4b561</div>
 
 <e-answer> Dourado </e-answer>
+
+
+
+\---
+
+
 
 Laranxa
 
