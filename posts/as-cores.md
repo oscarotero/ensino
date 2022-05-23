@@ -50,11 +50,19 @@ Cincento ou cinza
 
 - - -
 
-Vermello
+Prateado
+
+<div style="height:100px;max-width:400px;background:#9d9d9c;"> </div>
+
+<e-answer> Prateado </e-answer>
+
+- - -
+
+Vermello ou encarnado
 
 <div style="height:100px;max-width:400px;background:red;"></div>
 
-<e-answer> Vermelho </e-answer>
+<e-answer> Vermelho </e-answer> ou <e-answer> encarnado </e-answer>
 
 - - -
 
