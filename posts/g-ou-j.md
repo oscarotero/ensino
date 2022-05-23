@@ -90,7 +90,7 @@ Bora! Tenta adivinhar qual é a letra por que temos que substituír o nosso xis 
 
 - - -
 
-![](/img/joaninha.jpg)
+
 
 <e-answer> joaninha </e-answer>
 
