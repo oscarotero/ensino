@@ -70,7 +70,7 @@ Cor de viño
 
 <div style="height:100px;max-width:400px;background:#7a0b41;"></div>
 
-<e-answer> Cor </e-answer> <e-answer> de </e-answer> <e-answer> vinho </e-answer> ou <e-answer> Bordô</e-answer>
+<e-answer> Cor </e-answer> <e-answer> de </e-answer> <e-answer> vinho </e-answer> ou <e-answer> bordô</e-answer>
 
 - - -
 
