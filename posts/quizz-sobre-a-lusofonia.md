@@ -269,7 +269,7 @@ Resposta errada!
 </e-card>
 
 <e-card color="6">
-  <div>Francês e portguês</div>
+  <div>Francês e português</div>
   <div>
 Resposta errada!
   </div>
