@@ -126,7 +126,7 @@ Rosa
 
 <div style="height:100px;max-width:400px;background:pink;"></div>
 
-<e-answer> Rosa </e-answer> ou <e-answer> cor-de-rosa </answer>
+<e-answer> Rosa </e-answer> ou <e-answer> cor </answer>-<e-answer> de </e-answer>-<e-answer> rosa </answer>
 
 - - -
 
