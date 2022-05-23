@@ -88,13 +88,13 @@ Dourado
 
 <e-answer> Dourado </e-answer>
 
----
+- - -
 
 Laranxa
 
 <div style="height:100px;max-width:400px;background:orange;"></div>
 
-<e-answer> Laranja </e-answer> ou <e-answer> Cor </e-answer> <e-answer> de </e-answer> <e-answer> laranja </e-answer>
+<e-answer> Laranja </e-answer> ou <e-answer> cor </e-answer> <e-answer> de </e-answer> <e-answer> laranja </e-answer>
 
 - - -
 
@@ -126,7 +126,7 @@ Rosa
 
 <div style="height:100px;max-width:400px;background:pink;"></div>
 
-<e-answer> Cor-de-rosa </answer>
+<e-answer> Rosa </e-answer> ou <e-answer> cor-de-rosa </answer>
 
 - - -
 
