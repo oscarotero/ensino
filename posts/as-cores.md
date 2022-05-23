@@ -70,7 +70,7 @@ Cor de viño
 
 <div style="height:100px;max-width:400px;background:#7a0b41;"></div>
 
-<e-answer> Cor </e-answer> <e-answer> de </e-answer> <e-answer> vinho </e-answer>
+<e-answer> Cor </e-answer> <e-answer> de </e-answer> <e-answer> vinho </e-answer> ou <e-answer> Bordô</e-answer>
 
 - - -
 
@@ -82,11 +82,17 @@ Amarelo
 
 - - -
 
+Dourado 
+
+<div style="height:100px;max-width:400px;background:#b69646</div>
+
+<e-answer> Dourado </e-answer>
+
 Laranxa
 
 <div style="height:100px;max-width:400px;background:orange;"></div>
 
-<e-answer> Cor </e-answer> <e-answer> de </e-answer> <e-answer> laranja </e-answer>
+<e-answer> Laranja </e-answer> ou <e-answer> Cor </e-answer> <e-answer> de </e-answer> <e-answer> laranja </e-answer>
 
 - - -
 
