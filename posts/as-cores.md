@@ -78,7 +78,7 @@ Amarelo
 
 <div style="height:100px;max-width:400px;background:yellow;"></div>
 
-<e-answer> Amarelo </answer>
+<e-answer> Amarelo </e-answer>
 
 - - -
 
@@ -102,7 +102,7 @@ Verde
 
 <div style="height:100px;max-width:400px;background:green;"></div>
 
-<e-answer> Verde </answer>
+<e-answer> Verde </e-answer>
 
 - - -
 
@@ -110,7 +110,7 @@ Azul
 
 <div style="height:100px;max-width:400px;background:blue;"></div>
 
-<e-answer> Azul </answer>
+<e-answer> Azul </e-answer>
 
 - - -
 
@@ -118,7 +118,7 @@ Turquesa
 
 <div style="height:100px;max-width:400px;background:turquoise;"></div>
 
-<e-answer> Turquesa </answer>
+<e-answer> Turquesa </e-answer>
 
 - - -
 
@@ -126,7 +126,7 @@ Rosa
 
 <div style="height:100px;max-width:400px;background:pink;"></div>
 
-<e-answer> Rosa </e-answer> ou <e-answer> cor </answer>-<e-answer> de </e-answer>-<e-answer> rosa </answer>
+<e-answer> Rosa </e-answer> ou <e-answer> cor </e-answer>-<e-answer> de </e-answer>-<e-answer> rosa </e-answer>
 
 - - -
 
@@ -142,7 +142,7 @@ Púrpura
 
 <div style="height:100px;max-width:400px;background:#501e65;"></div>
 
-<e-answer> Roxo </answer>
+<e-answer> Roxo </e-answer>
 
 - - -
 
