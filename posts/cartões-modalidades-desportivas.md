@@ -14,16 +14,28 @@ draft: false
 </e-card>
 
 <e-card color="2">
-<div>Desporto de grupo (duas equipas de cinco jogadores) que consiste em fazer passar uma bola por um cesto suspenso sem fundo.</div>
+<div>
+
+![](/img/icons8-basquetebol-100.png)
+
+</div>
 <div>basquetebol</div>
 </e-card>
 
 <e-card color="3">
-<div>Desporto de equipa em que se joga com as mãos uma bola redonda, para introduzi-la na baliza da equipa adversária.</div>
+<div>
+
+![](/img/icons8-andebol-100.png)
+
+</div>
 <div>andebol</div>
 </e-card>
 
 <e-card color="4">
-<div>Desporto de combate em que dois adversários se enfrentam num ringue, lutando com os punhos calçados com luvas próprias.</div>
+<div>
+
+![](/img/icons8-boxe-100.png)
+
+</div>
 <div>boxe</div>
 </e-card>
