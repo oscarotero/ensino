@@ -19,7 +19,7 @@ draft: false
 ![](/img/icons8-basquetebol-100.png)
 
 </div>
-<div>basquetebol ou basquete</div>
+<div>Basquetebol ou basquete</div>
 </e-card>
 
 <e-card color="3">
