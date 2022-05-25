@@ -100,4 +100,12 @@ draft: false
 
 - - -
 
+![](/img/icons8-raguebi-100.png)
+
+<e-answer> râguebi </e-answer> (PT) ou <e-answer> rúgbi </e-answer> (BR)
+
+---
+
+
+
 <e-validate> Verifica as respostas </e-validate>
