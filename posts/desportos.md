@@ -18,7 +18,7 @@ draft: false
 
 ![](/img/icons8-basquetebol-100.png)
 
-<e-answer> Basquetebol ou basquete </e-answer>
+<e-answer> Basquetebol </e-answer> ou <e-answer> basquete </e-answe>
 
 - - -
 
