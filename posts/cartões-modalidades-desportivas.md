@@ -109,7 +109,7 @@ draft: false
 ![](/img/icons8-patinagem100.png)
 
 </div>
-<div>Patinagem</div>
+<div>Patinagem (PT) ou patinação (BR)</div>
 </e-card>
 
 <e-card color="3">
