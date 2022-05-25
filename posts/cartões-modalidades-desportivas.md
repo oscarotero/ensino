@@ -6,7 +6,9 @@ draft: false
 ---
 <e-card color="1">
 
-<div> Desporto em que duas equipas, geralmente de 11 jogadores, se esforçam por introduzir uma bola na baliza do campo do adversário, sem intervenção das mãos. </div>
+<div> 
+
+Desporto em que duas equipas, geralmente de 11 jogadores, se esforçam por introduzir uma bola na baliza do campo do adversário, sem intervenção das mãos. </div>
 
 <div> Futebol </div>
 
