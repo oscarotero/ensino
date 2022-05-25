@@ -86,4 +86,12 @@ draft: false
 
 <e-answer> Patinagem </e-answer>
 
+- - -
+
+![](/img/icons8-basebol-100.png)
+
+<e-answer> Basebol </e-answer> ou <e-answer> Beisebol <e-answer>
+
+- - -
+
 <e-validate> Verifica as respostas </e-validate>
