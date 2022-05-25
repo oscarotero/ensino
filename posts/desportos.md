@@ -90,8 +90,12 @@ draft: false
 
 ![](/img/icons8-basebol-100.png)
 
-<e-answer> Basebol </e-answer> ou <e-answer> Beisebol <e-answer>
+<e-answer> Basebol </e-answer> ou <e-answer> Beisebol </e-answer>
 
 - - -
+
+![](/img/icons8-mergulho-100.png)
+
+<e-answer> Mergulho </e-answer>
 
 <e-validate> Verifica as respostas </e-validate>
