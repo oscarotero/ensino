@@ -104,8 +104,12 @@ draft: false
 
 <e-answer> râguebi </e-answer> (PT) ou <e-answer> rúgbi </e-answer> (BR)
 
+- - -
+
+![](/img/icons8-esqui_100.png)
+
+<e-answer> Esqui </e-answer>
+
 ---
-
-
 
 <e-validate> Verifica as respostas </e-validate>
