@@ -84,7 +84,7 @@ draft: false
 
 ![](/img/icons8-patinagem100.png)
 
-<e-answer> Patinagem </e-answer>
+<e-answer> Patinagem </e-answer>(PT) ou <e-answer> Patinação </e-answer>(BR)
 
 - - -
 
