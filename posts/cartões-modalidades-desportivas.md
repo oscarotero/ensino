@@ -93,3 +93,66 @@ draft: false
 </div>
 <div>hipismo</div>
 </e-card>
+
+<e-card color="1">
+<div>
+
+![](/img/icons8-patinagem100.png)
+
+</div>
+<div>patinagem</div>
+</e-card>
+
+<e-card color="2">
+<div>
+
+![](/img/icons8-levantamento-de-peso-100.png)
+
+</div>
+<div>halterofilismo ou levantamento de peso</div>
+</e-card>
+
+<e-card color="3">
+<div>
+
+![](/img/icons8-voleibol-100.png)
+
+</div>
+<div>voleibol ou vólei</div>
+</e-card>
+
+<e-card color="4">
+<div>
+
+![](/img/icons8-golfe-100.png)
+
+</div>
+<div>golfe</div>
+</e-card>
+
+<e-card color="5">
+<div>
+
+![](/img/icons8-mergulho-100.png)
+
+</div>
+<div>mergulho</div>
+</e-card>
+
+<e-card color="6">
+<div>
+
+![](/img/icons8-tenis-2-100.png)
+
+</div>
+<div>ténis</div>
+</e-card>
+
+<e-card color="7">
+<div>
+
+![](/img/icons8-basebol-100.png)
+
+</div>
+<div>beisebol ou basebol</div>
+</e-card>
