@@ -5,7 +5,11 @@ tags:
 draft: false
 ---
 <e-card color="1">
-<div>Desporto em que duas equipas, geralmente de 11 jogadores, se esforçam por introduzir uma bola na baliza do campo do adversário, sem intervenção das mãos.</div>
+<div>
+
+![](/img/icons8-futebol-100.png)
+
+</div>
 <div>Futebol</div>
 </e-card>
 
@@ -23,4 +27,3 @@ draft: false
 <div>Desporto de combate em que dois adversários se enfrentam num ringue, lutando com os punhos calçados com luvas próprias.</div>
 <div>boxe</div>
 </e-card>
-
