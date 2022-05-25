@@ -18,7 +18,7 @@ draft: false
 
 ![](/img/icons8-basquetebol-100.png)
 
-<e-answer> Basqueteball </e-answer>
+<e-answer> Basquetebol ou basquete </e-answer>
 
 - - -
 
@@ -110,6 +110,6 @@ draft: false
 
 <e-answer> Esqui </e-answer>
 
----
+- - -
 
 <e-validate> Verifica as respostas </e-validate>
