@@ -28,7 +28,7 @@ draft: false
 
 - - -
 
-![](/img/icons8-boxe-100.png)
+![]()
 
 <e-answer> Boxe </e-answer>
 
@@ -82,7 +82,7 @@ draft: false
 
 - - -
 
-![](/img/icons8-patinagem-no-gelo-100.png)
+![](/img/icons8-patinagem100.png)
 
 <e-answer> Patinagem </e-answer>
 
