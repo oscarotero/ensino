@@ -28,7 +28,7 @@ draft: false
 ![](/img/icons8-andebol-100.png)
 
 </div>
-<div>andebol</div>
+<div>Andebol</div>
 </e-card>
 
 <e-card color="4">
@@ -37,7 +37,7 @@ draft: false
 ![](/img/icons8-boxe-100.png)
 
 </div>
-<div>boxe</div>
+<div>Boxe</div>
 </e-card>
 
 <e-card color="5">
@@ -46,7 +46,7 @@ draft: false
 ![](/img/icons8-ginastica-100.png)
 
 </div>
-<div>ginástica</div>
+<div>Ginástica</div>
 </e-card>
 
 <e-card color="6">
@@ -55,7 +55,7 @@ draft: false
 ![](/img/icons8-ciclismo-de-estrada-100.png)
 
 </div>
-<div>ciclismo de estrada</div>
+<div>Ciclismo de estrada</div>
 </e-card>
 
 <e-card color="7">
@@ -64,7 +64,7 @@ draft: false
 ![](/img/icons8-canoagem-slalom-100.png)
 
 </div>
-<div>canoagem</div>
+<div>Canoagem</div>
 </e-card>
 
 <e-card color="8">
@@ -73,7 +73,7 @@ draft: false
 ![](/img/icons8-esqui_100.png)
 
 </div>
-<div>esqui</div>
+<div>Esqui</div>
 </e-card>
 
 <e-card color="9">
@@ -82,7 +82,7 @@ draft: false
 ![](/img/icons8-pingue-pongue-100.png)
 
 </div>
-<div>pingue-pongue ou ténis de mesa</div>
+<div>Pingue-pongue ou ténis de mesa</div>
 </e-card>
 
 <e-card color="10">
@@ -91,7 +91,7 @@ draft: false
 ![](/img/icons8-raguebi-100.png)
 
 </div>
-<div>râguebi (PT) ou rúgbi (BR)</div>
+<div>Râguebi (PT) ou rúgbi (BR)</div>
 </e-card>
 
 <e-card color="1">
@@ -100,7 +100,7 @@ draft: false
 ![](/img/icons8-hipismo-100.png)
 
 </div>
-<div>hipismo</div>
+<div>Hipismo</div>
 </e-card>
 
 <e-card color="2">
@@ -109,7 +109,7 @@ draft: false
 ![](/img/icons8-patinagem100.png)
 
 </div>
-<div>patinagem</div>
+<div>Patinagem</div>
 </e-card>
 
 <e-card color="3">
@@ -118,7 +118,7 @@ draft: false
 ![](/img/icons8-levantamento-de-peso-100.png)
 
 </div>
-<div>halterofilismo ou levantamento de peso</div>
+<div>Halterofilismo ou levantamento de peso</div>
 </e-card>
 
 <e-card color="4">
@@ -127,7 +127,7 @@ draft: false
 ![](/img/icons8-voleibol-100.png)
 
 </div>
-<div>voleibol ou vólei</div>
+<div>Voleibol ou vólei</div>
 </e-card>
 
 <e-card color="5">
@@ -136,7 +136,7 @@ draft: false
 ![](/img/icons8-golfe-100.png)
 
 </div>
-<div>golfe</div>
+<div>Golfe</div>
 </e-card>
 
 <e-card color="6">
@@ -145,7 +145,7 @@ draft: false
 ![](/img/icons8-mergulho-100.png)
 
 </div>
-<div>mergulho</div>
+<div>Mergulho</div>
 </e-card>
 
 <e-card color="7">
@@ -154,7 +154,7 @@ draft: false
 ![](/img/icons8-tenis-2-100.png)
 
 </div>
-<div>ténis</div>
+<div>Ténis</div>
 </e-card>
 
 <e-card color="8">
@@ -163,5 +163,5 @@ draft: false
 ![](/img/icons8-basebol-100.png)
 
 </div>
-<div>beisebol ou basebol</div>
+<div>Beisebol ou basebol</div>
 </e-card>
