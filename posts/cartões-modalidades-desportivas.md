@@ -50,8 +50,12 @@ draft: false
 </e-card>
 
 <e-card color="6">
-<div></div>
-<div>ginástica</div>
+<div>
+
+![](/img/icons8-ciclismo-de-estrada-100.png)
+
+</div>
+<div>ciclismo de estrada</div>
 </e-card>
 
 <e-card color="7">
