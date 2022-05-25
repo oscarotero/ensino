@@ -28,7 +28,7 @@ draft: false
 
 - - -
 
-![]()
+![](/img/icons8-boxe-100.png)
 
 <e-answer> Boxe </e-answer>
 
@@ -98,8 +98,6 @@ draft: false
 
 <e-answer> Mergulho </e-answer>
 
----
-
-
+- - -
 
 <e-validate> Verifica as respostas </e-validate>
