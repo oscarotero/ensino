@@ -5,27 +5,27 @@ tags:
 draft: false
 ---
 <e-card color="1">
-<div>luns</div>
+<div>luns ou segunda feira</div>
 <div>segunda-feira / Plural: segundas-feiras</div>
 </e-card>
 
 <e-card color="2">
-<div>martes</div>
+<div>martes ou terza feira</div>
 <div>terça-feira / Plural: terças-feiras</div>
 </e-card>
 
 <e-card color="3">
-<div>mércores</div>
+<div>mércores ou cuarta feira</div>
 <div>quarta-feira / Plural: quartas-feiras</div>
 </e-card>
 
 <e-card color="4">
-<div>xoves</div>
+<div>xoves ou quinta feira</div>
 <div>quinta-feira / Plural: quintas-feiras</div>
 </e-card>
 
 <e-card color="5">
-<div>venres</div>
+<div>venres ou sexta feira</div>
 <div>sexta-feira / Plural: sextas-feiras</div>
 </e-card>
 
