@@ -30,11 +30,16 @@ draft: false
 </e-card>
 
 <e-card color="6">
+<div>fin de semana</div>
+<div>fim de semana / Plural: fins de semana</div>
+</e-card>
+
+<e-card color="7">
 <div>sábado</div>
 <div>sábado / Plural: sábados</div>
 </e-card>
 
-<e-card color="7">
+<e-card color="8">
 <div>domingo</div>
 <div>domingo / Plural: domingos</div>
 </e-card>
