@@ -90,7 +90,7 @@ draft: false
 
 ![](/img/icons8-basebol-100.png)
 
-<e-answer> Basebol </e-answer> ou <e-answer> Beisebol </e-answer>
+<e-answer> Beisebol </e-answer> ou <e-answer> Basebol </e-answer>
 
 - - -
 
