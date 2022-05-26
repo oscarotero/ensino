@@ -53,7 +53,7 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
 *Balor - valor*
 
-* Cómpre moito <e-answer>valor</e-answer> para dar a cara como fixo el.
+* Cómpre moito <e-answer>valor</e-answer> para dar a cara como o fixo el.
 * Ese pan ten <e-answer>balor</e-answer> por cima.
 
 *Bola - vola*
