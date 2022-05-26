@@ -1,5 +1,5 @@
 ---
-title: Os dias da semana
+title: "Os dias da semana: galego > português"
 tags:
   - portugues
 draft: false
