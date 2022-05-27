@@ -38,6 +38,12 @@ draft: false
 
 <e-answer> Voleibol </e-answer> ou <e-answer> Vólei </e-answer>
 
+---
+
+![](/img/icons8-natação-100.png)
+
+<e-answer> Natação </e-answer> 
+
 - - -
 
 ![](/img/icons8-hipismo-100.png)
