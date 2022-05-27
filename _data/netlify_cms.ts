@@ -27,7 +27,9 @@ const paxinas = f.folder("Páxinas", "/pages", [
 const exercicios = f.folder("Exercicios", "/posts", [
   f.string("Título").name("title"),
   f.text("Sumario").name("summary"),
-  f.relation("Categorías nas que aparece", categorias, "id").multiple(),
+  f.relation("Categorías nas que aparece", categorias, "id")
+    .name("tags")
+    .multiple(),
   f.boolean("Ocultar").name("draft").default(false),
   f.markdown("Corpo").name("body"),
 ])
