@@ -175,3 +175,11 @@ draft: false
 <div>Natação</div>
 </e-card>
 
+<e-card color="10">
+<div>
+
+![](/img/icons8-hoquei-100.png)
+
+</div>
+<div>Hóquei</div>
+</e-card>
