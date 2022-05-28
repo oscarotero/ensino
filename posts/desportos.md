@@ -38,7 +38,7 @@ draft: false
 
 <e-answer> Voleibol </e-answer> ou <e-answer> Vólei </e-answer>
 
----
+- - -
 
 ![](/img/icons8-natação-100.png)
 
@@ -105,6 +105,13 @@ draft: false
 <e-answer> Mergulho </e-answer>
 
 - - -
+
+![](/img/icons8-hoquei-100.png)
+
+<e-answer> Hóquei </e-answer>
+
+---
+
 
 ![](/img/icons8-raguebi-100.png)
 
