@@ -90,6 +90,8 @@ draft: false
 
 ![](/img/tiro_com_arco.png)
 
+</div>
+
 <div>Tiro com arco</div>
 </e-card>
 
