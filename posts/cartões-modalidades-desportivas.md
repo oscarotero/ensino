@@ -86,6 +86,14 @@ draft: false
 </e-card>
 
 <e-card color="10">
+<div> 
+
+![](/img/tiro_com_arco.png)
+
+<div>Tiro com arco</div>
+</e-card>
+
+<e-card color="1">
 <div>
 
 ![](/img/icons8-raguebi-100.png)
@@ -94,7 +102,7 @@ draft: false
 <div>Râguebi (PT) ou rúgbi (BR)</div>
 </e-card>
 
-<e-card color="1">
+<e-card color="2">
 <div>
 
 ![](/img/icons8-hipismo-100.png)
@@ -103,7 +111,7 @@ draft: false
 <div>Hipismo</div>
 </e-card>
 
-<e-card color="2">
+<e-card color="3">
 <div>
 
 ![](/img/icons8-patinagem100.png)
@@ -112,7 +120,7 @@ draft: false
 <div>Patinagem (PT) ou patinação (BR)</div>
 </e-card>
 
-<e-card color="3">
+<e-card color="4">
 <div>
 
 ![](/img/icons8-levantamento-de-peso-100.png)
@@ -121,7 +129,7 @@ draft: false
 <div>Halterofilismo ou levantamento de peso</div>
 </e-card>
 
-<e-card color="4">
+<e-card color="5">
 <div>
 
 ![](/img/icons8-voleibol-100.png)
@@ -130,7 +138,7 @@ draft: false
 <div>Voleibol ou vólei</div>
 </e-card>
 
-<e-card color="5">
+<e-card color="6">
 <div>
 
 ![](/img/icons8-golfe-100.png)
@@ -139,7 +147,7 @@ draft: false
 <div>Golfe</div>
 </e-card>
 
-<e-card color="6">
+<e-card color="7">
 <div>
 
 ![](/img/icons8-mergulho-100.png)
@@ -148,7 +156,7 @@ draft: false
 <div>Mergulho</div>
 </e-card>
 
-<e-card color="7">
+<e-card color="8">
 <div>
 
 ![](/img/icons8-tenis-2-100.png)
@@ -157,7 +165,7 @@ draft: false
 <div>Ténis</div>
 </e-card>
 
-<e-card color="8">
+<e-card color="9">
 <div>
 
 ![](/img/icons8-basebol-100.png)
@@ -166,7 +174,7 @@ draft: false
 <div>Beisebol ou basebol</div>
 </e-card>
 
-<e-card color="9">
+<e-card color="10">
 <div>
 
 ![](/img/icons8-natação-100.png)
@@ -175,7 +183,7 @@ draft: false
 <div>Natação</div>
 </e-card>
 
-<e-card color="10">
+<e-card color="1">
 <div>
 
 ![](/img/icons8-hoquei-100.png)
