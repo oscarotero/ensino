@@ -6,6 +6,8 @@ draft: false
 ---
 ![](/img/icons8-ginastica-100.png)
 
+![]()
+
 <e-answer> Ginástica </e-answer>
 
 - - -
@@ -123,5 +125,13 @@ draft: false
 <e-answer> Esqui </e-answer>
 
 - - -
+
+![](/img/tiro_com_arco.png)
+
+<e-answer> Tiro com arco </e-answer>
+
+\---
+
+
 
 <e-validate> Verifica as respostas </e-validate>
