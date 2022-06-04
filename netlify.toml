@@ -1,3 +1,8 @@
 [build]
   publish = "_site"
   command = "curl -fsSL https://deno.land/x/install/install.sh | sh && /opt/buildhome/.deno/bin/deno task build"
+
+[[plugins]]
+package = "/plugins/netlify-cache"
+  [plugins.inputs]
+    paths: 
