@@ -4,5 +4,3 @@
 
 [[plugins]]
 package = "/plugins/netlify-cache"
-  [plugins.inputs]
-    paths: 
