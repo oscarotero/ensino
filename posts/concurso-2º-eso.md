@@ -131,29 +131,179 @@ Resposta certa! Esta é a expressão que usam em Portugal.
 5. Que forma usam no Brasil para gajo ou tipo?
 
 <e-card color="6">
-  <div>gato</div>
+  <div>Gato</div>
   <div>
 Resposta errada! Gato no Brasil é um homem atraente
   </div>
 </e-card>
 
 <e-card color="7">
-  <div>cachorro</div>
+  <div>Cachorro</div>
   <div>
 Resposta errada! Cachorro é um cão jovem
   </div>
 </e-card>
 
 <e-card color="8">
-  <div>cara</div>
+  <div>Cara</div>
   <div>
 Resposta certa! 
   </div>
 </e-card>
 
 <e-card color="9">
-  <div>malandro</div>
+  <div>Malandro</div>
   <div>
 Resposta errada! Malandro é quem procura viver à custa do trabalho alheio
+  </div>
+</e-card>
+
+6. O que significa "dar um pum"?
+
+<e-card color="10">
+  <div>Espirrar</div>
+  <div>
+Resposta errada! 
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Arrotar</div>
+  <div>
+Resposta errada! 
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Dar um murro</div>
+  <div>
+Resposta errada! 
+  </div>
+</e-card>
+
+<e-card color="3">
+  <div>Soltar um peido</div>
+  <div>
+Resposta certa!
+  </div>
+</e-card>
+
+7. O que dizemos quando entramos numa sala em que há pessoas a comer?
+
+<e-card color="4">
+  <div>Que aproveite</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="5">
+  <div>Bom proveito</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="5">
+  <div>Bom apetite</div>
+  <div>
+Resposta certa!
+  </div>
+</e-card>
+
+<e-card color="5">
+  <div>Boa fome</div>
+  <div>
+Resposta certa!
+  </div>
+</e-card>
+
+8. O que dizemos quando entramos numa sala em que há pessoas a comer?
+
+<e-card color="4">
+  <div>Que aproveite</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="5">
+  <div>Bom proveito</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="5">
+  <div>Bom apetite</div>
+  <div>
+Resposta certa!
+  </div>
+</e-card>
+
+<e-card color="5">
+  <div>Boa fome</div>
+  <div>
+Resposta certa!
+  </div>
+</e-card>
+
+9. Num dia de chuva não podemos sair à rua sem que dois coisas...
+
+<e-card color="6">
+  <div>Um guarda-chuva</div>
+  <div>
+Resposta certa!
+  </div>
+</e-card>
+
+<e-card color="7">
+  <div>Um bengaleiro</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="8">
+  <div>Um cachecol</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="9">
+  <div>Umas galochas</div>
+  <div>
+Resposta certa!
+  </div>
+</e-card>
+
+10. Que coisa podemos dispensar numa ida à praia?
+
+<e-card color="10">
+  <div>Um parasol</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="1">
+  <div>Protetor solar</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="2">
+  <div>Um chapeu</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="3">
+  <div>Uma cartola</div>
+  <div>
+Resposta certa! A cartola é o chapeu dos mágicos.
   </div>
 </e-card>
