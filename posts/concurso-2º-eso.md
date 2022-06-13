@@ -21,7 +21,7 @@ Resposta errada!
 </e-card>
 
 <e-card color="3">
-  <div>Quero-te/div>
+  <div>Quero-te</div>
 <div>
 Resposta certíssima!
 </div>
