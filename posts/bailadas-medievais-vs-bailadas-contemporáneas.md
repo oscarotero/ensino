@@ -6,7 +6,7 @@ draft: false
 ---
 # Bailemos nós ja todas tres, ai amigas
 
-## Airas Nunez
+### Airas Nunez
 
 Bailemos nós ja todas tres, ai amigas,
 
@@ -46,15 +46,11 @@ so aqueste ramo, sol que nós bailemos,
 
 verra bailar
 
-
-
-# No chão novinha 
+# No chão novinha
 
 ## Anitta, Pedro Sampaio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ls74YCwYB4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 Especialmente pra todas elas\
 Fiz esse beat só pra ver elas\
