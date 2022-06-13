@@ -119,5 +119,5 @@ Comparten:
 - Existen referencias ao baile ("Bailemos nós ja todos tres", "so  aqueste ramo frolido bailemos" / "Fiz esse beat só pra ver elas descendo, descendo, descendo", "no chão, novinha", "joga a bunda pra trás")
 
 Reflexiona
-Que significado ten o baile na cantiga de Airas Nunez? E na de AnittaA chamada ao baile está vinculada coa sororidade (=solidariedade entre mulleres)?
+Que significado ten o baile na cantiga de Airas Nunez? E na de Anitta chamada ao baile está vinculada coa sororidade (=solidariedade entre mulleres)?
 
