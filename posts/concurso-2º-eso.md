@@ -265,7 +265,7 @@ Resposta errada!
 </e-card>
 
 <e-card color="2">
-  <div>Um chapeu</div>
+  <div>Um chapéu</div>
   <div>
 Resposta errada!
   </div>
