@@ -7,28 +7,28 @@ draft: false
 1. Qual destas formas não se usa em português para dizer I love?
 
 <e-card color="1">
-  <div>Amo-te</div>
+  <div>Amo-te.</div>
   <div>
 Resposta errada!
   </div>
 </e-card>
 
 <e-card color="2">
-  <div>Estou apaixonado por ti</div>
+  <div>Estou apaixonado por ti.</div>
   <div>
 Resposta errada!
   </div>
 </e-card>
 
 <e-card color="3">
-  <div>Quero-te</div>
+  <div>Quero-te.</div>
 <div>
 Resposta certíssima!
 </div>
 </e-card>
 
 <e-card color="4">
-  <div>Tenho um fraquinho por ti</div>
+  <div>Tenho um fraquinho por ti.</div>
   <div>
 Resposta errada!
   </div>
@@ -37,27 +37,27 @@ Resposta errada!
 2. Qual destas formas não usamos para pedir desculpas?
 
 <e-card color="5">
-  <div>Com licença</div>
+  <div>Com licença.</div>
   <div>
-Resposta certa! Usamos esta expressão para pedirmos permissão</div>
+Resposta certa! Usamos esta expressão para pedirmos permissão.</div>
 </e-card>
 
 <e-card color="6">
-  <div>Peço desculpa</div>
+  <div>Peço desculpa.</div>
   <div>
 Resposta errada! Usamos, sim.
   </div>
 </e-card>
 
 <e-card color="7">
-  <div>Lamento imenso</div>
+  <div>Lamento imenso.</div>
   <div>
 Resposta errada! Usamos, sim
   </div>
 </e-card>
 
 <e-card color="8">
-  <div>Desculpe-me</div>
+  <div>Desculpe-me.</div>
   <div>
 Resposta errada! Também usamos
   </div>
@@ -66,46 +66,46 @@ Resposta errada! Também usamos
 3. Quando digo "tira-me do sério"?
 
 <e-card color="9">
-  <div>Quando acho que uma coisa é engraçada</div>
+  <div>Quando acho que uma coisa é engraçada.</div>
   <div>
 Resposta errada!
   </div>
 </e-card>
 
 <e-card color="10">
-  <div>Quando uma coisa me irrita ou me faz perder a calma</div>
+  <div>Quando uma coisa me irrita ou me faz perder a calma.</div>
   <div>
 Resposta certa!
   </div>
 </e-card>
 
 <e-card color="1">
-  <div>Quando não acredito em alguma coisa</div>
+  <div>Quando não acredito em alguma coisa.</div>
   <div>
 Resposta errada!
   </div>
 </e-card>
 
 <e-card color="2">
-  <div>Quando não me levam a sério</div>
+  <div>Quando não levo a sério uma coisa.</div>
   <div>
 Resposta errada!
   </div>
 </e-card>
 
-4. De que duas formas posso pedir a alguém que me leve no seu carro?
+4. De que duas maneiras posso pedir a alguém que me leve no seu carro?
 
 <e-card color="3">
   <div>Podes tirar o cavalinho da chuva?</div>
   <div>
-Resposta certa! Usam esta expressão no Brasil
+Resposta errada!
   </div>
 </e-card>
 
 <e-card color="4">
   <div>Das-me carona?</div>
   <div>
-Resposta certa! Usam esta expressão no Brasil
+Resposta certa! Usam esta expressão no Brasil.
   </div>
 </e-card>
 
