@@ -218,7 +218,7 @@ Resposta certa!
   </div>
 </e-card>
 
-9. Num dia de chuva não podemos sair à rua sem que dois coisas...
+9. Num dia de chuva não podemos sair à rua sem que duas coisas...
 
 <e-card color="6">
   <div>Um guarda-chuva</div>
