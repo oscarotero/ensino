@@ -248,7 +248,7 @@ Resposta certa! As bolachas são as botas altas de borracha para a chuva.
 <e-card color="3">
   <div>Um parasol</div>
   <div>
-Resposta errada!
+Resposta errada!  Um parasol é um objeto para proteger do sol, formado por uma armação coberta de pano, e haste central que serve de cabo.
   </div>
 </e-card>
 
