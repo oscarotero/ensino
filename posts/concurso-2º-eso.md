@@ -307,3 +307,33 @@ Resposta errada!
 Resposta certa! A cartola é o chapeu dos mágicos.
   </div>
 </e-card>
+
+11. A pessoa que te salva de morrer afogado na praia é 
+
+<e-card color="4">
+  <div>Um guarda-costas</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="5">
+  <div>Um duplo</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
+
+<e-card color="6">
+  <div>Um nadador-salvador</div>
+  <div>
+Resposta certa! 
+  </div>
+</e-card>
+
+<e-card color="7">
+  <div>Guarda-redes</div>
+  <div>
+Resposta errada!
+  </div>
+</e-card>
