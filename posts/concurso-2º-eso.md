@@ -126,58 +126,58 @@ Resposta certa! Esta é a expressão que usam em Portugal.
 5. Que forma usam no Brasil para gajo ou tipo?
 
 <e-card color="7">
-  <div>Gato</div>
+  <div>Gato.</div>
   <div>
-Resposta errada! Gato no Brasil é um homem atraente
+Resposta errada! Gato no Brasil é um homem atraente.
   </div>
 </e-card>
 
 <e-card color="8">
   <div>Cachorro</div>
   <div>
-Resposta errada! Cachorro é um cão jovem
+Resposta errada! Cachorro é um cão jovem.
   </div>
 </e-card>
 
 <e-card color="9">
-  <div>Cara</div>
+  <div>Cara.</div>
   <div>
 Resposta certa! 
   </div>
 </e-card>
 
 <e-card color="10">
-  <div>Malandro</div>
+  <div>Malandro.</div>
   <div>
-Resposta errada! Malandro é quem procura viver à custa do trabalho alheio
+Resposta errada! Malandro é quem procura viver à custa do trabalho alheio.
   </div>
 </e-card>
 
 6. O que significa "dar um pum"?
 
 <e-card color="1">
-  <div>Espirrar</div>
+  <div>Espirrar.</div>
   <div>
 Resposta errada! 
   </div>
 </e-card>
 
 <e-card color="2">
-  <div>Arrotar</div>
+  <div>Arrotar.</div>
   <div>
 Resposta errada! 
   </div>
 </e-card>
 
 <e-card color="3">
-  <div>Dar um murro</div>
+  <div>Dar um murro.</div>
   <div>
 Resposta errada! 
   </div>
 </e-card>
 
 <e-card color="4">
-  <div>Soltar um peido</div>
+  <div>Soltar um peido.</div>
   <div>
 Resposta certa!
   </div>
@@ -186,28 +186,28 @@ Resposta certa!
 7. O que dizemos quando entramos numa sala em que há pessoas a comer?
 
 <e-card color="5">
-  <div>Que aproveite</div>
+  <div>Que aproveite!</div>
   <div>
 Resposta errada!
   </div>
 </e-card>
 
 <e-card color="6">
-  <div>Bom proveito</div>
+  <div>Bom proveito!</div>
   <div>
 Resposta errada!
   </div>
 </e-card>
 
 <e-card color="7">
-  <div>Bom apetite</div>
+  <div>Bom apetite!</div>
   <div>
 Resposta certa!
   </div>
 </e-card>
 
 <e-card color="8">
-  <div>Boa fome</div>
+  <div>Boa fome!</div>
   <div>
 Resposta certa!
   </div>
@@ -216,30 +216,30 @@ Resposta certa!
 9. Num dia de chuva não podemos sair à rua sem que duas coisas...
 
 <e-card color="9">
-  <div>Um guarda-chuva</div>
+  <div>Um guarda-chuva.</div>
   <div>
 Resposta certa!
   </div>
 </e-card>
 
 <e-card color="10">
-  <div>Um bengaleiro</div>
+  <div>Um bengaleiro.</div>
   <div>
-Resposta errada!
+Resposta errada! O bengaleiro é o lugar ou móvel onde se guardam as bengalas e guarda-chuvas.
   </div>
 </e-card>
 
 <e-card color="1">
   <div>Um cachecol</div>
   <div>
-Resposta errada!
+Resposta errada! O cachecol é uma tira, geralmente longa e estreita, de lã ou outro tecido, que se coloca à volta do pescoço para o proteger do frio.
   </div>
 </e-card>
 
 <e-card color="2">
   <div>Umas galochas</div>
   <div>
-Resposta certa!
+Resposta certa! As bolachas são as botas altas de borracha para a chuva.
   </div>
 </e-card>
 
@@ -269,7 +269,7 @@ Resposta errada!
 <e-card color="6">
   <div>Uma cartola</div>
   <div>
-Resposta certa! A cartola é o chapeu dos mágicos.
+Resposta certa! A cartola é o chapéu que usam os mágicos.
   </div>
 </e-card>
 
