@@ -204,44 +204,14 @@ Resposta errada!
   </div>
 </e-card>
 
-<e-card color="5">
+<e-card color="6">
   <div>Bom apetite</div>
   <div>
 Resposta certa!
   </div>
 </e-card>
 
-<e-card color="5">
-  <div>Boa fome</div>
-  <div>
-Resposta certa!
-  </div>
-</e-card>
-
-8. O que dizemos quando entramos numa sala em que há pessoas a comer?
-
-<e-card color="4">
-  <div>Que aproveite</div>
-  <div>
-Resposta errada!
-  </div>
-</e-card>
-
-<e-card color="5">
-  <div>Bom proveito</div>
-  <div>
-Resposta errada!
-  </div>
-</e-card>
-
-<e-card color="5">
-  <div>Bom apetite</div>
-  <div>
-Resposta certa!
-  </div>
-</e-card>
-
-<e-card color="5">
+<e-card color="7">
   <div>Boa fome</div>
   <div>
 Resposta certa!
@@ -308,7 +278,7 @@ Resposta certa! A cartola é o chapeu dos mágicos.
   </div>
 </e-card>
 
-11. A pessoa que te salva de morrer afogado na praia é 
+11. A pessoa que te salva de morrer afogado na praia é...
 
 <e-card color="4">
   <div>Um guarda-costas</div>
