@@ -68,37 +68,37 @@ Resposta errada!
 
 
 
-3. Qua significa a expressão "tira-me do sério"?
+3. Quando digo "tira-me do sério"?
 
 <e-card color="8">
-  <div>Digo quando acho que uma coisa é engraçada</div>
+  <div>Quando acho que uma coisa é engraçada</div>
   <div>
 Resposta errada!
   </div>
 </e-card>
 
 <e-card color="9">
-  <div>Digo quando uma coisa me irrita ou faz perder a calma</div>
+  <div>Quando uma coisa me irrita ou faz perder a calma</div>
   <div>
 Resposta certa!
   </div>
 </e-card>
 
 <e-card color="10">
-  <div>Digo quando não acredito em alguma coisa</div>
+  <div>Quando não acredito em alguma coisa</div>
   <div>
 Resposta errada!
   </div>
 </e-card>
 
 <e-card color="1">
-  <div>Digo quando não me levam a sério</div>
+  <div>Quando não me levam a sério</div>
   <div>
 Resposta errada!
   </div>
 </e-card>
 
-4. Como podemos pedir a alguém que nos leve no seu carro?
+4. Como posso pedir a alguém que me leve no seu carro?
 
 <e-card color="2">
   <div>Podes tirar o cavalinho da chuva?</div>
@@ -124,7 +124,7 @@ Resposta errada!
 <e-card color="5">
   <div>Das-me boleia?</div>
   <div>
-Resposta certa! Esta é a expressão que usam em Portugal
+Resposta certa! Esta é a expressão que usam em Portugal.
   </div>
 </e-card>
 
@@ -154,6 +154,6 @@ Resposta certa!
 <e-card color="9">
   <div>malandro</div>
   <div>
-Resposta errada! Malandro é quem procura vive à custa do trabalho alheio
+Resposta errada! Malandro é quem procura viver à custa do trabalho alheio
   </div>
 </e-card>
