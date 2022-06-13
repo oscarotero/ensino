@@ -52,14 +52,14 @@ Resposta errada! Usamos, sim.
 <e-card color="7">
   <div>Lamento imenso.</div>
   <div>
-Resposta errada! Usamos, sim
+Resposta errada! Usamos, sim.
   </div>
 </e-card>
 
 <e-card color="8">
   <div>Desculpe-me.</div>
   <div>
-Resposta errada! Também usamos
+Resposta errada! Também usamos.
   </div>
 </e-card>
 
