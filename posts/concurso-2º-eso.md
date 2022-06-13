@@ -4,8 +4,6 @@ tags:
   - portugues
 draft: false
 ---
-
-
 1. Qual destas formas não se usa em português para dizer I love?
 
 <e-card color="1">
