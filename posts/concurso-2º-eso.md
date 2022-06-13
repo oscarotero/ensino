@@ -39,28 +39,27 @@ Resposta errada!
 <e-card color="5">
   <div>Com licença</div>
   <div>
-Resposta certa!
-  </div>
+Resposta certa! Usamos esta expressão para pedirmos permissão</div>
 </e-card>
 
 <e-card color="6">
   <div>Peço desculpa</div>
   <div>
-Resposta errada!
+Resposta errada! Usamos, sim.
   </div>
 </e-card>
 
 <e-card color="7">
   <div>Lamento imenso</div>
   <div>
-Resposta errada!
+Resposta errada! Usamos, sim
   </div>
 </e-card>
 
 <e-card color="8">
   <div>Desculpe-me</div>
   <div>
-Resposta errada!
+Resposta errada! Também usamos
   </div>
 </e-card>
 
@@ -74,7 +73,7 @@ Resposta errada!
 </e-card>
 
 <e-card color="10">
-  <div>Quando uma coisa me irrita ou faz perder a calma</div>
+  <div>Quando uma coisa me irrita ou me faz perder a calma</div>
   <div>
 Resposta certa!
   </div>
@@ -94,7 +93,7 @@ Resposta errada!
   </div>
 </e-card>
 
-4. Como posso pedir a alguém que me leve no seu carro?
+4. De que duas formas posso pedir a alguém que me leve no seu carro?
 
 <e-card color="3">
   <div>Podes tirar o cavalinho da chuva?</div>
@@ -279,14 +278,14 @@ Resposta certa! A cartola é o chapeu dos mágicos.
 <e-card color="7">
   <div>Um guarda-costas</div>
   <div>
-Resposta errada!
+Resposta errada! Um duplo é a pessoa contratada para acompanhar e defender outra.
   </div>
 </e-card>
 
 <e-card color="8">
   <div>Um duplo</div>
   <div>
-Resposta errada!
+Resposta errada! Um duplo é o profissional que substitutui um ator em cenas que envolvem risco físico.
   </div>
 </e-card>
 
@@ -300,6 +299,6 @@ Resposta certa!
 <e-card color="10">
   <div>Guarda-redes</div>
   <div>
-Resposta errada!
+Resposta errada! Um guarda-redes é o jogador que tem por missão impedir a entrada da bola na baliza.
   </div>
 </e-card>
