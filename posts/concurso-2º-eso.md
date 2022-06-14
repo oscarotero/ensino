@@ -216,13 +216,13 @@ Resposta certa! Boa fome ninguém diz.
 9. Num dia de chuva não podemos sair à rua sem que duas coisas...
 
 <e-card color="9">
-  <div>Um guarda-chuva.</div>
+  <div>Um guarda-chuva</div>
   <div>
 Resposta certa! Um guarda-chuva é o objeto portátil para abrigar da chuva.</div>
 </e-card>
 
 <e-card color="10">
-  <div>Um bengaleiro.</div>
+  <div>Um bengaleiro</div>
   <div>
 Resposta errada! O bengaleiro é o lugar ou móvel onde se guardam as bengalas e guarda-chuvas.
   </div>
