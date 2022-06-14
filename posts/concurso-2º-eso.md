@@ -57,7 +57,7 @@ Resposta errada! Usamos, sim.
 </e-card>
 
 <e-card color="8">
-  <div>Desculpe-me.</div>
+  <div>Desculpe-me</div>
   <div>
 Resposta errada! Também usamos.
   </div>
