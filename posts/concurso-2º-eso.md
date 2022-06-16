@@ -4,7 +4,7 @@ tags:
   - portugues
 draft: false
 ---
-1. Qual destas formas não se usa em português para dizer "I love"?
+1. Qual destas formas não se usa em português para dizer "I love you"?
 
 <e-card color="1">
   <div>Amo-te</div>
@@ -177,7 +177,7 @@ Resposta errada! Também não é a pancada dada com a mão fechada
 </e-card>
 
 <e-card color="4">
-  <div>Soltar um peido.</div>
+  <div>Soltar um peido</div>
   <div>
 Pois é! Resposta certa! 
   </div>
@@ -195,7 +195,7 @@ Resposta errada! Saúde é o que dizemos quando alguém espirrar.
 <e-card color="6">
   <div>À nossa!</div>
   <div>
-Resposta errada! À nossa é o que diz num brinde.
+Resposta errada! À nossa é o que se diz num brinde.
   </div>
 </e-card>
 
@@ -209,7 +209,7 @@ Resposta certa!
 <e-card color="8">
   <div>Boa fome!</div>
   <div>
-Resposta certa! Boa fome ninguém diz. 
+Resposta errada! Boa fome ninguém diz. 
   </div>
 </e-card>
 
@@ -277,14 +277,14 @@ Resposta certa! A cartola é o chapéu que usam os mágicos.
 <e-card color="7">
   <div>Um guarda-costas</div>
   <div>
-Resposta errada! Um duplo é a pessoa contratada para acompanhar e defender outra.
+Resposta errada! Um guarda-costas é a pessoa contratada para acompanhar e defender outra.
   </div>
 </e-card>
 
 <e-card color="8">
   <div>Um duplo</div>
   <div>
-Resposta errada! Um duplo é o profissional que substitutui um ator em cenas que envolvem risco físico.
+Resposta errada! Um duplo é o profissional que substitui um ator em cenas que envolvem risco físico.
   </div>
 </e-card>
 
