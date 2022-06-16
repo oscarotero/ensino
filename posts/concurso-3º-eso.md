@@ -4,32 +4,64 @@ tags:
   - portugues
 draft: false
 ---
-Descobre o intruso. Qual destas expressões tem um significado diferente?
+Descobre o intruso. Qual não usamos para falar de...
+
+## Esquecimentos
 
 <e-card color="1">
   <div>Não me recordo</div>
   <div>
-Resposta errada!
+Usamos, sim!
   </div>
 </e-card>
 
 <e-card color="2">
   <div>Esqueci-me</div>
   <div>
-Resposta errada!
+Usamos também!
   </div>
 </e-card>
 
 <e-card color="3">
   <div>Não reparei</div>
 <div>
-Resposta certíssima!
+Era esta! Não usamos!
 </div>
 </e-card>
 
 <e-card color="4">
   <div>Não me lembro</div>
   <div>
-Resposta errada!
+Usamos, sim
+  </div>
+</e-card>
+
+## Cansaço
+
+<e-card color="5">
+  <div>Estou estafado!</div>
+  <div>
+É claro que usamos!
+  </div>
+</e-card>
+
+<e-card color="6">
+  <div>Estou-me nas tintas!</div>
+  <div>
+Estar-se nas tintas é não se importar com alguma coisa
+  </div>
+</e-card>
+
+<e-card color="7">
+  <div>Estou de rastos</div>
+  <div>
+Usamos, sim
+  </div>
+</e-card>
+
+<e-card color="8">
+  <div>Estou </div>
+  <div>
+Estou cansado!
   </div>
 </e-card>
