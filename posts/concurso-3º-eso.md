@@ -60,8 +60,8 @@ Usamos, sim
 </e-card>
 
 <e-card color="8">
-  <div>Estou </div>
+  <div>Estou cansado</div>
   <div>
-Estou cansado!
+Usamos, com certeza!
   </div>
 </e-card>
