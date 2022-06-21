@@ -170,7 +170,7 @@ Resposta errada! Tampouco é eructar.
 </e-card>
 
 <e-card color="3">
-  <div>Dar um murro.</div>
+  <div>Dar um murro</div>
   <div>
 Resposta errada! Também não é a pancada dada com a mão fechada
   </div>
