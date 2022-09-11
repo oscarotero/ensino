@@ -103,7 +103,7 @@ Resposta errada!
 </e-card>
 
 <e-card color="4">
-  <div>Das-me carona?</div>
+  <div>Dás-me carona?</div>
   <div>
 Resposta certa! Usam esta expressão no Brasil.
   </div>
@@ -117,7 +117,7 @@ Resposta errada!
 </e-card>
 
 <e-card color="6">
-  <div>Das-me boleia?</div>
+  <div>Dás-me boleia?</div>
   <div>
 Resposta certa! Esta é a expressão que usam em Portugal.
   </div>
