@@ -47,7 +47,7 @@ no teclado, o que estamos a facer é enviar ese código que ten asignado.
 ## Actividade
 
 Agora que xa sabes que cada certo tempo se producen novas incorporacións e
-actualizacións dos emojis que usamos, propóche un exercicio para familiarizarte
+actualizacións dos emojis que usamos, propóche un exercicio para te familiarizares
 cos que se acaban de incorporar en febreiro de 2020. De entre os 157 seleccionei
 estes 20 que figuran a continuación. Aparece o emoji e, ao pé, o nome que ten en
 inglés. O que tes que facer ti? Simple, darlle un nome en galego. Sé creativo!
