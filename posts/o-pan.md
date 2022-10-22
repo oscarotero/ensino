@@ -48,7 +48,7 @@ Escribe debaixo as túas respostas.
 
 11 : <e-answer size=16>bola</e-anwser>
 
-<e-validate>Corrixe as respostas</e-validate>
+<e-validate>Verifica as respostas</e-validate>
 
 ## Exercicio 2
 
@@ -75,7 +75,7 @@ molete : <e-answer>bolo</e-answer>
 
 buraco : <e-answer>alvéolo</e-answer>
 
-<e-validate>Corrixe as respostas</e-validate>
+<e-validate>Verifica as respostas</e-validate>
 
 ## Exercicio 3
 
@@ -112,7 +112,7 @@ Completa as seguintes oracións coas palabras que faltan:
 10. As sardiñas asadas con <e-answer>broa</e-answer> son un prato típico da
     festa de San Xoán.
 
-<e-validate>Corrixe as respostas</e-validate>
+<e-validate>Verifica as respostas</e-validate>
 
 ## Exercicio 4
 
@@ -140,4 +140,4 @@ Completa os espazos coas palabras intrusas:
 3. un <e-answer>toro</e-answer> de pescada
 4. un <e-answer>dente</e-answer> de allo
 
-<e-validate>Corrixe as respostas</e-validate>
+<e-validate>Verifica as respostas</e-validate>
