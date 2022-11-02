@@ -1,5 +1,8 @@
 ---
-title: Verbos usados incorrectamente como pronominais
-draft: false
+title: Verbos que non son pronominais
 tags: videos
+draft: false
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLPJdEqiyl2dAvN7xUCb3efSmafoZy4cRb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@digochoeu/video/7161396999831538949" data-video-id="7161396999831538949" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@digochoeu" href="https://www.tiktok.com/@digochoeu?refer=embed">@digochoeu</a> Ollo coas traducións literais do <a title="castelán" target="_blank" href="https://www.tiktok.com/tag/castel%C3%A1n?refer=embed">#castelán</a> <a title="español" target="_blank" href="https://www.tiktok.com/tag/espa%C3%B1ol?refer=embed">#español</a> ao <a title="galego" target="_blank" href="https://www.tiktok.com/tag/galego?refer=embed">#galego</a> 👁 <a title="dígochoeu" target="_blank" href="https://www.tiktok.com/tag/d%C3%ADgochoeu?refer=embed">#DígochoEu</a> <a title="galicia" target="_blank" href="https://www.tiktok.com/tag/galicia?refer=embed">#Galicia</a> <a title="tvg" target="_blank" href="https://www.tiktok.com/tag/tvg?refer=embed">#TVG</a> <a title="xogar" target="_blank" href="https://www.tiktok.com/tag/xogar?refer=embed">#xogar</a> <a title="arriscar" target="_blank" href="https://www.tiktok.com/tag/arriscar?refer=embed">#arriscar</a> <a title="arriscarse" target="_blank" href="https://www.tiktok.com/tag/arriscarse?refer=embed">#arriscarse</a> <a title="aprendecontiktok" target="_blank" href="https://www.tiktok.com/tag/aprendecontiktok?refer=embed">#aprendecontiktok</a> <a target="_blank" title="♬ original sound - #DígochoEu" href="https://www.tiktok.com/music/original-sound-7161397021609708294?refer=embed">♬ original sound - #DígochoEu</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
