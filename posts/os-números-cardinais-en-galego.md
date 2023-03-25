@@ -8,7 +8,17 @@ Completa as series numéricas:
 
 ## 0 ao 10
 
-<e-answer>cero</e-answer> - un - <e-answer>dous</e-answer> - tres - <e-answer>catro</e-answer> - cinco - <e-answer>seis</e-answer> - sete - <e-answer>oito</e-answer> - nove - <e-answer>dez</e-answer>
+- <e-answer>cero</e-answer> 
+- un 
+- <e-answer>dous</e-answer> 
+- tres 
+- <e-answer>catro</e-answer> 
+- cinco
+- <e-answer>seis</e-answer>
+- sete
+- <e-answer>oito</e-answer>
+- nove
+- <e-answer>dez</e-answer>
 
 ## 11 ao 20
 
