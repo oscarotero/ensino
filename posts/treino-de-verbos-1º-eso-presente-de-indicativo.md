@@ -1,12 +1,12 @@
 ---
-title: "Treino de verbos - 1º ESO: presente de indicativo"
+title: "Treino de verbos - 1º ESO: presente do indicativo"
 tags:
   - portugues
 draft: false
 ---
-Conjuga no presente de indicativo os seguintes verbos:
+Conjuga no presente do indicativo os seguintes verbos:
 
-Lembra-te! Para colocar o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal. 
+Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal. 
 
 ## Ser
 
