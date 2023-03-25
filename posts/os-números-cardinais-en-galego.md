@@ -4,7 +4,12 @@ tags:
   - Os números
 draft: false
 ---
-Completa as series numéricas:
+Aprenderes os números en galego é moi fácil. Segundo Esther Estévez só é preciso 1 minuto:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JBVN3Nst5Po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+Agora só hai que practicar. Para iso, completa as series numéricas:
 
 ## 0 ao 10
 
