@@ -33,3 +33,22 @@ dez - <e-answer>vinte</e-answer> - trinta - <e-answer>corenta</e-answer> - cincu
 <e-answer>cen</e-answer> - douscentos - <e-answer>trescentos</e-answer> - catrocentos - <e-answer>cincocentos</e-answer> ou quiñentos - <e-answer>seiscentos</e-answer> - setecentos - <e-answer>oitocentos</e-answer> - novecentos - <e-answer>mil</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+
+A seguir, tes unha pequena relación de datas sinaladas no calendario. Escribe con letra o día de cada unha destas conmemoracións: 
+
+O Día da Candeloria (cando casan os paxariños) > <e-answer>dous</e-answer> de febreiro
+
+O Día de Rosalía de Castro (o día do seu nacemento) > <e-answer>vinte e tres</e-answer> de febreiro
+
+O Día Internacional da Muller > <e-answer>oito</e-answer> de marzo
+
+O Día das Letras Galegas > <e-answer>dezasete</e-answer> de maio
+
+O Día de San Xoán > <e-answer>vinte e tres</e-answer> de xuño 
+
+O Día da Patria Galega > <e-answer>vinte e cinco</e-answer> de xullo
+
+O Día de San Martiño > <e-answer>once</e-answer> de novembro
+
+<e-validate>Verifica as respostas</e-validate>
