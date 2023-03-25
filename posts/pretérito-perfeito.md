@@ -4,7 +4,7 @@ tags:
   - portugues
 draft: false
 ---
-Conjuga no pretérito perfeito os seguintes verbos: 
+Conjuga no pretérito perfeito do indicativo os seguintes verbos: 
 
 Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal. 
 
