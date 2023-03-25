@@ -16,7 +16,7 @@ once - <e-answer>doce</e-answer> - trece - <e-answer>catorce</e-answer> - quince
 
 ## 21 ao 30
 
-<e-answer>vinte e un</e-answer> - vinta e dous - <e-answer>vinte e tres</e-answer> - vinte e catro - <e-answer>vinte e cinco</e-answer> - vinte e seis - <e-answer>vinte e sete</e-answer> - vinte e oito - <e-answer>vinte e nove</e-answer> - trinta
+<e-answer>vinte e un</e-answer> - vinte e dous - <e-answer>vinte e tres</e-answer> - vinte e catro - <e-answer>vinte e cinco</e-answer> - vinte e seis - <e-answer>vinte e sete</e-answer> - vinte e oito - <e-answer>vinte e nove</e-answer> - trinta
 
 ## 10 ao 100
 
