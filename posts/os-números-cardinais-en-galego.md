@@ -45,7 +45,7 @@ O Día Internacional da Muller > <e-answer>oito</e-answer> de marzo
 
 O Día das Letras Galegas > <e-answer>dezasete</e-answer> de maio
 
-O Día de San Xoán > <e-answer>vinte e tres</e-answer> de xuño 
+O Día de San Xoán > <e-answer>vinte e catro</e-answer> de xuño 
 
 O Día da Patria Galega > <e-answer>vinte e cinco</e-answer> de xullo
 
