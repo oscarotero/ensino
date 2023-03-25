@@ -5,7 +5,7 @@ tags:
 draft: false
 ---
 <e-card color="1">
-  <div>Presente de indicativo de ser</div>
+  <div>Presente do indicativo de ser</div>
   <div>
     <ul>
       <li>eu sou </li>
@@ -18,7 +18,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de indicativo de ser</div>
+  <div>Pretérito perfeito do indicativo de ser</div>
   <div>
     <ul>
       <li>eu fui </li>
@@ -31,7 +31,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de estar</div>
+  <div>Presente do indicativo de estar</div>
   <div>
     <ul>
       <li>eu estou </li>
@@ -44,7 +44,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de indicativo de estar</div>
+  <div>Pretérito perfeito do indicativo de estar</div>
   <div>
     <ul>
       <li>eu estive </li>
@@ -57,7 +57,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de ter</div>
+  <div>Presente do indicativo de ter</div>
   <div>
     <ul>
       <li>eu tenho </li>
@@ -70,7 +70,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de indicativo de ter</div>
+  <div>Pretérito perfeito do indicativo de ter</div>
   <div>
     <ul>
       <li>eu tive </li>
@@ -83,7 +83,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de fazer</div>
+  <div>Presente do indicativo de fazer</div>
   <div>
     <ul>
       <li>eu faço </li>
@@ -96,7 +96,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de indicativo de fazer</div>
+  <div>Pretérito perfeito do indicativo de fazer</div>
   <div>
     <ul>
       <li>eu fiz </li>
@@ -109,7 +109,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de praticar</div>
+  <div>Presente do indicativo de praticar</div>
   <div>
     <ul>
       <li>eu pratico </li>
@@ -122,7 +122,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de indicativo de praticar</div>
+  <div>Pretérito perfeito do indicativo de praticar</div>
   <div>
     <ul>
       <li>eu pratiquei </li>
@@ -135,7 +135,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de subir</div>
+  <div>Presente do indicativo de subir</div>
   <div>
     <ul>
       <li>eu subo </li>
@@ -148,7 +148,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de de indicativo de subir</div>
+  <div>Pretérito perfeito do indicativo de subir</div>
   <div>
     <ul>
       <li>eu subi </li>
@@ -161,7 +161,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de pedir</div>
+  <div>Presente do indicativo de pedir</div>
   <div>
     <ul>
       <li>eu peço </li>
@@ -174,7 +174,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de indicativo de pedir</div>
+  <div>Pretérito perfeito do indicativo de pedir</div>
   <div>
     <ul>
       <li>eu pedi </li>
@@ -187,7 +187,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de descer</div>
+  <div>Presente do indicativo de descer</div>
   <div>
     <ul>
       <li>eu desço </li>
@@ -200,7 +200,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de indicativo de descer</div>
+  <div>Pretérito perfeito do indicativo de descer</div>
   <div>
     <ul>
       <li>eu desci </li>
@@ -213,7 +213,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de medir</div>
+  <div>Presente do indicativo de medir</div>
   <div>
     <ul>
       <li>eu meço </li>
@@ -226,7 +226,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de indicativo de medir</div>
+  <div>Pretérito perfeito do indicativo de medir</div>
   <div>
     <ul>
       <li>eu medi </li>
@@ -239,7 +239,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de ir</div>
+  <div>Presente do indicativo de ir</div>
   <div>
     <ul>
       <li>eu vou </li>
@@ -252,7 +252,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de indicativo de ir</div>
+  <div>Pretérito perfeito do indicativo de ir</div>
   <div>
     <ul>
       <li>eu fui </li>
@@ -265,7 +265,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de ver</div>
+  <div>Presente do indicativo de ver</div>
   <div>
     <ul>
       <li>eu vejo </li>
@@ -278,7 +278,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de indicativo de ver</div>
+  <div>Pretérito perfeito do indicativo de ver</div>
   <div>
     <ul>
       <li>eu vi </li>
@@ -291,7 +291,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de vir</div>
+  <div>Presente do indicativo de vir</div>
   <div>
     <ul>
       <li>eu venho </li>
@@ -304,7 +304,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de indicativo de vir</div>
+  <div>Pretérito perfeito do indicativo de vir</div>
   <div>
     <ul>
       <li>eu vim </li>
@@ -317,7 +317,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de dar</div>
+  <div>Presente do indicativo de dar</div>
   <div>
     <ul>
       <li>eu dou </li>
@@ -330,7 +330,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de indicativo de dar</div>
+  <div>Pretérito perfeito do indicativo de dar</div>
   <div>
     <ul>
       <li>eu dei</li>
@@ -343,7 +343,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de dizer</div>
+  <div>Presente do indicativo de dizer</div>
   <div>
     <ul>
       <li>eu digo </li>
@@ -356,7 +356,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de indicativo de dizer</div>
+  <div>Pretérito perfeito do indicativo de dizer</div>
   <div>
     <ul>
       <li>eu disse </li>
@@ -369,7 +369,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de morar</div>
+  <div>Presente do indicativo de morar</div>
   <div>
     <ul>
       <li>eu moro </li>
@@ -382,7 +382,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de indicativo de morar</div>
+  <div>Pretérito perfeito do indicativo de morar</div>
   <div>
     <ul>
       <li>eu morei </li>
@@ -395,7 +395,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de poder</div>
+  <div>Presente do indicativo de poder</div>
   <div>
     <ul>
       <li>eu posso </li>
@@ -408,7 +408,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de indicativo de poder</div>
+  <div>Pretérito perfeito do indicativo de poder</div>
   <div>
     <ul>
       <li>eu pude </li>
@@ -421,7 +421,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de trazer</div>
+  <div>Presente do indicativo de trazer</div>
   <div>
     <ul>
       <li>eu trago </li>
@@ -434,7 +434,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito indicativo de trazer</div>
+  <div>Pretérito perfeito do indicativo de trazer</div>
   <div>
     <ul>
       <li>eu trouxe</li>
@@ -447,7 +447,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de começar</div>
+  <div>Presente do indicativo de começar</div>
   <div>
     <ul>
       <li>eu começo </li>
@@ -460,7 +460,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de indicativo de começar</div>
+  <div>Pretérito perfeito do indicativo de começar</div>
   <div>
     <ul>
       <li>eu comecei </li>
@@ -473,7 +473,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de escrever</div>
+  <div>Presente do indicativo de escrever</div>
   <div>
     <ul>
       <li>eu escrevo </li>
@@ -486,7 +486,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de indicativo de escrever</div>
+  <div>Pretérito perfeito do indicativo de escrever</div>
   <div>
     <ul>
       <li>eu escrevi </li>
@@ -499,7 +499,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de ler</div>
+  <div>Presente do indicativo de ler</div>
   <div>
     <ul>
       <li>eu leio </li>
@@ -512,7 +512,7 @@ draft: false
 </e-card>
 
 <e-card color="2">
-  <div>Pretérito perfeito de ler</div>
+  <div>Pretérito perfeito do indicativo de ler</div>
   <div>
     <ul>
       <li>eu li </li>
