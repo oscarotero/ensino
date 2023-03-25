@@ -1,12 +1,12 @@
 ---
-title: "Treino de verbos: pretérito perfeito de indicativo"
+title: "Treino de verbos: pretérito perfeito do indicativo"
 tags:
   - portugues
 draft: false
 ---
 Conjuga no pretérito perfeito os seguintes verbos: 
 
-Lembra-te! Para colocar o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal. 
+Lembra-te! Para colocares o til de nasalidade digita AltGr + 4 ou Ctrl + Alt + 4 antes da vogal. 
 
 
 ## Ser
