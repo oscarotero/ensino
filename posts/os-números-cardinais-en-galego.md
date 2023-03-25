@@ -24,4 +24,4 @@ dez - <e-answer>vinte</e-answer> - trinta - <e-answer>corenta</e-answer> - cincu
 
 ## 100 ao 1000
 
-<e-answer>cen</e-answer> - douscentos - <e-answer>trescentos</e-answer> - catrocentos - <e-answer>cincocentos</e-answer> ou quiñentos - seiscentos - <e-answer>setecentos</e-answer> - oitocentos <e-answer>novecentos</e-answer> - mil
+<e-answer>cen</e-answer> - douscentos - <e-answer>trescentos</e-answer> - catrocentos - <e-answer>cincocentos</e-answer> ou quiñentos - <e-answer>seiscentos</e-answer> - setecentos - <e-answer>oitocentos</e-answer> - novecentos - <e-answer>mil</e-answer>
