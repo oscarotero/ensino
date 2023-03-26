@@ -27,6 +27,8 @@ A pesar de teren a mesma forma no infinitivo, a súa conxugación no presente do
    cumprides
    **cómpren**
 
+## Exercicio
+
 Como saber cal é forma que debemos usar non é así tan fácil, fixen este exercicio para practicares.
 
 1. El non tomou a decisión, só <e-answer>cumpre</e-answer> as ordes.
