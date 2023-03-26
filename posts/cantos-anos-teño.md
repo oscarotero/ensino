@@ -15,15 +15,13 @@ Amancio Ortega, o fundador de Inditex \[entre 80 e 90 anos]
 
 <e-validate>Verifica a resposta</e-validate>
 
-
-A atleta de tripo salto Ana Peleteiro [entre 20 e 30 anos]
+A atleta de tripo salto Ana Peleteiro \[entre 20 e 30 anos]
 
 ![](/img/ana_peleteiro.jpg){.is-square}
 
 <e-answer>vinte e oito</e-answer> anos
 
 <e-validate>Verifica a resposta</e-validate>
-
 
 O actor Luís Tosar \[entre 50 e 60 anos]
 
@@ -33,7 +31,6 @@ O actor Luís Tosar \[entre 50 e 60 anos]
 
 <e-validate>Verifica a resposta</e-validate>
 
-
 Esther Estévez, a presentadora do Dígocho eu  \[entre 20 e 30 anos]
 
 ![](/img/esther_estevez.jpg){.is-square}
@@ -42,15 +39,13 @@ Esther Estévez, a presentadora do Dígocho eu  \[entre 20 e 30 anos]
 
 <e-validate>Verifica a resposta</e-validate>
 
-
-O físico Jorge Mira \[50 e 60 anos]
+O físico Jorge Mira \[entre 50 e 60 anos]
 
 ![](/img/jorge_mira.jpg){.is-square}
 
 <e-answer>cincuenta e cinco</e-answer> anos
 
 <e-validate>Verifica a resposta</e-validate>
-
 
 A cociñeira con estrela Michelin Lucía Freitas \[entre 40 e 50 anos]
 
@@ -60,7 +55,6 @@ A cociñeira con estrela Michelin Lucía Freitas \[entre 40 e 50 anos]
 
 <e-validate>Verifica a resposta</e-validate>
 
-
 Arsenio Iglesias, ex-futbolista e ex-adestrador do Deportivo da Coruña \[entre 90 e 100 anos]
 
 ![](/img/arsenio_iglesias.jpg){.is-square}
@@ -68,7 +62,6 @@ Arsenio Iglesias, ex-futbolista e ex-adestrador do Deportivo da Coruña \[entre 
 <e-answer>noventa e tres</e-answer> anos
 
 <e-validate>Verifica a resposta</e-validate>
-
 
 A artista Guadi Galego \[entre 40 e 50 anos]
 
@@ -78,7 +71,6 @@ A artista Guadi Galego \[entre 40 e 50 anos]
 
 <e-validate>Verifica a resposta</e-validate>
 
-
 O presentador Xosé Ramón Gayoso \[entre 60 e 70 anos]
 
 ![](/img/xose_ramon_gayoso.jpg){.is-square}
@@ -86,7 +78,6 @@ O presentador Xosé Ramón Gayoso \[entre 60 e 70 anos]
 <e-answer>sesenta e sete</e-answer> anos
 
 <e-validate>Verifica a resposta</e-validate>
-
 
 A futbolista Verónica Boquete \[entre 30 e 40 anos]
 
