@@ -11,7 +11,7 @@ Efectivamente, en galego temos dous verbos e non apenas un. Cada un deles, co se
 
 A pesar de teren a mesma forma no infinitivo, a súa conxugación no presente do indicativo é diferente.
 
-1. cumprir = "executar, desempeñar" \~ "acatar ou obedecer" \~ "realizar o prometido" ~ "expiar unha pena por un delito"
+1. cumprir = "executar, desempeñar" \~ "acatar, obedecer" \~ "realizar o prometido" ~ "expiar unha pena por un delito"
 
    * cumpro
    * **cumpres**
