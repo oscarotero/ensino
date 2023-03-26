@@ -7,7 +7,7 @@ draft: false
 ---
 A idade é só número, mais cal? Disto é que trata este exercicio. Observa con atención as seguintes fotografías e tenta adiviñar a idade das seguintes personalidades. Escribe o número por extenso.
 
-Amancio Ortega, o fundador de Inditex, ten entre 80 e 90 anos
+Amancio Ortega, o fundador de Inditex \[entre 80 e 90 anos]
 
 ![](/img/amancio_ortega.jpg)
 
@@ -23,7 +23,7 @@ A atleta de tripo salto Ana Peleteiro ten entre 20 e 30 anos.
 
 <e-validate>Verifica a resposta</e-validate>
 
-O actor Luís Tosar ten entre 50 e 60 anos
+O actor Luís Tosar \[entre 50 e 60 anos]
 
 ![](/img/luis_tosar.jpg)
 
@@ -31,7 +31,7 @@ O actor Luís Tosar ten entre 50 e 60 anos
 
 <e-validate>Verifica a resposta</e-validate>
 
-Esther Estévez, a presentadora do Dígocho eu, ten entre 20 e 30 anos
+Esther Estévez, a presentadora do Dígocho eu  \[entre 20 e 30 anos]
 
 ![](/img/esther_estevez.jpg)
 
@@ -39,7 +39,7 @@ Esther Estévez, a presentadora do Dígocho eu, ten entre 20 e 30 anos
 
 <e-validate>Verifica a resposta</e-validate>
 
-O físico Jorge Mira ten entre 50 e 60 anos
+O físico Jorge Mira \[50 e 60 anos]
 
 ![](/img/jorge_mira.jpg)
 
@@ -47,7 +47,7 @@ O físico Jorge Mira ten entre 50 e 60 anos
 
 <e-validate>Verifica a resposta</e-validate>
 
-A cociñeira con estrela Michelin Lucía Freitas ten entre 40 e 50 anos.
+A cociñeira con estrela Michelin Lucía Freitas \[entre 40 e 50 anos]
 
 ![](/img/lucia_freitas.jpg)
 
@@ -55,7 +55,7 @@ A cociñeira con estrela Michelin Lucía Freitas ten entre 40 e 50 anos.
 
 <e-validate>Verifica a resposta</e-validate>
 
-Arsenio Iglesias, o ex-futbolista e ex-adestrador do Deportivo da Coruña ten entre 90 e 100 anos
+Arsenio Iglesias, ex-futbolista e ex-adestrador do Deportivo da Coruña \[entre 90 e 100 anos]
 
 ![](/img/arsenio_iglesias.jpg)
 
@@ -63,10 +63,18 @@ Arsenio Iglesias, o ex-futbolista e ex-adestrador do Deportivo da Coruña ten en
 
 <e-validate>Verifica a resposta</e-validate>
 
-A artista Guadi Galego ten entre 40 e 50 anos
+A artista Guadi Galego \[entre 40 e 50 anos]
 
 ![](/img/guadi_galego.jpg)
 
 <e-answer>corenta e nove</e-answer> anos
+
+<e-validate>Verifica a resposta</e-validate>
+
+O presentador Xosé Ramón Gayoso \[entre 60 e 70 anos]
+
+![](/img/xose_ramon_gayoso.jpg)
+
+<e-answer>sesenta e sete</e-answer> anos
 
 <e-validate>Verifica a resposta</e-validate>
