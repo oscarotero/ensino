@@ -35,11 +35,11 @@ Como saber cal é forma que debemos usar non é así tan fácil, fixen este exer
 2. <e-answer>Cómpre</e-answer>resiliencia para superar as adversidades da vida.
 3. Neste país todos os cidadáns <e-answer>cumpren</e-answer> a lei escrupulosamente.
 4. <e-answer>Cómpre</e-answer> ires ao supermercado por fariña, quero facer filloas.
-5. Non me prometa nada, nunca <e-answer>cumpre</e-answer> a súa palabra.
+5. Non me prometa nada, nunca <e-answer>cumpre</e-answer> a palabra dada.
 6. Evidentemente, non vou votar nos políticos que non <e-answer>cumpren</e-answer> as promesas electorais.
 7. <e-answer>Cómpre</e-answer> moita paciencia con el, é unha persoa difícil.
 8. Todos os seres vivos <e-answer>cumpren</e-answer> un papel no ecosistema.
-9. O preso <e-answer>cumpre</e-answer> a súa pena na cadea de Teixeiro.
+9. O preso <e-answer>cumpre</e-answer> unha pena de dez anos na cadea de Teixeiro.
 10. Non nos <e-answer>cómpren</e-answer> tantos luxos, gostamos de cousas simples.
 
 <e-validate>Verifica as respostas</e-validate>
