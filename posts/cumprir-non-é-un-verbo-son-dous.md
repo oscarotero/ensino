@@ -11,7 +11,7 @@ Efectivamente, en galego temos dous verbos e non apenas un. Cada un deles, co se
 
 A pesar de teren a mesma forma no infinitivo, a súa conxugación no presente do indicativo é diferente.
 
-1. cumprir = "executar, desempeñar" \~ "acatar ou obedecer" \~ "realizar o prometido" ~ "completar o tempo na prisión"
+1. cumprir = "executar, desempeñar" \~ "acatar ou obedecer" \~ "realizar o prometido" ~ "expiar unha pena por un delito"
 
    * cumpro
    * **cumpres**
@@ -19,7 +19,6 @@ A pesar de teren a mesma forma no infinitivo, a súa conxugación no presente do
    * cumprimos
    * cumprides
    * **cumpren**
-
 2. cumprir = "ser preciso"
 
    * cumpro
@@ -50,4 +49,4 @@ Atención!
 
 En galego o verbo *cumprir* non é usado para falarmos dos aniversarios das persoas. Neste caso, o verbo que debemos usar é *facer.*
 
-Exemplo: Onte a miña filla fixo catro anos.
+Exemplo: *Onte a miña filla fixo catro anos.*
