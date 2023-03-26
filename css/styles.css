@@ -266,3 +266,10 @@ e-card ol,
 e-card ul {
 	padding-left: 1em;
 }
+
+/* Helpers */
+img.is-square {
+	aspect-ratio: 1/1;
+	width: 300px;
+	object-position: 50% 35%
+}
