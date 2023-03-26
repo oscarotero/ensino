@@ -9,7 +9,7 @@ A idade é só número, mais cal? Disto é que trata este exercicio. Observa con
 
 Amancio Ortega, o fundador de Inditex \[entre 80 e 90 anos]
 
-![](/img/amancio_ortega.jpg){.is-square}
+![](/img/amancio_ortega.jpg)
 
 <e-answer>oitenta e sete </e-answer> anos
 
@@ -17,7 +17,7 @@ Amancio Ortega, o fundador de Inditex \[entre 80 e 90 anos]
 
 A atleta de tripo salto Ana Peleteiro ten entre 20 e 30 anos.
 
-![](/img/ana_peleteiro.jpg){.is-square}
+![](/img/ana_peleteiro.jpg)
 
 <e-answer>vinte e oito</e-answer> anos
 
@@ -25,7 +25,7 @@ A atleta de tripo salto Ana Peleteiro ten entre 20 e 30 anos.
 
 O actor Luís Tosar \[entre 50 e 60 anos]
 
-![](/img/luis_tosar.jpg){.is-square}
+![](/img/luis_tosar.jpg)
 
 <e-answer>cincuenta e dous</e-answer> anos
 
@@ -33,7 +33,7 @@ O actor Luís Tosar \[entre 50 e 60 anos]
 
 Esther Estévez, a presentadora do Dígocho eu  \[entre 20 e 30 anos]
 
-![](/img/esther_estevez.jpg){.is-square}
+![](/img/esther_estevez.jpg)
 
 <e-answer>vinte e seis</e-answer> anos
 
@@ -41,7 +41,7 @@ Esther Estévez, a presentadora do Dígocho eu  \[entre 20 e 30 anos]
 
 O físico Jorge Mira \[50 e 60 anos]
 
-![](/img/jorge_mira.jpg){.is-square}
+![](/img/jorge_mira.jpg)
 
 <e-answer>cincuenta e cinco</e-answer> anos
 
@@ -49,7 +49,7 @@ O físico Jorge Mira \[50 e 60 anos]
 
 A cociñeira con estrela Michelin Lucía Freitas \[entre 40 e 50 anos]
 
-![](/img/lucia_freitas.jpg){.is-square}
+![](/img/lucia_freitas.jpg)
 
 <e-answer>corenta e un</e-answer> anos
 
@@ -57,7 +57,7 @@ A cociñeira con estrela Michelin Lucía Freitas \[entre 40 e 50 anos]
 
 Arsenio Iglesias, ex-futbolista e ex-adestrador do Deportivo da Coruña \[entre 90 e 100 anos]
 
-![](/img/arsenio_iglesias.jpg){.is-square}
+![](/img/arsenio_iglesias.jpg)
 
 <e-answer>noventa e tres</e-answer> anos
 
@@ -65,7 +65,7 @@ Arsenio Iglesias, ex-futbolista e ex-adestrador do Deportivo da Coruña \[entre 
 
 A artista Guadi Galego \[entre 40 e 50 anos]
 
-![](/img/guadi_galego.jpg){.is-square}
+![](/img/guadi_galego.jpg)
 
 <e-answer>corenta e nove</e-answer> anos
 
@@ -73,8 +73,18 @@ A artista Guadi Galego \[entre 40 e 50 anos]
 
 O presentador Xosé Ramón Gayoso \[entre 60 e 70 anos]
 
-![](/img/xose_ramon_gayoso.jpg){.is-square}
+![](/img/xose_ramon_gayoso.jpg)
 
 <e-answer>sesenta e sete</e-answer> anos
+
+<e-validate>Verifica a resposta</e-validate>
+
+
+
+A futbolista Verónica Boquete \[entre 30 e 40 anos]
+
+![](/img/veronica_boquete.jpg)
+
+<e-answer>trinta e seis</e-answer> anos
 
 <e-validate>Verifica a resposta</e-validate>
