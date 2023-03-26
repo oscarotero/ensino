@@ -1,0 +1,59 @@
+---
+title: cumprir non é un verbo, son dous
+tags:
+  - EOI
+draft: false
+---
+Efectivamente, en galego temos dous verbos e non apenas un. Cada un deles, co seu propio significado ou significados: 
+
+cumprir = "executar, desempeñar" \~ "acatar ou obedecer" \~ "realizar o prometido" ~ "completar o tempo na prisión"
+
+cumprir = "ser preciso" 
+
+A pesar de teren a mesma forma no infinitivo, a súa conxugación no presente do indicativo é diferente.
+
+1. cumprir = "executar, desempeñar" \~ "acatar ou obedecer" \~ "realizar o prometido" ~ "completar o tempo na prisión"
+cumpro
+**cumpres**
+**cumpre**
+cumprimos
+cumprides
+**cumpren**
+
+2. cumprir = "ser preciso"
+cumpro
+**cómpres**
+**cómpre**
+cumprimos
+cumprides
+**cómpren**
+
+Como saber cal é forma que debemos usar non é así tan fácil, fixen este exercicio para practicares.
+
+1. El non tomou a decisión, só <e-answer>cumpre</e-answer> as ordes.
+
+2. <e-answer>Cómpre</e-answer>resiliencia para superar as adversidades da vida.
+
+3. Neste país todos os cidadáns <e-answer>cumpren</e-answer> a lei escrupulosamente.
+
+4. <e-answer>Cómpre</e-answer> ires ao supermercado por fariña, quero facer filloas.
+
+5. Non me prometa nada, nunca <e-answer>cumpre</e-answer> a súa palabra.
+
+6. Evidentemente, non vou votar nos políticos que non <e-answer>cumpren</e-answer> as promesas electorais.
+
+7. <e-answer>Cómpre</e-answer> moita paciencia con el, é unha persoa difícil.
+
+8. Todos os seres vivos <e-answer>cumpren</e-answer> un papel no ecosistema.
+
+9. O preso <e-answer>cumpre</e-answer> a súa pena na cadea de Teixeiro.
+
+10. Non nos <e-answer>cómpren</e-answer> tantos luxos, gostamos de cousas simples.
+
+<e-validate>Verifica as respostas</e-validate>
+
+Atención! 
+
+En galego o verbo *cumprir* non é usado para falarmos dos aniversarios das persoas. Neste caso, o verbo que debemos usar é *facer.*
+
+Exemplo: Onte a miña filla fixo catro anos.
