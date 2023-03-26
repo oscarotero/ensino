@@ -1,5 +1,5 @@
 ---
-title: cumprir non é un verbo, son dous
+title: Cumprir non é un verbo, son dous
 tags:
   - EOI
 draft: false
