@@ -7,25 +7,27 @@ draft: false
 Efectivamente, en galego temos dous verbos e non apenas un. Cada un deles, co seu propio significado ou significados: 
 
 1. cumprir = "executar, desempeñar" \~ "acatar ou obedecer" \~ "realizar o prometido" ~ "completar o tempo na prisión"
-
 2. cumprir = "ser preciso" 
 
 A pesar de teren a mesma forma no infinitivo, a súa conxugación no presente do indicativo é diferente.
 
 1. cumprir = "executar, desempeñar" \~ "acatar ou obedecer" \~ "realizar o prometido" ~ "completar o tempo na prisión"
-   cumpro
-   **cumpres**
-   **cumpre**
-   cumprimos
-   cumprides
-   **cumpren**
+
+   * cumpro
+   * **cumpres**
+   * **cumpre**
+   * cumprimos
+   * cumprides
+   * **cumpren**
+
 2. cumprir = "ser preciso"
-   cumpro
-   **cómpres**
-   **cómpre**
-   cumprimos
-   cumprides
-   **cómpren**
+
+   * cumpro
+   * **cómpres**
+   * **cómpre**
+   * cumprimos
+   * cumprides
+   * **cómpren**
 
 ## Exercicio
 
