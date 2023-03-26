@@ -45,7 +45,7 @@ Como saber cal é a forma que debemos usar non é así tan fácil, fixen este ex
 
 <e-validate>Verifica as respostas</e-validate>
 
-Atención! 
+## Atención! 
 
 En galego o verbo *cumprir* non é usado para falarmos dos aniversarios das persoas. Neste caso, o verbo que debemos usar é *facer.*
 
