@@ -9,7 +9,6 @@ Aprenderes os números en galego é moi fácil. Segundo Esther Estévez só é p
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JBVN3Nst5Po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 Agora só hai que practicar. Para iso, completa as series numéricas:
 
 ## 0 ao 10
@@ -33,7 +32,6 @@ dez - <e-answer>vinte</e-answer> - trinta - <e-answer>corenta</e-answer> - cincu
 <e-answer>cen</e-answer> - douscentos - <e-answer>trescentos</e-answer> - catrocentos - <e-answer>cincocentos</e-answer> ou quiñentos - <e-answer>seiscentos</e-answer> - setecentos - <e-answer>oitocentos</e-answer> - novecentos - <e-answer>mil</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
-
 
 A seguir, tes unha pequena relación de datas sinaladas no calendario. Escribe con letra o día de cada unha destas conmemoracións: 
 
