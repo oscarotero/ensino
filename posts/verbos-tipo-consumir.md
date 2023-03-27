@@ -4,7 +4,7 @@ tags:
   - EOI
 draft: false
 ---
-Hai un grupo de verbos en *\-u... ir,* que presenta unha alternancia tradicional *u/o:* \[ɔ] nas persoas 2ª e 3ª do singular e 3ª do plural do presente do indicativo, \[u] no resto do paradigma:
+Hai un grupo de verbos en *\-u... ir,* que presenta unha alternancia tradicional *u/o:* \[ɔ] nas persoas 2ª e 3ª do singular e 3ª do plural do presente do indicativo, \[u] no resto do paradigma *(consumía, consumiches, consumira, consumiremos, consumiriades, consuma, consumises, consumires, consumir, consume, consumido, consumindo)*:
 
 CONSUMIR
 
@@ -16,20 +16,6 @@ Presente do indicativo
 * consumimos
 * consumides
 * consomen \[‘ɔ]
-
-Presente do subxuntivo
-
-* consuma
-* consumas
-* consuma
-* consumamos
-* consumades
-* consuman
-
-Imperativo
-
-* consume
-* consumide
 
 Conforme este modelo, conxúganse tamén os seguintes verbos: *acudir, bulir* (e *rebulir), cubrir* e derivados (*descubrir, encubrir, recubrir), cumprir* “ser mester”, *cuspir, durmir, engulir, fundir* “render”, *fuxir, lucir* e derivados (*deslucir, entrelucir, relucir, translucir, tremelucir), mulir, muxir, pulir, ruxir, sacudir, subir, sufrir, sumir* (e os seus derivados *consumir* e *ensumir), tusir, ulir, urdir, xunguir, xurdir.*
 
