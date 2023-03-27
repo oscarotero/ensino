@@ -4,7 +4,7 @@ tags:
   - EOI
 draft: false
 ---
-Hai un grupo de verbos en *\-u... ir,* que presenta unha alternancia tradicional *u/o:* \[ɔ] nas persoas 2ª e 3ª do singular e 3ª do plural do presente do indicativo, \[u] no resto do paradigma *(consumía, consumiches, consumira, consumiremos, consumiriades, consuma, consumises, consumires, consumir, consume, consumido, consumindo)*:
+Hai un grupo de verbos en *\-u... ir,* que presenta unha alternancia tradicional *u/o:* \[ɔ] nas persoas 2ª e 3ª do singular e 3ª do plural do presente do indicativo, \[u] no resto do paradigma *(consumía, consumiches, consumira, consumiremos, consumiriades, consuma, consumises, consumirmos, consume, consumir, consumido, consumindo)*:
 
 CONSUMIR
 
