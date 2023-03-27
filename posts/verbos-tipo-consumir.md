@@ -41,7 +41,7 @@ Completa os espazos cos verbos no presente do indicativo:
 2. As comunidades negra e indíxena <e-answer>sofren</e-answer> (sufrir) discriminación no Brasil actual.
 3. O ferro eléctrico é un dos aparellos domésticos que máis enerxía <e-answer>consome</e-answer> (consumir).
 4. Eu <e-answer>tuso</e-answer> (tusir) porque estou con catarro.
-5. Por que os xogadores de fútbol (subir) sempre polas escaleiras porque vive no primeiro andar. (cuspir) tanto?
+5. Por que os xogadores de fútbol <e-answer>cospen</e-answer> (cuspir) tanto?
 6. Din que Nova York é a cidade que nunca <e-answer>dorme</e-answer> (durmir).
 7. Moitas persoas <e-answer>engolen</e-answer> (engulir) a comida sen mastigar.
 8. El <e-answer>sobe</e-answer> (subir) sempre polas escaleiras porque vive no primeiro andar.
