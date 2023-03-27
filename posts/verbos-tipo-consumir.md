@@ -64,7 +64,7 @@ Completa os espazos coa P2 dos verbos no presente de indicativo ou no imperativo
 
 7. Visita Galicia e <e-answer>descubre</e-answer> (descubrir) os seus segredos.
 
-8. Que tarde é! <e-answer>Bule</e-answer>! (bulir) Chegamos atrasados. (bulir)
+8. Que tarde é! <e-answer>Bule</e-answer>! (bulir) Chegamos atrasados (bulir).
 
 9. Ti <e-answer>sofres</e-answer> (sufrir) porque queres. Se eu fose ti, deixaba o traballo.
 
