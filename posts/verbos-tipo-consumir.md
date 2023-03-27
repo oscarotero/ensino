@@ -33,6 +33,7 @@ Completa os espazos cos verbos no presente do indicativo:
 8. El <e-answer>sobe</e-answer> (subir) sempre polas escaleiras porque vive no primeiro andar.
 9. <e-answer>Cómpre</e-answer> (cumprir) facérmolo traballo hoxe.
 10. Podo gritar o que quixer, que ninguén <e-answer>acode</e-answer> (acudir).
+11. A Historia <e-answer>xorde</e-answer> (xurdir) da necesidade dos homes de explicaren as súas orixes.
 
 <e-validate>Verifica as respostas</e-validate>
 
