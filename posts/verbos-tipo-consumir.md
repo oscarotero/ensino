@@ -19,7 +19,7 @@ Presente do indicativo
 
 Conforme este modelo, conxúganse tamén os seguintes verbos: *acudir, bulir* (e *rebulir), cubrir* e derivados (*descubrir, encubrir, recubrir), cumprir* “ser mester”, *cuspir, durmir, engulir, fundir* “render”, *fuxir, lucir* e derivados (*deslucir, entrelucir, relucir, translucir, tremelucir), mulir, muxir, pulir, ruxir, sacudir, subir, sufrir, sumir* (e os seus derivados *consumir* e *ensumir), tusir, ulir, urdir, xunguir, xurdir.*
 
-## Exercicios
+## Exercicio
 
 Completa os espazos cos verbos no presente do indicativo:
 
@@ -33,5 +33,39 @@ Completa os espazos cos verbos no presente do indicativo:
 8. El <e-answer>sobe</e-answer> (subir) sempre polas escaleiras porque vive no primeiro andar.
 9. <e-answer>Cómpre</e-answer> (cumprir) facérmolo traballo hoxe.
 10. Podo gritar o que quixer, que ninguén <e-answer>acode</e-answer> (acudir).
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Repara nisto!
+
+Como a forma da P2 do presente de indicativo é *consomes,* moitas persoas cren erradamente que a segunda vogal da raíz da P2 do imperativo tamén é un *o*. Non é verdade, as formas de imperativo son:
+
+*consume ti*
+
+*consumide vós*
+
+## Exercicio
+
+Completa agora os espazos coa P2 dos verbos no presente de indicativo ou no imperativo:
+
+1. <e-answer>Sube</e-answer> (subir) ao segundo andar e espérame no meu gabinete.
+
+2. O médico díxoche que <e-answer>consomes</e-answer> (consumir) demasiados alimentos ultraprocesados.
+
+3. <e-answer>Durme</e-answer> (durmir) dunha vez, que mañá tes que madrugar.
+
+4. Se ouvires un berro, <e-answer>acude</e-answer> (acudir).
+
+5. <e-answer>Sobes</e-answer> (subir) comigo no ascensor? (Ti)
+
+6. Ti non <e-answer>dormes</e-answer> (durmir) por causa do estrés.
+
+7. Visita Galicia e <e-answer>descubre</e-answer> (descubrir) os seus segredos.
+
+8. Que tarde é! <e-answer>Bule</e-answer>! (bulir) Chegamos atrasados. (bulir)
+
+9. Ti <e-answer>sofres</e-answer> (sufrir) porque queres. Se eu fose ti, deixaba o traballo.
+
+10. Coida da túa saúde, <e-answer>consume</e-answer> (consumir) produtos ecolóxicos.
 
 <e-validate>Verifica as respostas</e-validate>
