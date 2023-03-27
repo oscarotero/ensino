@@ -38,15 +38,17 @@ Completa os espazos cos verbos no presente do indicativo:
 
 ## Repara nisto!
 
-Como a forma da P2 do presente de indicativo é *consomes,* moitas persoas cren erradamente que a segunda vogal da raíz da P2 do imperativo tamén é un *o*. Non é verdade, as formas de imperativo son:
+Como a forma da P2 do presente de indicativo é *consomes,* moitas persoas cren que a segunda vogal da raíz da P2 do imperativo tamén é un *o*. Nada diso! As formas do imperativo teñen un *u:*
 
 *consume ti*
 
 *consumide vós*
 
+Se aínda tiveres dúbidas, fai o seguinte exercicio.
+
 ## Exercicio
 
-Completa agora os espazos coa P2 dos verbos no presente de indicativo ou no imperativo:
+Completa os espazos coa P2 dos verbos no presente de indicativo ou no imperativo segundo corresponda:
 
 1. <e-answer>Sube</e-answer> (subir) ao segundo andar e espérame no meu gabinete.
 
