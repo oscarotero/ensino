@@ -33,20 +33,34 @@ dez - <e-answer>vinte</e-answer> - trinta - <e-answer>corenta</e-answer> - cincu
 
 <e-validate>Verifica as respostas</e-validate>
 
+## Días D
+
 A seguir, tes unha pequena relación de datas sinaladas no calendario. Escribe con letra o día de cada unha destas conmemoracións: 
 
-O Día da Candeloria (cando casan os paxariños) > <e-answer>dous</e-answer> de febreiro
+\- O Día da Candeloria (cando casan os paxariños) > <e-answer>dous</e-answer> de febreiro
 
-O Día de Rosalía de Castro (o día do seu nacemento) > <e-answer>vinte e tres</e-answer> de febreiro
+\- O Día de Rosalía de Castro (o día do seu nacemento) > <e-answer>vinte e tres</e-answer> de febreiro
 
-O Día Internacional da Muller > <e-answer>oito</e-answer> de marzo
+\- O Día Internacional da Muller > <e-answer>oito</e-answer> de marzo
 
-O Día das Letras Galegas > <e-answer>dezasete</e-answer> de maio
+\- O Día das Letras Galegas > <e-answer>dezasete</e-answer> de maio
 
-O Día de San Xoán > <e-answer>vinte e catro</e-answer> de xuño 
+\- O Día de San Xoán > <e-answer>vinte e catro</e-answer> de xuño
 
-O Día da Patria Galega > <e-answer>vinte e cinco</e-answer> de xullo
+\- O Día da Patria Galega > <e-answer>vinte e cinco</e-answer> de xullo
 
-O Día de San Martiño > <e-answer>once</e-answer> de novembro
+\- O Día de San Martiño > <e-answer>once</e-answer> de novembro
 
 <e-validate>Verifica as respostas</e-validate>
+
+## Repara!
+
+Aínda que a partir de *vinte* o numeral se escribe separado (*vinte e un, trinta e dous...),* nunha pronuncia natural non hai pausas. Acontece isto porque o *e* (vint**e**) ou o *a* (corent**a**, cincuent**a**, sesent**a**...) do final contrae coa conxunción *e* que vén inmediatamente despois.O resultado desa contracción é un *e* aberto\[ɛ].
+
+Exemplo:
+
+vinte e sete \[bintɛ'sɛte]
+
+trinta e dúas \['trintɛ'ðuas]
+
+oitenta e catro \[oj'tɛntɛ'katro]
