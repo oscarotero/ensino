@@ -55,12 +55,12 @@ A seguir, tes unha pequena relación de datas sinaladas no calendario. Escribe c
 
 ## Repara!
 
-Aínda que a partir de *vinte* o numeral se escribe separado (*vinte e un, trinta e dous...),* nunha pronuncia natural non hai pausas. Acontece isto porque o *e* (vint**e**) ou o *a* (corent**a**, cincuent**a**, sesent**a**...) do final contrae coa conxunción *e* que vén inmediatamente despois.O resultado desa contracción é un *e* aberto\[ɛ].
+Aínda que a partir de *vinte* o numeral se escribe separado (*vinte e un, trinta e dous...),* nunha pronuncia natural non hai pausas. Acontece isto porque o *e* (vint**e**) ou o *a* (corent**a**, cincuent**a**, sesent**a**...) do final contrae coa conxunción *e* que vén inmediatamente despois. O resultado desa contracción é un *e* aberto \[ɛ].
 
 Exemplo:
 
-vinte e sete \[bintɛ'sɛte]
+*vinte e sete* \[bintɛ'sɛte]
 
-trinta e dúas \['trintɛ'ðuas]
+*trinta e dúas* \['trintɛ'ðuas]
 
-oitenta e catro \[oj'tɛntɛ'katro]
+*oitenta e catro* \[oj'tɛntɛ'katro]
