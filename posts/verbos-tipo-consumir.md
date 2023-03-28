@@ -41,7 +41,7 @@ Completa os espazos cos verbos no presente do indicativo:
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Repara!
+## Agora que sabes isto, non cometas erros por ultracorrección!
 
 Como a forma da P2 do presente de indicativo é *consomes,* moitas persoas cren que a segunda vogal da raíz da P2 do imperativo tamén é un *o*. Nada diso! As formas do imperativo teñen un *u:*
 
@@ -49,7 +49,7 @@ Como a forma da P2 do presente de indicativo é *consomes,* moitas persoas cren 
 
 *consumide vós*
 
-Se aínda tiveres dúbidas, fai o seguinte exercicio.
+Para esclareceres calquera dúbida, fai o seguinte exercicio.
 
 ## Exercicio
 
