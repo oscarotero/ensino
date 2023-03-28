@@ -35,7 +35,7 @@ dez - <e-answer>vinte</e-answer> - trinta - <e-answer>corenta</e-answer> - cincu
 
 ## Días D
 
-A seguir, tes unha pequena relación de datas sinaladas no calendario. Escribe con letra o día de cada unha destas conmemoracións: 
+A seguir, tes unha pequena relación de datas sinaladas no calendario. Escribe por extenso o día de cada unha destas conmemoracións: 
 
 1. O Día da Candeloria (cando casan os paxariños) > <e-answer>dous</e-answer> de febreiro
 
