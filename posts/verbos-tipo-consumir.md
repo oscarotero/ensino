@@ -4,11 +4,11 @@ tags:
   - EOI
 draft: false
 ---
-Hai un grupo de verbos en *\-u... ir,* que presenta unha alternancia tradicional *u/o:* \[ɔ] nas persoas 2ª e 3ª do singular e 3ª do plural do presente do indicativo, \[u] no resto do paradigma *(consumía, consumiches, consumira, consumiremos, consumiriades, consuma, consumises, consumirmos, consume, consumir, consumido, consumindo)*:
+Hai un grupo de verbos en *\-u... ir,* que presenta unha alternancia tradicional *u/o:* \[ɔ] nas persoas 2ª e 3ª do singular e 3ª do plural do presente do indicativo, \[u] no resto do paradigma *(consumía, consumiches, consumira, consumiremos, consumiriades, consuma, consumises, consumirmos, consume, consumir, consumido, consumindo).*
 
-CONSUMIR
+## Lémbrate!
 
-Presente do indicativo
+Todas as formas do verbo teñen *u,* agás 3 do presente do indicativo:
 
 * consumo
 * consomes \[‘ɔ]
@@ -52,25 +52,15 @@ Se aínda tiveres dúbidas, fai o seguinte exercicio.
 Completa os espazos coa P2 dos verbos no presente de indicativo ou no imperativo segundo corresponda:
 
 1. <e-answer>Sube</e-answer> (subir) ao segundo andar e espérame no meu gabinete.
-
 2. O médico díxoche que <e-answer>consomes</e-answer> (consumir) demasiados alimentos ultraprocesados.
-
 3. <e-answer>Durme</e-answer> (durmir) dunha vez, que mañá tes que madrugar.
-
 4. Se ouvires un berro, <e-answer>acude</e-answer> (acudir).
-
 5. <e-answer>Sobes</e-answer> (subir) comigo no ascensor? (Ti)
-
 6. Ti non <e-answer>dormes</e-answer> (durmir) por causa do estrés.
-
 7. Visita Galicia e <e-answer>descubre</e-answer> (descubrir) os seus segredos.
-
 8. Que tarde é! <e-answer>Bule</e-answer> (bulir), imos chegar atrasados.
-
 9. Ti <e-answer>sofres</e-answer> (sufrir) porque queres. Se eu fose ti, deixaba o traballo.
-
 10. Coida da túa saúde, <e-answer>consume</e-answer> (consumir) produtos ecolóxicos.
-
 11. Ti non <e-answer>boles</e-answer> (bulir) nada planando patacas.
 
 <e-validate>Verifica as respostas</e-validate>
