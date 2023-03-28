@@ -4,7 +4,11 @@ tags:
   - EOI
 draft: false
 ---
-Hai un grupo de verbos en *\-u... ir,* que presenta unha alternancia tradicional *u/o:* \[ɔ] nas persoas 2ª e 3ª do singular e 3ª do plural do presente do indicativo, \[u] no resto do paradigma *(consumía, consumiches, consumira, consumiremos, consumiriades, consuma, consumises, consumirmos, consume, consumir, consumido, consumindo).*
+Presta atención ás dúas formas do verbo *consumir: consomes* e *consume* que aparecen neste anuncio do Cluster do Audiovisual Galego: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gt4GGbT7IBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+*Consumir* é un deses verbos con alternancia vocálica. Pertence ao grupo dos verbos en *\-u... ir,* que presenta unha alternancia tradicional *u/o:* \[ɔ] nas persoas 2ª e 3ª do singular e 3ª do plural do presente do indicativo, \[u] no resto do paradigma *(consumía, consumiches, consumira, consumiremos, consumiriades, consuma, consumises, consumirmos, consume, consumir, consumido, consumindo).*
 
 ## Lémbrate!
 
@@ -37,7 +41,7 @@ Completa os espazos cos verbos no presente do indicativo:
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Repara nisto!
+## Repara!
 
 Como a forma da P2 do presente de indicativo é *consomes,* moitas persoas cren que a segunda vogal da raíz da P2 do imperativo tamén é un *o*. Nada diso! As formas do imperativo teñen un *u:*
 
