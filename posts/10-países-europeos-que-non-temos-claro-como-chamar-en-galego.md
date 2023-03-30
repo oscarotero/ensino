@@ -44,7 +44,7 @@ Tamén temos un problema de acento na denominación para os naturais da *Bosnia 
 
 ### 10. Ucraína: ucraíno - ucraína
 
-Infelizmente, a denominación do país e das súas xente popularizouse no momento en que Rusia invadiu o país no día 24 de febreiro de 2022. Non foron as únicas formas, porque nos telexornais axiña comezaron a aparecer moitos outros topónimos cada vez que os correspondentes informaban do desenvolvemento da guerra. Poucos días despois, ficamos a saber que o Seminario de Onomástica da RAG aprobara a adaptación ao galego de todos estes topónimos que aparecen no [mapa](https://academia.gal/documents/35271/437915/2022.03.08_01_01.jpg/61e8b461-4dd3-a7dc-9258-e881b462e542).
+Infelizmente, a denominación do país e da súa xente popularizouse no momento en que a Rusia invadiu o país no día 24 de febreiro de 2022. Non foron as únicas formas, porque nos telexornais axiña comezaron a aparecer moitos outros topónimos cada vez que os correspondentes informaban do desenvolvemento da guerra. Poucos días despois, ficamos a saber que o Seminario de Onomástica da RAG aprobara a adaptación ao galego de todos estes topónimos que aparecen no [mapa](https://academia.gal/documents/35271/437915/2022.03.08_01_01.jpg/61e8b461-4dd3-a7dc-9258-e881b462e542).
 
 Se tiveres curiosidade, podes ler tamén o post sobre o proceso de fixación: [O Seminario de Onomástica aproba a adaptación dos nomes da capital e doutras cidades ucraínas](https://academia.gal/-/o-seminario-de-onom-c3-a1stica-aproba-a-adaptaci-c3-b3n-dos-nomes-da-capital-e-doutras-cidades-ucra-c3-adnas)
 
