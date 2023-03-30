@@ -50,7 +50,7 @@ Se tiveres curiosidade, podes ler tamén o post sobre o proceso de fixación: [O
 
 Neste caso, o galego afástase do portugués, que ten *Ucrânia* para o país, e *ucraniano* e *ucraniana* para as persoas nativas.
 
-### Iugoslavia: iugoslavo - iugoslavo
+### Iugoslavia: iugoslavo - iugoslava
 
 Xa sei que a *Iugoslavia* non é máis un país europeo, porén, decidín incluílo porque tanto a denominación do estado como a dos seus habitantes, acostuman aparecer mal escritas en moitas ocasións. Como é sabido, após ser dividida em 1991, a antiga Iugoslavia deu orixe a 7 estados cos seus respectivos xentilicios:
 
