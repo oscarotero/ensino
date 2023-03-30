@@ -32,7 +32,7 @@ A confusión neste caso débese a que se popularizou a denominación dunha parte
 
 ### 7. República Moldova: moldovo - moldova
 
-Aínda que *Moldavia* é a forma máis común na rúa, a denominación oficial do país en galego é *República Moldova* e, por coherencia co nome do lugar, os seus habitantes son *moldovos* e *moldovas.*
+Aínda que *Moldavia* é a forma máis común na rúa, a denominación oficial do país en galego é *República Moldova*. Por coherencia co nome do lugar, os seus habitantes son *moldovos* e *moldovas.*
 
 ### 8. Austria: austríaco - austríaca
 
