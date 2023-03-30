@@ -8,7 +8,7 @@ Neste *post* imos falar da forma correcta para denominarmos 10 países da Europa
 
 ### 1. Alemaña: alemán - alemá / alemáns - alemás
 
-É un erro bastante habitual vermos mal escrito o nome deste país e tamén o dos seus nativos. As razóns? A nosa é unha lingua aínda sen normalizar e hai bastantes galegos que descoñecen moitas das formas do estándar, este é un exemplo, e tamén regras gramaticais básicas, como as de formación do plural e do feminino.
+É un erro bastante habitual vermos mal escrito o nome deste país e tamén o dos seus nativos. As razóns? A nosa é unha lingua aínda sen normalizar e hai bastantes galegos que descoñecen moitas das formas do estándar (este é un exemplo) e tamén regras gramaticais básicas, como as de formación do plural e do feminino.
 
 ### 2. Noruega: noruegués - norueguesa
 
