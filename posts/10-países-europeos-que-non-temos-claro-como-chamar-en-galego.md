@@ -24,7 +24,7 @@ Con certeza, a absoluta campioa nestas olimpíadas de erros é Romanía. O motiv
 
 ### 5. Países Baixos: neerlandés - neerlandesa
 
-A confusión neste caso débese a que se popularizou a denominación dunha parte do país: *Holanda,* para referirse ao todo o conxunto. Porén, se quixermos ser rigorosos, debemos usar *Países Baixos* para o país e *neerlandés* ou *neerlandesa* para falarmos dos moradores do lugar.
+A confusión neste caso débese a que se popularizou a denominación dunha parte do país: *Holanda,* para se referir ao todo o conxunto. Porén, se quixermos ser rigorosos, debemos usar *Países Baixos* para o país e *neerlandés* ou *neerlandesa* para falarmos dos moradores do lugar.
 
 ### 6. Belarús: belaruso - belarusa / bielorruso - bielorrusa
 
