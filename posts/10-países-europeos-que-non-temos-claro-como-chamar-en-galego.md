@@ -28,7 +28,7 @@ A confusión neste caso débese a que se popularizou a denominación dunha parte
 
 ### 6. Belarús: belaruso - belarusa / bielorruso - bielorrusa
 
-É posíbel non saberes que as denominacións *bielorruso* e *bielorrusa,* presentes aínda na maior parte das linguas faladas do mundo e admitidas tamén en galego, derivan do nome ruso do topónimo. Como en 1991, coa independencia do país da antiga Unión Soviética, o estado pasou a ser a *República de Belarús,* ten toda a lóxica chamalos *belarusos* e *belarusas,* tal e como é o seu desexo.
+É posíbel non saberes que as formas *bielorruso* e *bielorrusa,* presentes aínda na maior parte das linguas faladas do mundo e admitidas tamén en galego, derivan do nome ruso do topónimo. Como en 1991, coa independencia do país da antiga Unión Soviética, o estado pasou a ser a *República de Belarús,* ten toda a lóxica chamalos *belarusos* e *belarusas,* tal e como é o seu desexo.
 
 ### 7. República Moldova: moldovo - moldova
 
