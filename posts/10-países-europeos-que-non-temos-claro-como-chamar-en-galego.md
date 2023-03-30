@@ -40,7 +40,7 @@ Ninguén ten dúbidas relativamente ao nome do país, no entanto, non se pode af
 
 ### 9. Bosnia (e Hercegovina): bosníaco - bosníaca
 
-O acento tamén é un problema á hora de falarmos dos naturais da *Bosnia e Hercegovina.* O correcto en galego é *bosníaco* e *bosníaca* e non *bosnio* nin *bosnia*, como en español. En portugués están admitidas as dúas formas, aínda que é máis habitual ouvir *bosníaco.*
+O acento tamén é un problema á hora de falarmos dos naturais da *Bosnia e Hercegovina.* O correcto en galego é *bosníaco* e *bosníaca* e non *bosnio* nin *bosnia*, como en español. En portugués están admitidas as dúas formas, aínda que é máis habitual ouvirmos *bosníaco.*
 
 ### 10. Ucraína: ucraíno - ucraína
 
