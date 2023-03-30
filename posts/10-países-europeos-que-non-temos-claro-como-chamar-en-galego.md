@@ -12,15 +12,15 @@ Neste *post* imos falar da forma correcta para denominarmos 10 países da Europa
 
 ### 2. Noruega: noruegués - norueguesa
 
-No caso do país nórdico, a confusión prodúcese só á hora de falarmos dos seus habitantes, quen normalmente son chamados *noruegos,* como en español, e non *noruegueses* e *norueguesas,* como debe ser en bo galego e tamén en bo portugués (*norueguês - norueguesa,* como o *e* é fechado, eles márcano cun acento circunflexo).
+No caso do país nórdico, a confusión prodúcese só á hora de falarmos dos seus habitantes, quen normalmente son chamados *noruegos,* como en español, e non *noruegueses* e *norueguesas,* como debe ser en bo galego e tamén en bo portugués (*norueguês* e *norueguesa,* como o *e* é fechado, eles márcano cun acento circunflexo).
 
 ### 3. Dinamarca: dinamarqués - dinamarquesa
 
-A mesma cousa acontece coa Dinamarca. Aquí, a pesar de estar admitida a forma *danés - danesa* en galego, é máis recomendábel optarmos pola forma *dinamarqués - dinamarquesa,* común a toda a lusofonía.
+A mesma cousa acontece coa Dinamarca. Aquí, a pesar de estaren admitidas as formas *danés* e *danesa* en galego, é máis recomendábel optarmos polas formas *dinamarqués* e *dinamarquesa,* comúns a toda a lusofonía.
 
 ### 4. Romanía: romanés - romanesa
 
-Con certeza, a absoluta campioa nestas olimpíadas de erros é Romanía. O motivo é que as denominacións en galego difiren das usadas polos nosos veciños. Da dos españois, xa que en España todos os nacidos na *Rumanía* son chamados *rumanos,* e tamén da dos portugueses, quen chaman *Romênia,* o país, e *romenos* e *romenas,* os seus habitantes.
+Con certeza, a campioa absoluta nestas olimpíadas do erro é a Romanía. O motivo é que as denominacións en galego difiren das usadas polos nosos veciños. Da dos españois, xa que en España todos os nacidos na *Rumanía* son chamados *rumanos,* e tamén da dos portugueses, quen chaman *Romênia,* o país, e *romenos* e *romenas,* os seus habitantes.
 
 ### 5. Países Baixos: neerlandés - neerlandesa
 
@@ -28,7 +28,7 @@ A confusión neste caso débese a que se popularizou a denominación dunha parte
 
 ### 6. Belarús: belaruso - belarusa / bielorruso - bielorrusa
 
-É posíbel que non saibas que a denominación *bielorruso* e *bielorrusa,* presente aínda na maior parte das linguas faladas do mundo e admitida tamén en galego, deriva da denominación rusa do topónimo. Como en 1991, coa independencia do país da antiga Unión Soviética, o estado pasou a ser a *República de Belarús,* ten toda a lóxica chamalos *belarusos* e *belarusas,* tal e como é o seu desexo.
+É posíbel non saberes que as denominacións *bielorruso* e *bielorrusa,* presentes aínda na maior parte das linguas faladas do mundo e admitidas tamén en galego, derivan do nome ruso do topónimo. Como en 1991, coa independencia do país da antiga Unión Soviética, o estado pasou a ser a *República de Belarús,* ten toda a lóxica chamalos *belarusos* e *belarusas,* tal e como é o seu desexo.
 
 ### 7. República Moldova: moldovo - moldova
 
@@ -62,4 +62,4 @@ Xa sei que a *Iugoslavia* non é máis un país europeo, porén, decidín inclu�
 6. *Kosovo: kosovar - kosovar*
 7. *Macedonia do Norte: macedónico - macedónica* ou *macedonio - macedonia*
 
-   Esta antiga república da Iugoslavia que declarou a independencia em 1991, ten este nome desde un acordo coa Grecia -que tamén ten unha rexión chamada Macedonia- em 2018.
+   Esta antiga república da Iugoslavia que declarou a independencia em 1991, ten este nome desde un acordo coa Grecia -país en que tamén hai unha rexión chamada Macedonia- em 2018.
