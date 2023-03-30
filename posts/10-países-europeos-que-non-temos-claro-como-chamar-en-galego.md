@@ -36,7 +36,7 @@ Aínda que *Moldavia* é a forma máis común na rúa, a denominación oficial d
 
 ### 8. Austria: austríaco - austríaca
 
-Ninguén ten dúbidas relativamente ao nome do país, no entanto, non se pode dicir o mesmo do seu xentilicio. O problema neste caso é a pronuncia, porque austríaco é unha palabra esdrúxula e non grave. Non te esquezas, por tanto, de colocar sempre o acento gráfico no *i.*
+Ninguén ten dúbidas relativamente ao nome do país, no entanto, non se pode afirmar o mesmo do seu xentilicio. O problema neste caso é a pronuncia, porque austríaco é unha palabra esdrúxula e non grave. Non te esquezas, por tanto, de colocar sempre o acento gráfico no *i.*
 
 ### 9. Bosnia (e Hercegovina): bosníaco - bosníaca
 
