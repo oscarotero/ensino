@@ -12,7 +12,7 @@ Neste *post* imos falar da forma correcta para denominarmos 10 países da Europa
 
 ### 2. Noruega: noruegués - norueguesa
 
-No caso do país nórdico, a confusión prodúcese só á hora de falarmos dos seus habitantes, quen normalmente son chamados *noruegos,* como en español, e non *noruegueses* e *norueguesas,* como debe ser en bo galego e tamén en bo portugués (*norueguês - norueguesa,* como o *e* é fechado eles márcano cun acento circunflexo)
+No caso do país nórdico, a confusión prodúcese só á hora de falarmos dos seus habitantes, quen normalmente son chamados *noruegos,* como en español, e non *noruegueses* e *norueguesas,* como debe ser en bo galego e tamén en bo portugués (*norueguês - norueguesa,* como o *e* é fechado, eles márcano cun acento circunflexo).
 
 ### 3. Dinamarca: dinamarqués - dinamarquesa
 
@@ -24,7 +24,7 @@ Con certeza, a absoluta campioa nestas olimpíadas de erros é Romanía. O motiv
 
 ### 5. Países Baixos: neerlandés - neerlandesa
 
-A confusión neste caso débese a que se popularizou a denominación dunha parte do país: *Holanda,* para referirse ao todo o conxunto. Porén, se quixermos ser rigorosos, debemos usar *Países Baixos* para o país e *neerlandés* ou *neerlandesas* para falarmos dos moradores do lugar.
+A confusión neste caso débese a que se popularizou a denominación dunha parte do país: *Holanda,* para referirse ao todo o conxunto. Porén, se quixermos ser rigorosos, debemos usar *Países Baixos* para o país e *neerlandés* ou *neerlandesa* para falarmos dos moradores do lugar.
 
 ### 6. Belarús: belaruso - belarusa / bielorruso - bielorrusa
 
@@ -36,7 +36,7 @@ Aínda que *Moldavia* é a forma máis común na rúa, a denominación oficial d
 
 ### 8. Austria: austríaco - austríaca
 
-Ninguén ten dúbidas relativamente ao nome do país, no entanto, non se pode dicir o mesmo do seu xentilicio. O problema neste caso é a pronuncia, porque austríaco é unha palabra esdrúxula e non grave. Non te esquezas, por tanto, de colocar sempre o acento no i.
+Ninguén ten dúbidas relativamente ao nome do país, no entanto, non se pode dicir o mesmo do seu xentilicio. O problema neste caso é a pronuncia, porque austríaco é unha palabra esdrúxula e non grave. Non te esquezas, por tanto, de colocar sempre o acento gráfico no *i.*
 
 ### 9. Bosnia (e Hercegovina): bosníaco - bosníaca
 
@@ -54,12 +54,12 @@ Neste caso, o galego afástase do portugués, que ten *Ucrânia* para o país, e
 
 Xa sei que a *Iugoslavia* non é máis un país europeo, porén, decidín incluílo porque tanto a denominación do estado como a dos seus habitantes, acostuman aparecer mal escritas en moitas ocasións. Como é sabido, após ser dividida em 1991, a antiga Iugoslavia deu orixe a 7 estados cos seus respectivos xentilicios:
 
-1. Eslovenia: esloveno - eslovena
-2. Croacia: o croata - a croata
-3. Bosnia (e Hercegovina): bosníaco - bosníaca
-4. Montenegro: montenegrino - montenegrina
-5. Serbia: serbio - serbia
-6. Kosovo: kosovar - kosovar
-7. Macedonia do Norte: macedónico - macedónica ou macedonio - macedonia
+1. *Eslovenia: esloveno - eslovena*
+2. *Croacia: o/a croata*
+3. *Bosnia (e Hercegovina): bosníaco - bosníaca*
+4. *Montenegro: montenegrino - montenegrina*
+5. *Serbia: serbio - serbia*
+6. *Kosovo: kosovar - kosovar*
+7. *Macedonia do Norte: macedónico - macedónica* ou *macedonio - macedonia*
 
    Esta antiga república da Iugoslavia que declarou a independencia em 1991, ten este nome desde un acordo coa Grecia -que tamén ten unha rexión chamada Macedonia- em 2018.
