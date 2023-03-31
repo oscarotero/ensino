@@ -59,7 +59,7 @@ Xa sei que a *Iugoslavia* non é máis un país europeo, porén, decidín inclu�
 3. *Bosnia (e Hercegovina): bosníaco - bosníaca*
 4. *Montenegro: montenegrino - montenegrina*
 5. *Serbia: serbio - serbia*
-6. *Kosovo: kosovar - kosovar*
+6. *Kosovo: o/a kosovar*
 7. *Macedonia do Norte: macedónico - macedónica* ou *macedonio - macedonia*
 
    Esta antiga república da Iugoslavia que declarou a independencia em 1991, ten este nome desde un acordo coa Grecia -país en que tamén hai unha rexión chamada Macedonia- em 2018.
