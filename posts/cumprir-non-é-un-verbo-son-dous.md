@@ -2,6 +2,7 @@
 title: Cumprir non é un verbo, son dous
 tags:
   - EOI
+  - o_verbo
 draft: false
 ---
 Efectivamente, en galego temos dous verbos e non apenas un. Cada un deles, co seu propio significado ou significados: 
