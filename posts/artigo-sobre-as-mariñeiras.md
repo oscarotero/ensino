@@ -2,7 +2,7 @@
 title: As mariñeiras
 summary: Comprensión de textos escritos
 tags:
-  - actividades_para_a_secundaria
+  - actividades_para_o_ensino_secundario
 ---
 
 <article>
