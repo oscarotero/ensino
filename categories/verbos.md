@@ -1,4 +1,4 @@
 ---
-title: Português para a secundaria
+title: Português para o ensino secundário
 id: portugues
 ---
