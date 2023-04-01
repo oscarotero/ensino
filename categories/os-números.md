@@ -1,6 +1,6 @@
 ---
-title: Os números
-id: Os números
+title: O numeral
+id: O numeral
 tags:
   - morfoloxia
 ---
