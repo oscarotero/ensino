@@ -1,11 +1,11 @@
 ---
-title: "Cartões de estudo - 1º da ESO: presente de indicativo"
+title: "Cartões de estudo - 1º da ESO: presente do indicativo"
 tags:
   - portugues
 draft: false
 ---
 <e-card color="1">
-  <div>Presente de indicativo de ser</div>
+  <div>Presente do indicativo de ser</div>
   <div>
     <ul>
       <li>eu sou </li>
@@ -18,7 +18,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de estar</div>
+  <div>Presente do indicativo de estar</div>
   <div>
     <ul>
       <li>eu estou </li>
@@ -31,7 +31,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de ter</div>
+  <div>Presente do indicativo de ter</div>
   <div>
     <ul>
       <li>eu tenho </li>
@@ -44,7 +44,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de fazer</div>
+  <div>Presente do indicativo de fazer</div>
   <div>
     <ul>
       <li>eu faço </li>
@@ -57,7 +57,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de chamar-se</div>
+  <div>Presente do indicativo de chamar-se</div>
   <div>
     <ul>
       <li>eu chamo-me </li>
@@ -70,7 +70,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de dar</div>
+  <div>Presente do indicativo de dar</div>
   <div>
     <ul>
       <li>eu dou </li>
@@ -83,7 +83,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de ver</div>
+  <div>Presente do indicativo de ver</div>
   <div>
     <ul>
       <li>eu vejo </li>
@@ -96,7 +96,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de ler</div>
+  <div>Presente do indicativo de ler</div>
   <div>
     <ul>
       <li>eu leio </li>
@@ -109,7 +109,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de dizer</div>
+  <div>Presente do indicativo de dizer</div>
   <div>
     <ul>
       <li>eu digo </li>
@@ -122,7 +122,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de trazer</div>
+  <div>Presente do indicativo de trazer</div>
   <div>
     <ul>
       <li>eu trago </li>
@@ -135,7 +135,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de saber</div>
+  <div>Presente do indicativo de saber</div>
   <div>
     <ul>
       <li>eu sei </li>
@@ -148,7 +148,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de poder</div>
+  <div>Presente do indicativo de poder</div>
   <div>
     <ul>
       <li>eu posso </li>
@@ -161,7 +161,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de perder</div>
+  <div>Presente do indicativo de perder</div>
   <div>
     <ul>
       <li>eu perco </li>
@@ -174,7 +174,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de querer</div>
+  <div>Presente do indicativo de querer</div>
   <div>
     <ul>
       <li>eu quero </li>
@@ -187,7 +187,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de ouvir</div>
+  <div>Presente do indicativo de ouvir</div>
   <div>
     <ul>
       <li>eu ouço </li>
@@ -200,7 +200,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de pedir</div>
+  <div>Presente do indicativo de pedir</div>
   <div>
     <ul>
       <li>eu peço </li>
@@ -213,7 +213,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de dormir</div>
+  <div>Presente do indicativo de dormir</div>
   <div>
     <ul>
       <li>eu durmo </li>
@@ -226,7 +226,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de subir</div>
+  <div>Presente do indicativo de subir</div>
   <div>
     <ul>
       <li>eu subo </li>
@@ -239,7 +239,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de fugir</div>
+  <div>Presente do indicativo de fugir</div>
   <div>
     <ul>
       <li>eu fujo </li>
@@ -252,7 +252,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de rir</div>
+  <div>Presente do indicativo de rir</div>
   <div>
     <ul>
       <li>eu rio </li>
@@ -265,7 +265,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de ir</div>
+  <div>Presente do indicativo de ir</div>
   <div>
     <ul>
       <li>eu vou </li>
@@ -278,7 +278,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de vir</div>
+  <div>Presente do indicativo de vir</div>
   <div>
     <ul>
       <li>eu venho </li>
@@ -291,7 +291,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de pôr</div>
+  <div>Presente do indicativo de pôr</div>
   <div>
     <ul>
       <li>eu ponho </li>
@@ -304,7 +304,7 @@ draft: false
 </e-card>
 
 <e-card color="1">
-  <div>Presente de indicativo de construir</div>
+  <div>Presente do indicativo de construir</div>
   <div>
     <ul>
       <li>eu construo </li>
