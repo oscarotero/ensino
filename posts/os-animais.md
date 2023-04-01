@@ -4,7 +4,7 @@ summary: Actividades completarias ás da unidade 9 do voso libro de texto
 tags:
   - lexico
 ---
-Imos traballar o léxico dos animais con estes dous recursos
+Imos traballar o léxico dos animais con estes dous recursos:
 
 1. [Xogo sobre pais e nais](https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1305021580/contido/Galego/exercicios/lexico/lexico3.htm#8)
 2. Canción "Os animais" de Luar na Lubre:
