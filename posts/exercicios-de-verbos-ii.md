@@ -1,8 +1,9 @@
 ---
-title: Exercicios de verbos (2)
-summary: Para practicares o pretérito perfecto de indicativo
+title: O pretérito perfecto do indicativo
+summary: Exercicio practicares o pretérito perfecto do indicativo
 tags:
   - o_verbo
+  - tempos_verbais
 ---
 
 ## Recursos
