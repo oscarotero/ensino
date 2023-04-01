@@ -1,7 +1,8 @@
 ---
-title: MEMES
+title: A percepción do galego por parte do meu alumnado
+summary: Meme
 tags:
-  - actividades_para_a_secundaria
+  - sociolinguistica
 draft: false
 ---
 ![](/img/meme_no_me_gusta_gallego.jpg)
