@@ -2,7 +2,7 @@
 title: "I e U "
 summary: Cando os acentuamos?
 tags:
-  - semana-11
+  - acentuacion
 ---
 
 Cando temos as vogais I e U xuntas nunha palabra aplicamos as seguintes regras:
