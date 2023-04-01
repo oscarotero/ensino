@@ -1,7 +1,7 @@
 ---
 title: Os posesivos
 tags:
-  - 3_eso
+  - morfoloxia
 draft: false
 ---
 # Ben falado! Os posesivos meu, teu, seu
