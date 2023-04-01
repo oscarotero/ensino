@@ -1,4 +1,0 @@
----
-title: Vocabulario
-id: vocabulario
----
