@@ -2,6 +2,7 @@
 title: Verbos tipo consumir
 tags:
   - EOI
+  - o_verbo
 draft: false
 ---
 Presta atención ás dúas formas do verbo *consumir: consomes* e *consume* que aparecen neste anuncio do Cluster do Audiovisual Galego: 
