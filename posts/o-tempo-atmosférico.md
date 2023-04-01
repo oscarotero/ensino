@@ -1,5 +1,6 @@
 ---
 title: Chove no mollado
+summary: Flash cards ou cartóns de estudo
 tags:
   - lexico
 ---
