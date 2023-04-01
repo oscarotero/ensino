@@ -2,7 +2,7 @@
 title: Xénero
 summary: Vídeos sobre erros comúns no xénero das palabras
 tags:
-  - 3_eso
+  - o_substantivo
 draft: false
 ---
 *Leite* é unha palabra masculina. Cando teñas dúbidas, lémbrate da canción do Xabarín O leite mola!:
