@@ -1,7 +1,7 @@
 ---
 title: Aprende a letra de Terra de Tanxugueiras
 tags:
-  - musicas
+  - musicas_en_galego
 draft: false
 ---
 
