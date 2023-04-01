@@ -1,5 +1,6 @@
 ---
 title: Xénero
+summary: Vídeos sobre erros comúns no xénero das palabras
 tags:
   - 3_eso
 draft: false
