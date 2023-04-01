@@ -1,6 +1,6 @@
 ---
 title: A operación Balmis
-summary: Traballo de investigación
+summary: Comprensión de textos orais e escritos
 tags:
   - actividades_para_a_secundaria
 ---
