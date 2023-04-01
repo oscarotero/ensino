@@ -1,7 +1,7 @@
 ---
 title: Palabras de Entroido
 tags:
-  - cartons
+  - lexico
 ---
 <e-card color="1">
   <div>De onde vén a palabra Entroido?</div>
