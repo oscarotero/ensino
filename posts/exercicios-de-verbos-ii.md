@@ -1,6 +1,6 @@
 ---
 title: O pretérito perfecto do indicativo (1)
-summary: Exercicio practicares o pretérito perfecto do indicativo
+summary: Exercicio para practicares o pretérito perfecto do indicativo
 tags:
   - o_verbo
   - tempos_verbais
