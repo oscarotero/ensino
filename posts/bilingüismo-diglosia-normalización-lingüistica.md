@@ -1,5 +1,6 @@
 ---
 title: Bilingüismo, diglosia, normalización lingüistica
+summary: Definición dos tres conceptos
 tags:
   - sociolinguistica
 draft: false
