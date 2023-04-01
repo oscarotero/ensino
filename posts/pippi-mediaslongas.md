@@ -1,5 +1,6 @@
 ---
 title: Pippi Mediaslongas
+summary: Comprensión de textos escritos
 tags:
   - actividades_para_a_secundaria
 ---
