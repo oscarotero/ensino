@@ -2,7 +2,7 @@
 title: Exercicios de verbos (1)
 summary: Adestramento para conxugarmos ben os verbos en presente de indicativo
 tags:
-  - semana-5
+  - o_verbo
 ---
 
 ## Recursos
