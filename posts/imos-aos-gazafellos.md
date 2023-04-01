@@ -4,8 +4,6 @@ summary: Comprensión de textos escritos
 tags:
   - actividades_para_o_ensino_secundario
 ---
-![](/img/gazafello.jpg)
-
 Todo o que debes saber sobre estes misteriosos animaliños
 
 O gazafello é un invento de persoas argalleiras para burlarse daquelas que non teñen coñecementos de caza ou de pesca. A brincadeira consiste en propoñerlles a estes cazadores ou pescadores novatos iren na procura dun animal imaxinario, que non existe na realidade. O animal en cuestión pode ter diferentes nomes segundo a zona de Galicia: *gazafellos, cazabellos, cocerellos* ou *biosbardos* son algúns deles. Noutros lugares do estado español chámanlles *gamusinos* e en Portugal son *[gambozinos](https://www.youtube.com/watch?v=C3LUUrCumIg).*
@@ -18,7 +16,7 @@ Para convenceren a súa vítima de ir na procura de tan misteriosa criatura, arg
 
 Cazar ou pescar estes animais require de moito enxeño e de traballo en equipo. Un bo método é ir de noite e levar un saco, para metelos, e un pau co que se vai batendo nas silveiras e no chan. Cando sae o gazafello, hai que conseguir que entre no saco. Convén ir con xente que coñeza o lugar e que xa teña estado en contacto anteriormente con eles. O gazafello é moi esquivo e, nun abrir e fechar de ollos, pode até mexar por nós... hai que ter moito coidado.
 
-![Gazafello no seu hábitat natural ([cc](https://creativecommons.org/licenses/by-sa/4.0/deed.gl))](/img/regato_dos_fiós.jpg)
+![Gazafello no seu hábitat natural ([cc](https://creativecommons.org/licenses/by-sa/4.0/deed.gl))](/img/gazafello.jpg)
 
 Un lugar especialmente propicio para a caza do gazafello son os ríos. Neste caso, o mellor é ir a un regato ou un río pequeno, os gazafellos gustan moito de brincar onda o río ten pasais e poldras. Para velos, o ideal é escoller unha noite de lúa chea, se non, haberá que levar unha lanterna. O cazador novel terá que esperar á beira da auga a que apareza o bicho. Baixo o luar non tardará en ver o seu reflexo na auga, nese momento, o veterano que espera canda el murmuraralle ao ouvido: aí tes o gazafello. Mais será tarde, porque daquela xa estará na auga. Velaí un cazador cazado!
 
