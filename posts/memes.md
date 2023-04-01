@@ -1,6 +1,6 @@
 ---
 title: Eu e o meu alumnado
-summary: Meme sobre a percepción da materia de galego por parte do alumnado
+summary: Meme sobre a percepción da materia de galego por parte dalgún alumnado
 tags:
   - sociolinguistica
 draft: false
