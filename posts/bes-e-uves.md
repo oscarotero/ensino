@@ -82,7 +82,7 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 * Se non <e-answer>vou</e-answer> nun <e-answer>bou</e-answer>, non
   <e-answer>vou</e-answer>
 
-<e-validate>Corrixe as respostas</e-validate>
+<e-validate>Verifica as respostas</e-validate>
 
 ### Tarefa 2
 
