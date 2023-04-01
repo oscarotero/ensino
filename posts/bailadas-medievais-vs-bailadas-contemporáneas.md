@@ -1,5 +1,5 @@
 ---
-title: Bailadas medievais vs. bailadas contemporáneas
+title: Bailadas medievais e contemporáneas
 tags:
   - literatura
 draft: false
