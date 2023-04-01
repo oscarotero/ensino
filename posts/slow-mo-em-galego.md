@@ -1,7 +1,7 @@
 ---
 title: Slow Mo en galego
 tags:
-  - 3_eso
+  - musicas_en_galego
 draft: false
 ---
 Versión de Ledicia Costas e Iago Gordillo
