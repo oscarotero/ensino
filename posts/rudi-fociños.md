@@ -1,6 +1,6 @@
 ---
 title: Rudi Fociños
-summary: ""
+summary: Comprensión de textos escritos
 tags:
   - actividades_para_a_secundaria
 ---
