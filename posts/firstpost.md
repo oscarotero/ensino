@@ -2,7 +2,7 @@
 title: A pluma viva de Rosalía
 summary: Comprensión de textos orais e escritos
 tags:
-  - actividades_para_a_secundaria
+  - actividades_para_o_ensino_secundario
 ---
 Hoxe imos profundar un pouco máis na figura de Rosalía de Castro. Sabedes xa moitas cousas sobre ela porque...
 
