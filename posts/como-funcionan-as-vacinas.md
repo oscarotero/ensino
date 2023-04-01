@@ -1,6 +1,6 @@
 ---
 title: Como funcionan as vacinas?
-summary: Comprensión de texto oral
+summary: Comprensión de textos orais
 tags:
   - actividades_para_a_secundaria
 ---
