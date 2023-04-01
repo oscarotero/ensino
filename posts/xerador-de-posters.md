@@ -3,7 +3,7 @@ title: Instrucións para lavarmos as mans
 summary: Nestes tempos de coronavirus xa todos sabemos da importancia vital
   deste pequeno xesto.
 tags:
-  - semana-8
+  - o_verbo
 ---
 
 Lavarmos as mans, unha acción cotiá que todos realizabamos sen pensar moito,
