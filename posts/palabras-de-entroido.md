@@ -1,5 +1,6 @@
 ---
 title: Palabras de Entroido
+summary: Flash cards ou cartóns de estudo
 tags:
   - lexico
 ---
