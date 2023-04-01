@@ -4,7 +4,7 @@ summary: "Para combater a desinformación que hai en Internet sobre as vacinas, 
   espazo de divulgación científica Concienciadas de Praza.gal dedicou o terceiro
   episodio a este tema. "
 tags:
-  - semana-11
+  - actividades_para_a_secundaria
 ---
 
 <iframe src="https://player.vimeo.com/video/369814054" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
