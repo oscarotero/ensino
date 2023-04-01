@@ -1,7 +1,7 @@
 ---
 title: Pippi Mediaslongas
 tags:
-  - comprension_lectora
+  - actividades_para_a_secundaria
 ---
 
 <article>
