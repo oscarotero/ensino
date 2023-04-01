@@ -1,7 +1,7 @@
 ---
 title: Chove no mollado
 tags:
-  - cartons
+  - lexico
 ---
 
 <e-card color="1">
