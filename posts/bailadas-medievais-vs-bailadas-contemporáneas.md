@@ -1,7 +1,7 @@
 ---
 title: Bailadas medievais vs. bailadas contemporáneas
 tags:
-  - 3_eso
+  - literatura
 draft: false
 ---
 # Bailemos nós ja todas tres, ai amigas
