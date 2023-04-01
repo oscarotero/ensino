@@ -2,7 +2,7 @@
 title: Quizz para 2º da ESO
 summary: Flash cards ou cartóns de estudo
 tags:
-  - actividades_para_a_secundaria
+  - actividades_para_o_ensino_secundario
 ---
 
 <e-card color="1">
