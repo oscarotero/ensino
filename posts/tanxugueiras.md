@@ -1,5 +1,6 @@
 ---
 title: Tanxugueiras no Benidorm Fest
+summary: 3 palabras para entenderes a final para Eurovisión 2022
 tags:
   - lexico
 draft: false
