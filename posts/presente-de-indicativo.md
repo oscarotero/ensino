@@ -3,7 +3,6 @@ title: O presente do indicativo (1)
 summary: Exercicio para fixares as formas correctas de certos verbos no presente
   do indicativo
 tags:
-  - o_verbo
   - tempos_verbais
 ---
 ## Recursos
