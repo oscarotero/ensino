@@ -1,6 +1,6 @@
 ---
 title: O presente do indicativo (1)
-summary: Exercicio para fixar as formas correctas de certos verbos no presente
+summary: Exercicio para fixares as formas correctas de certos verbos no presente
   do indicativo
 tags:
   - o_verbo
@@ -46,4 +46,4 @@ Completa co verbo correspondente no presente do indicativo.
     mollada en auga fría na testa.
 15. Cando te <e-answer>pos</e-answer> (pór) así, non hai quen te ature.
 
-<e-validate>Ver as solucións</e-validate>
+<e-validate>Verificar as respostas</e-validate>
