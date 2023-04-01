@@ -2,7 +2,6 @@
 title: As regras de acentuación
 summary: null
 tags:
-  - semana-11
   - acentuacion
 ---
 Neste esquema sintetizamos as regras xerais de uso do acento gráfico en galego.
