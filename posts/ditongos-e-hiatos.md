@@ -1,7 +1,7 @@
 ---
 title: Ditongos e hiatos
 tags:
-  - semana-9
+  - ortografia
 ---
 
 Como os recoñezo?
