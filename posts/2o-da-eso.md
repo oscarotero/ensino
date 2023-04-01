@@ -1,8 +1,8 @@
 ---
-title: 2º da ESO
-summary: Unidade 1
+title: Quizz para 2º da ESO
+summary: Flash cards ou cartóns de estudo
 tags:
-  - cartons
+  - actividades_para_a_secundaria
 ---
 
 <e-card color="1">
