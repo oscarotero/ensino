@@ -1,8 +1,8 @@
 ---
 title: Cantos anos teño?
 tags:
-  - Os números
   - EOI
+  - O numeral
 draft: false
 ---
 A idade é só número, mais cal? Observa con atención as seguintes fotografías e tenta adiviñar a idade destes galegos famosos. Escribe o número por extenso.
