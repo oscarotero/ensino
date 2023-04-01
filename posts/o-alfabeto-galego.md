@@ -1,7 +1,7 @@
 ---
 title: O alfabeto galego
 tags:
-  - semana-7
+  - ortografia
 ---
 
 O alfabeto ou abecedario é o conxunto de letras con que se representan os sons
