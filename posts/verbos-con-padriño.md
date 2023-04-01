@@ -1,7 +1,9 @@
 ---
 title: Verbos con padriño
+summary: Exercicio para distinguir os usos correctos e incorrectos de certas
+  formas verbais
 tags:
-  - 3_eso
+  - actividades_para_a_secundaria
 draft: false
 ---
 ## Todo o que che din - Verto
