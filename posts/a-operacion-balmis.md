@@ -2,7 +2,7 @@
 title: A operación Balmis
 summary: É posíbel que oíses falar estes días nos telexornais da operación Balmis.
 tags:
-  - semana-6
+  - actividades_para_a_secundaria
 ---
 
 Este é o nome co que se decidiu bautizar a misión de loita contra o coronavirus
