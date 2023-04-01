@@ -6,6 +6,7 @@ draft: false
 ---
 ### Bailemos nós ja todas tres, ai amigas - Airas Nunez
 
+
 Bailemos nós ja todas tres, ai amigas,
 
 so aquestas avelaneiras frolidas,
@@ -109,7 +110,7 @@ Tá gostosin'? Eu quero mais!
 ### Comparten:
 
 * Voz feminina
-* Diríxese a outras mulleres: irmás ("ai, irmanas", "ai, amigas" /"...todas elas" "novinha", 
+* Diríxese a outras mulleres: irmás ("ai, irmanas", "ai, amigas" /"...todas elas" "novinha")
 * Existen referencias ao baile ("Bailemos nós ja todos tres", "so  aqueste ramo frolido bailemos" / "Fiz esse beat só pra ver elas descendo, descendo, descendo", "no chão, novinha", "joga a bunda pra trás")
 
 ### Reflexiona
