@@ -2,7 +2,7 @@
 title: Linguas e xogos de construción
 summary: En que se parecen?
 tags:
-  - semana-9
+  - ortografia
 ---
 
 Se o pensas ben, a nosa lingua parécese moito a un deses xogos de construción
