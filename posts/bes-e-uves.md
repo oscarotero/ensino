@@ -2,7 +2,6 @@
 title: Bes e uves
 summary: Por que non dou unha?
 tags:
-  - semana-6
   - ortografia
 ---
 En galego resúltanos difícil sabermos cando unha palabra se escribe con *b* e
