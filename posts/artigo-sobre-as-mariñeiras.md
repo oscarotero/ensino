@@ -1,7 +1,7 @@
 ---
 title: Artigo sobre as mariñeiras
 tags:
-  - comprension_lectora
+  - actividades_para_a_secundaria
 ---
 
 <article>
