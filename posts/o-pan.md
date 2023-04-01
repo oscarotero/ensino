@@ -2,7 +2,7 @@
 title: O pan
 summary: Todas as palabras que necesitas para falares do pan
 tags:
-  - semana-10
+  - lexico
 ---
 
 ## Exercicio 1
