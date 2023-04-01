@@ -17,7 +17,7 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
 </e-card>
 
 <e-card color="3">
-  <div>Bom/boa</div>
+  <div>Bom</div>
   <div>Que tem ou demonstra bondade.</div>
 </e-card>
 
@@ -147,7 +147,7 @@ Estes são alguns dos elogios que as turmas de português ofereceram como presen
 </e-card>
 
 <e-card color="9">
-  <div>Lutador/-a</div>
+  <div>Lutador</div>
   <div>Que luta, que se esforça para alcançar um objetivo</div>
 </e-card>
 
