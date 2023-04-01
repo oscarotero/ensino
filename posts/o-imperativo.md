@@ -2,72 +2,62 @@
 title: O imperativo
 summary: ""
 tags:
-  - o_verbo
+  - tempos_verbais
 ---
-
-O imperativo é un dos tres modos verbais do verbo. Os outros dous son indicativo
-e o subxuntivo.
+O imperativo é un dos tres modos verbais do verbo. Os outros dous son o indicativo e o subxuntivo.
 
 ## Usos do imperativo
 
 Usamos o imperativo cada vez que...
 
-- Damos instrucións: _Pica a cebola ben finiña._
-- Aconsellamos ou facemos recomendacións: _Reclame os seus dereitos_
-- Damos ordes: _Ordena o teu cuarto agora!_
-- Prohibimos: _Non toquedes a comida do expositor_
+* Damos instrucións: *Pica a cebola ben finiña.*
+* Aconsellamos ou facemos recomendacións: *Reclame os seus dereitos.*
+* Damos ordes: *Ordena o teu cuarto agora!*
+* Prohibimos: *Non toquedes a comida do expositor.*
 
 ### Cales son as súas formas?
 
 #### As formas positivas
 
-O imperativo afirmativo en galego ten **catro formas**: ti e vós (informal);
-vostede e vostedes (formal)
+O imperativo afirmativo en galego ten **catro formas**: ti e vós (informal); vostede e vostedes (formal)
 
-- 2ª persoa de singular: _Ti, **anda**_
-- 2ª persoa de plural: _Vós, **andade**_
-- 2ª persoa de singular de respecto: _Vostede, **veña** comigo, por favor_
-- 2ª persoa de plural de respecto: _Vostedes, **veñan** comigo, por favor_
+* 2ª persoa de singular: *Ti, **anda***
+* 2ª persoa de plural: *Vós, **andade***
+* 2ª persoa de singular de respecto: *Vostede, **veña** comigo, por favor*
+* 2ª persoa de plural de respecto: *Vostedes, **veñan** comigo, por favor*
 
 ##### Como se forman?
 
-As formas para ti e para vós obtéñense eliminando o _-s_ final das formas do
-presente de indicativo:
+As formas para ti e para vós obtéñense eliminando o *\-s* final das formas do presente do indicativo:
 
-- _Ti anda(s) > Anda ti_
-- _Vós andade(s) > Andade vós_
+* *Ti anda(s) > Anda ti*
+* *Vós andade(s) > Andade vós*
 
-No caso das formas para vostede ou vostede, temos que substituír a vogal
-temática do infinitivo por _e,_ nos verbos da 1ª conxugación, e por _a,_ nos
-verbos da 2ª e 3ª conxugación:
+No caso das formas para vostede ou vostede, temos que substituír a vogal temática do infinitivo por *e,* nos verbos da 1ª conxugación, e por *a,* nos verbos da 2ª e 3ª conxugación:
 
-- _and-a-r > and-e. Exs.: Ande vostede; anden vostedes_
-- _com-e-r > com-a. Exs.: Coma vostede; coman vostedes_
-- _exix-i-r > exix-a. Exs.: Exixa vostede unha compensación; Exixan vostedes
-  unha compensación_
+* *and-a-r > and-e. Exs.: Ande vostede; anden vostedes*
+* *com-e-r > com-a. Exs.: Coma vostede; coman vostedes*
+* *exix-i-r > exix-a. Exs.: Exixa vostede unha compensación; Exixan vostedes
+  unha compensación*
 
-Decatátesche de que as formas positivas de imperativo para vostede e vostedes
-coinciden coas formas de 3º persoa (singular e plural) do presente de
-subxuntivo?
+Decatátesche de que as formas positivas do imperativo para vostede e vostedes coinciden coas formas da 3º persoa (singular e plural) do presente de subxuntivo?
 
 #### As formas negativas
 
-As formas negativas de imperativo son as mesmas que empregamos para o presente
-de subxuntivo:
+As formas negativas do imperativo son as mesmas que empregamos para o presente do subxuntivo:
 
-- _Non corras ti, non corrades vós_
-- _Non corra vostede; non corran vostedes_
+* *Non corras ti, non corrades vós*
+* *Non corra vostede; non corran vostedes*
 
-Aínda que esta é a regra xeral, hai verbos que son irregulares (_pór, facer,
-ser, estar_ etc.).
+Aínda que esta é a regra xeral, hai verbos que son irregulares (*pór, facer, ser, estar* etc.).
 
-- Exs.: _Pon ti, fai ti_
+* Exs.: *Pon ti, fai ti*
 
----
+- - -
 
 ## Exercicio 1
 
-Completa co verbo en imperativo as seguintes oracións:
+Completa co verbo no imperativo as seguintes oracións:
 
 1. <e-answer>Comede</e-answer> (comer) todo o que tedes no prato.
 2. Non te oio, <e-answer>berra</e-answer> (berrar) máis.
