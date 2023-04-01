@@ -2,8 +2,7 @@
 title: O x
 summary: As pronuncias do x
 tags:
-  - semana-11
-  - 3_eso
+  - foneticagalega
 ---
 
 O x ten en galego dúas pronuncias distintas: como en _xeado_ e como en _sexto._
