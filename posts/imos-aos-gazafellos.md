@@ -2,7 +2,7 @@
 title: Imos aos gazafellos?
 summary: Comprensión de textos escritos
 tags:
-  - actividades_para_a_secundaria
+  - actividades_para_o_ensino_secundario
 ---
 Todo o que debes saber sobre estes misteriosos animaliños
 
