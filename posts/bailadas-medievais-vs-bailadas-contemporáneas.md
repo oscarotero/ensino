@@ -4,9 +4,7 @@ tags:
   - literatura
 draft: false
 ---
-# Bailemos nós ja todas tres, ai amigas
-
-### Airas Nunez
+### Bailemos nós ja todas tres, ai amigas - Airas Nunez
 
 Bailemos nós ja todas tres, ai amigas,
 
@@ -46,9 +44,7 @@ so aqueste ramo, sol que nós bailemos,
 
 verra bailar
 
-# No chão novinha
-
-## Anitta, Pedro Sampaio
+### No chão novinha - Anitta, Pedro Sampaio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ls74YCwYB4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -110,14 +106,13 @@ Tá gostosin'? Eu quero mais!\
 Joga pra mim, olha pra trás\
 Tá gostosin'? Eu quero mais!
 
+### Comparten:
 
+* Voz feminina
+* Diríxese a outras mulleres: irmás ("ai, irmanas", "ai, amigas" /"...todas elas" "novinha", 
+* Existen referencias ao baile ("Bailemos nós ja todos tres", "so  aqueste ramo frolido bailemos" / "Fiz esse beat só pra ver elas descendo, descendo, descendo", "no chão, novinha", "joga a bunda pra trás")
 
-Comparten:
+### Reflexiona
 
-- Voz feminina
-- Diríxese a outras mulleres: irmás ("ai, irmanas", "ai, amigas" /"...todas elas" "novinha", 
-- Existen referencias ao baile ("Bailemos nós ja todos tres", "so  aqueste ramo frolido bailemos" / "Fiz esse beat só pra ver elas descendo, descendo, descendo", "no chão, novinha", "joga a bunda pra trás")
-
-Reflexiona
-Que significado ten o baile na cantiga de Airas Nunez? E na de Anitta chamada ao baile está vinculada coa sororidade (=solidariedade entre mulleres)?
-
+* Que significado ten o baile na cantiga de Airas Nunez? E na de Anitta? 
+* A chamada ao baile está vinculada coa sororidade (solidariedade entre mulleres)?
