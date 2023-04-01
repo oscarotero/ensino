@@ -2,7 +2,7 @@
 title: Da cabeza á punta do pé
 summary: Todos os nomes das distintas partes do corpo humano.
 tags:
-  - semana-8
+  - lexico
 ---
 
 [](http://aprofa.gal/2020/01/16/partes-do-corpo-4/)Deixo abaixo a ligazón a este
