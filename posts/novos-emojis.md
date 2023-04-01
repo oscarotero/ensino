@@ -2,7 +2,7 @@
 title: Novos emojis
 summary: Como lles chamamos?
 tags:
-  - semana-7
+  - lexico
 ---
 
 Hai uns días soubemos que o Consorcio Unicode decidiu aumentar a familia de
