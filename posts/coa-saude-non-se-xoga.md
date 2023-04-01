@@ -4,7 +4,7 @@ summary: "Todo o mundo sabe iso! Mais desde agora si que o podemos facer coas
   palabras que utilizamos para falar dela, grazas a esta magnífica escolma de
   xogos do Portal das palabras:"
 tags:
-  - semana-6
+  - lexico
 ---
 
 [Verdadeiro ou falso: Que me pasa,
