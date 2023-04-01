@@ -2,7 +2,7 @@
 title: Rudi Fociños
 summary: ""
 tags:
-  - comprension_lectora
+  - actividades_para_a_secundaria
 ---
 
 <article>
