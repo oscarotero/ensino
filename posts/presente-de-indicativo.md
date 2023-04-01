@@ -1,27 +1,27 @@
 ---
-title: Exercicios de verbos (1)
-summary: Adestramento para conxugarmos ben os verbos en presente de indicativo
+title: O presente do indicativo (1)
+summary: Exercicio para fixar as formas correctas de certos verbos no presente
+  do indicativo
 tags:
   - o_verbo
 ---
-
 ## Recursos
 
-Se tiverdes dúbidas, podedes usar un conxugador. O seu uso é moi simple. Deixo
+Se tiveres dúbidas, podes usar un conxugador. O seu uso é moi simple. Deixo
 abaixo as ligazóns a dous:
 
 [Conxugador de verbos en galego](http://cotovia.org/proxecto/conxugador/index.html)
 
 [Dicionario da Real Academia Galega (RAG)](https://academia.gal/dicionario/)
 
-No caso do conxugador do dicionario da RAG, non podedes conxugar o verbo
-directamente. Primeiro tedes que buscar o seu significado no dicionario e, cando
-vos devolva o resultado da busca, premer no botón "conxugar" que vos aparece ao
+No caso do conxugador do dicionario da RAG, non podes conxugar o verbo
+directamente. Primeiro tes que buscar o seu significado no dicionario e, cando
+che devolva o resultado da busca, premer no botón "conxugar" que che aparece ao
 lado do infinitivo.
 
----
+- - -
 
-Completa co verbo correspondente en presente de indicativo.
+Completa co verbo correspondente no presente do indicativo.
 
 1. Ti non <e-answer>es</e-answer> (ser) tan listo como <e-answer>cres</e-answer>
    (crer).
