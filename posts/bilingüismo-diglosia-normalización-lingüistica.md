@@ -1,7 +1,7 @@
 ---
 title: Bilingüismo, diglosia, normalización lingüistica
 tags:
-  - 3_eso
+  - sociolinguistica
 draft: false
 ---
 # Bilingüismo
