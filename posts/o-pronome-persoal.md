@@ -1,7 +1,7 @@
 ---
-title: O pronome persoal
+title: Vídeos sobre o pronomes persoais
 tags:
-  - 3_eso
+  - o_pronome_persoal
 draft: false
 ---
 \#DígochoEu É o mesmo *nós* que *nosoutros?*
