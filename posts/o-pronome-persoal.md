@@ -1,5 +1,5 @@
 ---
-title: Vídeos sobre o pronomes persoais
+title: Vídeos sobre os pronomes persoais
 tags:
   - o_pronome_persoal
 draft: false
