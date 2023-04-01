@@ -2,7 +2,7 @@
 title: A operación Balmis
 summary: Comprensión de textos orais e escritos
 tags:
-  - actividades_para_a_secundaria
+  - actividades_para_o_ensino_secundario
 ---
 É posíbel que oíses falar estes días nos telexornais da operación Balmis. Este é o nome co que se decidiu bautizar a misión de loita contra o coronavirus en que participan as distintas Forzas e Corpos de Seguridade do Estado desde o comezo da crise sanitaria.
 
