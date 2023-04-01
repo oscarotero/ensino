@@ -2,7 +2,7 @@
 title: Contraccións (2)
 summary: Artigo indeterminado + preposición
 tags:
-  - semana-8
+  - morfoloxia
 ---
 
 As formas do artigo indeterminado _(un, unha, uns, unhas)_ contraen coas
