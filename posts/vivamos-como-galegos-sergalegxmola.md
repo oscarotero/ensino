@@ -1,12 +1,14 @@
 ---
-title: "Vivamos como galegos: SerGalegxMola - Anuncio de Gadis (03:27 min)"
+title: Verbos con padriño (2)
+summary: Exercicio para distinguir os usos correctos e incorrectos de certas
+  formas verbais
 tags:
-  - 3_eso
+  - actividades_para_a_secundaria
 draft: false
 ---
+Vivamos como galegos: SerGalegxMola - Anuncio de Gadis (03:27 min)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Vi3STNjsUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 No mundo hai algo máis de 7000 millóns de persoas
 
