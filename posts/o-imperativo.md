@@ -2,7 +2,7 @@
 title: O imperativo
 summary: ""
 tags:
-  - semana-8
+  - o_verbo
 ---
 
 O imperativo é un dos tres modos verbais do verbo. Os outros dous son indicativo
