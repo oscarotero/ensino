@@ -2,6 +2,7 @@
 title: Día de Rosalía de Castro
 tags:
   - dias_d
+  - literatura
 draft: false
 ---
 Vídeo de Tik tak draw sobre a vida e a obra da autora (05:04 min)
