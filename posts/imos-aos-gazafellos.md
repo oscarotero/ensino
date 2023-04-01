@@ -4,6 +4,8 @@ summary: Comprensión de textos escritos
 tags:
   - actividades_para_o_ensino_secundario
 ---
+![](/img/gazafello.jpg)
+
 Todo o que debes saber sobre estes misteriosos animaliños
 
 O gazafello é un invento de persoas argalleiras para burlarse daquelas que non teñen coñecementos de caza ou de pesca. A brincadeira consiste en propoñerlles a estes cazadores ou pescadores novatos iren na procura dun animal imaxinario, que non existe na realidade. O animal en cuestión pode ter diferentes nomes segundo a zona de Galicia: *gazafellos, cazabellos, cocerellos* ou *biosbardos* son algúns deles. Noutros lugares do estado español chámanlles *gamusinos* e en Portugal son *[gambozinos](https://www.youtube.com/watch?v=C3LUUrCumIg).*
