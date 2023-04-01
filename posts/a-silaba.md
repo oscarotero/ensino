@@ -2,7 +2,7 @@
 title: A sílaba
 summary: ""
 tags:
-  - semana-9
+  - ortografia
 ---
 
 Denominamos sílaba a cada golpe de voz con que pronunciamos unha palabra.
