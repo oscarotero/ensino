@@ -127,5 +127,5 @@ A historia de Buttercup ensínanos dúas cousas:
   formato editada pola editora Bululú.
 * E hai tamén un telefilme que narra as aventuras da Real Expedición
   Filantrópica da Vacina. Titúlase
-  *[22 ángeles](https://www.youtube.com/watch?v=coOsN7e0kS8&feature=emb_logo)* e
+  *[22 ángeles](https://youtu.be/Zt9k_qdsgBw)* e
   a actriz galega María Castro é quen dá vida a Isabel Zendal nesta produción.
