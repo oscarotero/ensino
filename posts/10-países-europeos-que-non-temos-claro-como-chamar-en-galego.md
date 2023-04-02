@@ -2,6 +2,7 @@
 title: 10 países europeos que non temos claro como chamar en galego
 tags:
   - EOI
+  - lexico
 draft: false
 ---
 Neste *post* imos falar da forma correcta para denominarmos 10 países da Europa e os seus respectivos habitantes. Comezamos!
