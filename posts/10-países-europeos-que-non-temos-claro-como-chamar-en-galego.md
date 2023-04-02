@@ -1,7 +1,7 @@
 ---
 title: 10 países europeos que non temos claro como chamar en galego
-summary: Neste post imos falar da forma correcta de denominarmos 10 países da
-  Europa e os seus respectivos habitantes. Comezamos!
+summary: Neste post falamos sobre a forma correcta de denominarmos 10 países da
+  Europa e os seus respectivos habitantes.
 tags:
   - EOI
   - lexico
