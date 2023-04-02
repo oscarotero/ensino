@@ -1,12 +1,14 @@
 ---
 title: 10 países europeos que non temos claro como chamar en galego
-summary: Neste post imos falar da forma correcta para denominarmos 10 países da
-  Europa e os seus respectivos habitantes. Comezamos!
+summary: "Neste post imos falar da forma correcta de denominarmos 10 países da
+  Europa e os seus respectivos habitantes. "
 tags:
   - EOI
   - lexico
 draft: false
 ---
+## Comezamos!
+
 ### 1. Alemaña: alemán - alemá / alemáns - alemás
 
 É un erro bastante habitual vermos mal escrito o nome deste país e tamén o dos seus nativos. As razóns? A nosa é unha lingua aínda sen normalizar e hai bastantes galegos que descoñecen moitas das formas do estándar (este é un exemplo) e tamén regras gramaticais básicas, como as de formación do plural e do feminino.

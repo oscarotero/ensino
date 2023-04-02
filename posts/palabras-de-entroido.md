@@ -1,6 +1,6 @@
 ---
-title: Palabras de Entroido
-summary: Flash cards ou cartóns de estudo
+title: 22 preguntas sobre o Entroido galego
+summary: Vira o cartón de estudo ou flash card para descubrires a resposta.
 tags:
   - lexico
 ---
@@ -16,7 +16,7 @@ tags:
 
 <e-card color="7">
   <div>O que é o triángulo máxico do Entroido?</div>
-  <div>Coñécese así unha zona comprendida entre Xinzo de Limia, Laza e Verín, cunha gran tradición en festexar o Entroido</div>
+  <div>Coñécese así unha zona comprendida entre Xinzo de Limia, Laza e Verín, cunha grande tradición en festexar o Entroido</div>
 </e-card>
 
 <e-card color="10">
@@ -107,4 +107,9 @@ tags:
 <e-card color="1">
   <div>A palabra maquillaxe é masculina ou feminina?</div>
   <div>É feminina: a maquillaxe</div>
+</e-card>
+
+<e-card color="9">
+  <div>Persoa vestida de forma desleixada ou ridícula</div>
+  <div>Entroido</div>
 </e-card>

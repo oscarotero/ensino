@@ -1,6 +1,7 @@
 ---
 title: Tanxugueiras no Benidorm Fest
-summary: 3 palabras para entenderes a final para Eurovisión 2022
+summary: 3 palabras para comprenderes a elección do representante español para a
+  Eurovisión 2022
 tags:
   - lexico
 draft: false
@@ -17,7 +18,7 @@ Persoa que toca o pandeiro ou a pandeireta.
 
 *Substantivo masculino*
 
-Berro agudo, forte e prolongado que se emite en sinal de alegría, nas festas e foliadas ou mentres se realizan algúns labores agrícolas.
+Berro agudo, forte e prolongado que se emite en sinal de alegría, nas festas e foliadas ou en canto se realizan certos traballos agrícolas.
 
 Exemplo:
 
