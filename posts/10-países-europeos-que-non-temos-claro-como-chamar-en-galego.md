@@ -23,7 +23,7 @@ A mesma cousa acontece coa Dinamarca. Aquí, a pesar de estaren admitidas as for
 
 ### 4. Romanía: romanés - romanesa
 
-Con certeza, a campioa absoluta nestas olimpíadas do erro é a Romanía. O motivo é que as denominacións en galego difiren das usadas polos nosos veciños. Da dos españois, xa que en España todos os nacidos na *Rumanía* son chamados *rumanos,* e tamén da dos portugueses, quen chaman *Romênia,* o país, e *romenos* e *romenas,* os seus habitantes.
+Con certeza, a campioa absoluta nestas olimpíadas do erro é a Romanía. O motivo é que as denominacións en galego difiren das usadas polos nosos veciños. Da dos españois, xa que en España todos os nacidos na *Rumanía* son chamados *rumanos,* e tamén da dos portugueses, quen chaman *Romênia,* ao país, e *romenos* e *romenas,* aos seus habitantes.
 
 ### 5. Países Baixos: neerlandés - neerlandesa
 
@@ -55,7 +55,7 @@ Neste caso, o galego afástase do portugués, que ten *Ucrânia* para o país, e
 
 ### Iugoslavia: iugoslavo - iugoslava
 
-Xa sei que a *Iugoslavia* non é máis un país europeo, porén, decidín incluílo porque tanto a denominación do estado como a dos seus habitantes, acostuman aparecer mal escritas en moitas ocasións. Como é sabido, após ser dividida em 1991, a antiga Iugoslavia deu orixe a 7 estados cos seus respectivos xentilicios:
+Xa sei que a *Iugoslavia* non é máis un país europeo, porén, decidín incluílo porque tanto a denominación do estado como a dos seus habitantes acostuman aparecer mal escritas en moitas ocasións. Como é sabido, após ser dividida em 1991, a antiga Iugoslavia deu orixe a 7 estados cos seus respectivos xentilicios:
 
 1. *Eslovenia: esloveno - eslovena*
 2. *Croacia: o/a croata*
