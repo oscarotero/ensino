@@ -51,9 +51,19 @@ Para chamarmos os humanos de pouca idade, os galegos usamos outras palabras: **n
 
 ![](/img/neno.jpg)
 
-### 6. Rubia
+### 6. Rato
 
-Unha **rubia** ou, mellor aínda, unha **roiba** é unha muller co cabelo vermello.
+Un **rato** é un roedor, un substantivo que, igual que aconteceu en inglés, ampliou o seu significado e acabou por dar nome tamén ao periférico do computador.
+
+Mais rato non se pode usar en galego para referirse a un período de tempo curto. Para iso temos  **momento**, **instante**, **intre**, **pedazo** ou **bocado**.
+
+![](/img/rato_animal.jpg)
+
+
+
+### 7. Rubia
+
+Unha **rubia** ou, mellor aínda, unha **roiba** é unha muller co cabelo vermello ou alaranxado.
 
 ![](/img/roiba.jpg)
 
@@ -62,17 +72,17 @@ As persoas que teñen o cabelo de cor dourada son **louros** ou **louras**. E, s
 
 ![](/img/loura.jpg)
 
-### 7. Seta
+### 8. Seta
 
 As **setas** son os proxectís que se lanzan por medio dun arco.
 
 ![](/img/setas.jpg)
 
-Porque o que imos apañar ao monte no outono é outra cousa: **cogomelos**.
+O que imos apañar ao monte no outono é outra cousa: **cogomelos**.
 
 ![](/img/cogomelos.jpg)
 
-### 8. Toro
+### 9. Toro
 
 **Toro** é unha tallada, un pedazo de carne ou de peixe. Tamén se lle chama así ao tronco dunha árbore.
 
@@ -80,7 +90,7 @@ Porque o que imos apañar ao monte no outono é outra cousa: **cogomelos**.
 
 O animal que, infelizmente, continúa a morrer na arena de moitas prazas é o **touro**.
 
-### 9. Torta
+### 10. Torta
 
 En galego, unha **torta** é unha sobremesa, concretamente, un tipo de bolo doce que se toma ao final dunha comida.
 
@@ -90,7 +100,7 @@ Para nos referir ao golpe dado coa man aberta na cara, a forma máis usada talve
 
 ![](/img/labazada.jpg)
 
-### 10. Zorra
+### 11. Zorra
 
 A **zorra** é o vehículo utilizado para nos deslizarmos sobre a neve ou o xeo.
 
