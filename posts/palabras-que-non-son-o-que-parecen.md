@@ -1,6 +1,6 @@
 ---
-title: Palabras que non son o que parecen
-summary: 10 falsos amigos entre o español e o galego
+title: Desculpa, non estou a entender
+summary: 11 falsos amigos do galego no español
 tags:
   - lexico
 draft: false
