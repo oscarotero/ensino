@@ -47,7 +47,7 @@ Un **niño** é a estrutura que as aves constrúen para poren os ovos e criaren.
 
 ![](/img/niño.jpg)
 
-Para chamarmos os humanos de pouca idade, os galegos usamos outras palabras: **neno**, **meniño**, **rapaz**, **cativo** ou **pícaro**. Non cres que é paradoxal que, sendo o noso un país tan envellecido, existan tantas formas para nomearen as crianzas.
+Para chamarmos os humanos de pouca idade, os galegos usamos outras palabras: **neno**, **meniño**, **rapaz**, **cativo** ou **pícaro**. Non cres que é paradoxal que, sendo o noso un país tan envellecido, existan tantas formas para nomearen as crianzas?
 
 ![](/img/neno.jpg)
 
@@ -58,8 +58,6 @@ Un **rato** é un roedor, un substantivo que, igual que aconteceu en inglés, am
 Mais rato non se pode usar en galego para referirse a un período de tempo curto. Para iso temos  **momento**, **instante**, **intre**, **pedazo** ou **bocado**.
 
 ![](/img/rato_animal.jpg)
-
-
 
 ### 7. Rubia
 
