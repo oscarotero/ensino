@@ -47,7 +47,7 @@ Para practicares, tenta conxugar o verbo *facer* e *sentir*. Despois vira o cart
   </div>
 </e-card>
 
-Continúa coa práctica. Tenta agora conxugar os seguintes verbos:
+### Continúa coa práctica. Tenta agora conxugar os seguintes verbos:
 
 ## Ser
 
@@ -55,6 +55,7 @@ Continúa coa práctica. Tenta agora conxugar os seguintes verbos:
 * Ti <e-answer>seres</e-answer>
 * El ou ela <e-answer>ser</e-answer>
 * Nós <e-answer>sermos</e-answer>
+* Vós <e-answer>serdes</e-answer>
 * Eles ou elas<e-answer>seren</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
