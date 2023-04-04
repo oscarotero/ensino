@@ -3,7 +3,7 @@ title: As formas do infinitivo persoal
 summary: "Modelos para te familiarizares coa conxugación do infinitivo persoal +
   exercicios "
 tags:
-  - tempos_verbais
+  - o_infinitivo_flexionado
 draft: false
 ---
 # As formas
