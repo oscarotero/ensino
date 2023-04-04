@@ -34,7 +34,7 @@ Para practicares, tenta conxugar o verbo *facer* e *sentir*. Despois vira o cart
 </e-card>
 
 <e-card color="1">
-  <div>Infinitivo persoal de facer</div>
+  <div>Infinitivo persoal de sentir</div>
   <div>
     <ul>
       <li>eu sentir</li>
