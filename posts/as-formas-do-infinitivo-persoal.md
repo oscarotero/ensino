@@ -17,7 +17,7 @@ draft: false
 
 A conxugación do infinitivo é simple. A P1 e P3 é a forma de infinitivo, por tanto, só temos que aprender 4 terminacións: *\-res, -mos, -des* e *\-ren.* Estas terminacións son iguais para os verbos da 1ª (andar), 2ª (facer) e 3ª conxugación (sentir).
 
-Para practicares, tenta conxugar o verbo *facer* e *sentir*. Despois vira o cartón de estudo ou flash card para verificares a conxugación completa:
+Para practicares, tenta conxugar o verbo *facer* e *sentir*. Despois vira o cartón de estudo ou *flash card* para verificares a conxugación completa:
 
 <e-card color="1">
   <div>Infinitivo persoal de facer</div>
