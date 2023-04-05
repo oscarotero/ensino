@@ -14,7 +14,7 @@ No entanto, os estranxeiros non son os únicos a experimentaren o feitizo do inf
 
 Polo xeral, son persoas todas que consideran que a natureza do infinitivo, alén de única, é misteriosa. Na súa opinión, o infinitivo flexionado é só para uns poucos escollidos, docentes de galego, que atinxiron o seu dominio após anos de estudo das regras gramaticais, e tamén algúns seres de luz, que naceron cun don natural para o usaren. Será que teñen razón? O infinitivo flexionado non é para calquera?
 
-E se eu che dixese que é posíbel usarmos o infinitivo flexionado sen sabermos nada de gramática? E non só iso. É posíbel usalo ao tempo que melloramos as nosas relacións persoais. Non ten misterio, non, o único que temos que facer é identificarmos un contexto de uso propicio para o flexionarmos e, unha vez identificado, flexionalo sempre que tivermos a oportunidade.
+E se eu che dixese que é posíbel usarmos o infinitivo flexionado sen sabermos nada de gramática? E non só iso. É posíbel usalo ao tempo que melloramos as nosas relacións persoais. O único que temos que facer é identificarmos un contexto de uso propicio para o flexionarmos e, unha vez identificado, flexionalo sempre que tivermos a oportunidade.
 
 Como son unha profesora ambiciosa e aspiro non só a que aprendas a flexionar o infinitivo, senón tamén a mellorar as túas relacións amorosas, familiares, laborais, de amizade etc., comezaremos por flexionalo sempre nos nosos agradecementos. Sei que o desafío é grande, porque, se formos honestos, agradecemos pouco. Mais como o noso propósito é usarmos o infinitivo nun contexto en que nunca vai estar mal, a partir de agora non temos alternativa, temos de agradecer. O infinitivo merece! E as persoas tamén, claro!
 
