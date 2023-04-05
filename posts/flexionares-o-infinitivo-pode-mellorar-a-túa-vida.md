@@ -12,7 +12,7 @@ A súa natureza única explica tamén que esperte moita curiosidade nas persoas 
 
 No entanto, os estranxeiros non son os únicos a experimentaren o feitizo do infinitivo flexionado. Por aí fóra hai tamén moitos galegos para os cales o infinitivo flexionado é fascinante. Ouviches ben, si, fascinante. Non acreditas? Ten fe, porque non son poucos os galegos e as galegas que confesan que adoran a construción. "É tan lindo ouvila a algún profesor de galego", din con resignación a ollaren para o horizonte.
 
-Polo xeral, son persoas todas que consideran que a natureza do infinitivo, alén de única, é misteriosa. Na súa opinión, o infinitivo flexionado é só para uns poucos escollidos, docentes de galego, que atinxiron o seu dominio após anos de estudo das regras gramaticais, e tamén algúns seres de luz, que naceron cun don natural para o usaren. Será que teñen razón? O infinitivo flexionado non é para calquera?
+Polo xeral, son persoas todas que consideran que a natureza do infinitivo, alén de única, é misteriosa. Na súa opinión, o infinitivo flexionado é só para uns poucos escollidos, docentes de galego, que atinxiron o seu dominio após anos de estudo das regras gramaticais, e tamén algúns seres de luz que naceron cun don natural para o usaren. Será que teñen razón? O infinitivo flexionado non é para calquera?
 
 E se eu che dixese que é posíbel usarmos o infinitivo flexionado sen sabermos nada de gramática? E non só iso. É posíbel usalo ao tempo que melloramos as nosas relacións persoais. O único que temos que facer é identificarmos un contexto de uso propicio para o flexionarmos e, unha vez identificado, flexionalo sempre que tivermos a oportunidade.
 
