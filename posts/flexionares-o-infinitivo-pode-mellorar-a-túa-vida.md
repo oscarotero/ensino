@@ -24,8 +24,6 @@ A estrutura que imos usar é moi simple. Podemos sintetizala na seguinte fórmul
 
 Agora só resta imaxinarmos posíbeis situacións e aplicarmos a fórmula. Se o pensares, son moitas as persoas a quen podemos mostrar gratitude ao longo dun día:
 
-Exemplos:
-
 * A un compañeiro de apartamento > *Grazas por me preparares este café tan delicioso*
 * A un profesor > *Grazas por mudares a data do exame*
 * A un bo amigo > *Grazas por seres un amigo leal*
