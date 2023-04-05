@@ -26,17 +26,17 @@ Agora só resta imaxinarmos posíbeis situacións e aplicarmos a fórmula. Se o 
 
 * A un compañeiro de apartamento > *Grazas por me preparares este café tan delicioso*
 * A un profesor > *Grazas por mudares a data do exame*
-* A un bo amigo > *Grazas por seres un amigo leal*
+* Á nosa mellor amiga> *Grazas por seres unha amiga tan incrível*
 * A un convidado > *Grazas por aceptares o meu convite*
 * Aos membros do club de lectura > *Grazas por participardes no club de lectura*
 * A un colega de traballo > *Grazas por me substituíres no posto*
 * A uns clientes aos que dei un mal servizo > *Grazas por seren tan comprensivos*
 * A un investidor > *Grazas por apoiares o proxecto*
-* Á nosa namorada > *Grazas por seres unha compañeira fiel*
+* Á nosa namorada > *Grazas por seres a melhor compañeira*
 * A un alumno > *Grazas por enviares a túa suxestión*
-* A un veciño > *Grazas por ser sempre tan amábel comigo*
+* A unha veciña > *Grazas por ser sempre tan amábel comigo*
 * A uns clientes > *Grazas por compraren aquí*
-* Aos asistentes a unha reunión á que chegaches atrasado > *Grazas por esperaren por min*
+* Aos asistentes a unha reunión á que chegas atrasado > *Grazas por esperaren por min*
 * Á nosa avoa > *Grazas por nos levares á escola*
 * Á túa muller > *Grazas por estares sempre ao meu lado*
 * Ao meu xefe > *Grazas por confiares en min*
