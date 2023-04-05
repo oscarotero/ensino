@@ -26,7 +26,7 @@ Agora só resta imaxinarmos posíbeis situacións e aplicarmos a fórmula. Se o 
 
 * A un compañeiro de apartamento > *Grazas por me preparares este café tan delicioso*
 * A un profesor > *Grazas por mudares a data do exame*
-* Á nosa mellor amiga> *Grazas por seres unha amiga tan incrível*
+* Á nosa mellor amiga> *Grazas por seres unha amiga tan incríbel*
 * A un convidado > *Grazas por aceptares o meu convite*
 * Aos membros do club de lectura > *Grazas por participardes no club de lectura*
 * A un colega de traballo > *Grazas por me substituíres no posto*
