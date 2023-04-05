@@ -1,6 +1,6 @@
 ---
 title: O que fago no ximnasio
-summary: 7 exercicios moi habituais en calquera rutina de adestramento
+summary: 7 exercicios moi habituais na miña e en calquera rutina de adestramento
 draft: false
 ---
 ## Abdominais
