@@ -10,8 +10,8 @@ draft: false
 
 En galego distinguimos dous tipos de infinitivo:
 
-1. Un infinitivo non persoal, que é invariábel e presenta unha única forma*: andar, facer, sentir.*
-2. Un infinitivo persoal ou variábel, que presenta formas diferentes para cada unha das persoas, isto é, flexiona ou conxúgase. As formas deste segundo son:
+1. Un infinitivo non persoal ou invariábel, e que presenta unha única forma: *andar, facer, sentir.*
+2. Un infinitivo persoal ou variábel, que ten flexión e presenta formas diferentes para cada unha das persoas. As formas deste segundo son:
 
 * P1 andar
 * P2 anda**res**
@@ -20,9 +20,9 @@ En galego distinguimos dous tipos de infinitivo:
 * P5 andar**des**
 * P6 anda**ren**
 
-Como podes observar, a 1ª persoa (P1) e a 3ª persoa do singular (P3) coinciden coa forma do infinitivo non persoal. O resto de formas obtéñense colando a ese infinitivo as seguintes terminacións: *\-res, -mos, -des* e *\-ren.* 
+Como podes observar, a 1ª persoa (P1) e a 3ª persoa (P3) do singular coinciden coa forma do infinitivo non persoal. O resto de formas obtéñense colando a ese infinitivo as terminacións: *\-res* (P2), *\-mos* (P4), *\-des* (P5) e *\-ren* (P6). 
 
-Nos dous cartóns de estudo ou *flash card* tes o infinitivo conxugado de *facer* e *sentir.* Tenta conxugalos e vira o cartón despois para verificares como o fixeches. 
+A seguir, tes dous cartóns de estudo ou *flash card* coas formas do infinitivo flexionado de *facer* e *sentir.* Tenta conxugalos e despois vira o cartón para verificares as respostas.
 
 <e-card color="1">
   <div>Infinitivo persoal de facer</div>
@@ -54,7 +54,7 @@ Nos dous cartóns de estudo ou *flash card* tes o infinitivo conxugado de *facer
 
 ### Un pouco de práctica
 
-Conxugar correctamente os verbos no infinitivo require certo adestramento. Comeza por facer as seguintes series de conxugación: 
+Aínda que a conxugación do infinitivo non é complicada, é necesario practicar. Podes comezar o teu adestramento coas seguintes series: 
 
 ## Ser
 
@@ -86,5 +86,38 @@ Conxugar correctamente os verbos no infinitivo require certo adestramento. Comez
 * Nós <e-answer>rirmos</e-answer>
 * Vós <e-answer>rirdes</e-answer>
 * Eles ou elas<e-answer>riren</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Enviar
+
+* Eu <e-answer>enviar</e-answer>
+* Ti <e-answer>enviares</e-answer>
+* El ou ela <e-answer>enviar</e-answer>
+* Nós <e-answer>enviarmos</e-answer>
+* Vós <e-answer>enviardes</e-answer>
+* Eles ou elas<e-answer>enviren</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Comer
+
+* Eu <e-answer>comer</e-answer>
+* Ti <e-answer>comeres</e-answer>
+* El ou ela <e-answer>comer</e-answer>
+* Nós <e-answer>comermos</e-answer>
+* Vós <e-answer>comerdes</e-answer>
+* Eles ou elas<e-answer>comeren</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Vir
+
+* Eu <e-answer>vir</e-answer>
+* Ti <e-answer>vires</e-answer>
+* El ou ela <e-answer>vir</e-answer>
+* Nós <e-answer>virmos</e-answer>
+* Vós <e-answer>virdes</e-answer>
+* Eles ou elas<e-answer>viren</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
