@@ -1,7 +1,6 @@
 ---
 title: Día de Rosalía de Castro
 tags:
-  - dias_d
   - literatura
 draft: false
 ---
