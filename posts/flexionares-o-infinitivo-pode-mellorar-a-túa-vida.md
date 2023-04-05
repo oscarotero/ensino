@@ -12,7 +12,7 @@ A súa natureza única explica tamén que esperte moita curiosidade nas persoas 
 
 No entanto, os estranxeiros non son os únicos a experimentaren o feitizo do infinitivo flexionado. Por aí fóra hai tamén moitos galegos para os cales o infinitivo flexionado é fascinante. Ouviches ben, si, fascinante. Non acreditas? Ten fe, porque non son poucos os galegos que confesan que adoran a construción. "É tan lindo ouvila a algún profesor de galego", din con resignación a ollaren para o horizonte.
 
-Polo xeral, son persoas todas que consideran que a natureza do infinitivo, alén de única, é misteriosa. Na súa opinión, o infinitivo flexionado é só para uns poucos escollidos, docentes de galego, con anos de estudo das regras gramaticais ás costas, e algúns seres de luz, que naceron cun don natural para o usar. Será que teñen razón? O infinitivo flexionado non é para calquera?
+Polo xeral, son persoas todas que consideran que a natureza do infinitivo, alén de única, é misteriosa. Na súa opinión, o infinitivo flexionado é só para uns poucos escollidos, docentes de galego, que atinxiron o seu dominio após anos de estudo das regras gramaticais, e tamén algúns seres de luz, que naceron cun don natural para o usaren. Será que teñen razón? O infinitivo flexionado non é para calquera?
 
 E se eu che dixese que é posíbel usarmos o infinitivo flexionado sen sabermos nada de gramática? E non só iso. É posíbel usalo ao tempo que melloramos as nosas relacións persoais. Non ten misterio, non, o único que temos que facer é identificarmos un contexto de uso propicio para o flexionarmos e, unha vez identificado, flexionalo sempre que tivermos a oportunidade.
 
@@ -22,7 +22,7 @@ A estrutura que imos usar é moi simple. Podemos sintetizala na seguinte fórmul
 
 **Grazas por + infinitivo flexionado + o que quixermos agradecer**
 
-Agora só resta imaxinarmos posíbeis situacións e aplicarmos a fórmula. Realmente son moitas as persoas a quen podemos mostrar gratitude ao longo dun día:
+Agora só resta imaxinarmos posíbeis situacións e aplicarmos a fórmula. Se o pensares, son moitas as persoas a quen podemos mostrar gratitude ao longo dun día:
 
 Exemplos:
 
@@ -36,7 +36,7 @@ Exemplos:
 * A un investidor > *Grazas por apoiares o proxecto*
 * Á nosa namorada > *Grazas por seres unha compañeira fiel*
 * A un alumno > *Grazas por enviares a túa suxestión*
-* A un veciño > *Grazas por seres sempre tan amábel comigo*
+* A un veciño > *Grazas por ser sempre tan amábel comigo*
 * A uns clientes > *Grazas por compraren aquí*
 * Aos asistentes a unha reunión á que chegaches atrasado > *Grazas por esperaren por min*
 * Á nosa avoa > *Grazas por nos levares á escola*
@@ -47,4 +47,4 @@ Exemplos:
 * Ao teu marido > *Grazas por cociñares sempre para min*
 * A calquera persoa riquiña > *Grazas por seres como es*
 
-Son ou non os agradecementos unha forma fantástica de introducires o infinitivo flexionado? Non necesitas saber ningunha das súas regra de uso. Unicamente cómpre vontade e saber as formas. Para iso último, recoméndoche que revises: [As formas do infinitivo flexionado](https://laurarubio.net/posts/as-formas-do-infinitivo-persoal/).
+Como ves, non é nada complicado e pasarás de usar 0 veces o infinitivo a usalo 1, 2, 3, 4... non hai límite. O mellor de todo é que, alén de mellorares a túa calidade lingüística, tamén estarás a mellorar as túas relacións sociais. Un win win! O único que necesitas para comezar é vontade e saber as formas. Para isto último, recoméndoche que revises: [As formas do infinitivo flexionado](https://laurarubio.net/posts/as-formas-do-infinitivo-persoal/).
