@@ -54,7 +54,7 @@ A seguir, tes dous cartóns de estudo ou *flash card* coas formas do infinitivo 
 
 ### Un pouco de práctica
 
-Aínda que a conxugación do infinitivo non é complicada, é necesario practicar. Podes comezar o teu adestramento coas seguintes series: 
+Aínda que a conxugación do infinitivo non é complicada, é necesario practicar. Comeza o teu adestramento coas seguintes series: 
 
 ## Ser
 
