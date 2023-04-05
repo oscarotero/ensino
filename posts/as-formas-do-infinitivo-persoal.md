@@ -1,7 +1,7 @@
 ---
 title: As formas do infinitivo persoal
-summary: "Modelos para te familiarizares coa conxugación do infinitivo persoal +
-  exercicios "
+summary: Modelos para te familiarizares coa conxugación do infinitivo persoal +
+  adestramento
 tags:
   - o_infinitivo_flexionado
 draft: false
@@ -47,9 +47,9 @@ Para practicares, tenta conxugar o verbo *facer* e *sentir*. Despois vira o cart
   </div>
 </e-card>
 
-### Continúa coa práctica
+### Un pouco de práctica
 
-Tenta agora conxugar os seguintes verbos:
+Conxugar correctamente os verbos no infinitivo require certo adestramento. Comeza por facer as seguintes series de conxugación: 
 
 ## Ser
 
