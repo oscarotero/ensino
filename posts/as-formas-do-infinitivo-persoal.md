@@ -8,16 +8,21 @@ draft: false
 ---
 # As formas
 
-* andar
-* anda**res**
-* andar
-* andar**mos**
-* andar**des**
-* anda**ren**
+En galego distinguimos dous tipos de infinitivo:
 
-A conxugación do infinitivo é simple. A P1 e P3 é a forma de infinitivo, por tanto, só temos que aprender 4 terminacións: *\-res, -mos, -des* e *\-ren.* Estas terminacións son iguais para os verbos da 1ª (andar), 2ª (facer) e 3ª conxugación (sentir).
+1. Un infinitivo non persoal, que é invariábel e presenta unha única forma*: andar, facer, sentir.*
+2. Un infinitivo persoal ou variábel, que presenta formas diferentes para cada unha das persoas, isto é, flexiona ou conxúgase. As formas deste segundo son:
 
-Para practicares, tenta conxugar o verbo *facer* e *sentir*. Despois vira o cartón de estudo ou *flash card* para verificares a conxugación completa:
+* P1 andar
+* P2 anda**res**
+* P3 andar
+* P4 andar**mos**
+* P5 andar**des**
+* P6 anda**ren**
+
+Como podes observar, a 1ª persoa (P1) e a 3ª persoa do singular (P3) coinciden coa forma do infinitivo non persoal. O resto de formas obtéñense colando a ese infinitivo as seguintes terminacións: *\-res, -mos, -des* e *\-ren.* 
+
+Nos dous cartóns de estudo ou *flash card* tes o infinitivo conxugado de *facer* e *sentir.* Tenta conxugalos e vira o cartón despois para verificares como o fixeches. 
 
 <e-card color="1">
   <div>Infinitivo persoal de facer</div>
