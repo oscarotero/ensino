@@ -96,7 +96,7 @@ Aínda que a conxugación do infinitivo non é complicada, é necesario practica
 * El ou ela <e-answer>enviar</e-answer>
 * Nós <e-answer>enviarmos</e-answer>
 * Vós <e-answer>enviardes</e-answer>
-* Eles ou elas<e-answer>enviren</e-answer>
+* Eles ou elas<e-answer>enviaren</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
