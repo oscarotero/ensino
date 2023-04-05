@@ -46,5 +46,6 @@ Exemplos:
 * Á miña adestradora > *Grazas por creres em min*
 * Ao teu marido > *Grazas por cociñares sempre para min*
 * A calquera persoa riquiña > *Grazas por seres como es*
+* A un amante especialmente dedicado > Grazas por...
 
 Como ves, non é nada complicado e pasarás de flexionar 0 veces o infinitivo a flexionalo 1, 2, 3, 4... non hai límite. O mellor de todo é que, alén de mellorares a túa calidade lingüística, tamén estarás a mellorar as túas relacións persoais. Un *win win!* O único que necesitas para comezar é vontade e saberes as formas. Para isto último, recoméndoche que revises: [As formas do infinitivo flexionado](https://laurarubio.net/posts/as-formas-do-infinitivo-persoal/).
