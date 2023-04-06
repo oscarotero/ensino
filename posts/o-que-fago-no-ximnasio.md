@@ -19,7 +19,7 @@ Após o quecemento, iniciamos a nosa sesión deportiva cuns *abdominais,* e non 
 
 ## 3. Agachamentos
 
-Continuamos cunha serie de *agachamentos. Sentadillas* é en español. Por favor, desconfía sempre das palabras coa terminación *\-illo/-illa*! A maioría das veces trátase de castelanismos: *\*cigarrillo > cigarro, \*bolsillo > peto* ou *bolso.*
+Continuamos cunha serie de *agachamentos. Sentadillas* é o nome que recibe en español. Por favor, desconfía sempre das palabras coa terminación *\-illo/-illa*! A maioría das veces trátase de castelanismos: *\*cigarrillo > cigarro, \*bolsillo > peto* ou *bolso.*
 
 <iframe src="https://giphy.com/embed/12gfmMhX8qNe5W" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
