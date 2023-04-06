@@ -7,13 +7,13 @@ draft: false
 ---
 ## 1. Quecemento
 
-Calquera adestramento debe comezar sempre por isto. Quecermos os nosos músculos é fundamental para evitarmos posíbeis lesións.
+Calquera práctica deportiva debe comezar sempre por isto. Quecermos os nosos músculos é fundamental para evitarmos posíbeis lesións.
 
 <iframe src="https://giphy.com/embed/cdEc1DzDnpw9aJob4A" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ## 2. Abdominais
 
-Após o quecemento, iniciamos a nosa sesión deportiva cuns *abdominais,* e non *abdominales.* A regra de formación do plural é clara: as palabras agudas de máis de unha sílaba que acaban en *\-l,* substitúen o *\-l* polo *\-is*. Ex.: *abdominal > abdominais, semanal > semanais.*
+Após o quecemento, iniciamos a nosa sesión de adestramento cuns *abdominais,* e non *abdominales.* A regra de formación do plural é clara: as palabras agudas de máis de unha sílaba que acaban en *\-l,* substitúen o *\-l* polo *\-is*. Ex.: *abdominal > abdominais, semanal > semanais.*
 
 <iframe src="https://giphy.com/embed/jQratcmckkyoZH85v6" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
