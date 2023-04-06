@@ -1,6 +1,6 @@
 ---
 title: Un día no ximnasio
-summary: 8 exercicios moi habituais na miña e en calquera rutina de adestramento
+summary: 8 exercicios moi habituais en calquera rutina de adestramento
 tags:
   - lexico
 draft: false
