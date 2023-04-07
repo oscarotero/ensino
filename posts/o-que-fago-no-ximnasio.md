@@ -37,7 +37,7 @@ O noso seguinte exercicio non son nin as *\*dominadas* nin os *\*pull ups,* sen�
 
 ## 6. Flexións
 
-Deixamos a barra e imos agora para o chan para facermos unhas flexións de brazo. Consegues facer moitas?
+Deixamos a barra e imos agora para o chan para facermos unhas flexións de brazo. Continuamos con outro exercicio exixente, capaz de deixarnos sen folgos antes de chegarmos a 10. A ver cantas consegues facer?
 
 <iframe src="https://giphy.com/embed/12NUWErJ3szNC0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
@@ -49,6 +49,6 @@ Acabamos cunha prancha, o exercicio que consiste en mantermos o corpo en posici�
 
 ## 8. Alongamentos
 
-Para aliviarmos a tensión muscular e relaxarmos o corpo despois da práctica deportiva, finalizamos o noso adestramento alongando os músculos.
+Para aliviarmos a tensión muscular e relaxarmos o corpo despois da práctica deportiva, finalizamos o noso adestramento alongando ben os músculos.
 
 <iframe src="https://giphy.com/embed/whaSNP7YX9LRVToMDk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
