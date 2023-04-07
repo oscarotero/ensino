@@ -26,23 +26,23 @@ Agora só resta imaxinarmos posíbeis situacións e aplicarmos a fórmula. Se o 
 
 * A un compañeiro de apartamento > *Grazas por me preparares este café tan delicioso*
 * A un profesor > *Grazas por mudares a data do exame*
-* Á nosa mellor amiga> *Grazas por seres unha amiga tan incríbel*
+* A unha amiga > *Grazas por seres unha amiga tan incríbel*
 * A un convidado > *Grazas por aceptares o meu convite*
-* Aos membros do club de lectura > *Grazas por participardes no club de lectura*
+* Aos membros dun club de lectura > *Grazas por participardes no club de lectura*
 * A un colega de traballo > *Grazas por me substituíres no posto*
 * A uns clientes aos que dei un mal servizo > *Grazas por seren tan comprensivos*
 * A un investidor > *Grazas por apoiares o proxecto*
-* Á nosa namorada > *Grazas por seres a melhor compañeira*
+* A unha namorada > *Grazas por seres a melhor compañeira*
 * A un alumno > *Grazas por enviares a túa suxestión*
 * A unha veciña > *Grazas por ser sempre tan amábel comigo*
 * A uns clientes > *Grazas por compraren aquí*
 * Aos asistentes a unha reunión á que chegas atrasado > *Grazas por esperaren por min*
-* Á nosa avoa > *Grazas por nos levares á escola*
-* Á túa muller > *Grazas por estares sempre ao meu lado*
-* Ao meu xefe > *Grazas por confiares en min*
-* Ao meu grupo de amigas > *Grazas por serdes tan marabillosas*
-* Á miña adestradora > *Grazas por creres em min*
-* Ao teu marido > *Grazas por cociñares sempre para min*
+* A unha avoa > *Grazas por nos levares á escola*
+* A unha madriña > *Grazas por estares sempre ao meu lado*
+* A un xefe > *Grazas por confiares en min*
+* Ao noso grupo de amigas > *Grazas por serdes tan marabillosas*
+* A unha adestradora > *Grazas por creres em min*
+* A un marido > *Grazas por cociñares sempre para min*
 * A calquera persoa riquiña > *Grazas por seres como es*
 * A un amante especialmente dedicado > *Grazas por...*
 
