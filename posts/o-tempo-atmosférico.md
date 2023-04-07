@@ -1,6 +1,6 @@
 ---
 title: Chove no mollado
-summary: Cartóns de estudo ou flash cards sobre os distintos tipos de chuvia
+summary: Cartóns de estudo ou flashcards sobre os distintos tipos de chuvia
 tags:
   - lexico
 ---

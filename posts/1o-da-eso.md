@@ -1,6 +1,6 @@
 ---
 title: Quizz para 1º da ESO
-summary: Flash cards ou cartóns de estudo
+summary: Cartóns de estudo ou flashcards
 tags:
   - actividades_para_o_ensino_secundario
 ---

@@ -1,6 +1,6 @@
 ---
 title: 22 preguntas sobre o Entroido galego
-summary: Vira o cartón de estudo ou flash card para descubrires a resposta.
+summary: Vira o cartón de estudo ou flashcard para descubrires a resposta.
 tags:
   - lexico
 ---
