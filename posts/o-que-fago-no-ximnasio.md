@@ -31,7 +31,7 @@ E máis agachamentos! Neste caso, unha modalidade das moitas que existen deste e
 
 ## 5. Elevacións
 
-O noso seguinte exercicio non son nin as *\*dominadas* nin os *\*pull ups,* senón as *elevacións,* con certeza, un dos máis duro de toda esta serie. 
+O noso seguinte exercicio non son nin as *\*dominadas* nin os *\*pull ups,* senón as *elevacións,* con certeza, un dos máis duros de toda esta serie. 
 
 <iframe src="https://giphy.com/embed/10x07YnGuF1sQM" width="480" height="295" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
