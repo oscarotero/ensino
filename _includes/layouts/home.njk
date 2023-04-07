@@ -4,6 +4,8 @@ layout: layouts/base.njk
 
 {{ content | safe }}
 
+<div id="search"></div>
+
 <nav>
     <ul>
         {% for cat in search.pages("type=category tags.length=0") | reverse %}
