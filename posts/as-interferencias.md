@@ -8,7 +8,7 @@ draft: false
 
 \- Contacto e conflito lingüístico galego-castelán
 
-\- Semellanza formal entre galego e castelán, dúas linguas románicas
+\- Semellanza formal entre o galego e o castelán, dúas linguas románicas
 
 \- Ausencia dun modelo de galego estándar durante un longo período
 
