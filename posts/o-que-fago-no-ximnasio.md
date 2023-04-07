@@ -1,5 +1,5 @@
 ---
-title: Un día no ximnasio
+title: Mallando no ximnasio
 summary: 8 exercicios moi habituais en calquera rutina de adestramento
 tags:
   - lexico
