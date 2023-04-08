@@ -80,76 +80,81 @@ Nos cartóns aparecen os nomes das *especias* e *herbas aromáticas* máis habit
 </e-card>
 
 <e-card color="5">
+  <div>estragón</div>
+  <div>estragón (es) / estragão (pt)</div>
+</e-card>
+
+<e-card color="6">
   <div>fiúncho</div>
   <div>hinojo (es) / funcho (pt)</div>
 </e-card>
 
-<e-card color="6">
+<e-card color="7">
   <div>hortelá</div>
   <div>hierbabuena ~ yerbabuena (es) / hortelã (pt)</div>
 </e-card>
 
-<e-card color="7">
+<e-card color="8">
   <div>loureiro</div>
   <div>laurel (es) / louro ~ loureiro (pt)</div>
 </e-card>
 
-<e-card color="8">
+<e-card color="9">
   <div>menta</div>
   <div>menta (es) / menta (pt)</div>
 </e-card>
 
-<e-card color="9">
+<e-card color="10">
   <div>mostaza</div>
   <div>mostaza (es) / mostarda (pt)</div>
 </e-card>
 
-<e-card color="10">
+<e-card color="1">
   <div>noz moscada</div>
   <div>nuez moscada (es) / noz-moscada (pt)</div>
 </e-card>
 
-<e-card color="1">
+<e-card color="2">
   <div>ourego</div>
   <div>orégano (es) / orégão ~ ourégão (pt) [Máis usado no plural: orégãos]</div>
 </e-card>
 
-<e-card color="2">
+<e-card color="3">
   <div>paprica</div>
   <div>paprika (es) / paprica (pt), páprica (br) </div>
 </e-card>
 
-<e-card color="3">
+<e-card color="4">
   <div>pementa (branca, negra...) </div>
   <div>pimienta (blanca, negra) (es) / pimenta (branca, preta...) (pt)</div>
 </e-card>
 
-<e-card color="4">
+<e-card color="5">
   <div>pemento (moído): pemento doce ~ pemento picante</div>
   <div>pimentón (es) / pimentão ~ colorau: pimentão doce ~ pimentão picante (pt)</div>
 </e-card>
 
-<e-card color="5">
+<e-card color="6">
   <div>perexil ou pirixel</div>
   <div>perejil (es) / salsa (pt)</div>
 </e-card>
 
-<e-card color="6">
+<e-card color="7">
   <div>romeu</div>
   <div>romero (es) / alecrim ~ rosmaninho (pt)</div>
 </e-card>
 
-<e-card color="7">
+<e-card color="8">
   <div>salvia</div>
   <div>salvia (es) / sálvia (pt)</div>
 </e-card>
 
-<e-card color="8">
+<e-card color="9">
   <div>tomiño</div>
   <div>tomillo (es) / tomilho (pt)</div>
 </e-card>
 
-<e-card color="9">
+<e-card color="10">
   <div>xenxibre</div>
   <div>jengibre (es) / gengibre (pt)</div>
 </e-card>
