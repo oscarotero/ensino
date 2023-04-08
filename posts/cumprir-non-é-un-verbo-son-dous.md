@@ -52,6 +52,6 @@ En galego, o verbo *cumprir* non é usado para falarmos dos aniversarios das per
 
 Exemplo: *Onte a miña filla fixo catro anos.*
 
-Esther Esther, para celebrar o episodio n.º 100 do Dígocho eu, mesmo lle dedicou un programa a esta e outras cuestións relacionadas cos aniversarios:
+Esther Estévez, para celebrar o episodio n.º 100 do Dígocho eu, mesmo lle dedicou un programa a esta e outras cuestións relacionadas cos aniversarios:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/efGoXBkm0nI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
