@@ -5,7 +5,7 @@ tags:
   - lexico
 draft: false
 ---
-Aínda que ambas (*especias* e *herbas aromáticas)* son usadas para dar sabor ás nosas preparacións culinarias, non son a mesma cousa. De forma xeral, chamamos *herbas aromáticas* ás follas das plantas e *especias,* aos produtos derivados das raíces, cascas, sementes ou talos das plantas. 
+Aínda que ambas (*especias* e *herbas aromáticas)* son utilizadas para dar sabor ás nosas preparacións culinarias, non son a mesma cousa. De forma xeral, chamamos *herbas aromáticas* ás follas das plantas e *especias,* aos produtos derivados das raíces, cascas, sementes ou talos das plantas. 
 
 Nos cartóns aparecen os nomes das *especias* e *herbas aromáticas* máis habituais nas nosas cociñas. Vira o cartón para saberes o nome de cada unha delas en español e en portugués.
 
