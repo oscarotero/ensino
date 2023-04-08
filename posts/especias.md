@@ -51,7 +51,7 @@ Nos cartóns aparecen os nomes das *especias* e *herbas aromáticas* máis habit
 
 <e-card color="9">
   <div>chile</div>
-  <div>guindilla (es) / piripiri ~ malagueta (pt)</div>
+  <div>guindilla (es) / piripíri ~ malagueta (pt)</div>
 </e-card>
 
 <e-card color="10">
