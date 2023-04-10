@@ -16,7 +16,7 @@ draft: false
 
 ### Interferencias ortográficas
 
-[*\*grabar* por *gravar*](https://www.youtube.com/watch?v=bvX5KyhDmrY)*,* *\*móvil* por *móbil,* hola *por* ola,* *ahí por aí,* [*\*extender* por *estender*](https://www.youtube.com/watch?v=MV46n3KQcDs) 
+[*\*grabar* por *gravar*](https://www.youtube.com/watch?v=bvX5KyhDmrY)*,* *\*móvil* por *móbil,* *hola* *por* ola,* *ahí por aí,* [*\*extender* por *estender*](https://www.youtube.com/watch?v=MV46n3KQcDs) 
 
 ### Interferencias fonéticas
 
@@ -26,26 +26,7 @@ draft: false
 
 \- Dificultade para pronunciar a fricativa prepalatal xorda: *xenio, ameixa*
 
-\- Acentuación errada:
-
-* *\*acné* por *acne,*
-* *\*olimpiadas* por *olimpíadas,*
-* *\*héroe* por *heroe,*
-* *\*atmósfera* por *atmosfera,*
-* *\*triatlón* por *tríatlon,* *\*pentatlón* por *péntatlon,* *\*decatlón* por *décatlon,*
-* \*radón por radon,
-* \*neón por neon: [\#DígochoEu Non digas luces de *neón](https://www.youtube.com/watch?v=QGfDdP9E9C8)
-* *\*páxaro* por *paxaro*
-* *\*élite* por *elite*
-* *\*parásito* por *parasito*
-* *\*médula* por *medula*
-* *\*termostato* por *termóstato*
-* *\*isobara* por *isóbara*
-* *\*cardiaco* por *cardíaco:* [\#DígochoeEu Non digas \*cardiaco nin \*periodo](https://www.youtube.com/watch?v=eSFcXOJyIVg)
-* *\*cónclave* por *conclave*
-* *\*gladiolo* por *gladíolo.* En castelán esta palabra ten dobre acentuación, pode pronunciarse *gladiolo* ou *gladíolo*
-* *\*peonía* por *peonia*
-* *\*travesti* por *travestí*
+\- Acentuación errada: *\*acné* por *acne,* *olimpiadas* por *olimpíadas,* *héroe* por heroe, *atmósfera* por *atmosfera,* *triatlón* por *tríatlon,* *\*pentatlón* por *péntatlon,* *\*decatlón* por *décatlon,* *\*radón* por *radon,* [*\*neón* por *neon*](https://www.youtube.com/watch?v=QGfDdP9E9C8)*, *páxaro* por *paxaro, *élite* por *elite,* *parásito* por *parasito,* *médula* por *medula,* *termostato* por *termóstato,* *isobara* por *isóbara,* [*\*cardiaco* por *cardíaco*](https://www.youtube.com/watch?v=eSFcXOJyIVg)*, *cónclave* por *conclave,* *gladiolo* por *gladíolo,* *peonía* por *peonia,* *travesti* por *travestí*
 
 ### Interferencias morfolóxicas
 
@@ -59,7 +40,7 @@ draft: false
 * [Vídeo do #DígochoEu > Non digas *as cárceles](https://www.youtube.com/watch?v=K_v771PMD4Y)
 * [Vídeo do #DígochoEu > Non digas *estreno.](https://www.youtube.com/watch?v=ugcap0-KFzQ) En galego esta palabra é feminina: *a estrea*
 * [Vídeo do #DígochoEu > Non digas *espinilla.](https://www.youtube.com/watch?v=Yac-KuHWH2c) *Acne* é unha palabra grave e feminina: *a acne*
-* [Vídeo do #DígochoEu > Deixa de ser un *villano co escuadrón suicida.](https://www.youtube.com/watch?v=GPgEpYuAq_A) Ollo!!! *Vilán* / *viláns* (masculino) – *vilá / vilás* (feminino)
+* [Vídeo do #DígochoEu > Deixa de ser un *villano co escuadrón suicida.](https://www.youtube.com/watch?v=GPgEpYuAq_A) Atención!!! *Vilán* / *viláns* (masculino) – *vilá / vilás* (feminino)
 * [Vídeo do #DígochoEu para Tiktok > Pódese dicir fantasma en galego?](https://www.tiktok.com/@digochoeu/video/6926878201943821574?is_copy_url=1&is_from_webapp=v2) Repara! *fantasma* é masculino e *pantasma* é feminino: *o fantasma* vs. *a pantasma*
 
 ##### Alteracións no número
@@ -102,7 +83,7 @@ draft: false
 
 Colocación incorrecta do pronome átono: [\#DígochoEu Coloca pronomes en 1 minuto](https://www.youtube.com/watch?v=HfAb4xH1dD8)
 
-Preposición *a* na perífrase ir + infinitivo: [\#DígochoEu Moito ollo con ir + infinitivo](https://www.youtube.com/watch?v=t2KlZzzvMGs)
+Preposición *a* na perífrase *ir + infinitivo:* [\#DígochoEu Moito ollo con ir + infinitivo](https://www.youtube.com/watch?v=t2KlZzzvMGs)
 
 ### Interferencias léxicas
 
@@ -112,19 +93,19 @@ Castelanismos plenos: *miércoles, [abuelo](https://www.youtube.com/watch?v=wCCY
 
 ### Interferencias semánticas
 
-pobo > [\#DígochoEu Moito ollo cos pobos](https://www.youtube.com/watch?v=fj0pqJp5MUQ)
+*pobo* > [\#DígochoEu Moito ollo cos pobos](https://www.youtube.com/watch?v=fj0pqJp5MUQ)
 
-largo > [\#DígochoEu Non confundas longo e largo](https://www.youtube.com/watch?v=3-FAZqQKCjU)
+*largo* > [\#DígochoEu Non confundas longo e largo](https://www.youtube.com/watch?v=3-FAZqQKCjU)
 
-rubio > [\#DígochoEu Non me chames rubia](https://www.youtube.com/watch?v=j532QA3HDvA)
+*rubio* > [\#DígochoEu Non me chames rubia](https://www.youtube.com/watch?v=j532QA3HDvA)
 
-sono > [\#DígochoEu Non é o mesmo que sono que soño](https://www.youtube.com/watch?v=UgFopQpkiVM&t=9s)
+*sono* > [\#DígochoEu Non é o mesmo que sono que soño](https://www.youtube.com/watch?v=UgFopQpkiVM&t=9s)
 
 ### Hiperenxebrismos ou hipergaleguismos
 
 Fenómeno lingüístico que consiste na modificación artificial de certas palabras propias dun idioma, para diferencialas das formas coincidentes noutra lingua da mesma familia, dando lugar a formas incorrectas que pretenden facerse pasar por xenuínas.
 
-No galego escrito abundan os hiperenxebrismos do tipo: *\*primaveira* (por *primavera)*; *\*sinceiro* (por *sinceiro);* *\*esquiña* (por *esquina);* *\*destiño* (por *destino*) *\*calqueira* (por *calquera);* *\*abandoar* (por *abandonar);* inconvinte (por *inconveniente);* humán *(por* humano)* etc.
+No galego escrito abundan os hiperenxebrismos do tipo: *\*primaveira* (por *primavera)*; *\*sinceiro* (por *sinceiro);* *\*esquiña* (por *esquina);* *\*destiño* (por *destino*) *\*calqueira* (por *calquera);* *\*abandoar* (por *abandonar);* *inconvinte* (por *inconveniente);* *humán (por* humano)* etc.
 
 Outros exemplos:
 
