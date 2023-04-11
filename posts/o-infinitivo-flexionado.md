@@ -5,7 +5,7 @@ tags:
   - o_infinitivo_flexionado
 draft: false
 ---
-Os consellos son outro deses contextos propicios para comezar a flexionar o infinitivo. A razón é que cando damos consellos ou facemos recomendacións acostumamos utilizar oracións impersonais. Neste tipo de oracións, o verbo vai sempre en terceira persoa, mais o infinitivo que vén logo a seguir ten un suxeito diferente. Un consello sempre ten un destinatario (un fillo > ti, uns clientes > eles, o alumnado > vós etc.), por tanto, hai que flexionar o infinitivo para indicar a persoa a quen ese consello é dado.
+Os consellos son outro deses contextos propicios para comezar a flexionar o infinitivo. A razón é que cando damos consellos ou facemos recomendacións acostumamos utilizar oracións impersoais. Neste tipo de oracións, o verbo vai sempre en terceira persoa, mais o infinitivo que vén logo a seguir ten un suxeito diferente. Un consello sempre ten un destinatario (un fillo > ti, uns clientes > eles, o alumnado > vós etc.), por tanto, hai que flexionar o infinitivo para indicar a persoa a quen ese consello é dado.
 
 Velaquí a fórmula:
 
@@ -50,6 +50,9 @@ Ex.: É mellor facermos da outra maneira. (nós)
 Ex.: É horríbel acabaren a súa relación así. (eles)
 
 **Evidentemente, as frases poden ser negativas.**
+
+
 Exs.: 
-Non é necesario traballardes tanto (vós)
-Non é bo comerdes tantos alimentos ultraprocesados (vós)
+
+* Non é necesario traballardes tanto (vós)
+* Non é bo comerdes tantos alimentos ultraprocesados (vós)
