@@ -1,7 +1,6 @@
 ---
 title: Flexionares o infinitivo pode mellorar a túa vida
-summary: "Contexto de uso para comezar a usar o infinitivo flexionado: os
-  agradecementos"
+summary: "Contexto de uso (1): os agradecementos"
 tags:
   - o_infinitivo_flexionado
 draft: false

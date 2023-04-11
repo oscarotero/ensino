@@ -116,7 +116,7 @@ Nos cartóns aparecen os nomes das *especias* e *herbas aromáticas* máis habit
 
 <e-card color="2">
   <div>ourego</div>
-  <div>orégano (es) / orégão ~ ourégão (pt) [Máis usado no plural: orégãos]</div>
+  <div>orégano (es) / orégão ~ ourégão (pt) \[Máis usado no plural: orégãos]</div>
 </e-card>
 
 <e-card color="3">
@@ -130,8 +130,8 @@ Nos cartóns aparecen os nomes das *especias* e *herbas aromáticas* máis habit
 </e-card>
 
 <e-card color="5">
-  <div>pemento (moído): pemento doce ~ pemento picante</div>
-  <div>pimentón (es) / pimentão ~ colorau: pimentão doce ~ pimentão picante (pt)</div>
+  <div>pemento (moído): pemento doce, pemento picante</div>
+  <div>pimentón (es) / pimentão ~ colorau: pimentão doce, pimentão picante (pt)</div>
 </e-card>
 
 <e-card color="6">
