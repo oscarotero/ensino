@@ -3,7 +3,7 @@ title: Queres un consello? Flexiona o infinitivo
 summary: "Contexto de uso (2): os consellos"
 tags:
   - o_infinitivo_flexionado
-draft: true
+draft: false
 ---
 Os consellos son outro deses contextos propicios para comezar a flexionar o infinitivo. A razón é que cando damos consellos ou facemos recomendacións acostumamos utilizar oracións impersonais. Neste tipo de oracións, o verbo vai sempre en terceira persoa, mais o infinitivo que vén logo a seguir ten un suxeito diferente. Un consello sempre ten un destinatario (un fillo > ti, uns clientes > eles, o alumnado > vós etc.), por tanto, hai que flexionar o infinitivo para indicar a persoa a quen ese consello é dado.
 
@@ -13,7 +13,7 @@ Velaquí a fórmula:
 
 Ex.: *É importante* **respectares** os colegas
 
-Como ves, o infinitivo persoal nestes contextos dá inmenso xeito. Mais cal é o motivo de non o ouvirmos case nunca? Simple! Preferimos construír a frase doutro modo. Deste:
+Neste tipo de contextos o infinitivo persoal dá inmenso xeito. Mais cal é o motivo de non o ouvirmos case nunca? Simple! Preferimos construír a frase doutro modo. Deste:
 
 *Oración impersoal* + **que** +  **presente do subxuntivo** 
 
