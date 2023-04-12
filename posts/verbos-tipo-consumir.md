@@ -1,7 +1,6 @@
 ---
 title: Verbos tipo consumir
 tags:
-  - EOI
   - verbos_con_alternancia_vocálica
 draft: false
 ---

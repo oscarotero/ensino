@@ -1,7 +1,6 @@
 ---
 title: Cantos anos teño?
 tags:
-  - EOI
   - O numeral
 draft: false
 ---

@@ -1,7 +1,6 @@
 ---
 title: Cumprir non é un verbo, son dous
 tags:
-  - EOI
   - verbos_con_alternancia_vocálica
 draft: false
 ---

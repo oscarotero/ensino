@@ -1,7 +1,6 @@
 ---
 title: Os números cardinais en galego
 tags:
-  - EOI
   - O numeral
 draft: false
 ---
