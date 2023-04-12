@@ -20,7 +20,7 @@ Se eu tiver éxito, de hoxe en diante, sempre que te deparares con unha preposic
 
 </article>
 
-Como nos nosos días non é así tan fácil avistarmos infinitivos flexionados, propóñoche que comeces por facer un pequeno safari por algunhas frases en que habita esta criatura tan esquiva:
+Como nos nosos días non é así tan fácil avistarmos infinitivos flexionados, propóñoche que comeces por facer un pequeno safari por algunhas das frases en que habita esta criatura tan esquiva:
 
 ## Preposicións
 
