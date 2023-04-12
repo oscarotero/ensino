@@ -10,7 +10,7 @@ Se eu tiver éxito, de hoxe en diante, sempre que te deparares con unha preposic
 
 ##### Atención, estás no hábitat natural do infinitivo persoal! Se quixeres ver un bo exemplar, só tes que avanzar, o infinitivo flexionado encóntrase atrás da preposición (ou da locución prepositiva).
 
-Para alcanzares este obxectivo, propóñoche que comeces por facer un pequeno safari polas frases en que habita esta criatura en vías de extinción:
+Como nos nosos días non é así tan fácil avistarmos infinitivos flexionados, propóñoche que comeces por facer un pequeno safari por algunhas frases en que habita esta criatura en vías de extinción:
 
 ## Preposicións
 
@@ -76,6 +76,4 @@ Para alcanzares este obxectivo, propóñoche que comeces por facer un pequeno sa
 * En vez de **facermos** acusacións, debiamos tentar encontrar solucións.
 * En vez de **comeres** arroz, comes patacas.
 
-Agora que tiveches a oportunidade de ver o infinitivo persoal no seu medio natural, tenta flexionalo ti sempre que tiveres a ocasión. 
-
-Moitas grazas por contribuíres á revitalización da especie!
+Agora que tiveches a oportunidade de ver o infinitivo persoal no seu medio natural, tenta flexionalo ti sempre que tiveres a ocasión. Estarás a contribuír para a revitalización desta valiosa especie!
