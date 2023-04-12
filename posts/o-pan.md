@@ -1,5 +1,5 @@
 ---
-title: O pan
+title: Pan, pan
 summary: Todas as palabras necesarias para falares do pan
 tags:
   - lexico
