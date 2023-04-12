@@ -16,12 +16,12 @@ Para alcanzares este obxectivo, propóñoche que comeces por facer un pequeno sa
 
 ### A
 
-* Ao **vendermos** directamente o noso produto, evitamos os distribuidores e vendedores.
+* Ao **vendermos** directamente o noso produto, evitamos todos os intermediarios.
 * Non quero que te magoes ao **faceres** iso.
 
 ### Após
 
-* A orde de envío será dada, só após **recibirmos** a confirmación do banco.
+* A orde de envío será dada, só após **recibirmos** a confirmación de pagamento do banco.
 * Onte recibimos algunhas chamadas de pais moi preocupados, após **leren** a noticia no xornal.
 
 ### Até
@@ -76,4 +76,6 @@ Para alcanzares este obxectivo, propóñoche que comeces por facer un pequeno sa
 * En vez de **facermos** acusacións, debiamos tentar encontrar solucións.
 * En vez de **comeres** arroz, comes patacas.
 
-Agora que tiveches a oportunidade de ver o infinitivo persoal no seu medio natural, tenta flexionalo ti sempre que tiveres a ocasión. Moitas grazas por contribuíres á revitalización da especie!
+Agora que tiveches a oportunidade de ver o infinitivo persoal no seu medio natural, tenta flexionalo ti sempre que tiveres a ocasión. 
+
+Moitas grazas por contribuíres á revitalización da especie!
