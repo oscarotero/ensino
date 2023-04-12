@@ -4,7 +4,6 @@ summary: Exercicio para distinguir os usos correctos e incorrectos de certas
   formas verbais
 tags:
   - actividades_para_o_ensino_secundario
-  - tempos_verbais
 draft: false
 ---
 ## Todo o que che din - Verto

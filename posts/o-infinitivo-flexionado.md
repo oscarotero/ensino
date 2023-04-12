@@ -5,9 +5,9 @@ tags:
   - o_infinitivo_flexionado
 draft: false
 ---
-Os consellos son outro deses contextos propicios para comezar a flexionar o infinitivo. A razón é que cando damos consellos ou facemos recomendacións acostumamos utilizar oracións impersoais. Neste tipo de oracións, o verbo vai sempre en terceira persoa, mais o infinitivo que vén logo a seguir ten un suxeito diferente. Un consello sempre ten un destinatario (un fillo > ti, uns clientes > eles, o alumnado > vós etc.), por tanto, hai que flexionar o infinitivo para indicar a persoa a quen ese consello é dado.
+Os consellos son outro deses contextos propicios para comezar a flexionar o infinitivo. A razón é que cando damos consellos ou facemos recomendacións acostumamos utilizar oracións impersoais. Neste tipo de oracións, o verbo vai sempre en terceira persoa, mais o infinitivo que vén logo a seguir ten un suxeito diferente. Un consello sempre ten un destinatario, por tanto, hai que flexionar o infinitivo para indicarmos a persoa que debe seguir ese consello, realizar esa acción recomendada.
 
-Velaquí a fórmula:
+Esta é a fórmula:
 
 *Oración impersoal* + **infinitivo flexionado**
 
