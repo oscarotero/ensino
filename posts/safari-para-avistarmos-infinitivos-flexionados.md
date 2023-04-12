@@ -6,7 +6,7 @@ tags:
   - o_infinitivo_flexionado
 draft: false
 ---
-Se eu tiver éxito, de hoxe en diante, sempre que te deparares con unha preposición ou con certas locucións prepositivas, o teu corpo activará un sinal de alarma para alertar o cerebro coa seguinte mensaxe:
+Se eu tiver éxito, de hoxe en diante, sempre que te deparares cunha preposición ou con certas locucións prepositivas, o teu corpo activará un sinal de alarma para alertar o cerebro coa seguinte mensaxe:
 
 <article>
 
