@@ -47,7 +47,7 @@ Como saber cal é a forma que debemos usar non é así tan fácil, fixen este ex
 
 ## Repara!
 
-En galego, o verbo *cumprir* non é usado para falarmos dos aniversarios das persoas. Neste caso, o verbo que debemos usar é *facer.*
+En galego, o verbo *cumprir* non é usado para falarmos dos aniversarios das persoas. Neste caso, o verbo que debemos utilizar é *facer.*
 
 Exemplo: *Onte a miña filla fixo catro anos.*
 
