@@ -2,11 +2,15 @@
 title: Safari para avistarmos infinitivos flexionados
 summary: "Contexto de uso (3): o infinitivo persoal despois de preposicións e de
   certas locucións"
-draft: true
+tags:
+  - o_infinitivo_flexionado
+draft: false
 ---
-De hoxe en diante, sempre que te deparares con unha preposición ou con certas locucións prepositiva, debe activarse este sinal de alerta no teu cerebro: Atención, estás no hábitat natural do infinitivo persoal! Se quixeres ver un bo exemplar, só tes que avanzar, o infinitivo flexionado encóntrase atrás da preposición (ou da locución prepositiva). 
+Se eu tiver éxito, de hoxe en diante, sempre que te deparares con unha preposición ou con certas locucións prepositivas, o teu organismo activará un sinal de alarma para alertar o cerebro coa seguinte mensaxe:
 
-Como é probábel que nunca fixeses un safari para avistares infinitivos persoais até agora, vouche propor que comeces por dar un pequeno paseo comigo por distintas frases en que habita esta criatura.
+##### Atención, estás no hábitat natural do infinitivo persoal! Se quixeres ver un bo exemplar, só tes que avanzar, o infinitivo flexionado encóntrase atrás da preposición (ou da locución prepositiva).
+
+Para alcanzares este obxectivo, propóñoche que comeces por facer un pequeno safari polas frases en que habita esta criatura en vías de extinción:
 
 ## Preposicións
 
@@ -72,4 +76,4 @@ Como é probábel que nunca fixeses un safari para avistares infinitivos persoai
 * En vez de **facermos** acusacións, debiamos tentar encontrar solucións.
 * En vez de **comeres** arroz, comes patacas.
 
-Agora que tiveches a oportunidade de ver o infinitivo persoal no seu medio natural, tenta flexionalo ti sempre que tiveres a ocasión.
+Agora que tiveches a oportunidade de ver o infinitivo persoal no seu medio natural, tenta flexionalo ti sempre que tiveres a ocasión. Moitas grazas por contribuíres á revitalización da especie!
