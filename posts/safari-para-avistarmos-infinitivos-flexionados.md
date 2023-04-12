@@ -6,11 +6,21 @@ tags:
   - o_infinitivo_flexionado
 draft: false
 ---
-Se eu tiver éxito, de hoxe en diante, sempre que te deparares con unha preposición ou con certas locucións prepositivas, o teu organismo activará un sinal de alarma para alertar o cerebro coa seguinte mensaxe:
+Se eu tiver éxito, de hoxe en diante, sempre que te deparares con unha preposición ou con certas locucións prepositivas, o teu corpo activará un sinal de alarma para alertar o cerebro coa seguinte mensaxe:
 
-##### Atención, estás no hábitat natural do infinitivo persoal! Se quixeres ver un bo exemplar, só tes que avanzar, o infinitivo flexionado encóntrase atrás da preposición (ou da locución prepositiva).
+<article>
 
-Como nos nosos días non é así tan fácil avistarmos infinitivos flexionados, propóñoche que comeces por facer un pequeno safari por algunhas frases en que habita esta criatura en vías de extinción:
+##### Atención!
+
+##### Acabas de entrar no hábitat natural do infinitivo persoal.
+
+##### Se quixeres ver un exemplar, avanza.
+
+##### O infinitivo flexionado encóntrase atrás da preposición (ou da locución prepositiva).
+
+</article>
+
+Como nos nosos días non é así tan fácil avistarmos infinitivos flexionados, propóñoche que comeces por facer un pequeno safari por algunhas frases en que habita esta criatura tan esquiva:
 
 ## Preposicións
 
@@ -76,4 +86,6 @@ Como nos nosos días non é así tan fácil avistarmos infinitivos flexionados, 
 * En vez de **facermos** acusacións, debiamos tentar encontrar solucións.
 * En vez de **comeres** arroz, comes patacas.
 
-Agora que tiveches a oportunidade de ver o infinitivo persoal no seu medio natural, tenta flexionalo ti sempre que tiveres a ocasión. Estarás a contribuír para a revitalización desta valiosa especie!
+Agora que tiveches a oportunidade de ver o infinitivo persoal no seu medio natural, tenta flexionalo ti sempre que tiveres a ocasión. Desta forma, estarás a contribuír para a revitalización desta valiosa especie!
+
+Non te esquezas de que neste proceso de repoboamento persoal obterás mellores resultados e máis rápido, se aumentares o teu contacto con producións orais e escritas en portugués. Enxergar un infinitivo flexionado pode representar un desafío aquí, mais non nese ecosistema.
