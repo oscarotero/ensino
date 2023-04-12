@@ -1,6 +1,6 @@
 ---
 title: O pan
-summary: Todas as palabras que necesitas para falares do pan
+summary: Todas as palabras necesarias para falares do pan
 tags:
   - lexico
 ---
