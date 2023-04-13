@@ -17,7 +17,7 @@ Por último, a **corretaxe** é a comisión que cobra un corretor como remunerac
 
 <article> 
 
-Custe (es) > **custo** (gl)
+Coste (es) > **custo** (gl)
 
 O *custo* é o diñeiro que se paga por unha cousa, porque todo ten un **prezo**. 
 
