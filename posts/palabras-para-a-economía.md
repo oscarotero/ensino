@@ -9,7 +9,7 @@ draft: false
 
 Corredor (es) > **corretor** (gl)
 
-Un *corretor* é a persoa que actúa como intermediario nunha operación comercial. Os corretores de bolsa, de comercio ou os de seguros dedícanse, por tanto, á **corretoría**. *Corretoría* tamén é o nome do local onde desenvolven o seu traballo.
+Un *corretor* é a persoa que actúa como intermediaria nunha operación comercial. Os corretores de bolsa, de comercio ou os de seguros dedícanse, por tanto, á **corretoría**. *Corretoría* tamén é o nome do local onde desenvolven o seu traballo.
 
 Por último, a **corretaxe** é a comisión que cobra un corretor como remuneración polos seus servizos. 
 
