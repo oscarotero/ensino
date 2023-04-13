@@ -47,6 +47,24 @@ Devaluar (es) > **desvalorizar(se)** ou **depreciar(se)** (gl)
 
 <article>
 
+Financiación (es) > **financiamento** (gl)
+
+O *financiamento* é o conxunto de recursos monetarios que se destinan a unha determinada actividade ou proxecto económico.
+
+</article> 
+
+<article>
+
+Fondos buitre (es) > **fondos voitre** (gl)
+
+Os *fondos voitre* son fondos de investimento cunha alta liquidez que aproveitan os momentos de debilidade económica, dunha entidade ou dun estado, para mercaren a súa débeda e negociaren con ela despois. 
+
+</article>
+
+<article>
+
+<article>
+
 Interés (es) > **xuro** (gl)
 
 O *xuro* é o rendemento proveniente de diñeiro emprestado.
@@ -62,22 +80,6 @@ Inversión (es) > **investimento** (gl)
 Un *investimento* é calquera gasto ou aplicación de recursos que produza un retorno no futuro.
 
 O verbo é **investir** e os que invisten son **investidores** ou **investidoras**.
-
-</article>
-
-<article>
-
-Financiación (es) > **financiamento** (gl)
-
-O *financiamento* é o conxunto de recursos monetarios que se destinan a unha determinada actividade ou proxecto económico.
-
-</article> 
-
-<article>
-
-Fondos buitre (es) > **fondos voitre** (gl)
-
-Os *fondos voitre* son fondos de investimento cunha alta liquidez que aproveitan os momentos de debilidade económica, dunha entidade ou dun estado, para mercaren a súa débeda e negociaren con ela despois. 
 
 </article>
 
