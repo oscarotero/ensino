@@ -63,8 +63,6 @@ Os *fondos voitre* son fondos de investimento cunha alta liquidez que aproveitan
 
 <article>
 
-<article>
-
 Interés (es) > **xuro** (gl)
 
 O *xuro* é o rendemento proveniente de diñeiro emprestado.
