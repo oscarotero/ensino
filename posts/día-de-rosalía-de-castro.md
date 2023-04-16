@@ -1,5 +1,5 @@
 ---
-title: Día de Rosalía de Castro
+title: Rosalía de Castro
 tags:
   - literatura
 draft: false
