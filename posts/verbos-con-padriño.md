@@ -18,7 +18,7 @@ draft: false
 > xa non vale ná.
 >
 > Que ti que nin me vexas só me fagas sufrir\
-> non *\*sirve* pa ná.
+> non **sirve** pa ná.
 >
 > Así que vente, dime como vou vivir\
 > cando ti non veñas por aquí.

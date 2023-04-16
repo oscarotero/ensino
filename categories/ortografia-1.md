@@ -1,4 +1,4 @@
 ---
-title: Ortografia
+title: Ortografía
 id: ortografia
 ---
