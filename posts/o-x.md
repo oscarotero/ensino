@@ -1,6 +1,6 @@
 ---
-title: O x
-summary: As pronuncias do x
+title: As pronuncias do x
+summary: ""
 tags:
   - foneticagalega
 ---
