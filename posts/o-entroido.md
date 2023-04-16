@@ -1,7 +1,7 @@
 ---
 title: O Entroido
 tags:
-  - dias_d
+  - dias_d_festas_e_tradicions
 draft: false
 ---
 ### O que é o Entroido?
