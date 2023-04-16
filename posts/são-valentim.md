@@ -1,7 +1,7 @@
 ---
-title: São Valentim
+title: Os lenços dos namorados
 tags:
-  - dias_d
+  - portugues
 draft: false
 ---
 [Passa a palavra de São Valentim](https://es.educaplay.com/recursos-educativos/11221139-sao_valentim.html) criado por Carme Saborido
