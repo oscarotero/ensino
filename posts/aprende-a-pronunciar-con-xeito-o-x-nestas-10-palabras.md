@@ -9,7 +9,7 @@ Hoxe imos debruzarnos sobre 9 palabras que é moi habitual ouvirmos cunha pronun
 
 ## Lémbrate!
 
-A pronuncia do *x* mantense igual en todas as palabras derivadas.
+A pronuncia do *x* de todas estas palabras mantense igual en todas as súas derivadas.
 
 <article>
 
