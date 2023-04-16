@@ -1,9 +1,9 @@
 ---
-title: Aprende a pronunciar con xeito o x nestas 9 palabras
+title: Aprende a pronunciar con xeito o x
 summary: Lista de palabras en que a pronuncia do x é  [ks]
 tags:
   - foneticagalega
-draft: true
+draft: false
 ---
 Hoxe imos debruzarnos sobre 9 palabras que é moi habitual ouvirmos cunha pronuncia errada. A incorrección consiste en pronunciarmos o *x* como en *queixa* ou en *lixo*, cando o son que deberiamos producir é o mesmo que en *taxi ou* en *nexo.*
 
@@ -18,6 +18,8 @@ A pronuncia do *x* mantense igual en todas as palabras derivadas.
 Temos \[ks] en **anexo**, **anexar** e **anexión.**
 
 </article>
+
+<article>
 
 2 **circunflexo**
 
@@ -34,8 +36,6 @@ A pronuncia do *x* é como a de *nexo.*
 O xe de **crucifixo** e de **crucifixión** pronúnciase como o de *flexión.*
 
 </article>
-
-<article>
 
 <article>
 
