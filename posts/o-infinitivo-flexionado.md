@@ -23,34 +23,33 @@ E por que facemos isto? Como acontece tantas veces, porque esta é a forma que c
 
 **É bo/óptimo...**
 
-Ex.: É bo aprenderes cousas novas. (ti)
+Ex.: É bo aprenderes cousas novas (ti)
 
 **É preciso/necesario...**
 
-Ex.: É necesario mudares radicalmente os teus hábitos de vida. (ti)
+Ex.: É necesario mudares radicalmente os teus hábitos de vida (ti)
 
 **É importante/crucial/vital/esencial/fundamental...**
 
-Ex.: É esencial estabelecermos un horario de estudo realista. (nós)
+Ex.: É esencial estabelecermos un horario de estudo realista (nós)
 
 **É conveniente/recomendábel...**
 
-Ex.: É recomendábel reducires o teu consumo de carne vermella. (ti)
+Ex.: É recomendábel reducires o teu consumo de carne vermella (ti)
 
 **Convén/Cómpre (= É conveniente)...**
 
-Ex.: Convén levarmos roupa abondo, imos estar fóra dúas semanas. (nós)
+Ex.: Convén levarmos roupa abondo, imos estar fóra dúas semanas (nós)
 
 **É mellor/peor...**
 
-Ex.: É mellor facermos da outra maneira. (nós)
+Ex.: É mellor facermos da outra maneira (nós)
 
 **É horríbel...**
 
-Ex.: É horríbel acabaren a súa relación así. (eles)
+Ex.: É horríbel acabaren a súa relación así (eles)
 
 **Evidentemente, as frases poden ser negativas.**
-
 
 Exs.: 
 

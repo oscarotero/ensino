@@ -4,7 +4,7 @@ tags:
   - O numeral
 draft: false
 ---
-Aprenderes os números en galego é moi fácil. Segundo Esther Estévez só é preciso 1 minuto:
+Aprenderes os números en galego é moi fácil. Segundo Esther Estévez, só é preciso 1 minuto:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JBVN3Nst5Po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -37,17 +37,11 @@ dez - <e-answer>vinte</e-answer> - trinta - <e-answer>corenta</e-answer> - cincu
 A seguir, tes unha pequena relación de datas sinaladas no calendario. Escribe por extenso o día de cada unha destas conmemoracións: 
 
 1. O Día da Candeloria (cando casan os paxariños) > <e-answer>dous</e-answer> de febreiro
-
 2. O Día de Rosalía de Castro (o día do seu nacemento) > <e-answer>vinte e tres</e-answer> de febreiro
-
 3. O Día Internacional da Muller > <e-answer>oito</e-answer> de marzo
-
 4. O Día das Letras Galegas > <e-answer>dezasete</e-answer> de maio
-
 5. O Día de San Xoán > <e-answer>vinte e catro</e-answer> de xuño
-
 6. O Día da Patria Galega > <e-answer>vinte e cinco</e-answer> de xullo
-
 7. O Día de San Martiño > <e-answer>once</e-answer> de novembro
 
 <e-validate>Verifica as respostas</e-validate>
