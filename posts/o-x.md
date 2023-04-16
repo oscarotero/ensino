@@ -1,6 +1,6 @@
 ---
 title: As pronuncias do x
-summary: ""
+summary: "[ʃ] vs. [ks]"
 tags:
   - foneticagalega
 ---
