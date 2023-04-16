@@ -2,7 +2,7 @@
 title: Como funcionan as vacinas?
 summary: Comprensión de textos orais
 tags:
-  - actividades_para_a_secundaria
+  - actividades_para_o_ensino_secundario
 ---
 <iframe src="https://player.vimeo.com/video/369814054" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
