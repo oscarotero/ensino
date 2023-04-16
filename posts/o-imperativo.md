@@ -59,7 +59,7 @@ Aínda que esta é a regra xeral, hai verbos que son irregulares (*pór, facer, 
 
 Completa co verbo no imperativo as seguintes oracións:
 
-1. <e-answer>Comede</e-answer> (comer) todo o que tedes no prato.
+1. <e-answer>Comede</e-answer> (comer) todo o que tendes no prato.
 2. Non te oio, <e-answer>berra</e-answer> (berrar) máis.
 3. <e-answer>Entra</e-answer> (entrar), están agardando por ti.
 4. <e-answer>Sé</e-answer> (ser) bo e non me amoles!

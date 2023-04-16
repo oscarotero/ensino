@@ -25,7 +25,7 @@ Esther Estévez explícacho moi ben neste vídeo do Dígocho eu:
 
 ## Exercicio 1
 
-Clasifica no teu caderno as palabras que aparecen a continuación segundo a
+Clasifica as palabras que aparecen a continuación segundo a
 pronuncia do x:
 
 1. Como en xeado:

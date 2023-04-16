@@ -13,7 +13,7 @@ A pronuncia do *x* de todas estas palabras mantense igual en todas as súas deri
 
 <article>
 
-1 **anexo**
+1. **anexo**
 
 Temos \[ks] en **anexo**, **anexar** e **anexión.**
 
@@ -21,7 +21,7 @@ Temos \[ks] en **anexo**, **anexar** e **anexión.**
 
 <article>
 
-2 **circunflexo**
+2. **circunflexo**
 
 O circunflexo é un tipo de acento (^). En portugués úsase para marcar as vogais fechadas. Ex.: *pôr.* 
 
@@ -31,7 +31,15 @@ A pronuncia do *x* desta palabra é como a de *nexo.*
 
 <article>
 
-3 **crucifixo**
+3. **complexo**
+
+**Complexo** ten \[ks], logo **complexión** e **complexidade**, tamén.
+
+</article>
+
+<article>
+
+4. **crucifixo**
 
 O xe de **crucifixo** e de **crucifixión** pronúnciase como o de *flexión.*
 
@@ -39,31 +47,7 @@ O xe de **crucifixo** e de **crucifixión** pronúnciase como o de *flexión.*
 
 <article>
 
-4 **complexo**
-
-O son \[ks] está presente en **complexo**, **complexión** e  **complexidade**.
-
-</article>
-
-<article>
-
-5 **prefixo**
-
-Pronúnciase con \[ks] **prefixo** e toda a familia: **prefixación**, **prefixar**, **sufixo**, **sufixar**, **sufixal**, **sufixación**, **infixo**, **interfixo**...
-
-</article>
-
-<article>
-
-6 **reflexo** 
-
-**reflexo** ten \[ks], logo **retroflexo**, **reflexivo**, **reflexión**, tamén.
-
-</article>
-
-<article>
-
-7 **paradoxo**
+5. **paradoxo**
 
 Un paradoxo é unha contradición aparente. 
 
@@ -73,7 +57,7 @@ Tanto a pronuncia de **paradoxo** como a das palabras derivadas **paradoxal** e 
 
 <article>
 
-8 **perplexo**
+6. **perplexo**
 
 Todos fican **perplexos** ao saberen que a pronuncia deste *x* é \[ks]. Pois é, e a mesma cousa se aplica a **perplexidade**.
 
@@ -81,7 +65,23 @@ Todos fican **perplexos** ao saberen que a pronuncia deste *x* é \[ks]. Pois é
 
 <article>
 
-9 **saxón**
+7. **prefixo**
+
+Pronúnciase con \[ks] **prefixo** e toda a familia: **prefixación**, **prefixar**, **sufixo**, **sufixar**, **sufixal**, **sufixación**, **infixo**, **interfixo**...
+
+</article>
+
+<article>
+
+8. **reflexo** 
+
+O son \[ks] está presente en **reflexo**, **retroflexo**, **reflexivo** e **reflexión**.
+
+</article>
+
+<article>
+
+9. **saxón**
 
 O nome deste pobo xermánico ten \[ks], por tanto, tamén o teñen **saxoa**, **anglosaxón** e **anglosaxoa**.
 

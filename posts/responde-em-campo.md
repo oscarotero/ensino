@@ -1,6 +1,6 @@
 ---
 title: Responde em campo
-summary: O que pensas? O futebol não é para meninas?
+summary: O que achas? O futebol não é para meninas?
 tags:
   - feminismo
 ---
