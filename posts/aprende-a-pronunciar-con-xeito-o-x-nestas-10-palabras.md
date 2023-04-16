@@ -1,11 +1,11 @@
 ---
-title: Aprende a pronunciar con xeito o x nestas 10 palabras
+title: Aprende a pronunciar con xeito o x nestas 9 palabras
 summary: Lista de palabras en que a pronuncia do x é  [ks]
 tags:
   - foneticagalega
-draft: false
+draft: true
 ---
-Hoxe imos debruzarnos sobre 10 palabras que é moi habitual ouvirmos cunha pronuncia do *x* errada. A incorrección consiste en pronunciarmos ese *x* como en *queixa* ou en *lixo* cando o son que deberiamos producir sería o que aparece en *taxi ou* en *nexo.*
+Hoxe imos debruzarnos sobre 9 palabras que é moi habitual ouvirmos cunha pronuncia errada. A incorrección consiste en pronunciarmos o *x* como en *queixa* ou en *lixo*, cando o son que deberiamos producir é o mesmo que en *taxi ou* en *nexo.*
 
 ## Lémbrate!
 
@@ -80,7 +80,5 @@ E mais **perplexidade**
 **saxoa**, **anglosaxón**, **anglosaxoa**
 
 </article>
-
-
 
 </article>
