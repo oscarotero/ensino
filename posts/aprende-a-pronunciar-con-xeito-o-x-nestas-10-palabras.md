@@ -5,7 +5,7 @@ tags:
   - foneticagalega
 draft: false
 ---
-Hoxe imos debruzarnos sobre 9 palabras que é moi habitual ouvirmos cunha pronuncia errada. A incorrección consiste en pronunciarmos o *x* como en *queixa* ou en *lixo*, cando o son que deberiamos producir é o mesmo que en *taxi ou* en *nexo.*
+Hoxe imos debruzarnos sobre 9 palabras que é moi habitual ouvirmos cunha pronuncia errada. A incorrección consiste en pronunciarmos o *x* como en *queixa* ou en *lixo*, cando o son que deberiamos producir é o mesmo que en *taxi ou* en *experto.*
 
 ## Lémbrate!
 
@@ -23,15 +23,15 @@ Temos \[ks] en **anexo**, **anexar** e **anexión.**
 
 2 **circunflexo**
 
-O circunflexo é un tipo de acento (^). En portugués úsano para marcar as vogais fechadas. Ex.: *pôr.* 
+O circunflexo é un tipo de acento (^). En portugués úsase para marcar as vogais fechadas. Ex.: *pôr.* 
 
-A pronuncia do *x* é como a de *nexo.* 
+A pronuncia do *x* desta palabra é como a de *nexo.* 
 
 </article>
 
 <article>
 
-2 **crucifixo**
+3 **crucifixo**
 
 O xe de **crucifixo** e de **crucifixión** pronúnciase como o de *flexión.*
 
@@ -49,7 +49,7 @@ O son \[ks] está presente en **complexo**, **complexión** e  **complexidade**.
 
 5 **prefixo**
 
-Pronúnciase con \[ks] **prefixo** e toda a familia: **prefixación**, **prefixar**, **sufixo**, **sufixar**, **sufixal**, **sufixación**, **infixo**, **interfixo**
+Pronúnciase con \[ks] **prefixo** e toda a familia: **prefixación**, **prefixar**, **sufixo**, **sufixar**, **sufixal**, **sufixación**, **infixo**, **interfixo**...
 
 </article>
 
@@ -57,7 +57,7 @@ Pronúnciase con \[ks] **prefixo** e toda a familia: **prefixación**, **prefixa
 
 6 **reflexo** 
 
-**reflexo** ten \[ks] logo **retroflexo**, **reflexivo**, **reflexión**, tamén.
+**reflexo** ten \[ks], logo **retroflexo**, **reflexivo**, **reflexión**, tamén.
 
 </article>
 
@@ -75,7 +75,7 @@ Tanto a pronuncia de **paradoxo** como a das palabras derivadas **paradoxal** e 
 
 8 **perplexo**
 
-Todos fican **perplexos** ao saberen que a pronuncia do *x* é \[ks]. Pois é, e a mesma cousa se aplica a **perplexidade.**
+Todos fican **perplexos** ao saberen que a pronuncia deste *x* é \[ks]. Pois é, e a mesma cousa se aplica a **perplexidade**.
 
 </article>
 
@@ -83,7 +83,7 @@ Todos fican **perplexos** ao saberen que a pronuncia do *x* é \[ks]. Pois é, e
 
 9 **saxón**
 
-O nome deste pobo xermánico ten \[ks], por tanto, tamén o teñen **saxoa**, **anglosaxón** e **anglosaxoa*.***
+O nome deste pobo xermánico ten \[ks], por tanto, tamén o teñen **saxoa**, **anglosaxón** e **anglosaxoa**.
 
 </article>
 
