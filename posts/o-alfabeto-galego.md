@@ -3,7 +3,6 @@ title: O alfabeto galego
 tags:
   - ortografia
 ---
-
 O alfabeto ou abecedario é o conxunto de letras con que se representan os sons
 dunha lingua.
 
@@ -12,7 +11,7 @@ letras do grego. Abecedario é o resultado de unir as catro primeiras letras do
 latín.
 
 Ao contrario do que acontece no español, o nome das letras é de xénero masculino
-en galego: _o a, o be, o pe_ etc.
+en galego: *o a, o be, o pe* etc.
 
 O noso alfabeto consta de 23 letras ou grafías (5 vogais e 18 consoantes):
 
@@ -44,8 +43,8 @@ O noso alfabeto consta de 23 letras ou grafías (5 vogais e 18 consoantes):
 
 ## Os dígrafos
 
-Ademais destas 23 letras, temos tamén 6 dígrafos. Un dígrafo é unha combinación
-de dúas letras que se empregan para representar na escrita, un único son. Os
+Alén destas 23 letras, temos tamén 6 dígrafos. Un dígrafo é unha combinación
+de dúas letras que se usan para representar na escrita, un único son. Os
 dígrafos do galego son:
 
 <e-layout>
@@ -57,8 +56,8 @@ dígrafos do galego son:
   <e-tag color=5 desc="o erre dobre">rr</e-tag>
 </e-layout>
 
-Os dígrafos non se poden separar ao final da liña. Exemplo: _ningu-nha,
-fo-gueira, arre-friado._
+Os dígrafos non se poden separar ao final da liña. Exemplo: *ningu-nha,
+fo-gueira, arre-friado.*
 
 ## Letras doutros alfabetos
 
@@ -139,11 +138,11 @@ vasoira : o <e-answer size=3>uve</e-answer>, o <e-answer size=3>a</e-answer>, o
 
 Troca a letra grosa de cada palabra por un dígrafo e forma palabras novas:
 
-- u**ñ**a:u<e-answer size=3>nh</e-answer>a
-- ca**s**a: ca<e-answer size=3>ch</e-answer>a
-- **t**erra: <e-answer size=3>gu</e-answer>erra
-- **l**ince: <e-answer size=3>qu</e-answer>ince
-- bi**c**ar: bi<e-answer size=3>ll</e-answer>ar
-- co**c**er: co<e-answer size=3>rr</e-answer>er
+* u**ñ**a:u<e-answer size=3>nh</e-answer>a
+* ca**s**a: ca<e-answer size=3>ch</e-answer>a
+* **t**erra: <e-answer size=3>gu</e-answer>erra
+* **l**ince: <e-answer size=3>qu</e-answer>ince
+* bi**c**ar: bi<e-answer size=3>ll</e-answer>ar
+* co**c**er: co<e-answer size=3>rr</e-answer>er
 
 <e-validate>Corrixe as respostas</e-validate>
