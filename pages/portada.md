@@ -5,4 +5,4 @@ title: Benvinda
 ---
 # Benvinda
 
-Esta é a portada do sitio web de Laura Rubio Rendo. Podes contactar comigo [aquí](/contacto)
+Esta é a portada do sitio web de Laura Rubio Rendo. Podes contactar comigo [aquí](/contacto).
