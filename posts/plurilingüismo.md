@@ -22,7 +22,7 @@ Na Finlandia son dúas as linguas oficiais: o finés e o sueco.
 
 Na Guinea Ecuatorial teñen tres linguas oficiais: español, francés e portugués.
 
-Para a comunicación non hai linguas mellores do que outras, que unha lingua sexa oficial é simplemente unha decisión política. Sabiades que desde hai tempo existe un movemento que reivindica a oficialidade da lingua asturiana (variedade falada en Asturias do asturleonés). O que opinades dos motivos que dá o músico Rodrigo Cuevas para defender [Yá yá yá! Oficilidá!](https://twitter.com/rodrigocuevasg/status/1448984608939335680)?
+Para a comunicación non hai linguas mellores do que outras, que unha lingua sexa oficial é simplemente unha decisión política. Sabiades que desde hai tempo existe un movemento que reivindica a oficialidade da lingua asturiana (variedade falada en Asturias do asturleonés). O que pensas dos motivos que dá o músico Rodrigo Cuevas para defender [Yá yá yá! Oficilidá!](https://twitter.com/rodrigocuevasg/status/1448984608939335680)?
 
 Este artista viviu varios anos na Galiza e ten colaborado con músicos galegos como Baiuca, co que gravou Veleno:
 
