@@ -15,7 +15,15 @@ A pronuncia do *x* mantense igual en todas as palabras derivadas.
 
 1 **anexo**
 
-E **anexar** e **anexión**
+Temos \[ks] en **anexo**, **anexar** e **anexión.**
+
+</article>
+
+2 **circunflexo**
+
+O circunflexo é un tipo de acento (^). En portugués úsano para marcar as vogais fechadas. Ex.: *pôr.* 
+
+A pronuncia do *x* é como a de *nexo.* 
 
 </article>
 
@@ -23,21 +31,17 @@ E **anexar** e **anexión**
 
 2 **crucifixo**
 
-E tamén **crucifixión**
+O xe de **crucifixo** e de **crucifixión** pronúnciase como o de *flexión.*
 
 </article>
 
 <article>
-
-3 **circunflexo**
-
-</article>
 
 <article>
 
 4 **complexo**
 
-Por tanto, **complexidade** e **complexión**
+O son \[ks] está presente en **complexo**, **complexión** e  **complexidade**.
 
 </article>
 
@@ -45,15 +49,15 @@ Por tanto, **complexidade** e **complexión**
 
 5 **prefixo**
 
-E toda a familia: **prefixación**, **prefixar**, **sufixo**, **sufixación**, **sufixar**, **sufixal**, **infixo**, **interfixo**
+Pronúnciase con \[ks] **prefixo** e toda a familia: **prefixación**, **prefixar**, **sufixo**, **sufixar**, **sufixal**, **sufixación**, **infixo**, **interfixo**
 
 </article>
 
 <article>
 
-6 **reflexo**
+6 **reflexo** 
 
-Logo, **retroflexo**, **reflexivo**, **reflexión**
+**reflexo** ten \[ks] logo **retroflexo**, **reflexivo**, **reflexión**, tamén.
 
 </article>
 
@@ -61,7 +65,9 @@ Logo, **retroflexo**, **reflexivo**, **reflexión**
 
 7 **paradoxo**
 
-Entón, **paradoxal**, **paradoxalmente**
+Un paradoxo é unha contradición aparente. 
+
+Tanto a pronuncia de **paradoxo** como a das palabras derivadas **paradoxal** e **paradoxalmente** é semellante á de *heterodoxo*.
 
 </article>
 
@@ -69,7 +75,7 @@ Entón, **paradoxal**, **paradoxalmente**
 
 8 **perplexo**
 
-E mais **perplexidade**
+Todos fican **perplexos** ao saberen que a pronuncia do *x* é \[ks]. Pois é, e a mesma cousa se aplica a **perplexidade.**
 
 </article>
 
@@ -77,7 +83,7 @@ E mais **perplexidade**
 
 9 **saxón**
 
-**saxoa**, **anglosaxón**, **anglosaxoa**
+O nome deste pobo xermánico ten \[ks], por tanto, tamén o teñen **saxoa**, **anglosaxón** e **anglosaxoa*.***
 
 </article>
 
