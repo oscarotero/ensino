@@ -51,7 +51,7 @@ O xe de **crucifixo** e de **crucifixión** pronúnciase como o de *flexión.*
 
 Un **paradoxo** é unha contradición aparente. 
 
-A pronuncia da terminación desta palabra é igual á de *heterodoxo.* Neste caso, non hai paradoxo ningún, porque **paradoxal** e **paradoxalmente** tamén se pronuncian con \[ks].
+A pronuncia da terminación desta palabra é igual á de *heterodoxo.* Neste caso, non hai **paradoxo** ningún, porque **paradoxal** e **paradoxalmente** tamén se pronuncian con \[ks].
 
 </article>
 
@@ -81,7 +81,7 @@ Pronúnciase con \[ks] **prefixo** e toda a familia: **prefixación**, **prefixa
 
 8. **reflexo** 
 
-O son \[ks] está presente en **reflexo**, **retroflexo**, **reflexivo** e **reflexión**. O verbo do cal proveñen non é *\*reflexar,* non, é *reflectir.*
+O son \[ks] está presente en **reflexo**, **retroflexo** e **reflexivo**. O verbo do cal proveñen non é *\*reflexar,* non, é *reflectir.*
 
 </article>
 
