@@ -5,17 +5,17 @@ tags:
   - foneticagalega
 draft: false
 ---
-Hoxe imos debruzarnos sobre 9 palabras que é moi habitual ouvirmos cunha pronuncia errada. A incorrección consiste en pronunciarmos o *x* como en *queixa* ou en *lixo*, cando o son que deberiamos producir é o mesmo que en *taxi ou* en *experto.*
+Hoxe imos debruzarnos sobre 9 palabras que é moi habitual ouvirmos cunha pronuncia errada. A incorrección consiste en pronunciarmos o *x* como en *queixa* ou en *lixo*, cando o son que deberiamos producir é o mesmo que en *tórax ou* en *experto.*
 
 ## Lémbrate!
 
-A pronuncia do *x* de todas estas palabras mantense igual en todas as súas derivadas.
+A pronuncia do *x* de todas estas palabras mantense igual nas derivadas.
 
 <article>
 
-1. **anexo**
+1. **anexar**
 
-Temos \[ks] en **anexo**, **anexar** e **anexión.**
+Temos \[ks] no verbo **anexar**, logo nos dous participios: **anexo** e **anexado**, tamén.
 
 </article>
 
@@ -23,7 +23,7 @@ Temos \[ks] en **anexo**, **anexar** e **anexión.**
 
 2. **circunflexo**
 
-O circunflexo é un tipo de acento (^). En portugués úsase para marcar as vogais fechadas. Ex.: *pôr.* 
+O **circunflexo** é un tipo de acento (^). En portugués úsase para marcar as vogais fechadas. Ex.: *pôr.* 
 
 A pronuncia do *x* desta palabra é como a de *nexo.* 
 
@@ -33,7 +33,7 @@ A pronuncia do *x* desta palabra é como a de *nexo.*
 
 3. **complexo**
 
-**Complexo** ten \[ks], logo **complexión** e **complexidade**, tamén.
+**Complexo** ten \[ks], e tamén **complexidade**, **acomplexar** e todos os **complexos** resultantes deste verbo: de culpa, de Edipo, de Electra, de inferioridade, de superioridade...
 
 </article>
 
@@ -49,9 +49,9 @@ O xe de **crucifixo** e de **crucifixión** pronúnciase como o de *flexión.*
 
 5. **paradoxo**
 
-Un paradoxo é unha contradición aparente. 
+Un **paradoxo** é unha contradición aparente. 
 
-Tanto a pronuncia de **paradoxo** como a das palabras derivadas **paradoxal** e **paradoxalmente** é semellante á de *heterodoxo*.
+A pronuncia da terminación desta palabra é igual á de *heterodoxo.* Neste caso, non hai paradoxo ningún, porque **paradoxal** e **paradoxalmente** tamén se pronuncian con \[ks].
 
 </article>
 
@@ -59,7 +59,13 @@ Tanto a pronuncia de **paradoxo** como a das palabras derivadas **paradoxal** e 
 
 6. **perplexo**
 
-Todos fican **perplexos** ao saberen que a pronuncia deste *x* é \[ks]. Pois é, e a mesma cousa se aplica a **perplexidade**.
+<!--StartFragment-->
+
+![Face with Open Mouth on Microsoft Teams 1.0](https://em-content.zobj.net/source/microsoft-teams/337/face-with-open-mouth_1f62e.png)
+
+<!--EndFragment-->
+
+Todos fican **perplexos** ao saberen que a pronuncia deste *x* é \[ks]. Pois é, e o mesmo se aplica a **perplexidade**.
 
 </article>
 
@@ -75,7 +81,7 @@ Pronúnciase con \[ks] **prefixo** e toda a familia: **prefixación**, **prefixa
 
 8. **reflexo** 
 
-O son \[ks] está presente en **reflexo**, **retroflexo**, **reflexivo** e **reflexión**.
+O son \[ks] está presente en **reflexo**, **retroflexo**, **reflexivo** e **reflexión**. O verbo do cal proveñen non é *\*reflexar,* non, é *reflectir.*
 
 </article>
 
@@ -83,7 +89,7 @@ O son \[ks] está presente en **reflexo**, **retroflexo**, **reflexivo** e **ref
 
 9. **saxón**
 
-O nome deste pobo xermánico ten \[ks], por tanto, tamén o teñen **saxoa**, **anglosaxón** e **anglosaxoa**.
+O nome deste pobo xermánico ten \[ks], por tanto, tamén o teñen **saxoa**, **anglosaxón**, **anglosaxoa**, **baixosaxón** e **baixosaxoa**. 
 
 </article>
 
