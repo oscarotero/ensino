@@ -6,44 +6,26 @@ draft: false
 ---
 ### Bailemos nós ja todas tres, ai amigas - Airas Nunez
 
-
-Bailemos nós ja todas tres, ai amigas,
-
-so aquestas avelaneiras frolidas,
-
-e quen for velida como nós, velidas,
-
-se amigo amar,
-
-so aquestas avelaneiras frolidas
-
+Bailemos nós ja todas tres, ai amigas,\
+so aquestas avelaneiras frolidas,\
+e quen for velida como nós, velidas,\
+se amigo amar,\
+so aquestas avelaneiras frolidas\
 verra bailar.
 
-\
-Bailemos nós ja todas tres, ai irmanas,
+Bailemos nós ja todas tres, ai irmanas,\
+so aqueste ramo destas avelanas,\
+e quen for louçana como nós, louçanas,\
+se amigo amar,\
+so aqueste ramo destas avelanas\
+verra bailar.
 
-so aqueste ramo destas avelanas,
-
-e quen for louçana como nós, louçanas,
-
-se amigo amar,
-
-so aqueste ramo destas avelanas
-
-verra bailar
-
-\
-Por Deus, ai amigas, mentr’al non fazemos,
-
-so aqueste ramo frolido bailemos,
-
-e quen ben parecer como nós parecemos,
-
-se amigo amar,
-
-so aqueste ramo, sol que nós bailemos,
-
-verra bailar
+Por Deus, ai amigas, mentr’al non fazemos,\
+so aqueste ramo frolido bailemos,\
+e quen ben parecer como nós parecemos,\
+se amigo amar,\
+so aqueste ramo, sol que nós bailemos,\
+verra bailar.
 
 ### No chão novinha - Anitta, Pedro Sampaio
 
@@ -109,9 +91,13 @@ Tá gostosin'? Eu quero mais!
 
 ### Comparten:
 
-* Voz feminina
-* Diríxese a outras mulleres: irmás ("ai, irmanas", "ai, amigas" /"...todas elas" "novinha")
-* Existen referencias ao baile ("Bailemos nós ja todos tres", "so  aqueste ramo frolido bailemos" / "Fiz esse beat só pra ver elas descendo, descendo, descendo", "no chão, novinha", "joga a bunda pra trás")
+1. Voz feminina
+2. Esta voz diríxese a outras mulleres:
+- Na de Airas Nunez: "ai, irmanas", "ai, amigas", "quen for velida como nós, velidas", "quen for louçana como nós, louçanas,"
+- Na de Anitta: "Especialmente pra todas elas", "só pra ver elas" "novinha"
+3. Existen referencias ao baile nas dúas composicións:
+- Na de Airas Nunez: "Bailemos nós ja todos tres", "verra bailar", "so aqueste ramo, sol que nós bailemos"
+- Na de Anitta: "Fiz esse beat só pra ver elas descendo, descendo, descendo", "no chão, novinha", "joga a bunda pra trás", "Posso rebolar de frente, posso rebolar de costas", "Dançando eu te provoco", "Joga pra mim"
 
 ### Reflexiona
 
