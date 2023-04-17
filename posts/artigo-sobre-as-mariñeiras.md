@@ -122,14 +122,14 @@ Artigo, con algunha pequena modificación, de Víctor López publicado en
 
 ## Exercicio 1
 
-Busca no texto a palabra que corresponde a cada unha das seguintes definicións:
+Procura no texto a palabra que corresponde a cada unha das seguintes definicións:
 
-1. Empregar o capital en negocios para que aumente:
-2. Alga comestíbel moi empregada na culinaria xaponesa en sopas e ensaladas:
+1. Investir o capital en negocios para o aumentar:
+2. Alga comestíbel moi usada na culinaria xaponesa en sopas e ensaladas:
 3. Cousa de comer, de pequeno tamaño e de pouco alimento, mais que sabe moi ben:
 4. Parte interior do pan:
 5. Xuntar varias cousas nun conxunto, reunir:
-6. Establecemento onde se fabrica o pan en grandes cantidades e de maneira
+6. Estabelecemento onde se fabrica o pan en grandes cantidades e de maneira
    mecanizada:
 7. Pequena e mediana empresa:
 
@@ -137,8 +137,8 @@ Busca no texto a palabra que corresponde a cada unha das seguintes definicións:
 
 Di se as seguintes afirmacións son verdadeiras ou falsas:
 
-1. A empresa Daveiga produce unha gran diversidade de produtos.
-2. Daveiga é unha peme
+1. A empresa Daveiga produce unha grande diversidade de produtos.
+2. Daveiga é unha peme.
 3. Na fabricación das galletas mariñeiras respéctase a receita do século XV.
 4. Nun comezo, os donos da empresa tiñan claro que querían traballar no rural,
    mais non tiñan tan claro o tipo de negocio que querían montar.
