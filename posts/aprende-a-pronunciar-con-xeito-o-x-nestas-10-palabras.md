@@ -59,11 +59,7 @@ A pronuncia da terminación desta palabra é igual á de *heterodoxo.* Neste cas
 
 6. **perplexo**
 
-<!--StartFragment-->
-
-![Face with Open Mouth on Microsoft Teams 1.0](https://em-content.zobj.net/source/microsoft-teams/337/face-with-open-mouth_1f62e.png)
-
-<!--EndFragment-->
+😯
 
 Todos fican **perplexos** ao saberen que a pronuncia deste *x* é \[ks]. Pois é, e o mesmo se aplica a **perplexidade**.
 
