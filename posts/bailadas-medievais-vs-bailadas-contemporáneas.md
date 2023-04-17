@@ -94,7 +94,7 @@ Tá gostosin'? Eu quero mais!
 1. Voz feminina
 2. Esta voz diríxese a outras mulleres:
 - Na de Airas Nunez: "ai, irmanas", "ai, amigas", "quen for velida como nós, velidas", "quen for louçana como nós, louçanas,"
-- Na de Anitta: "Especialmente pra todas elas", "só pra ver elas" "novinha"
+- Na de Anitta: "Especialmente pra todas elas", "só pra ver elas", "novinha"
 3. Existen referencias ao baile nas dúas composicións:
 - Na de Airas Nunez: "Bailemos nós ja todos tres", "verra bailar", "so aqueste ramo, sol que nós bailemos"
 - Na de Anitta: "Fiz esse beat só pra ver elas descendo, descendo, descendo", "no chão, novinha", "joga a bunda pra trás", "Posso rebolar de frente, posso rebolar de costas", "Dançando eu te provoco", "Joga pra mim"
