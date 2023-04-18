@@ -7,6 +7,22 @@ draft: false
 ---
 <article>
 
+Al por mayor (es) > **En groso**, **por xunto** (gl)
+
+A compra ou a venda de mercadorías en cantidades grandes recibe o nome de **compra en groso** ou de **venda en groso**.
+
+</article>
+
+<article>
+
+Al por menor (es) > **a retallo**, **polo miúdo** (gl)
+
+O **comercio a retallo** é o comercio de mercadorías en cantidades pequenas.
+
+</article>
+
+<article>
+
 Contable (es) > **contador** ou **contábel** (gl)
 
 Para referirnos á persoa que trata das contas podemos usar calquera destas dúas formas.
@@ -81,11 +97,29 @@ A cantidade de diñeiro, expresada normalmente en porcentaxe anual, que produce 
 
 <article>
 
+IVA (es) > **IVE** (gl)
+
+A sigla provén da frase **i**mposto sobre o **v**alor **e**ngadido. En portugués, curiosamente, coincide co español por ser o IVA o **i**mposto sobre o **v**alor **a**crescentado.
+
+</article>
+
+<article>
+
 Inversión (es) > **investimento** (gl)
 
 Un *investimento* é calquera gasto ou aplicación de recursos que produza un retorno no futuro.
 
 O verbo é **investir** e os que invisten son **investidores** ou **investidoras**.
+
+</article>
+
+<article>
+
+Mayorista (es) > **grosista** (gl)
+
+**Grosistas** son as persoas que compran ou venden grandes cantidades de mercadorías.
+
+Pode haber comerciantes grosistas, distribuidores grosistas e tamén mercados grosistas.
 
 </article>
 
@@ -99,43 +133,19 @@ Un *mercador* é a persoa que comercia con mercadorías.
 
 <article>
 
+Minorista (es) > **retallista** (gl)
+
+Os que se dedican á venda en pequena escala son os **comerciantes retallistas**.
+
+</article>
+
+<article>
+
 Rentabilidad (es) > **rendibilidade** (gl)
 
 A *rendibilidade* é a capacidade de producir rendementos.
 
 O verbo é **render** e o adxectivo, **rendíbel**.
-
-</article>
-
-<article>
-
-Al por mayor (es) > **En groso**, **por xunto** (gl)
-
-A compra ou a venda de mercadorías en cantidades grandes recibe o nome de **compra en groso** ou de **venda en groso**.
-
-</article>
-
-<article>
-
-Mayorista (es) > **grosista** (gl)
-
-Pode haber comerciantes grosistas, distribuidores grosistas e tamén mercados grosistas.
-
-</article>
-
-<article>
-
-Al por menor (es) > **a retallo**, **polo miúdo** (gl)
-
-O **comercio a retallo** é o comercio de mercadorías en cantidades pequenas.
-
-</article>
-
-<article>
-
-Minorista (es) > **retallista** (gl)
-
-Os que se dedican á venda en pequena escala son os **comerciantes retallistas**.
 
 </article>
 
