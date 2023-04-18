@@ -5,6 +5,14 @@ tags:
   - lexico
 draft: false
 ---
+<article>
+
+Contable (es) > **contador** ou **contábel** (gl)
+
+Para referirnos á persoa que trata das contas podemos usar calquera destas dúas formas.
+
+</article>
+
 <article> 
 
 Corredor (es) > **corretor** (gl)

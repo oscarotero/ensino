@@ -59,6 +59,7 @@ draft: false
 ##### Verbos con alternancia vocálica
 
 * [\#DígochoEu Non digas *soben as temperaturas](https://www.youtube.com/watch?v=pRIZyEt-l5w)
+* [\#DígochoEu Moito ollo con converter](https://www.youtube.com/watch?v=tNTLMKGCuwE)
 
 ##### Tempos compostos
 
@@ -68,6 +69,8 @@ draft: false
 ##### Verbos pronominais que non son tal
 
 * [\#DígochoEu Non digas *quédate na casa](https://www.youtube.com/watch?v=dY9_ey-Mz8o)
+* [\#DígochoEu É correcto dicir... *non cho podes permitir](https://www.youtube.com/watch?v=oLY0otwtLPE&t=3s)
+* [\#DígochoEu Como se di "te la estás jugando"?](https://www.youtube.com/watch?v=65TPuybg-HA)
 
 #### Na preposición
 
