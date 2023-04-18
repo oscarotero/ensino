@@ -2,7 +2,7 @@
 title: As pronuncias do x
 summary: "[ʃ] vs. [ks]"
 tags:
-  - foneticagalega
+  - sons_consonanticos
 ---
 
 O x ten en galego dúas pronuncias distintas: como en _xeado_ e como en _sexto._
