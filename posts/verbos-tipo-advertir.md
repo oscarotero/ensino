@@ -2,35 +2,49 @@
 title: Verbos tipo advertir
 tags:
   - verbos_con_alternancia_vocálica
-draft: true
+draft: false
 ---
 Trátase dun grupo de verbos que teñen *e* como vogal final do lexema no infinitivo (adv**e**rt-ir). Estes verbos trocan o *e* en *i* nas formas do presente do indicativo e imperativo en que a raíz é tónica e, tamén, en todo o presente do subxuntivo:
 
 Presente do indicativo:
 
-* advirto
-* advirtes
-* advirte
-* advertimos
-* advertides
-* advirten
+* adv**i**rto
+* adv**i**rtes
+* adv**i**rte
+* adv**e**rtimos
+* adv**e**rtides
+* adv**i**rten
 
 Presente do subxuntivo
 
-* advirta
-* advirtas
-* advirta
-* advirtamos
-* advirtades
-* advirtan
+* adv**i**rta
+* adv**i**rtas
+* adv**i**rta
+* adv**i**rtamos
+* adv**i**rtades
+* adv**i**rtan
 
 Imperativo
 
-* advirte
-* advertide
+* adv**i**rte
+* adv**e**rtide
 
-Conforme ao modelo anterior conxúganse os seguintes verbos: *adherir; advertir, divertir; agredir, transgredir; conferir, diferir, inferir, preferir, proferir, referir, transferir; competir, repetir; concernir, discernir; espelir; espir; dixerir, inxerir, suxerir; inserir; medir; pedir* e deri￾vados; *reflectir; vestir, investir, revestir.*
+Conforme ao modelo anterior conxúganse os seguintes verbos: *adherir; advertir, divertir; agredir, transgredir; conferir, diferir, inferir, preferir, proferir, referir, transferir; competir, repetir; concernir, discernir; espelir; espir; dixerir, inxerir, suxerir; inserir; medir; pedir* e derivados; *reflectir; vestir, investir, revestir.*
 
-Exercicios
+## Exercicios
 
 Completa os espazos cos verbos no presente do indicativo:
+
+1. O noso é un dos países que menos <e-answer>invisten</e-answer> (investir) en Educación.
+2. Unha investigación conclúe que cada persoa <e-answer>inxire</e-answer> (inxerir) cerca de 250 gramos de micropartículas de plástico por ano.
+3. Teño que confesar que me <e-answer>divirto</e-answer> (divertir) moito con eles.
+4. A maioría dos filmes exhibidos <e-answer>reflicten</e-answer> (reflectir) e retratan a Alemaña actual.
+5. Esta non é a primeira vez que Beyoncé <e-answer>viste</e-answer> (vestir) unha marca francesa.
+6. A Federación Portuguesa de Naturismo quéixase de que as praias naturistas están a ser invadidas por persoas que non se <e-answer>ispen</e-answer> (espir).
+7. Somos, neste momento, os peores entre os peores do mundo no que <e-answer>concirne</e-answer> (concernir) aos indicadores de desemprego.
+8. Os emigrantes cualificados <e-answer>prefiren</e-answer> (preferir) os países do Norte da Europa.
+9. Muller grávida <e-answer>agrede</e-answer> (agredir) médica no servizo de urxencias do hospital de Ourense.
+10. Os círculos sociais en que as persoas se <e-answer>insiren</e-answer> (inserir) poden afectar as súas oportunidade de empregos.
+11. Para aqueles que tiveren curiosidade <e-answer>suxiro</e-answer> unha visita ao sitio web da compañía.
+
+<e-validate>Verifica as respostas</e-validate>
