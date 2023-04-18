@@ -63,7 +63,7 @@ Ao contraermos débedas, estamos a **endebedarnos**, claro.
 
 Devaluar (es) > **desvalorizar(se)** ou **depreciar(se)** (gl)
 
-**Desvalorizar** ou **depreciar** é diminuír o valor a algunha cousa. As cousas tamén poden perder valor, nese caso, **desvalorízanse** ou **deprécianse***.*
+**Desvalorizar** ou **depreciar** é diminuír o valor a algunha cousa. As cousas tamén poden perder valor, nese caso, **desvalorízanse** ou **deprécianse**.
 
 **Desvalorización** e **depreciación** son os substantivos correspondentes.
 

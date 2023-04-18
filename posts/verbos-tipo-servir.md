@@ -36,7 +36,6 @@ Imperativo
 * s**i**nte
 * s**e**ntide
 
-
 O mesmo paradigma é o dos verbos *ferir, mentir, servir, seguir* e dos seus derivados e compostos: *malferir; desmentir; asentir, consentir, resentir; conseguir, perseguir* e *proseguir.*
 
 ### Repara!
@@ -56,7 +55,7 @@ Completa os espazos cos verbos no presente do indicativo:
 7. O mercado europeo é un dos que máis se <e-answer>resente</e-answer> (resentir) coa persecución política aos diésel.
 8. As forzas políticas que apoian, <e-answer>consenten</e-answer> (consentir) e toleran esta decisión son cómplices e responsábeis perante o pobo.
 9. <e-answer>Sirvo</e-answer> (servir) unha media de 500 comidas diarias e funciona todo ás mil marabillas. (Eu)
-10. O meu fillo di que <e-answer>mente</e-answer> (mentir) para non me decepcionar.
+10. Case todas as persoas <e-answer>menten</e-answer> (mentir) no currículo.
 11. O xogador dixo que xa se <e-answer>sente</e-answer> (sentir) mellor.
 
 <e-validate>Verifica as respostas</e-validate>
