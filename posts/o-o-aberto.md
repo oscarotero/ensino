@@ -1,8 +1,8 @@
 ---
-title: O o aberto
+title: O o da palabra novas
 summary: ""
 tags:
-  - sons_vocalicos
+  - o_o_aberto
 draft: false
 ---
 Repara en como é pronunciado o *o* da palabra *novas* que aparece na frase  "E agora novas incribles do combo infinito R" coa que se inicia este anuncio de R:
