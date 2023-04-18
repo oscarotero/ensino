@@ -1,6 +1,6 @@
 ---
 title: Sabemos falar de economía?
-summary: Glosario con algúns dos termos máis usados nas relacións económicas
+summary: Glosario con algúns dos termos máis utilizados nas relacións económicas
 tags:
   - lexico
 draft: false
@@ -33,7 +33,7 @@ Para referirnos á persoa que trata das contas podemos usar calquera destas dúa
 
 Corredor (es) > **corretor** (gl)
 
-Un *corretor* é a persoa que actúa como intermediaria nunha operación comercial. Os corretores de bolsa, de comercio ou os de seguros dedícanse, por tanto, á **corretoría**. *Corretoría* tamén é o nome do local onde desenvolven o seu traballo.
+Un **corretor** é a persoa que actúa como intermediaria nunha operación comercial. Os corretores de bolsa, de comercio ou os de seguros dedícanse, por tanto, á **corretoría**. **Corretoría** tamén é o nome do local onde desenvolven o seu traballo.
 
 Por último, a **corretaxe** é a comisión que cobra un corretor como remuneración polos seus servizos. 
 
@@ -43,7 +43,7 @@ Por último, a **corretaxe** é a comisión que cobra un corretor como remunerac
 
 Coste (es) > **custo** (gl)
 
-O *custo* é o diñeiro que se paga por unha cousa, porque todo ten un **prezo**. 
+O **custo** é o diñeiro que se paga por unha cousa, porque todo ten un **prezo**. 
 
 Por favor, non confundas os **custos** coas **custas**, quere dicir, cos gastos dun proceso xudicial.
 
@@ -63,7 +63,7 @@ Ao contraermos débedas, estamos a **endebedarnos**, claro.
 
 Devaluar (es) > **desvalorizar(se)** ou **depreciar(se)** (gl)
 
-*Desvalorizar* ou *depreciar* é diminuír o valor a algunha cousa. As cousas tamén poden perder valor, nese caso, *desvalorízanse* ou *deprécianse.*
+**Desvalorizar** ou **depreciar** é diminuír o valor a algunha cousa. As cousas tamén poden perder valor, nese caso, **desvalorízanse** ou **deprécianse***.*
 
 **Desvalorización** e **depreciación** son os substantivos correspondentes.
 
@@ -73,7 +73,7 @@ Devaluar (es) > **desvalorizar(se)** ou **depreciar(se)** (gl)
 
 Financiación (es) > **financiamento** (gl)
 
-O *financiamento* é o conxunto de recursos monetarios que se destinan a unha determinada actividade ou proxecto económico.
+O **financiamento** é o conxunto de recursos monetarios que se destinan a unha determinada actividade ou proxecto económico.
 
 </article> 
 
@@ -81,7 +81,7 @@ O *financiamento* é o conxunto de recursos monetarios que se destinan a unha de
 
 Fondos buitre (es) > **fondos voitre** (gl)
 
-Os *fondos voitre* son fondos de investimento cunha alta liquidez que aproveitan os momentos de debilidade económica, dunha entidade ou dun estado, para mercaren a súa débeda e negociaren con ela despois. 
+Os **fondos voitre** son fondos de investimento cunha alta liquidez que aproveitan os momentos de debilidade económica, dunha entidade ou dun estado, para mercaren a súa débeda e negociaren con ela despois. 
 
 </article>
 
@@ -89,7 +89,7 @@ Os *fondos voitre* son fondos de investimento cunha alta liquidez que aproveitan
 
 Interés (es) > **xuro** (gl)
 
-O *xuro* é o rendemento proveniente de diñeiro emprestado.
+O **xuro** é o rendemento proveniente de diñeiro emprestado.
 
 A cantidade de diñeiro, expresada normalmente en porcentaxe anual, que produce un capital emprestado denomínase **tipo de xuro** ou **taxa de xuro**.
 
@@ -107,7 +107,7 @@ A sigla provén da frase **i**mposto sobre o **v**alor **e**ngadido. En portugu�
 
 Inversión (es) > **investimento** (gl)
 
-Un *investimento* é calquera gasto ou aplicación de recursos que produza un retorno no futuro.
+Un **investimento** é calquera gasto ou aplicación de recursos que produza un retorno no futuro.
 
 O verbo é **investir** e os que invisten son **investidores** ou **investidoras**.
 
@@ -119,7 +119,7 @@ Mayorista (es) > **grosista** (gl)
 
 **Grosistas** son as persoas que compran ou venden grandes cantidades de mercadorías.
 
-Pode haber comerciantes grosistas, distribuidores grosistas e tamén mercados grosistas.
+Pode haber **comerciantes grosistas**, **distribuidores grosistas** e tamén **mercados grosistas**.
 
 </article>
 
@@ -127,7 +127,7 @@ Pode haber comerciantes grosistas, distribuidores grosistas e tamén mercados gr
 
 Mercader (es) > **mercador** (gl)
 
-Un *mercador* é a persoa que comercia con mercadorías.
+Un **mercador** é a persoa que comercia con mercadorías.
 
 </article>
 
@@ -143,7 +143,7 @@ Os que se dedican á venda en pequena escala son os **comerciantes retallistas**
 
 Rentabilidad (es) > **rendibilidade** (gl)
 
-A *rendibilidade* é a capacidade de producir rendementos.
+A **rendibilidade** é a capacidade de producir rendementos.
 
 O verbo é **render** e o adxectivo, **rendíbel**.
 
@@ -153,7 +153,7 @@ O verbo é **render** e o adxectivo, **rendíbel**.
 
 Pagaré (es) > **nota promisoria** (gl)
 
-Unha *nota promisoria* é o documento en que unha persoa física ou xurídica se compromete a pagar unha certa cantidade nun tempo determinado.
+Unha **nota promisoria** é o documento en que unha persoa física ou xurídica se compromete a pagar unha certa cantidade nun tempo determinado.
 
 </article>
 
@@ -161,7 +161,7 @@ Unha *nota promisoria* é o documento en que unha persoa física ou xurídica se
 
 Prestar (es) > **emprestar** (gl)
 
-*Emprestar* é confiar algunha cousa temporariamente a alguén.
+**Emprestar** é confiar algunha cousa temporariamente a alguén.
 
 A cantidade de diñeiro ou a cousa que se empresta é o **empréstito**.
 
@@ -181,7 +181,7 @@ O verbo é **orzar** e tamén son moi usadas as expresións **pedir un orzamento
 
 Pyme (es) > **peme** (gl)
 
-Unha *peme* é unha empresa que non supera un determinado número de empregados ou un volume de negocio anual que varía segundo a lexislación dos distintos países.
+Unha **peme** é unha empresa que non supera un determinado número de empregados ou un volume de negocio anual que varía segundo a lexislación dos distintos países.
 
 </article>
 
@@ -189,7 +189,7 @@ Unha *peme* é unha empresa que non supera un determinado número de empregados 
 
 Quiebra (es) > **quebra** (gl)
 
-A *quebra* é a situación dunha empresa ou entidade que, por non ter capacidade de pagar as débedas e de cumprir as obrigacións contraídas, deixa de ser viábel economicamente.
+A **quebra** é a situación dunha empresa ou entidade que, por non ter capacidade de pagar as débedas e de cumprir as obrigacións contraídas, deixa de ser viábel economicamente.
 
 </article>
 
@@ -197,6 +197,6 @@ A *quebra* é a situación dunha empresa ou entidade que, por non ter capacidade
 
 Quita (es) > **quitación** (gl)
 
-Unha *quitación* é a remisión dunha débeda ou parte dela por parte do acredor.
+Unha **quitación** é a remisión dunha débeda ou parte dela por parte do acredor.
 
 </article>
