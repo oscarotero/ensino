@@ -1,6 +1,7 @@
 ---
 title: 22 preguntas sobre o Entroido galego
-summary: Damos resposta a algunhas cuestións básicas sobre esta festa
+summary: Cartóns ou flashcards coas respostas a algunhas cuestións básicas sobre
+  esta festa
 tags:
   - lexico
 ---
