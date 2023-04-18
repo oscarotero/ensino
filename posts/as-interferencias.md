@@ -1,32 +1,34 @@
 ---
 title: Interferencias e desviacións do galego estándar
+summary: Interferencias ortográficas, fonéticas, morfolóxicas, sintácticas,
+  léxicas e semánticas. Hiperenxebrismos
 tags:
   - lexico
 draft: false
 ---
 ## Causas
 
-\- Contacto e conflito lingüístico galego-castelán
+\- Contacto e conflito lingüístico galego-castelán.
 
-\- Semellanza formal entre o galego e o castelán, dúas linguas románicas
+\- Semellanza formal entre o galego e o castelán, dúas linguas románicas.
 
-\- Ausencia dun modelo de galego estándar durante un longo período
+\- Ausencia dun modelo de galego estándar durante un longo período.
 
 ## Tipos de interferencias
 
 ### Interferencias ortográficas
 
-[*\*grabar* por *gravar*](https://www.youtube.com/watch?v=bvX5KyhDmrY)*,* *\*móvil* por *móbil,* *hola* *por* ola,* *ahí por aí,* [*\*extender* por *estender*](https://www.youtube.com/watch?v=MV46n3KQcDs) 
+[*\*grabar* por *gravar*](https://www.youtube.com/watch?v=bvX5KyhDmrY)*,* *\*móvil* por *móbil,* *\*hola* por *ola,* *\*ahí por aí,* [*\*extender* por *estender*](https://www.youtube.com/watch?v=MV46n3KQcDs) 
 
 ### Interferencias fonéticas
 
 \- Sistema de 5 vogais fronte ao sistema de 7 do galego tradicional
 
-\- Dificultade para pronunciar a nasal velar sonora: *unha, ningún*
+\- Dificultade para pronunciar a nasal velar sonora: *u**nh**a, ningú**n***
 
-\- Dificultade para pronunciar a fricativa prepalatal xorda: *xenio, ameixa*
+\- Dificultade para pronunciar a fricativa prepalatal xorda: *bai**x**a, amei**x**a*
 
-\- Acentuación errada: *\*acné* por *acne,* *olimpiadas* por *olimpíadas,* *héroe* por heroe, *atmósfera* por *atmosfera,* *triatlón* por *tríatlon,* *\*pentatlón* por *péntatlon,* *\*decatlón* por *décatlon,* *\*radón* por *radon,* [*\*neón* por *neon*](https://www.youtube.com/watch?v=QGfDdP9E9C8)*, *páxaro* por *paxaro, *élite* por *elite,* *parásito* por *parasito,* *médula* por *medula,* *termostato* por *termóstato,* *isobara* por *isóbara,* [*\*cardiaco* por *cardíaco*](https://www.youtube.com/watch?v=eSFcXOJyIVg)*, *cónclave* por *conclave,* *gladiolo* por *gladíolo,* *peonía* por *peonia,* *travesti* por *travestí*
+\- Acentuación errada: *\*acné* por *acne,* *\*olimpiadas* por *olimpíadas,* *héroe* por heroe,* *atmósfera* por *atmosfera,* *\*triatlón* por *tríatlon,* *\*pentatlón* por *péntatlon,* *\*decatlón* por *décatlon,* *\*radón* por *radon,* [*\*neón* por *neon*](https://www.youtube.com/watch?v=QGfDdP9E9C8)*,* *\*páxaro* por *paxaro,* *\*élite por elite,* *\*parásito* por *parasito,* *\*médula* por *medula,* *\*termostato* por *termóstato,* *\*isobara* por *isóbara,* [*\*cardiaco* por *cardíaco*](https://www.youtube.com/watch?v=eSFcXOJyIVg)*,* *\*cónclave* por *conclave,* *\*gladiolo* por *gladíolo,* *\*peonía* por *peonia,* *\*travesti* por *travestí*
 
 ### Interferencias morfolóxicas
 
@@ -87,25 +89,25 @@ Preposición *a* na perífrase *ir + infinitivo:* [\#DígochoEu Moito ollo con i
 
 ### Interferencias léxicas
 
-Castelanismos adaptados: *conexo, antoxo*
+Castelanismos adaptados: *\*conexo, \*antoxo*
 
-Castelanismos plenos: *miércoles, [abuelo](https://www.youtube.com/watch?v=wCCYJL24Eqo), [postre](https://www.youtube.com/watch?v=oloJqSn7iCo), [alquiler](https://www.youtube.com/watch?v=BxYS3xOhsH8), [bache](https://www.youtube.com/watch?v=IhHbh8T0Lj8)*
+Castelanismos plenos: *\*miércoles,* *\*[abuelo](https://www.youtube.com/watch?v=wCCYJL24Eqo),* *\*[postre](https://www.youtube.com/watch?v=oloJqSn7iCo)*, *\*[alquiler](https://www.youtube.com/watch?v=BxYS3xOhsH8)*, *\*[bache](https://www.youtube.com/watch?v=IhHbh8T0Lj8),* **[gafas](https://www.youtube.com/watch?v=ynYsAd0Y0mA),* **[bronca](https://digochoeu.gal/videos/digochoeu-non-digas-bronca/),*
 
 ### Interferencias semánticas
 
-*pobo* > [\#DígochoEu Moito ollo cos pobos](https://www.youtube.com/watch?v=fj0pqJp5MUQ)
+\**pobo* > [\#DígochoEu Moito ollo cos pobos](https://www.youtube.com/watch?v=fj0pqJp5MUQ)
 
-*largo* > [\#DígochoEu Non confundas longo e largo](https://www.youtube.com/watch?v=3-FAZqQKCjU)
+\**largo* > [\#DígochoEu Non confundas longo e largo](https://www.youtube.com/watch?v=3-FAZqQKCjU)
 
-*rubio* > [\#DígochoEu Non me chames rubia](https://www.youtube.com/watch?v=j532QA3HDvA)
+\**rubio* > [\#DígochoEu Non me chames rubia](https://www.youtube.com/watch?v=j532QA3HDvA)
 
-*sono* > [\#DígochoEu Non é o mesmo que sono que soño](https://www.youtube.com/watch?v=UgFopQpkiVM&t=9s)
+\**sono* > [\#DígochoEu Non é o mesmo sono que soño](https://www.youtube.com/watch?v=UgFopQpkiVM&t=9s)
 
 ### Hiperenxebrismos ou hipergaleguismos
 
 Fenómeno lingüístico que consiste na modificación artificial de certas palabras propias dun idioma, para diferencialas das formas coincidentes noutra lingua da mesma familia, dando lugar a formas incorrectas que pretenden facerse pasar por xenuínas.
 
-No galego escrito abundan os hiperenxebrismos do tipo: *\*primaveira* (por *primavera)*; *\*sinceiro* (por *sinceiro);* *\*esquiña* (por *esquina);* *\*destiño* (por *destino*) *\*calqueira* (por *calquera);* *\*abandoar* (por *abandonar);* *inconvinte* (por *inconveniente);* *humán (por* humano)* etc.
+No galego escrito abundan os hiperenxebrismos do tipo: *\*primaveira* (por *primavera)*; *\*sinceiro* (por *sinceiro);* *\*esquiña* (por *esquina);* *\*destiño* (por *destino*) *\*calqueira* (por *calquera);* *\*abandoar* (por *abandonar);* *\*inconvinte* (por *inconveniente);* **humán* (por *humano)* etc.
 
 Outros exemplos:
 
@@ -114,4 +116,5 @@ Outros exemplos:
 * [\#DígochoEu Non digas *brilar](https://www.youtube.com/watch?v=_dhYgyHlbLw)
 * [\#DígochoEu Non digas *xeralizado](https://www.youtube.com/watch?v=mg4mmfOO7fU)
 * [\#DígochoEu Non digas *pranta](https://www.youtube.com/watch?v=nNc8b8zpq-c)
-* [\#DigochoEu Non digas *estrano](https://www.youtube.com/watch?v=rTE5nEbi_94&t=5s)
+* [\#DígochoEu Non digas *estrano](https://www.youtube.com/watch?v=rTE5nEbi_94&t=5s)
+* [\#DígochoEu Non digas *pracas de xeo](https://www.youtube.com/watch?v=lt_cRwYQCf0)
