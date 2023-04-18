@@ -131,7 +131,7 @@ Nos cartóns aparecen os nomes das *especias* e *herbas aromáticas* máis habit
 
 <e-card color="5">
   <div>pemento (doce, picante)</div>
-  <div>pimentón (es) / pimentão (doce, picante) ~ colorau (pt)</div>
+  <div>pimentón (dulce, picante) (es) / pimentão (doce, picante) ~ colorau (pt)</div>
 </e-card>
 
 <e-card color="6">
