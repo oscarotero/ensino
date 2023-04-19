@@ -23,6 +23,18 @@ O **comercio a retallo** é o comercio de mercadorías en cantidades pequenas.
 
 <article>
 
+Bursátil (es) > **bolsista** (gl)
+
+**Bolsista** é o adxectivo que debemos usar en galego para falarmos de todo o relativo á bolsa de valores ou aos movementos comerciais nela realizados.
+
+**Bolsista** tamén pode ser un substantivo. Neste caso, un ou unha **bolsista** é o profesional que traballa na bolsa.
+
+</article>
+
+<article> 
+
+<article>
+
 Contable (es) > **contador** ou **contábel** (gl)
 
 Para referirnos á persoa que trata das contas podemos usar calquera destas dúas formas.
