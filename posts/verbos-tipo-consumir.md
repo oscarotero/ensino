@@ -45,9 +45,8 @@ Completa os espazos cos verbos no presente do indicativo:
 
 Como a forma da P2 do presente do indicativo é *consomes,* moitas persoas cren que a segunda vogal da raíz da P2 do imperativo tamén é un *o*. Non é! As formas do imperativo teñen un *u:*
 
-*consume ti*
-
-*consumide vós*
+* *cons**u**me ti*
+* *cons**u**mide vós*
 
 Para esclareceres calquera dúbida, fai o seguinte exercicio.
 
