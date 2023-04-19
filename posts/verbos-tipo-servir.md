@@ -38,7 +38,7 @@ Imperativo
 
 O mesmo paradigma é o dos verbos *ferir, mentir, servir, seguir* e dos seus derivados e compostos: *malferir; desmentir; asentir, consentir, resentir; conseguir, perseguir* e *proseguir.*
 
-### Repara!
+## Repara!
 
 *Conferir, inferir* etc. non son derivados de *ferir*.
 

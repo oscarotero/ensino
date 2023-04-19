@@ -43,7 +43,7 @@ Completa os espazos cos verbos no presente do indicativo:
 
 ## Agora que sabes isto, non cometas erros por ultracorrección!
 
-Como a forma da P2 do presente de indicativo é *consomes,* moitas persoas cren que a segunda vogal da raíz da P2 do imperativo tamén é un *o*. Nada diso! As formas do imperativo teñen un *u:*
+Como a forma da P2 do presente do indicativo é *consomes,* moitas persoas cren que a segunda vogal da raíz da P2 do imperativo tamén é un *o*. Non é! As formas do imperativo teñen un *u:*
 
 *consume ti*
 
