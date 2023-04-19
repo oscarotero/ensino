@@ -31,8 +31,6 @@ Bursátil (es) > **bolsista** (gl)
 
 </article>
 
-<article> 
-
 <article>
 
 Contable (es) > **contador** ou **contábel** (gl)
