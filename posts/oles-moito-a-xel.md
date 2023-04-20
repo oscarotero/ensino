@@ -6,7 +6,7 @@ draft: false
 ---
 O verbo *ulir* é un verbo con alternacia vocálica. Lémbraste de cal é a particularidade que presentan este tipo de verbos? 
 
-Comeza por ollar o vídeo de Páramo Pictures que parodia a música All the things she said da banda rusa t..A.T.u. A versión deles intitúlase Oles moito a xel!:
+Comeza por ollar o vídeo de Páramo Pictures que parodia a música All the things she said da banda rusa [t.A.T.u.](https://gl.wikipedia.org/wiki/T.A.T.u.) A versión deles intitúlase Oles moito a xel!:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J9W1bEYpSV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
