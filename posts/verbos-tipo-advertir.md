@@ -2,7 +2,7 @@
 title: Verbos tipo advertir
 tags:
   - verbos_con_alternancia_vocálica
-draft: true
+draft: false
 ---
 Trátase dun grupo de verbos que teñen *e* como vogal final do lexema no infinitivo (adv**e**rt-ir). Estes verbos trocan o *e* en *i* nas formas do presente do indicativo e imperativo en que a raíz é tónica e, tamén, en todo o presente do subxuntivo:
 

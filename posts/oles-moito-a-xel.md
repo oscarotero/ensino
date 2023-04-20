@@ -2,7 +2,7 @@
 title: Oles moito a xel!
 tags:
   - verbos_con_alternancia_vocálica
-draft: true
+draft: false
 ---
 O verbo *ulir* é un verbo con alternacia vocálica. Lémbraste de cal é a particularidade que presentan este tipo de verbos? 
 
