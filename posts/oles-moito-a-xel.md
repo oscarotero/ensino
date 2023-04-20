@@ -1,5 +1,6 @@
 ---
 title: Oles moito a xel!
+summary: Ulir é un verbo con alternancia vocálica
 tags:
   - verbos_con_alternancia_vocálica
 draft: false
