@@ -84,7 +84,7 @@ E non fica por aquí a cousa, porque os verbos tipo *sentir* causan tamén algun
 
 ## Exercicio
 
-Completa os espazos cos verbos no presente do indicativo ou no imperativo:
+Completa os espazos cos verbos no presente do subxuntivo ou no imperativo:
 
 1. É Nadal, mais non se <e-answer>sinta</e-answer> (sentir) obrigado a estar feliz (vostede).
 2. O presidente do Consello di que non hai garantías de que a Unión Europea <e-answer>consiga</e-answer> (conseguir) evitar a saída británica.
