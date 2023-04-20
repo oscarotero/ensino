@@ -52,7 +52,7 @@ Para esclareceres calquera dúbida, fai o seguinte exercicio.
 
 ## Exercicio
 
-Completa os espazos coa P2 dos verbos no presente de indicativo ou no imperativo segundo corresponda:
+Completa os espazos coa P2 dos verbos no presente do indicativo ou no imperativo:
 
 1. <e-answer>Sube</e-answer> (subir) ao segundo andar e espérame no meu gabinete.
 2. O médico díxoche que <e-answer>consomes</e-answer> (consumir) demasiados alimentos ultraprocesados.

@@ -59,3 +59,43 @@ Completa os espazos cos verbos no presente do indicativo:
 11. O xogador dixo que xa se <e-answer>sente</e-answer> (sentir) mellor.
 
 <e-validate>Verifica as respostas</e-validate>
+
+## Presta atención!
+
+### Primeiro
+
+Aínda que a vogal temática da maioría das formas do presente do indicativo é *\-e-:* *s**e**ntes, s**e**nte, s**e**ntimos, s**e**ntides, s**e**nten,* a primeira persoa é *s**i**nto,* con *\-i-*. A ver, é certo que o erro máis habitual, e o que debes evitar, é dicir *\*sintes, \*sinte* e *\*sinten,* mais tamén hai falantes aos que o contacto coas formas correctas do estándar os leva a pensar que a P1 segue o mesmo padrón de conxugación. Isto é o que explica, por exemplo, que os Verto anden a cantar este retrouso:
+
+*Xa non podo deixar de pensar*\
+*en como o mundo non para*\
+*e eu **sego** igual.*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ponwjk2X720" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Cantas saudades temos de Verto! Tiña que ser dito e foi dito! 
+
+### Segundo
+
+A vogal temática tamén é *\-i-* en todas as formas do presente do subxuntivo *(s**i**nta, s**i**ntas, s**i**nta, s**i**ntamos, s**i**ntades, s**i**ntan)* e na segunda persoa do singular do imperativo *(s**i**nte).*
+
+As persoas que din *senta, sentas...* moi probabelmente están a cometer un erro por ultracorrección. Saben que as formas correctas son *sente, sentes...* e adecúan as formas do subxuntivo a ese modelo. O problema é que a conxugación deste tipo de verbos non é completamente regular, como acabas de ver, hai excepcións.
+
+E non fica por aquí a cousa, porque os verbos tipo *sentir* causan tamén algunha dor de cabeza aos galegos á hora de falaren portugués. A razón neste caso é a P2 do imperativo, que en portugués é *sente* e non *sinte.* Lémbrate disto a próxima vez que vaias a Portugal.
+
+## Exercicio
+
+Completa os espazos cos verbos no presente do indicativo ou no imperativo:
+
+1. É Nadal, mais non se <e-answer>sinta</e-answer> (sentir) obrigado a estar feliz (vostede).
+2. O presidente do Consello di que non hai garantías de que a Unión Europea <e-answer>consiga</e-answer> (conseguir) evitar a saída británica.
+3. Se for mentira, <e-answer>desmintan</e-answer> (desmentir) (vostedes).
+4. Estar en forma sen saír da casa? <e-answer>Siga</e-answer> (seguir) estas 8 canles de Youtube (vostede).
+5. O presidente aprobou unha lei que permite aplicar a pena de morte a calquera individuo que mutile, <e-answer>fira</e-answer> (ferir) ou mate outra persoa.
+6. Non me <e-answer>mintas</e-answer> (mentir), por favor, o xefe de estudos contoumo todo. (ti)
+7. Para que haxa infracción, é necesario que o club promova, <e-answer>consinta</e-answer> (consentir) ou tolere tal comportamento.
+8. Os estados da UE preparan sancións contra Turquía, caso <e-answer>prosiga</e-answer> (proseguir) cos seus plans de explotación de gas e petróleo.
+9. Os médicos loitan por un servizo de saúde que <e-answer>sirva</e-answer> (servir) os intereses dos doentes.
+10. Se me quixer perseguir, que me <e-answer>persiga</e-answer> (perseguir).
+11. Se ves mensaxes de erro utilizando os nosos programas, <e-answer>sigue</e-answer> (seguir) as instrucións.
+
+<e-validate>Verifica as respostas</e-validate>
