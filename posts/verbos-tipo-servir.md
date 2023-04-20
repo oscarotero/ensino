@@ -92,7 +92,7 @@ Completa os espazos cos verbos no presente do indicativo ou no imperativo:
 4. Estar en forma sen saír da casa? <e-answer>Siga</e-answer> (seguir) estas 8 canles de Youtube (vostede).
 5. O presidente aprobou unha lei que permite aplicar a pena de morte a calquera individuo que mutile, <e-answer>fira</e-answer> (ferir) ou mate outra persoa.
 6. Non me <e-answer>mintas</e-answer> (mentir), por favor, o xefe de estudos contoumo todo. (ti)
-7. Para que haxa infracción, é necesario que o club promova, <e-answer>consinta</e-answer> (consentir) ou tolere tal comportamento.
+7. A relación sexual cun menor é sempre un delito contra el, aínda que <e-answer>consinta</e-answer> (consentir).
 8. Os estados da UE preparan sancións contra Turquía, caso <e-answer>prosiga</e-answer> (proseguir) cos seus plans de explotación de gas e petróleo.
 9. Os médicos loitan por un servizo de saúde que <e-answer>sirva</e-answer> (servir) os intereses dos doentes.
 10. Se me quixer perseguir, que me <e-answer>persiga</e-answer> (perseguir).
