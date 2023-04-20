@@ -43,7 +43,7 @@ Completa os espazos cos verbos no presente do indicativo:
 6. A Federación Portuguesa de Naturismo quéixase de que as praias naturistas están a ser invadidas por persoas que non se <e-answer>ispen</e-answer> (espir).
 7. Somos, neste momento, os peores entre os peores do mundo no que <e-answer>concirne</e-answer> (concernir) aos indicadores de desemprego.
 8. Os emigrantes cualificados <e-answer>prefiren</e-answer> (preferir) os países do Norte da Europa.
-9. Muller grávida <e-answer>agrede</e-answer> (agredir) médica no servizo de urxencias do hospital de Ourense.
+9. Muller grávida <e-answer>agride</e-answer> (agredir) médica no servizo de urxencias do hospital de Ourense.
 10. Os círculos sociais en que as persoas se <e-answer>insiren</e-answer> (inserir) poden afectar as súas oportunidade de empregos.
 11. Para aqueles que tiveren curiosidade, <e-answer>suxiro</e-answer>(suxerir) unha visita ao sitio web da compañía (eu).
 
