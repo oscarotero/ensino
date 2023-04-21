@@ -41,7 +41,7 @@ Como saber cal é a forma que debemos usar non é así tan fácil, fixen este ex
 7. <e-answer>Cómpre</e-answer> moita paciencia con el, é unha persoa difícil.
 8. Todos os seres vivos <e-answer>cumpren</e-answer> un papel no ecosistema.
 9. O preso <e-answer>cumpre</e-answer> unha pena de dez anos na cadea de Teixeiro.
-10. Non nos <e-answer>cómpren</e-answer> tantos luxos, gostamos de cousas simples.
+10. Non nos <e-answer>cómpren</e-answer> tantos luxos, gustamos de cousas simples.
 
 <e-validate>Verifica as respostas</e-validate>
 
