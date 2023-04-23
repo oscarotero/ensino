@@ -21,4 +21,4 @@ Na miña familia, dicimos todos \[kíbi]. A miña impresión é que esta é tam�
 
 ## Sabías que...
 
-A palabra é unha adaptación da forma inglesa *kiwifruit,* que ten a súa orixe nun empréstito do maorí. Nun principio, *kiwi* era o nome da ave símbolo da Nova Zelandia. Coa introdución desta especie no país no inicio do século XX, comezaron a chamar tamén así o froito probabelmente por causa do parecido entre a súa casca e a plumaxe escura de aspecto piloso deste [paxaro](https://gl.wikipedia.org/wiki/Kiwis).
+A palabra é unha adaptación do termo inglés *kiwifruit,* que ten a súa orixe nun empréstito do maorí. Nun principio, *kiwi* era o nome da ave símbolo da Nova Zelandia. Coa introdución desta especie no país no inicio do século XX, comezaron a chamar tamén así o froito, probabelmente por causa do parecido entre a súa casca e a plumaxe escura de aspecto piloso deste [paxaro](https://gl.wikipedia.org/wiki/Kiwis).
