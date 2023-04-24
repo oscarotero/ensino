@@ -38,7 +38,7 @@ Agora só resta imaxinarmos posíbeis situacións e aplicarmos a fórmula. Se o 
 * Aos asistentes a unha reunión á que chegas atrasado > *Grazas por esperaren por min*
 * A unha avoa > *Grazas por nos levares á escola*
 * A unha madriña > *Grazas por estares sempre ao meu lado*
-* A un xefe > *Grazas por confiares en min*
+* A un xefe > *Grazas por confiar en min*
 * Ao noso grupo de amigas > *Grazas por serdes tan marabillosas*
 * A unha adestradora > *Grazas por creres em min*
 * A un marido > *Grazas por cociñares sempre para min*
