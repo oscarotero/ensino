@@ -95,5 +95,5 @@ A historia de Buttercup ensínanos dúas cousas:
 * En 2020, a compañía PÉREZ&FERNÁNDEZ en coprodución co Centro Dramático Galego
   (CDG) presentaron [a adaptación teatral desta novela de María Sorlar](http://centrodramatico.xunta.gal/cdg/axenda/axendad.php?id_e=2748&lg=gal).   
 * Os amantes da banda deseñada poden ler *[Novo mundo. Isabel Zendal na expedición da vacina](https://www.youtube.com/watch?v=jCJiTAZQq6c)*, unha versión neste formato editada pola editora Bululú.
-* E hai tamén un telefilme que narra as aventuras da Real Expedición Filantrópica da Vacina. Titúlase
+* E hai tamén un telefilme que narra as aventuras da Real Expedición Filantrópica da Vacina. Intitúlase
   *[22 ángeles](https://youtu.be/Zt9k_qdsgBw)* e a actriz galega María Castro é quen interpreta o papel de Isabel Zendal nesta produción.
