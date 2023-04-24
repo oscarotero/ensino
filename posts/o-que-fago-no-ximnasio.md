@@ -25,7 +25,7 @@ Continuamos cunha serie de *agachamentos. Sentadillas* é o nome en español. Po
 
 ## 4. Agachamentos búlgaros
 
-E máis agachamentos! Esta é unha modalidade das moitas que existen deste exercicio. Lémbrate de que no caso das palabras compostas por un substantivo e un adxectivo, tes que pór en plural as dúas palabras. Ex.: *ourizo cacho* > *ourizos cachos.*
+E máis agachamentos! O agachamento búlgaro é unha modalidade das moitas que existen deste exercicio. Lémbrate de que no caso das palabras compostas por un substantivo e un adxectivo, tes que pór en plural as dúas palabras. Ex.: *ourizo cacho* > *ourizos cachos.*
 
 <iframe src="https://giphy.com/embed/Q8O1oo9cKR3zbBJA2D" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
