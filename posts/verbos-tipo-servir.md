@@ -68,7 +68,7 @@ Aínda que a vogal temática da maioría das formas do presente do indicativo é
 
 *Xa non podo deixar de pensar*\
 *en como o mundo non para*\
-*e eu **sego** igual.*
+*e eu **\*sego** igual.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ponwjk2X720" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
