@@ -64,7 +64,7 @@ Completa os espazos cos verbos no presente do indicativo:
 
 ### Primeiro
 
-Aínda que a vogal temática da maioría das formas do presente do indicativo é *\-e-:* *s**e**ntes, s**e**nte, s**e**ntimos, s**e**ntides, s**e**nten,* a primeira persoa é *s**i**nto,* con *\-i-*. A ver, é certo que o erro máis habitual, e o que debes evitar, é dicir *\*sintes, \*sinte* e *\*sinten,* mais tamén hai falantes aos que o contacto coas formas correctas do estándar os leva a pensar que a P1 segue o mesmo padrón de conxugación. Isto é o que explica, por exemplo, que os Verto anden a cantar este retrouso:
+Aínda que a vogal temática da maioría das formas do presente do indicativo é *\-e-:* *s**e**ntes, s**e**nte, s**e**ntimos, s**e**ntides, s**e**nten,* a primeira persoa é *s**i**nto,* con *\-i-*. É certo que o erro máis habitual, e o que debes evitar, é dicir *\*sintes, \*sinte* e *\*sinten,* mais tamén hai falantes aos que o contacto coas formas correctas do estándar os leva a pensar que a P1 segue o mesmo padrón de conxugación. Isto é o que explica, por exemplo, que os Verto anden a cantar este retrouso:
 
 *Xa non podo deixar de pensar*\
 *en como o mundo non para*\
