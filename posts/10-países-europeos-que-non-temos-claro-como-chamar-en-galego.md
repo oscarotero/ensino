@@ -1,6 +1,6 @@
 ---
 title: 10 países europeos que non temos claro como chamar en galego
-summary: Neste post falamos sobre a forma correcta de denominarmos 10 países da
+summary: Neste post falamos sobre a forma correcta de nomearmos 10 países da
   Europa e os seus respectivos habitantes.
 tags:
   - lexico
@@ -18,15 +18,15 @@ No caso do país nórdico, a confusión prodúcese só á hora de falarmos dos s
 
 ### 3. Dinamarca: dinamarqués - dinamarquesa
 
-A mesma cousa acontece coa Dinamarca. Aquí, a pesar de estaren admitidas as formas *danés* e *danesa* en galego, é máis recomendábel optarmos polas formas *dinamarqués* e *dinamarquesa,* comúns a toda a lusofonía.
+A mesma cousa acontece coa Dinamarca. Aquí, a pesar de estaren admitidas as formas *danés* e *danesa* en galego, é máis recomendábel optarmos polas voces *dinamarqués* e *dinamarquesa,* comúns a toda a lusofonía.
 
 ### 4. Romanía: romanés - romanesa
 
-Con certeza, a campioa absoluta nestas olimpíadas do erro é a Romanía. O motivo é que as denominacións en galego difiren das usadas polos nosos veciños. Da dos españois, xa que en España todos os nacidos na *Rumanía* son chamados *rumanos,* e tamén da dos portugueses, quen chaman *Roménia,* ao país, e *romenos* e *romenas,* aos seus habitantes.
+Con certeza, a campioa absoluta nestas olimpíadas do erro é a Romanía. O motivo é que os termos en galego difiren dos usados polos nosos veciños. Dos utilizados polos españois, xa que en España todos os nacidos na *Rumanía* son chamados *rumanos,* e tamén dos dos portugueses, quen chaman *Roménia,* ao país, e *romenos* e *romenas,* aos oriundos do lugar.
 
 ### 5. Países Baixos: neerlandés - neerlandesa
 
-A confusión neste caso débese a que se popularizou a denominación dunha parte do país: *Holanda,* para se referir a todo o conxunto. Porén, se quixermos ser rigorosos, debemos usar *Países Baixos* para o estado e *neerlandeses* ou *neerlandesas* para falarmos dos moradores do lugar.
+A confusión neste caso débese a que se popularizou a designación dunha parte do país: *Holanda,* para se referir a todo o conxunto. Porén, se quixermos ser rigorosos, debemos usar *Países Baixos* para o estado e *neerlandeses* ou *neerlandesas* para falarmos dos habitantes deste reino.
 
 ### 6. Belarús: belaruso - belarusa / bielorruso - bielorrusa
 
@@ -34,7 +34,7 @@ A confusión neste caso débese a que se popularizou a denominación dunha parte
 
 ### 7. República Moldova: moldovo - moldova
 
-Aínda que *Moldavia* é a forma máis común na rúa, a denominación oficial do país en galego é *República Moldova*. Por coherencia co nome do lugar, os seus habitantes son *moldovos* e *moldovas.*
+Aínda que *Moldavia* é a forma máis común na rúa, a denominación oficial do país en galego é *República Moldova*. Por coherencia co nome do lugar, os seus cidadáns son *moldovos* e *moldovas.*
 
 ### 8. Austria: austríaco - austríaca
 

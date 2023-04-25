@@ -4,7 +4,7 @@ tags:
   - verbos_con_alternancia_vocálica
 draft: false
 ---
-Efectivamente, en galego temos dous verbos e non apenas un. Cada un deles, co seu propio significado ou significados: 
+Efectivamente, en galego temos dous verbos e non un. Cada un deles, co seu propio significado ou significados: 
 
 1. cumprir = "executar, desempeñar" \~ "acatar, obedecer" \~ "realizar o prometido" ~ "expiar unha pena por un delito"
 2. cumprir = "ser preciso" ~ "convir, ser conveniente"

@@ -7,7 +7,7 @@ draft: false
 ---
 A maioría dos profesores dirá que debes incorporar o infinitivo flexionado á túa fala para mellorares a túa lingua, a súa presenza é unha marca de calidade lingüística. E teñen razón, o infinitivo flexionado é unha construción singular, senlleira, que só se dá no galego-portugués e no húngaro. Trátase, por tanto, dun trazo identitario que só se encontra nestas linguas, razón máis que suficiente para o preservamos.
 
-A súa natureza única explica tamén que esperte moita curiosidade nas persoas que se achegan ao estudo do galego. É sabido que os estudantes de linguas se senten inevitabelmente atraídos por todas as rarezas das linguas que estudan. Neste sentido, pode dicirse que teñen un comportamento moi similar ao dos turistas. Canto máis estraño ou bizarro for o costume do lugar, máis gustan. No caso dos alumnos estranxeiros é igual, só que aplicado ás palabras ou ás estruturas lingüísticas.
+A súa natureza única explica tamén que esperte moita curiosidade nas persoas que se achegan ao estudo do galego. É sabido que os estudantes de linguas se senten inevitabelmente atraídos por todas as rarezas das linguas que estudan. Neste sentido, pode dicirse que teñen un comportamento moi similar ao dos turistas. Canto máis estraño ou extravagante for o costume do lugar, máis gustan. No caso dos alumnos estranxeiros é igual, só que aplicado ás palabras ou ás estruturas lingüísticas.
 
 No entanto, os estranxeiros non son os únicos a experimentaren o feitizo do infinitivo flexionado. Existen tamén galegos para os cales o infinitivo flexionado é fascinante. Ouviches ben, si, fascinante. Non acreditas? Ten fe, porque non son poucos os galegos e as galegas que confesan que adoran a construción. "É tan lindo ouvila a algún profesor de galego", din con resignación a ollaren para o horizonte.
 
@@ -38,7 +38,7 @@ Agora só resta imaxinarmos posíbeis situacións e aplicarmos a fórmula. Se o 
 * Aos asistentes a unha reunión á que chegas atrasado > *Grazas por esperaren por min*
 * A unha avoa > *Grazas por nos levares á escola*
 * A unha madriña > *Grazas por estares sempre ao meu lado*
-* A un xefe > *Grazas por confiares en min*
+* A un xefe > *Grazas por confiar en min*
 * Ao noso grupo de amigas > *Grazas por serdes tan marabillosas*
 * A unha adestradora > *Grazas por creres em min*
 * A un marido > *Grazas por cociñares sempre para min*
