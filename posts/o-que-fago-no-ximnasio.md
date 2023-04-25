@@ -25,7 +25,7 @@ Continuamos cunha serie de *agachamentos. Sentadillas* é o nome en español. Po
 
 ## 4. Agachamentos búlgaros
 
-E máis agachamentos! Neste caso, unha modalidade das moitas que existen deste exercicio. Lémbrate de que no caso das palabras compostas por un substantivo e un adxectivo, tes que pór en plural as dúas palabras. Ex.: *ourizo cacho* > *ourizos cachos.*
+E máis agachamentos! O agachamento búlgaro é unha modalidade das moitas que existen deste exercicio. Lémbrate de que no caso das palabras compostas por un substantivo e un adxectivo, tes que pór en plural as dúas palabras. Ex.: *ourizo cacho* > *ourizos cachos.*
 
 <iframe src="https://giphy.com/embed/Q8O1oo9cKR3zbBJA2D" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
@@ -37,7 +37,7 @@ O noso seguinte exercicio non son nin as *dominadas* (en español) nin os *pull 
 
 ## 6. Flexións
 
-Deixamos a barra e imos agora para o chan para facermos unhas flexións de brazo. Continuamos con outro exercicio exixente, capaz de deixarnos sen folgos antes de chegarmos a 10. A ver cantas consegues facer?
+Deixamos a barra e imos agora para o chan para facermos unhas flexións de brazo. Continuamos con outro exercicio exixente, capaz de deixarnos sen folgos antes de chegarmos a 10. E ti cantas consegues facer?
 
 <iframe src="https://giphy.com/embed/12NUWErJ3szNC0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
