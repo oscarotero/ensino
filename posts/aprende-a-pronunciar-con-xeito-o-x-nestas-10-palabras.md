@@ -17,6 +17,8 @@ A pronuncia do *x* de todas estas palabras mantense igual nas derivadas.
 
 Temos \[ks] no verbo **anexar**, logo nos dous participios: **anexo** e **anexado**, tamén.
 
+*Anexo* no *Dicionario de pronuncia galega:* [aˈnɛkso̝](https://ilg.usc.es/pronuncia/?pq=&q=anexo&l=1&c%5B%5D=0)
+
 </article>
 
 <article>
@@ -27,6 +29,8 @@ O **circunflexo** é un tipo de acento (^). En portugués úsase para marcar as 
 
 A pronuncia do *x* desta palabra é como a de *nexo.* 
 
+*Circunflexo* no *Dicionario de pronuncia galega:* [θiɾkuɱˈflɛkso̝](https://ilg.usc.es/pronuncia/?pq=&q=circunflexo&l=1&c%5B%5D=0)
+
 </article>
 
 <article>
@@ -35,6 +39,8 @@ A pronuncia do *x* desta palabra é como a de *nexo.*
 
 **Complexo** ten \[ks], e tamén **complexidade**, **acomplexar** e todos os **complexos** resultantes deste verbo: de culpa, de Edipo, de Electra, de inferioridade, de superioridade...
 
+*Complexo* no *Dicionario de pronuncia galega:* [komˈplɛkso̝](https://ilg.usc.es/pronuncia/?pq=&q=complexo&l=1&c%5B%5D=0)
+
 </article>
 
 <article>
@@ -42,6 +48,8 @@ A pronuncia do *x* desta palabra é como a de *nexo.*
 4. **crucifixo**
 
 O xe de **crucifixo** e de **crucifixión** pronúnciase como o de *flexión.*
+
+*Crucifixo* no *Dicionario de pronuncia galega:* [kɾuθiˈfikso̝](https://ilg.usc.es/pronuncia/?pq=&q=crucifixo&l=1&c%5B%5D=0)
 
 </article>
 
@@ -53,6 +61,8 @@ Un **paradoxo** é unha contradición aparente.
 
 A pronuncia da terminación desta palabra é igual á de *heterodoxo.* Neste caso, non hai **paradoxo** ningún, porque **paradoxal** e **paradoxalmente** tamén se pronuncian con \[ks].
 
+*Paradoxo* no *Dicionario de pronuncia galega:* [paɾaˈðɔkso̝](https://ilg.usc.es/pronuncia/?pq=&q=paradoxo&l=1&c%5B%5D=0)
+
 </article>
 
 <article>
@@ -63,6 +73,8 @@ A pronuncia da terminación desta palabra é igual á de *heterodoxo.* Neste cas
 
 Todos fican **perplexos** ao saberen que a pronuncia deste *x* é \[ks]. Pois é, e o mesmo se aplica a **perplexidade**.
 
+*Perplexo* no *Dicionario de pronuncia galega:* [peɾˈplɛkso̝](https://ilg.usc.es/pronuncia/?pq=&q=perplexo&l=1&c%5B%5D=0)
+
 </article>
 
 <article>
@@ -70,6 +82,8 @@ Todos fican **perplexos** ao saberen que a pronuncia deste *x* é \[ks]. Pois é
 7. **prefixo**
 
 Pronúnciase con \[ks] **prefixo** e toda a familia: **prefixación**, **prefixar**, **sufixo**, **sufixar**, **sufixal**, **sufixación**, **infixo**, **interfixo**...
+
+*Prefixo* no *Dicionario de pronuncia galega:* [pɾeˈfikso̝](https://ilg.usc.es/pronuncia/?pq=&q=prefixo&l=1&c%5B%5D=0)
 
 </article>
 
@@ -79,6 +93,8 @@ Pronúnciase con \[ks] **prefixo** e toda a familia: **prefixación**, **prefixa
 
 O son \[ks] está presente en **reflexo**, **retroflexo** e **reflexivo**. O verbo do cal proveñen non é *\*reflexar,* non, é *reflectir.*
 
+*Reflexo* no *Dicionario de pronuncia galega:* [reˈflɛkso̝](https://ilg.usc.es/pronuncia/?pq=&q=reflexo&l=1&c%5B%5D=0)
+
 </article>
 
 <article>
@@ -87,6 +103,6 @@ O son \[ks] está presente en **reflexo**, **retroflexo** e **reflexivo**. O ver
 
 O nome deste pobo xermánico ten \[ks], por tanto, tamén o teñen **saxoa**, **anglosaxón**, **anglosaxoa**, **baixosaxón** e **baixosaxoa**. 
 
-</article>
+*Saxón* no *Dicionario de pronuncia galega:* [sakˈsoŋ](https://ilg.usc.es/pronuncia/?pq=&q=sax%C3%B3n&l=1&c%5B%5D=0)
 
 </article>
