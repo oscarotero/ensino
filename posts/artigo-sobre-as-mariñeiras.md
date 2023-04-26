@@ -4,7 +4,6 @@ summary: Comprensión de textos escritos
 tags:
   - actividades_para_o_ensino_secundario
 ---
-
 <article>
 
 ## A recuperación dunha receita que arrasa seis séculos despois
@@ -16,7 +15,7 @@ Cando a empresa lucense Daveiga iniciou a súa actividade en 2006 non podía
 imaxinar todo o que lle viña detrás. Cun pan sen miolo de longa duración, cunha
 receita baseada no máis sinxelo da alimentación son agora líderes de vendas. As
 súas galletas Mariñeiras pelexan coas compañías máis innovadoras de toda Europa
-na listaxe que elabora cada ano o _Financial Times,_ unha clasificación que
+na listaxe que elabora cada ano o *Financial Times,* unha clasificación que
 recompila as empresas radicadas en Europa que experimentaron un crecemento máis
 rápido. Neste estudo, elaborado polo prestixioso xornal británico en
 colaboración con Statista, figuran as 1.000 empresas europeas cunha maior taxa
@@ -118,7 +117,7 @@ Artigo, con algunha pequena modificación, de Víctor López publicado en
 
 </article>
 
----
+- - -
 
 ## Exercicio 1
 
@@ -149,7 +148,7 @@ Di se as seguintes afirmacións son verdadeiras ou falsas:
 
 Responde as seguintes preguntas:
 
-1. No artigo dise que a empresa tivo un crecemento exponencial, cales son datos
+1. No artigo dise que a empresa tivo un crecemento exponencial, cales son os datos
    que se dan no texto que permiten apoiar esa afirmación?
 2. Cal é a diferenza entre un socio promotor e un socio financeiro?
 3. Que significa que unha empresa actúa como unha forza motriz da economía?
