@@ -39,7 +39,7 @@ A pequena **lente** de material brando que se coloca directamente sobre o ollo p
 
 O obxecto, usado polo persoal médico sobre o rostro, en especial sobre o nariz e a boca, para filtrar o ar ou como barreira protectora é unha **máscara** cirúrxica. Tamén son máscaras as que usan os pacientes que precisan de oxíxeno, as que utilizamos para a práctica do mergullo e aínda esas atrás das que ocultamos a nosa identidade no Entroido.
 
-Por último, tampouco teñen *\-iña* nin *\-illa* ningún dos produtos ou preparados que aplicamos no cabelo, no rostro ou nas pestanas como tratamento. Se quixermos ser máis concretos, só temos de especificar o tipo: *máscara de cabelo, máscara para a cara, máscara de pestanas.*
+Por último, tampouco teñen *\-iña* nin *\-illa* ningún dos produtos ou preparados que aplicamos no cabelo, no rostro ou nas pestanas como tratamento. Se quixermos ser máis concretos, só temos de especificar o tipo: *máscara para o cabelo, máscara para a cara, máscara de pestanas.*
 
 ## 9. Mesilla > mesa de cabeceira
 
