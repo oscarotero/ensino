@@ -7,13 +7,13 @@ draft: false
 ---
 A pesar de seren moitas as campañas publicitarias que contribuíron a espallar a idea de os galegos e as galegas seren persoas meigas que están o día todo a dicir *graciñas, sentidiño* ([palabra do ano 2019](https://portaldaspalabras.gal/lexico/mira-que-din/sentidino/)), *ruliña...* non é ben así. Para o probar, traio aquí esta lista de palabras que, ao contrario do español, non se usan nunca no diminutivo en galego.
 
-## 1. Banquillo > banco
-
-Nin na xustiza nin nos deportes hai *\*banquillos* ou *\*banquiños.* Nos dous casos a única forma correcta na nosa lingua é **banco**. No primeiro sentan os reos ou os acusados que están a ser xulgados na sala dun tribunal. No segundo, os suplentes á espera de entraren en substitución dalgún dos xogadores titulares.
-
-## 2. Bolsillo > bolso ou peto
+## 1. Bolsillo > bolso ou peto
 
 En castelán estes saquiños de pano, cosidos na parte interna ou externa da roupa, reciben o nome de *bolsillos* por seren pequenos. En galego, tanto ten o tamaño e chamámolos simplemente **bolsos** ou petos.
+
+## 2. Banquillo > banco
+
+Nin na xustiza nin nos deportes hai *\*banquillos* ou *\*banquiños.* Nos dous casos a única forma correcta na nosa lingua é **banco**. No primeiro sentan os reos ou os acusados que están a ser xulgados na sala dun tribunal. No segundo, os suplentes á espera de entraren en substitución dalgún dos xogadores titulares.
 
 ## 3. Calzoncillo > calzón
 
