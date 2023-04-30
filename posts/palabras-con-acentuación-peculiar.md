@@ -1,7 +1,7 @@
 ---
 title: Palabras con acentuación peculiar
-summary: "O Dígocho eu dedicou varios vídeos a comparar en cada un a pronuncia 6
-  palabras en español, galego e portugués "
+summary: "O Dígocho eu dedicou esta serie de vídeos a comparar en cada un deles
+  a pronuncia de 6 palabras en español, galego e portugués "
 tags:
   - foneticagalega
 draft: false
