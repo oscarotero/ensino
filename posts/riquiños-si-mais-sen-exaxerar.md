@@ -17,7 +17,7 @@ En castelán estes saquiños de pano, cosidos na parte interna ou externa da rou
 
 ## 3. Calzoncillo > calzón
 
-A peza de roupa interior masculina que cobre a pelve e parte das nádegas, con dúas aberturas para as pernas é un **calzón**. Non usamos, por tanto, o diminutivo.
+A peza de roupa interior masculina que cobre a pelve e parte das nádegas, con dúas aberturas para as pernas, é un **calzón**. Non usamos, por tanto, o diminutivo.
 
 ## 4. Casilla > casa
 
