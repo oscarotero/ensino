@@ -21,7 +21,11 @@ A peza de roupa interior masculina que cobre a pelve e parte das nádegas, con d
 
 ## 4. Casilla > casa
 
-Os cadros pintados nos taboleiros de certos xogos de mesa e tamén os espazos delimitados por liñas en táboas, formularios, cuestionarios e outros impresos non son nin *\*casillas* nin *\*casiñas,* o seu nome é **casas**.
+![](/img/casas_xadrez.jpg)
+
+Os cadros pintados nos taboleiros de certos xogos de mesa (xadrez, damas...) e tamén os espazos delimitados por liñas en táboas, formularios, cuestionarios e outros impresos non son nin *\*casillas* nin *\*casiñas,* o seu nome é **casas**.
+
+Finalmente, aínda que os galegos non podemos "sacar a nadie de sus casillas", somos tan rabudos como calquera e si podemos esgotar a paciencia das persoas e até facer perder a paciencia a un santo.
 
 ## 5. Cigarrillo > cigarro
 
@@ -39,7 +43,7 @@ A pequena **lente** de material brando que se coloca directamente sobre o ollo p
 
 O obxecto, usado polo persoal médico sobre o rostro, en especial sobre o nariz e a boca, para filtrar o ar ou como barreira protectora é unha **máscara** cirúrxica. Tamén son máscaras as que usan os pacientes que precisan de oxíxeno, as que utilizamos para a práctica do mergullo e aínda esas atrás das que ocultamos a nosa identidade no Entroido.
 
-Por último, tampouco teñen *\-iña* nin *\-illa* ningún dos produtos ou preparados que aplicamos no cabelo, no rostro ou nas pestanas como tratamento. Se quixermos ser máis concretos, só temos de especificar o tipo: *máscara para o cabelo, máscara para a cara, máscara de pestanas.*
+Por último, tampouco teñen *\-iña* nin *\-illa* ningún dos produtos ou preparados que aplicamos no cabelo, na cara ou nas pestanas con fins cosméticos. Se quixermos ser máis concretos, só temos de especificar o tipo: *máscara para o cabelo, máscara para o rostro, máscara de pestanas.*
 
 ## 9. Mesilla > mesa de cabeceira
 
