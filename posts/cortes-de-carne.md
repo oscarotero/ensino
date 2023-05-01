@@ -70,7 +70,7 @@ Vira o cartón para descubrires o nome que aparece habitualmente nos menús
 
 <e-card color="3">
   <div>Raxo</div>
-  <div>Raxo</div>
+  <div>Raxo. A forma española <em>cinta de lomo</em> úsase para o corte, mais non para esta forma tan popular de o servir (pedazos de raxo de porco fritos)</div>
 </e-card>
 
 <e-card color="4">
