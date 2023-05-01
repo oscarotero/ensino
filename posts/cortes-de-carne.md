@@ -39,7 +39,7 @@ Vira o cartón para descubrires o nome que aparece habitualmente nos menús
 </e-card>
 
 <e-card color="7">
-  <div>Entreteto</div>
+  <div>Entreteto ~ touciño entrefebrado</div>
   <div>Panceta</div>
 </e-card>
 
@@ -99,7 +99,7 @@ Vira o cartón para descubrires o nome que aparece habitualmente nos menús
 </e-card>
 
 <e-card color="9">
-  <div>Touciño entrefebrado afumado</div>
+  <div>Beicon</div>
   <div>Beicon (es) ~ bacon (en)</div>
 </e-card>
 
