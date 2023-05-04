@@ -1,5 +1,5 @@
 ---
-title: Verbos que non son pronominais
+title: Verbos que non son pronominais en galego
 tags:
   - verbos_pronominais
 draft: false
