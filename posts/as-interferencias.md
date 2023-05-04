@@ -28,7 +28,7 @@ draft: false
 
 \- Dificultade para pronunciar a fricativa prepalatal xorda: *bai**x**a, amei**x**a*
 
-\- Acentuación errada: *\*acné* por *acne,* *\*olimpiadas* por *olimpíadas,* *héroe* por heroe,* *atmósfera* por *atmosfera,* *\*triatlón* por *tríatlon,* *\*pentatlón* por *péntatlon,* *\*decatlón* por *décatlon,* *\*radón* por *radon,* [*\*neón* por *neon*](https://www.youtube.com/watch?v=QGfDdP9E9C8)*,* *\*páxaro* por *paxaro,* *\*élite por elite,* *\*parásito* por *parasito,* *\*médula* por *medula,* *\*termostato* por *termóstato,* *\*isobara* por *isóbara,* [*\*cardiaco* por *cardíaco*](https://www.youtube.com/watch?v=eSFcXOJyIVg)*,* *\*cónclave* por *conclave,* *\*gladiolo* por *gladíolo,* *\*peonía* por *peonia,* *\*travesti* por *travestí*
+\- Acentuación errada: *\*acné* por *acne,* *\*olimpiadas* por *olimpíadas,* *\*héroe* por heroe, *\*atmósfera* por *atmosfera,* *\*triatlón* por *tríatlon,* *\*pentatlón* por *péntatlon,* *\*decatlón* por *décatlon,* *\*radón* por *radon,* [*\*neón* por *neon*](https://www.youtube.com/watch?v=QGfDdP9E9C8)*,* *\*páxaro* por *paxaro,* *\*élite por elite,* *\*parásito* por *parasito,* *\*médula* por *medula,* *\*termostato* por *termóstato,* *\*isobara* por *isóbara,* [*\*cardiaco* por *cardíaco*](https://www.youtube.com/watch?v=eSFcXOJyIVg)*,* *\*cónclave* por *conclave,* *\*gladiolo* por *gladíolo,* *\*peonía* por *peonia,* *\*travesti* por *travestí*
 
 ### Interferencias morfolóxicas
 
@@ -94,7 +94,7 @@ Preposición *a* na perífrase *ir + infinitivo:* [\#DígochoEu Moito ollo con i
 
 Castelanismos adaptados: *\*conexo, \*antoxo*
 
-Castelanismos plenos: *\*miércoles,* *\*[abuelo](https://www.youtube.com/watch?v=wCCYJL24Eqo),* *\*[postre](https://www.youtube.com/watch?v=oloJqSn7iCo)*, *\*[alquiler](https://www.youtube.com/watch?v=BxYS3xOhsH8)*, *\*[bache](https://www.youtube.com/watch?v=IhHbh8T0Lj8),* **[gafas](https://www.youtube.com/watch?v=ynYsAd0Y0mA),* **[bronca](https://digochoeu.gal/videos/digochoeu-non-digas-bronca/),*
+Castelanismos plenos: *\*miércoles,* *\*[abuelo](https://www.youtube.com/watch?v=wCCYJL24Eqo),* *\*[postre](https://www.youtube.com/watch?v=oloJqSn7iCo)*, *\*[alquiler](https://www.youtube.com/watch?v=BxYS3xOhsH8)*, *\*[bache](https://www.youtube.com/watch?v=IhHbh8T0Lj8),* **[gafas](https://www.youtube.com/watch?v=ynYsAd0Y0mA),*** [bronca](https://digochoeu.gal/videos/digochoeu-non-digas-bronca/),*
 
 ### Interferencias semánticas
 
