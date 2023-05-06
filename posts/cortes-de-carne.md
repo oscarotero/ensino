@@ -14,7 +14,7 @@ Vira o cartón para descubrires o nome que aparece habitualmente nos menús
 </e-card>
 
 <e-card color="2">
-  <div>Cacheira, cachola, cachucha</div>
+  <div>Cacheira ~ cachola ~ cachucha</div>
   <div>Cabeza de cerdo</div>
 </e-card>
 
