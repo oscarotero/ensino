@@ -22,7 +22,7 @@ A mesma cousa acontece coa Dinamarca. Aquí, a pesar de estaren admitidas as for
 
 ### 4. Romanía: romanés - romanesa
 
-Con certeza, a campioa absoluta nestas olimpíadas do erro é a Romanía. O motivo é que os termos en galego difiren dos usados polos nosos veciños. Dos utilizados polos españois, xa que en España todos os nacidos na *Rumanía* son chamados *rumanos,* e tamén dos dos portugueses, quen chaman *Roménia,* ao país, e *romenos* e *romenas,* aos oriundos do lugar.
+Con certeza, a campioa absoluta nestas olimpíadas do erro é a Romanía. O motivo é que os termos en galego difiren dos usados polos nosos veciños. Dos utilizados polos españois, xa que en España todos os nacidos na *Rumanía* son chamados *rumanos,* e tamén dos dos portugueses, quen chaman *Roménia,* ao país, e *romenos* e *romenas,* aos oriúndos do lugar.
 
 ### 5. Países Baixos: neerlandés - neerlandesa
 
