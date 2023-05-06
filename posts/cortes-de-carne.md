@@ -35,7 +35,7 @@ Vira o cartón para descubrires o nome que aparece habitualmente nos menús
 
 <e-card color="6">
   <div>Coxa ~ zanco de polo / coxiñas de polo</div>
-  <div>Muslo de pollo / muslitos de mollo</div>
+  <div>Muslo de pollo / muslitos de pollo</div>
 </e-card>
 
 <e-card color="7">
