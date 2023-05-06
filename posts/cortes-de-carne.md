@@ -20,7 +20,7 @@ Vira o cartón para descubrires o nome que aparece habitualmente nos menús
 
 <e-card color="3">
   <div>Costeleta de cordeiro / costeleta de año de leite</div>
-  <div>Chuletita \~ chuletilla de cordero / chuletita \~ chuletilla de lechazo (= cordero lechal)</div>
+  <div>Chuletita ~ chuletilla de cordero / chuletita ~ chuletilla de lechazo (= cordero lechal)</div>
 </e-card>
 
 <e-card color="4">
