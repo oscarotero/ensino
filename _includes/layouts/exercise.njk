@@ -13,7 +13,7 @@ layout: layouts/base.njk
 
   {% if toc.length %}  
     <nav class="toc">
-      <ol>
+      <ul>
         {% for item in toc %}
         <li>
           <a href="#{{ item.slug }}">{{ item.text }}</a>
@@ -29,7 +29,7 @@ layout: layouts/base.njk
           {% endif %}
         </li>
         {% endfor %}
-      </ol>
+      </ul>
     </nav>
     {% endif %}
 
