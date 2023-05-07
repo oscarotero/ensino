@@ -1,7 +1,7 @@
 ---
 title: Non sexas ~~pardillo~~> parvo!
-summary: Dubida sempre das palabras terminadas en -illo ou -illa. Case nunca se
-  trata de formas galegas.
+summary: Dubida sempre das palabras terminadas en -illo ou en -illa. Case nunca
+  se trata de formas galegas.
 tags:
   - lexico
 draft: false
