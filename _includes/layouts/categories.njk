@@ -15,7 +15,7 @@ layout: layouts/base.njk
         <li>
             <h3>
                 <a href="{{ page.data.url | url }}">
-                    {{ page.data.title }}
+                    {{ page.data.title | md(true) | safe }}
                 </a>
             </h3>
 
@@ -38,7 +38,7 @@ layout: layouts/base.njk
 			<h3>
 				<a href="{{ post.data.url | url }}">
 					{% if post.data.title %}
-						{{ post.data.title }}
+						{{ post.data.title | md(true) | safe }}
 					{% else %}
 						Sen título
 					{% endif %}
@@ -46,7 +46,7 @@ layout: layouts/base.njk
 			</h3>
 			{% if post.data.summary %}
 				<p>
-					{{ post.data.summary }}
+					{{ post.data.summary | md(true) | safe }}
 				</p>
 			{% endif %}
 		</li>
