@@ -279,6 +279,11 @@ img.is-square {
 	width: 300px;
 	object-position: 50% 35%
 }
+img.is-horizontal {
+	aspect-ratio: 2/1;
+	width: 100%;
+	object-position: 50% 35%
+}
 
 .pagefind-ui__search-input {
 	margin-bottom: 0 !important;
