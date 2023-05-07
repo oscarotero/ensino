@@ -60,7 +60,7 @@ O obxecto con forma de grade que se usa para asar alimentos sobre as brasas chá
 
 ![](/img/grella_churrasco.jpg)
 
-Como co tempo esta palabra foi ampliando o seu significado, hoxe usámola noutros contextos que non teñen que ver coa comida. Na televisión, por exemplo, a **grella** é o cadro que contén a programación televisiva; nas corridas de deportes motorizadas, a **grella de saída** é o lugar de onde parten os vehículos; e na educación é moi habitual os docentes usaren unha **grella de avaliación,** un tipo de documento en que se especifican os criterios que aplican para avaliaren.
+Como co tempo esta palabra foi ampliando o seu significado, hoxe usámola noutros contextos que non teñen que ver coa comida. Na televisión, por exemplo, a **grella** é o cadro que contén a programación televisiva; nas corridas de deportes motorizadas, a **grella de saída** é o lugar de onde saen os vehículos; e na educación é moi habitual os docentes usaren unha **grella de avaliación,** un tipo de documento en que se especifican os criterios que aplican para avaliaren.
 
 ### ~~Telesilla~~ > telecadeira
 
