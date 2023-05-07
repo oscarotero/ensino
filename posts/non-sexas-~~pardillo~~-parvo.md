@@ -10,41 +10,41 @@ Esta terminación é moi habitual no castelán, mais non no galego, non te deixe
 
 ### 1. ~~Alfombrilla~~ > Tapete do rato
 
-![](/img/tapete_do_rato.jpg)
+![](/img/tapete_do_rato.jpg){.is-horizontal}
 
 ### 2. ~~Anilla~~ > Argola
 
 O nome na nosa lingua para o aro que usamos para prender as cortinas é **argola**.
 
-![](/img/argola_cortina.jpg)
+![](/img/argola_cortina.jpg){.is-horizontal}
 
 **Argolas** é tamén o nome do aparello de ximnasia onde o atleta se pendura para executar os exercicios desta modalidade deportiva.
 
-![](/img/argolas_deporte.jpg)
+![](/img/argolas_deporte.jpg){.is-horizontal}
 
 O tipo de encadernación con arame en espiral é a causa de que este tipo de caderno se chame, alén de **caderno de argolas**, **caderno espiral**.
 
-![](/img/caderno_espiral.jpg)
+![](/img/caderno_espiral.jpg){.is-horizontal}
 
 ### 3. ~~Bombilla~~ > Lámpada
 
-![](/img/lampada.jpg)
+![](/img/lampada.jpg){.is-horizontal}
 
 ### 4. ~~Cerilla~~ > Misto
 
 O pauciño, cunha *cabeza* que arde ao ser friccionada cunha superficie, é un **misto**. En portugués recibe o nome de **fósforo** por ser este elemento químico o que desencadea a combustión.
 
-![](/img/misto.jpg)
+![](/img/misto.jpg){.is-horizontal}
 
 ### 5. ~~Escalerilla de embarque~~ > Escada de embarque
 
-![](/img/escada_embarque.jpg)
+![](/img/escada_embarque.jpg){.is-horizontal}
 
 ### 6. ~~Espinilla~~ > canela
 
 A parte dianteira da perna desde o pé até ao xeonllo é a **canela**. Como podes imaxinar, a parte posterior non é a ~~pantorilla~~, senón a **barriga da perna**.
 
-![](/img/barriga_da_perna.jpg)
+![](/img/barriga_da_perna.jpg){.is-horizontal}
 
 Tampouco chamamos ~~espinilla~~ á erupción cutánea do rostro, o nome en galego para iso é **espiña**.
 
@@ -52,20 +52,20 @@ Tampouco chamamos ~~espinilla~~ á erupción cutánea do rostro, o nome en galeg
 
 O lugar onde se colocan as potas e tixolas para cociñar é o **fogón**. O fogón pode estar nunha cociña a gas, nunha eléctrica ou nunha vitrocerámica.
 
-![](/img/fogon.jpg)
+![](/img/fogon.jpg){.is-horizontal}
 
 ### 8. ~~Parrilla~~ > grella
 
 O obxecto con forma de grade que se usa para asar alimentos sobre as brasas chámase **grella** en galego.
 
-![](/img/grella_churrasco.jpg)
+![](/img/grella_churrasco.jpg){.is-horizontal}
 
 Como co tempo esta palabra foi ampliando o seu significado, hoxe usámola noutros contextos que non teñen que ver coa comida. Na televisión, por exemplo, a **grella** é o cadro que contén a programación televisiva; nas corridas de deportes motorizadas, a **grella de saída** é o lugar de onde saen os vehículos; e na educación é moi habitual os docentes usaren unha **grella de avaliación,** un tipo de documento en que se especifican os criterios que aplican para avaliaren.
 
 ### 9. ~~Telesilla~~ > telecadeira
 
-![](/img/telecadeira.jpg)
+![](/img/telecadeira.jpg){.is-horizontal}
 
 ### 10. ~~Ventanilla~~ > xanela
 
-![](/img/xanela.jpg)
+![](/img/xanela.jpg){.is-horizontal}
