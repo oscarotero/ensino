@@ -1,18 +1,18 @@
 ---
 title: Non sexas ~~pardillo~~> parvo!
-summary: Dubida sempre das palabras terminadas en -illo ou en -illa. Case nunca
-  se trata de formas galegas.
+summary: Dubida sempre das palabras terminadas en *-illo* ou en *-illa.* Case
+  nunca se trata de formas galegas.
 tags:
   - lexico
 draft: false
 ---
-Esta terminación é moi habitual no castelán, mais non no galego, non te deixes enganar. A continuación, tes unha pequena escolma de castelanismos para os que temos unha palabra de noso. A partir de agora, non sexas pardillo> parvo, e úsaa!
+Esta terminación é moi habitual no castelán, mais non no galego, non te deixes enganar. A continuación, tes unha pequena escolma de castelanismos para os que temos unha palabra de noso. A partir de agora, úsaa!
 
 ### ~~Alfombrilla~~ > Tapete do rato
 
 ![](/img/tapete_do_rato.jpg)
 
-### ~~Anilla~~ > Argola, argolas, caderno espiral ou caderno de argolas
+### ~~Anilla~~ > Argola
 
 O nome na nosa lingua para o aro que usamos para prender as cortinas é **argola**.
 
@@ -32,7 +32,7 @@ O tipo de encadernación con arame en espiral é a causa de que este tipo de cad
 
 ### ~~Cerilla~~ > Misto
 
-O pauciño, cunha cabeza que arde ao ser friccionada cunha superficie, é un **misto**. En portugués recibe o nome de **fósforo** por ser este elemento químico o que desencadea a combustión.
+O pauciño, cunha *cabeza* que arde ao ser friccionada cunha superficie, é un **misto**. En portugués recibe o nome de **fósforo** por ser este elemento químico o que desencadea a combustión.
 
 ![](/img/misto.jpg)
 
@@ -40,7 +40,7 @@ O pauciño, cunha cabeza que arde ao ser friccionada cunha superficie, é un **m
 
 ![](/img/escada_embarque.jpg)
 
-### ~~Espinilla~~ (a da perna), ~~pantorrilla~~, ~~espinilla~~ (a da cara) > canela, barriga da perna, espiña.
+### ~~Espinilla~~ > canela
 
 A parte dianteira da perna desde o pé até ao xeonllo é a **canela**. Como podes imaxinar, a parte posterior non é a ~~pantorilla~~, senón a **barriga da perna**.
 
