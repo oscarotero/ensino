@@ -50,7 +50,7 @@ Tampouco chamamos ~~espinilla~~ aos puntos negros que se forman pola acumulació
 
 ### 7. ~~Hornillo~~ > fogón
 
-O lugar onde se colocan as potas e tixolas para cociñar é o **fogón**. O fogón pode estar nunha cociña a gas, nunha eléctrica ou nunha vitrocerámica.
+O lugar onde se colocan as potas e as tixolas para cociñar é o **fogón**. O fogón pode estar nunha cociña a gas, nunha eléctrica ou nunha vitrocerámica.
 
 ![](/img/fogon.jpg){.is-horizontal}
 
