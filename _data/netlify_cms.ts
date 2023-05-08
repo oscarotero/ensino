@@ -31,6 +31,7 @@ const exercicios = f.folder("Exercicios", "/posts", [
     .name("tags")
     .multiple(),
   f.boolean("Ocultar").name("draft").default(false),
+  f.boolean("Amosar tabla de contidos").name("show_toc").default(false),
   f.markdown("Corpo").name("body"),
 ])
   .create()
