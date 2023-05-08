@@ -22,7 +22,7 @@ O nome na nosa lingua para o aro que usamos para prender as cortinas é **argola
 
 ![](/img/argolas_deporte.jpg){.is-horizontal}
 
-O tipo de encadernación con arame en espiral é a causa de que este tipo de caderno se chame, alén de **caderno de argolas**, **caderno espiral**.
+O tipo de encadernación con arame en espiral é a causa de que este tipo de caderno se chame, alén de **caderno de argolas**, **caderno de espiral**.
 
 ![](/img/caderno_espiral.jpg){.is-horizontal}
 
