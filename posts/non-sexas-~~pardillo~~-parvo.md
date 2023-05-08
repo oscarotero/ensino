@@ -40,9 +40,7 @@ O pauciño, cunha cabeza que arde ao ser friccionada cunha superficie, é un **m
 
 O espazo máis ou menos largo en que acaba cada grupo de chanzos dunha escaleira chámase **relanzo** en galego. O nome en portugués é moi diferente, descansan no *patamar.* 
 
-
-
-![](/img/relanzo.jpg)
+![](/img/relanzo.jpg){.is-horizontal}
 
 ### 5. ~~Escalerilla de embarque~~ > Escada de embarque
 
