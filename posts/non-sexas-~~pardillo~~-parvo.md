@@ -42,7 +42,7 @@ O pauciño, cunha cabeza que arde ao ser friccionada cunha superficie, é un **m
 
 ### 6. ~~Espinilla~~ > canela
 
-A parte dianteira da perna desde o pé ao xeonllo é a **canela**. Como podes imaxinar, a parte posterior non é a ~~pantorilla~~, senón a **barriga da perna**. O conxunto da canela e a barriga da perna aínda pode ser chamada *canilla* en español, especialmente se for delgada, en galego é simplemente **perna**. 
+A parte dianteira da perna desde o pé ao xeonllo é a **canela**. Como podes imaxinar, a parte posterior non é a ~~pantorilla~~, senón a **barriga da perna**. O conxunto da canela e a barriga da perna aínda pode ser chamado *canilla* en español, especialmente se for delgada, en galego é simplemente **perna**. 
 
 ![](/img/barriga_da_perna.jpg){.is-horizontal}
 
