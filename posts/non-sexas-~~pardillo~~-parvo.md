@@ -32,7 +32,7 @@ O tipo de encadernación con arame en espiral é a causa de que este tipo de cad
 
 ### 4. ~~Cerilla~~ > Misto
 
-O pauciño, cunha *cabeza* que arde ao ser friccionada cunha superficie, é un **misto**. En portugués recibe o nome de **fósforo** por ser este elemento químico o que desencadea a combustión.
+O pauciño, cunha cabeza que arde ao ser friccionada cunha superficie, é un **misto**. En portugués recibe o nome de **fósforo** por ser este elemento químico o que desencadea a combustión.
 
 ![](/img/misto.jpg){.is-horizontal}
 
@@ -60,7 +60,7 @@ O obxecto con forma de grade que se usa para asar alimentos sobre as brasas chá
 
 ![](/img/grella_churrasco.jpg){.is-horizontal}
 
-Como co tempo esta palabra foi ampliando o seu significado, hoxe usámola noutros contextos que non teñen que ver coa comida. Na televisión, por exemplo, a **grella** é o cadro que contén a programación televisiva; nas corridas de deportes motorizadas, a **grella de saída** é o lugar de onde saen os vehículos; e na educación é moi habitual os docentes usaren unha **grella de avaliación,** un tipo de documento en que se especifican os criterios que aplican para avaliaren.
+Como co tempo esta palabra foi ampliando o seu significado, hoxe usámola noutros contextos que non teñen que ver coa comida. Na televisión, por exemplo, a **grella** é o cadro que contén a programación televisiva; nas corridas de deportes motorizadas, a **grella de saída** é punto de partida dos vehículos que participan; e na educación é moi habitual os docentes usaren unha **grella de avaliación,** un tipo de documento en que se especifican os criterios que aplican para avaliaren.
 
 ### 9. ~~Telesilla~~ > telecadeira
 
