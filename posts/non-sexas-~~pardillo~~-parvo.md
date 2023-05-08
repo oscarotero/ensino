@@ -36,17 +36,17 @@ O pauciño, cunha cabeza que arde ao ser friccionada cunha superficie, é un **m
 
 ![](/img/misto.jpg){.is-horizontal}
 
-### 6. Descansillo > Relanzo
+### 5. Descansillo > Relanzo
 
 O espazo máis ou menos largo en que acaba cada grupo de chanzos dunha escaleira chámase **relanzo** en galego. O nome en portugués é moi diferente, descansan no *patamar.* 
 
 ![](/img/relanzo.jpg){.is-horizontal}
 
-### 5. ~~Escalerilla de embarque~~ > Escada de embarque
+### 6. ~~Escalerilla de embarque~~ > Escada de embarque
 
 ![](/img/escada_embarque.jpg){.is-horizontal}
 
-### 6. ~~Espinilla~~ > canela
+### 7. ~~Espinilla~~ > canela
 
 A parte dianteira da perna desde o pé ao xeonllo é a **canela**. Como podes imaxinar, a parte posterior non é a ~~pantorilla~~, senón a **barriga da perna**. O conxunto da canela e a barriga da perna aínda pode ser chamado *canilla* en español, especialmente se for delgada, en galego é simplemente **perna**. 
 
@@ -54,13 +54,13 @@ A parte dianteira da perna desde o pé ao xeonllo é a **canela**. Como podes im
 
 Tampouco chamamos ~~espinilla~~ aos puntos negros que se forman pola acumulación de materia sebácea na pel, o nome en galego para isto é **espiña**.
 
-### 7. ~~Hornillo~~ > fogón
+### 8. ~~Hornillo~~ > fogón
 
 O lugar onde se colocan as potas e as tixolas para cociñar é o **fogón**. O fogón pode estar nunha cociña a gas, nunha eléctrica ou nunha vitrocerámica.
 
 ![](/img/fogon.jpg){.is-horizontal}
 
-### 8. ~~Parrilla~~ > grella
+### 9. ~~Parrilla~~ > grella
 
 O obxecto con forma de grade que se usa para asar alimentos sobre as brasas chámase **grella** en galego.
 
@@ -68,10 +68,10 @@ O obxecto con forma de grade que se usa para asar alimentos sobre as brasas chá
 
 Como co tempo esta palabra foi ampliando o seu significado, hoxe usámola noutros contextos que non teñen que ver coa comida. Na televisión, por exemplo, a **grella** é o cadro que contén a programación televisiva; nas corridas de deportes motorizadas, a **grella de saída** é o punto de onde parten os vehículos que participan; e na educación é moi habitual os docentes usaren unha **grella de avaliación,** un tipo de documento en que se especifican os criterios que aplican para avaliaren.
 
-### 9. ~~Telesilla~~ > telecadeira
+### 10. ~~Telesilla~~ > telecadeira
 
 ![](/img/telecadeira.jpg){.is-horizontal}
 
-### 10. ~~Ventanilla~~ > xanela
+### 11. ~~Ventanilla~~ > xanela
 
 ![](/img/xanela.jpg){.is-horizontal}
