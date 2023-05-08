@@ -36,7 +36,7 @@ O pauciño, cunha cabeza que arde ao ser friccionada cunha superficie, é un **m
 
 ![](/img/misto.jpg){.is-horizontal}
 
-### 5. Descansillo > Relanzo
+### 5. ~~Descansillo~~ > Relanzo
 
 O espazo máis ou menos largo en que acaba cada grupo de chanzos dunha escaleira chámase **relanzo** en galego. O nome en portugués é moi diferente, descansan no *patamar.* 
 
