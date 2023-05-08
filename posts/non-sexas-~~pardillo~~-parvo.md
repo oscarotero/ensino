@@ -28,7 +28,7 @@ O tipo de encadernación con arame en espiral é a causa de que este tipo de cad
 
 ### 3. ~~Bombilla~~ > Lámpada
 
-![](/img/lampada.jpg)
+![](/img/lampada.jpg){.is-horiontal}
 
 ### 4. ~~Cerilla~~ > Misto
 
