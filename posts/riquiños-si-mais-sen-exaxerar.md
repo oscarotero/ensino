@@ -1,6 +1,6 @@
 ---
 title: Riquiños, si, mais sen exaxerar
-summary: 10 palabras que non acaban en -iño nin en -iña.
+summary: 10 palabras que non acaban en *-iño* nin en *-iña.*
 tags:
   - lexico
 draft: false
