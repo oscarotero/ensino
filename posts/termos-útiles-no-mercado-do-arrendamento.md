@@ -63,5 +63,5 @@ Exs.:
 A palabra <mark>alugueiro</mark> ten tres significados diferentes:
 
 1. Renda: Ex.: *Os alugueiros na Coruña volveron a aumentar, con todo, a un ritmo máis lento.*
-2. Acción e efecto de alugar: Ex.: *O mercado do alugueiro atravesa unha crise.*
+2. Acción e efecto de alugar: Ex.: *O goberno creou un grupo de traballo para analizar formas de regular o mercado de alugueiro.*
 3. Inquilino: Ex.: *O concello de Barcelona multa un propietario por cobrar unha renda demasiado elevada aos seus alugueiros.*
