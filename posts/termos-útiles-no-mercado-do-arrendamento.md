@@ -22,7 +22,7 @@ O que se aluga son bens móbeis ou inmóbeis. Os primeiros son os que se poden t
 
 Ex.:
 
-* *O consumidor pasará a ter máis dereitos sobre os bens móbeis, como electrodomésticos ou equipamentos dixtais, coa nova lei.*
+* *O consumidor pasará a ter máis dereitos sobre os bens móbeis, como electrodomésticos ou equipamentos dixitais, coa nova lei.*
 
 ## 3. Renda ~ alugueiro
 
