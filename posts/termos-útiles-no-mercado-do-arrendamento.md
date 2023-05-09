@@ -56,7 +56,7 @@ A persoa ou a entidade que cede unha propriedade en réxime de arrendamento é o
 
 Exs.:
 
-* *Os inquilinos con máis de 65 anos e que vivan hai máis de 25 anos na mesma casa arrendada non van poder ser desaloxados polos arrendadores.*
+* *Os inquilinos con máis de 65 anos e que vivan hai máis de 25 anos na mesma casa arrendada non van poder ser despexados polos arrendadores.*
 
 ## Repara
 
