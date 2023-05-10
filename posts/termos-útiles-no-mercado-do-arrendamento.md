@@ -13,8 +13,8 @@ Este verbo é conxugado tanto polo dono da propiedade como polo inquilino.
 
 Exs.:
 
-* \[O dono] > **\*Alugou**lles/**Arrendou**lles o apartamento a uns estudantes de Vigo.*
-* \[O inquilino] > **\*Aluguei**/**Arrendei** unha casa na praia para pasar o verán.*
+* \[O dono] > ***Alugou**lles/**Arrendou**lles o apartamento a uns estudantes de Vigo.*
+* \[O inquilino] > ***Aluguei**/**Arrendei** unha casa na praia para pasar o verán.*
 
 ## 2. Bens móbeis vs. bens inmóbeis
 
@@ -37,7 +37,7 @@ Exs:
 
 ## 4. Arrendamento \~ alugamento \~ locación ~ alugueiro
 
-O **arrendamento** e o **alugamento** son as accións derivadas de *arrendar* e de *alugar,* respectivamente. Outros sinónimos de *arrendamento* e de *alugamento* son **locación** e <mark>alugueiro</mark>.
+O **arrendamento** e o **alugamento** son as accións derivadas de *arrendar* e de *alugar,* respectivamente. Outros sinónimos para *arrendamento* e *alugamento* son **locación** e <mark>alugueiro</mark>.
 
 Exs:
 
