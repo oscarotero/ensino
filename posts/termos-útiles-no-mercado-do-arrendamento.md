@@ -13,8 +13,8 @@ Este verbo é conxugado tanto polo dono da propiedade como polo inquilino.
 
 Exs.:
 
-* \[O dono] > ***Alugou**lles/**Arrendou**lles o apartamento a uns estudantes de Vigo.*
-* \[O inquilino] > ***Aluguei**/**Arrendei** unha casa na praia para pasar o verán.*
+* \[O dono] > **\*Alugou**lles/**Arrendou**lles o apartamento a uns estudantes de Vigo.*
+* \[O inquilino] > **\*Aluguei**/**Arrendei** unha casa na praia para pasar o verán.*
 
 ## 2. Bens móbeis vs. bens inmóbeis
 
@@ -69,8 +69,6 @@ Exs.:
 * *Esta modalidade de seguro cobre até tres mil euros de danos causados, a perda de rendas e a responsabilidade civil do propietario ou do **locador**.*
 * *O arrendamento de cuartos non promove a substitución da poboación local, a xentrificación e a descaracterización dos barrios, porque o inmóbel continúa a ser residencia do **locador**.*
 
-
-
 ## Repara
 
 A palabra <mark>alugueiro</mark> ten tres significados diferentes:
@@ -79,8 +77,6 @@ A palabra <mark>alugueiro</mark> ten tres significados diferentes:
 2. Acción e efecto de alugar: Ex.: *O goberno creou un grupo de traballo para analizar formas de regular o mercado de alugueiro.*
 3. Inquilino: Ex.: *O concello de Barcelona multa un propietario por cobrar unha renda demasiado elevada aos seus alugueiros.* \[Con este significado case non se usa]
 
-
-
-## Antes de tomares unha decisión, coñece os teus dereitos:
+### Antes de tomares unha decisión, coñece os teus dereitos:
 
 [Os dereitos do alugueiro en #MenosDunMinuto](https://youtube.com/shorts/qgkob9KrGjo?feature=share)
