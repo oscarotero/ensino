@@ -13,8 +13,8 @@ Este verbo é conxugado tanto polo dono da propiedade como polo inquilino.
 
 Exs.:
 
-* \[O dono] > *Alugoulles/Arrendoulles o apartamento a uns estudantes de Vigo.*
-* \[O inquilino] > *Aluguei/Arrendei unha casa na praia para pasar o verán.*
+* \[O dono] > ***Alugou**lles/**Arrendou**lles o apartamento a uns estudantes de Vigo.*
+* \[O inquilino] > ***Aluguei**/**Arrendei** unha casa na praia para pasar o verán.*
 
 ## 2. Bens móbeis vs. bens inmóbeis
 
@@ -22,7 +22,7 @@ O que se aluga son bens móbeis ou inmóbeis. Os primeiros son os que se poden t
 
 Ex.:
 
-* *O consumidor pasará a ter máis dereitos sobre os bens móbeis, como electrodomésticos ou equipamentos dixitais, coa nova lei.*
+* *O consumidor pasará a ter máis dereitos sobre os **bens móbeis**, como electrodomésticos ou equipamentos dixitais, coa nova lei.*
 
 ## 3. Renda ~ alugueiro
 
@@ -30,7 +30,7 @@ A cantidade que se paga periodicamente polo uso durante un tempo dunha propiedad
 
 Exs: 
 
-* *Non podo pagar unha renda de 700 euros co meu salario.*
+* *Non podo pagar unha **renda** de 700 euros co meu salario.*
 
 ## 4. Arrendamento \~ alugamento \~ locación ~ alugueiro
 
@@ -38,8 +38,8 @@ O **arrendamento** e o **alugamento** son as accións derivadas de *arrendar* e 
 
 Exs:
 
-* *A construción nova destinada ao arrendamento accesíbel terá unha taxa de IVE menor.*
-* *Posúe unha empresa de alugueiro de automóbeis.*
+* *A construción nova destinada ao **arrendamento** accesíbel terá unha taxa de IVE menor.*
+* *Posúe unha empresa de **alugueiro** de automóbeis.*
 
 ## 5. Inquilino \~ arrendatario \~ locatario ~ alugueiro
 
@@ -47,8 +47,8 @@ A persoas que alugan poden ser chamadas de todas estas formas: **inquilinos**, *
 
 Exs:
 
-* *Os inquilinos que sexan desafiuzados van pasar a ter un prazo de 30 días para deixaren as vivendas.*
-* *Os Servizos Xurídicos concluíron que o arrendatario do apartamento goza do dereito de preferencia na adquisión do inmóbel.*
+* *Os **inquilinos** que sexan desafiuzados van pasar a ter un prazo de 30 días para deixaren as vivendas.*
+* *Os Servizos Xurídicos concluíron que o **arrendatario** do apartamento goza do dereito de preferencia na adquisión do inmóbel.*
 * *No caso dunha devolución da fianza ao **locatario**, o locador deberá emitir un documento comprobativo.*
 
 ## 6. Arrendador \~ alugador \~ locador
@@ -57,7 +57,7 @@ A persoa ou a entidade que cede unha propriedade en réxime de arrendamento é o
 
 Exs.:
 
-* *Os inquilinos con máis de 65 anos e que vivan hai máis de 25 anos na mesma casa arrendada non van poder ser despexados polos arrendadores.*
+* *Os inquilinos con máis de 65 anos e que vivan hai máis de 25 anos na mesma casa arrendada non van poder ser desaloxados polos **arrendadores**.*
 * *Esta modalidade de seguro cobre até tres mil euros de danos causados, a perda de rendas e a responsabilidade civil do propietario ou do **locador**.*
 
 ## Repara
