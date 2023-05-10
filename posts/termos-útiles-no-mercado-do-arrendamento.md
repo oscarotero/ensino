@@ -81,6 +81,6 @@ A palabra <mark>alugueiro</mark> ten tres significados diferentes:
 
 
 
-## Coñeces os teus dereitos? 
+## Antes de tomares unha decisión, coñece os teus dereitos:
 
 [Os dereitos do alugueiro en #MenosDunMinuto](https://youtube.com/shorts/qgkob9KrGjo?feature=share)
