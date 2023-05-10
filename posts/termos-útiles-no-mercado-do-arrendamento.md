@@ -13,14 +13,14 @@ Este verbo é conxugado tanto polo dono da propiedade como polo inquilino.
 
 Exs.:
 
-* \[O dono] > **\*Alugou**lles/**Arrendou**lles o apartamento a uns estudantes de Vigo.*
-* \[O inquilino] > **\*Aluguei**/**Arrendei** unha casa na praia para pasar o verán.*
+* \[O dono] > ***Alugou**lles/**Arrendou**lles o apartamento a uns estudantes de Vigo.*
+* \[O inquilino] > ***Aluguei**/**Arrendei** unha casa na praia para pasar o verán.*
 
 ## 2. Bens móbeis vs. bens inmóbeis
 
 O que se aluga son bens móbeis ou inmóbeis. Os primeiros son os que se poden transportar e os segundos, non.
 
-Ex.:
+Exs.:
 
 * *O consumidor pasará a ter máis dereitos sobre os **bens móbeis**, como electrodomésticos ou equipamentos dixitais, coa nova lei.*
 * *Existen actualmente un total de 143 **bens inmóbeis** clasificados como patrimonio cultural na rexión.*
@@ -30,7 +30,7 @@ Ex.:
 
 A cantidade que se paga periodicamente polo uso durante un tempo dunha propiedade recibe o nome de **renda** ou <mark>alugueiro</mark>.
 
-Exs: 
+Exs.: 
 
 * *O valor exixido en **rendas** anticipadas e fianzas imposibilita que moitas persoas poidan acceder ao arrendamento.*
 * *Non podo pagar un **alugueiro** de 700 euros co meu salario.*
@@ -39,7 +39,7 @@ Exs:
 
 O **arrendamento** e o **alugamento** son as accións derivadas de *arrendar* e de *alugar,* respectivamente. Outros sinónimos para *arrendamento* e *alugamento* son **locación** e <mark>alugueiro</mark>.
 
-Exs:
+Exs.:
 
 * *A construción nova destinada ao **arrendamento** accesíbel terá unha taxa de IVE menor.*
 * *España aproba unha lei da vivenda para tentar controlar os prezos do **alugamento**.*
@@ -50,7 +50,7 @@ Exs:
 
 A persoas que alugan poden ser chamadas de todas estas formas: **inquilinos**, **arrendatarios**, **locatarios** ou <mark>alugueiros.</mark>
 
-Exs:
+Exs.:
 
 * *Os **inquilinos** que sexan desafiuzados van pasar a ter un prazo de 30 días para deixaren as vivendas.*
 * *Os Servizos Xurídicos concluíron que o **arrendatario** do apartamento goza do dereito de preferencia na adquisición do inmóbel.*
