@@ -34,7 +34,7 @@ Exs:
 
 ## 4. Arrendamento \~ alugamento \~ locación ~ alugueiro
 
-O **arrendamento** e o **alugamento** son as accións derivadas de arrendar e de alugar, respectivamente. Dúas palabras sinónimas de arrendamento ou alugamento son **locación** e <mark>alugueiro</mark>.
+O **arrendamento** e o **alugamento** son as accións derivadas de *arrendar* e de *alugar,* respectivamente. Outros sinónimos de *arrendamento* e de *alugamento* son **locación** e <mark>alugueiro</mark>.
 
 Exs:
 
@@ -49,6 +49,7 @@ Exs:
 
 * *Os inquilinos que sexan desafiuzados van pasar a ter un prazo de 30 días para deixaren as vivendas.*
 * *Os Servizos Xurídicos concluíron que o arrendatario do apartamento goza do dereito de preferencia na adquisión do inmóbel.*
+* *No caso dunha devolución da fianza ao **locatario**, o locador deberá emitir un documento comprobativo.*
 
 ## 6. Arrendador \~ alugador \~ locador
 
@@ -57,6 +58,7 @@ A persoa ou a entidade que cede unha propriedade en réxime de arrendamento é o
 Exs.:
 
 * *Os inquilinos con máis de 65 anos e que vivan hai máis de 25 anos na mesma casa arrendada non van poder ser despexados polos arrendadores.*
+* *Esta modalidade de seguro cobre até tres mil euros de danos causados, a perda de rendas e a responsabilidade civil do propietario ou do **locador**.*
 
 ## Repara
 
@@ -64,4 +66,4 @@ A palabra <mark>alugueiro</mark> ten tres significados diferentes:
 
 1. Renda: Ex.: *Os alugueiros na Coruña volveron a aumentar, con todo, a un ritmo máis lento.*
 2. Acción e efecto de alugar: Ex.: *O goberno creou un grupo de traballo para analizar formas de regular o mercado de alugueiro.*
-3. Inquilino: Ex.: *O concello de Barcelona multa un propietario por cobrar unha renda demasiado elevada aos seus alugueiros.*
+3. Inquilino: Ex.: *O concello de Barcelona multa un propietario por cobrar unha renda demasiado elevada aos seus alugueiros.* \[Con este significado case non se usa]
