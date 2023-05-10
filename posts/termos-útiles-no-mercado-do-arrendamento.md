@@ -44,7 +44,7 @@ Exs:
 * *A construción nova destinada ao **arrendamento** accesíbel terá unha taxa de IVE menor.*
 * *España aproba unha lei da vivenda para tentar controlar os prezos do **alugamento**.*
 * *O exame dalgúns contratos de **locación** demostrou que os custos a soportar polo erario público eran demasiado elevados.*
-* *Posúe unha empresa de **alugueiro** de automóbeis.*
+* *Posúe unha empresa de **alugueiro** de automóbiles.*
 
 ## 5. Inquilino \~ arrendatario \~ locatario ~ alugueiro
 
@@ -53,14 +53,14 @@ A persoas que alugan poden ser chamadas de todas estas formas: **inquilinos**, *
 Exs:
 
 * *Os **inquilinos** que sexan desafiuzados van pasar a ter un prazo de 30 días para deixaren as vivendas.*
-* *Os Servizos Xurídicos concluíron que o **arrendatario** do apartamento goza do dereito de preferencia na adquisión do inmóbel.*
+* *Os Servizos Xurídicos concluíron que o **arrendatario** do apartamento goza do dereito de preferencia na adquisición do inmóbel.*
 * *A relación entre **arrendatarios** e propietarios implica dereitos e obrigas.*
 * *No caso dunha devolución da fianza ao **locatario**, o locador deberá emitir un documento comprobativo.*
-* *Os propietarios que presionen os **alugueiros** para veren o imóbel desocupado poden ser punidos.*
+* *Os propietarios que presionen os **alugueiros** para veren o inmóbel desocupado poden ser punidos.*
 
 ## 6. Arrendador \~ alugador \~ locador
 
-A persoa ou a entidade que cede unha propriedade en réxime de arrendamento é o **arrendador**, o **alugador** ou o **locador**.
+A persoa ou a entidade que cede unha propiedade en réxime de arrendamento é o **arrendador**, o **alugador** ou o **locador**.
 
 Exs.:
 
