@@ -13,8 +13,8 @@ Este verbo é conxugado tanto polo dono da propiedade como polo inquilino.
 
 Exs.:
 
-* \[O dono] >* **Alugou**lles/**Arrendou**lles o apartamento a uns estudantes de Vigo.*
-* \[O inquilino] > * **Aluguei**/**Arrendei** unha casa na praia para pasar o verán.*
+* \[O dono] ><em> <strong>Alugou</strong>lles/<strong>Arrendou</strong>lles o apartamento a uns estudantes de Vigo.</em>
+* \[O inquilino] ><em> <strong>Aluguei</strong>/<strong>Arrendei</strong> unha casa na praia para pasar o verán.</em>
 
 ## 2. Bens móbeis vs. bens inmóbeis
 
