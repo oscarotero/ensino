@@ -29,7 +29,7 @@ Unha vez feito isto, tratade de responder as preguntas.
 ## Preguntas
 
 1. O titular da noticia é "Cando un tumulto de seminaristas censurou un artigo de Rosalía". Que é un tumulto? Por que outras palabras poderiamos substituír esta palabra aquí?
-2. E censurar? Procura este verbo no dicionario, se non o sabes.
+2. E censurar? Se non o souberes, procura este verbo no dicionario.
 3. Que significa a expresión *intra muros* que aparece no primeiro parágrafo da noticia? É galega?
 4. Por que poderías substituír as palabras *reza* e *vencello* en:
 
@@ -40,8 +40,8 @@ Unha vez feito isto, tratade de responder as preguntas.
 6. O conflito en que se basea a *A pluma viva de Rosalía* sucedeu na realidade?
 7. En que consistiu? Foi violento?
 8. Quen estivo involucrado?
-9. En que ano ocorreu todo? E en que século?
-10. No artigo menciónase a cidade onde aconteceu este suceso. Que cidade é esa?
+9. En que ano aconteceu todo? E en que século?
+10. No artigo menciónase a cidade onde tivo lugar este suceso. Que cidade é esa?
 11. Por que sabemos hoxe que todo isto pasou?
 12. Quen escribiu o artigo “El Codio”?
 13. Que significa a palabra *codio*?
@@ -54,4 +54,4 @@ Unha vez feito isto, tratade de responder as preguntas.
 18. Quen era Manuel Soto Freire?
 19. E Manuel Murguía?
 20. Manuel Soto Freire non só publicou textos de Rosalía de Castro. A que outros autores lles publicou textos?
-21. No artigo de *La Voz de Galicia* empréganse dous sinónimos para a palabra xornal. Cales son?
+21. No artigo de *La Voz de Galicia* úsanse dous sinónimos para a palabra xornal. Cales son?
