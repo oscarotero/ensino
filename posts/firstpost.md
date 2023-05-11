@@ -10,8 +10,7 @@ Vimos un vídeo realizado coa técnica *draw my life* (debuxe a miña vida) sobr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5sLT5qSVuWg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Despois de velo, pedinvos que fixésedes este cuestionario do portal Gciencia sobre a autora. Que aínda non o fixeches? E a que esperas?:
-[Canto sabes de Rosalía de Castro?](https://www.gciencia.com/historias-gc/canto-sabes-de-rosalia-de-castro/)
+Despois de velo, pedinvos que fixésedes este cuestionario do portal Gciencia sobre a autora. Que aínda non o fixeches? E a que esperas?: [Canto sabes de Rosalía de Castro?](https://www.gciencia.com/historias-gc/canto-sabes-de-rosalia-de-castro/)
 
 Ese día tamén lemos o poema n.º 2 de *[Cantares gallegos](http://bvg.udc.es/indice_paxinas.jsp?id_obra=CaGa++++1&id_edicion=CaGa++++1002&cabecera=%3Ca+href%3D%22ficha_obra.jsp%3Fid%3DCaGa%2B%2B%2B%2B1%26alias%3DRosal%25EDa%2Bde%2BCastro%22+class%3D%22nombreObraPaxina%22%3ECantares+Gallegos%3C%2Fa%3E&alias=Rosal%EDa+de+Castro&formato=texto)*, o primeiro libro de poemas en galego de [Rosalía de Castro](https://academia.gal/figuras-homenaxeadas/-/journal_content/56_INSTANCE_8klA/10157/23374) e que supuxo o inicio do Rexurdimento en Galicia. A continuación, escoitamos “Rexurdimente”, unha versión que fixo a banda galega [Devacas](https://devacas.gal/) con música do tema “Malamente” da outra [Rosalía](https://www.rosalia.com/), a cantante catalá.
 
