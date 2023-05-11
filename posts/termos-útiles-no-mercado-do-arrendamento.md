@@ -60,7 +60,9 @@ Exs.:
 
 ## 6. Arrendador \~ alugador \~ locador
 
-A persoa ou a entidade que cede unha propiedade en réxime de arrendamento é o **arrendador**, o **alugador** ou o **locador**. Tamén podemos chamalo **dono** ou **propietario**, claro.
+A persoa ou a entidade que cede unha propiedade en réxime de arrendamento é o **arrendador**, o **alugador** ou o **locador**. Tamén podemos chamalo **dono** ou **propietario**, mais nunca caseiro.
+
+Un caseiro, no noso país, non é un propietario. Un caseiro é a persoa que traballa mediante arrendamento as terras dun amo ou que coida dos bens dunha persoa ausente. 
 
 Exs.:
 
