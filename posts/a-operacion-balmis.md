@@ -48,7 +48,7 @@ A túa misión será explorares todos eles na procura de respostas para as segui
 
 ## Sabías que...
 
-A escritora [Marilar Aleixandre](https://gl.wikipedia.org/wiki/Marilar_Aleixandre) reivindica na súa obra ***A vaca caníbal*** a contribución á historia da humanidade dunha serie de vacas exemplares. Unha destas vacas é Buttercup, a vaca das vacinas. Eis a súa historia:
+A escritora [Marilar Aleixandre](https://gl.wikipedia.org/wiki/Marilar_Aleixandre) reivindica na súa obra ***A vaca caníbal*** a contribución á historia da humanidade dunha serie de vacas exemplares. Unha destas vacas é Buttercup, a vaca das vacinas. Velaí a súa historia:
 
 <article>
 
@@ -84,8 +84,8 @@ A historia de Buttercup ensínanos dúas cousas:
   grazas a elas dispoñemos das vacinas, como recoñece o propio nome.
 * A segunda: os métodos utilizados polos homes (polo menos, neses tempos) para
   experimentar novas formas de curar son moito máis desapiadados que os das
-  vacas. Unha vaca nuna poñería en perigo a vida dun cucho --como fixo Jenner co
-  pequeno James-- por moi pobre que fose.
+  vacas. Unha vaca nuna poñería en perigo a vida dun cucho -como fixo Jenner co
+  pequeno James- por moi pobre que fose.
 
 </article>
 
@@ -93,7 +93,7 @@ A historia de Buttercup ensínanos dúas cousas:
 
 * [María Solar](https://gl.wikipedia.org/wiki/Mar%C3%ADa_Solar) publicou en 2017 *Os nenos da varíola,* unha novela baseada na historia real dos 22 orfos da expedición Balmis que levaron no seu corpo a vacina da varíola a América.
 * En 2020, a compañía PÉREZ&FERNÁNDEZ en coprodución co Centro Dramático Galego
-  (CDG) presentaron [a adaptación teatral desta novela de María Sorlar](http://centrodramatico.xunta.gal/cdg/axenda/axendad.php?id_e=2748&lg=gal).   
+  (CDG) presentou [a adaptación teatral desta novela de María Sorlar](http://centrodramatico.xunta.gal/cdg/axenda/axendad.php?id_e=2748&lg=gal).   
 * Os amantes da banda deseñada poden ler *[Novo mundo. Isabel Zendal na expedición da vacina](https://www.youtube.com/watch?v=jCJiTAZQq6c)*, unha versión neste formato editada pola editora Bululú.
-* E hai tamén un telefilme que narra as aventuras da Real Expedición Filantrópica da Vacina. Intitúlase
+* Hai tamén un telefilme que narra as aventuras da Real Expedición Filantrópica da Vacina. Intitúlase
   *[22 ángeles](https://youtu.be/Zt9k_qdsgBw)* e a actriz galega María Castro é quen interpreta o papel de Isabel Zendal nesta produción.
