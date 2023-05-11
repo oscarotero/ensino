@@ -18,7 +18,7 @@ Exs.:
 
 ## 2. Bens móbeis vs. bens inmóbeis
 
-O que se aluga son bens móbeis ou inmóbeis. Os primeiros son os que se poden transportar e os segundos, non.
+O que se aluga son bens móbeis ou inmóbeis. Chamamos bens móbeis aos que se poden transportar, e  bens inmóbeis, ao fixos, quer por natureza, quer por disposición da lei.
 
 Exs.:
 
