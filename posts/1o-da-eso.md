@@ -4,7 +4,6 @@ summary: Cartóns de estudo ou flashcards
 tags:
   - actividades_para_o_ensino_secundario
 ---
-
 <e-card color="1">
   <div>Bogada</div>
   <div>Conxunto de roupas que se lava dunha vez</div>
@@ -39,9 +38,9 @@ tags:
   <div>Características da linguaxe literaria</div>
  <div>
 
-- Emprega recursos ou figuras estilísticas
-- Ten finalidade expresiva, non unicamente informativa
-- Predomina a subxectividade sobre a obxectividade
+* Emprega recursos ou figuras estilísticas
+* Ten finalidade expresiva, non unicamente informativa
+* Predomina a subxectividade sobre a obxectividade
 
 </div>
 
@@ -50,7 +49,7 @@ tags:
 <e-card color="3">
   <div>
 
-Soletrea a palabra _aquí_
+Soletrea a palabra *aquí*
 
 </div>
   <div>O a, o que u, o i</div>
@@ -62,12 +61,12 @@ Soletrea a palabra _aquí_
 
 Seis:
 
-- o ce hache > ch
-- o gue u > gu
-- o ele dobre > ll
-- o ene hache > nh
-- o que u > qu
-- o erre dobre > rr
+* o ce hache > ch
+* o gue u > gu
+* o ele dobre > ll
+* o ene hache > nh
+* o que u > qu
+* o erre dobre > rr
 
 </div>
 </e-card>
@@ -75,7 +74,7 @@ Seis:
 <e-card color="3">
   <div>
 
-Como se chama esta letra _q_?
+Como se chama esta letra *q*?
 
 </div>
   <div>Que</div>
@@ -84,7 +83,7 @@ Como se chama esta letra _q_?
 <e-card color="3">
   <div>
 
-Como se chama esta letra _x_?
+Como se chama esta letra *x*?
 
 </div>
   <div>Xe</div>
@@ -93,7 +92,7 @@ Como se chama esta letra _x_?
 <e-card color="3">
   <div>
 
-Como se chama esta letra _j_?
+Como se chama esta letra *j*?
 
 </div>
   <div>Iota</div>
@@ -105,18 +104,18 @@ Como se chama esta letra _j_?
 
 Sete:
 
-- o a
-- o e aberto
-- o e fechado
-- o i
-- o o aberto
-- o o fechado
-- o u
+* o a
+* o e aberto
+* o e fechado
+* o i
+* o o aberto
+* o o fechado
+* o u
 
 </div>
 </e-card>
 
 <e-card color="4">
-  <div>Cales son elementos que interveñen na comunicación humana?</div>
+  <div>Cales son os elementos que interveñen na comunicación humana?</div>
   <div>Emisor, destinatario, mensaxe, código, canle, contexto e feedback </div>
 </e-card>
