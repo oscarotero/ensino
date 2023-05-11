@@ -42,7 +42,7 @@ O espazo máis ou menos largo en que acaba cada grupo de chanzos dunha escaleira
 
 ![](/img/relanzo.jpg){.is-horizontal}
 
-### 6. ~~Escalerilla de embarque~~ > Escada de embarque
+### 6. ~~Escalerilla~~ de embarque > Escada de embarque
 
 ![](/img/escada_embarque.jpg){.is-horizontal}
 
@@ -69,6 +69,8 @@ O obxecto con forma de grade que se usa para asar alimentos sobre as brasas chá
 Como co tempo esta palabra foi ampliando o seu significado, hoxe usámola noutros contextos que non teñen que ver coa comida. Na televisión, por exemplo, a **grella** é o cadro que contén a programación televisiva; nas corridas de deportes motorizadas, a **grella de saída** é o punto de onde parten os vehículos que participan; e na educación é moi habitual os docentes usaren unha **grella de avaliación,** un tipo de documento en que se especifican os criterios que aplican para avaliaren.
 
 ### 10. ~~Telesilla~~ > telecadeira
+
+Lóxico! Se unha *silla* é unha **cadeira**, un telesilla ten que ser unha **telecadeira**.
 
 ![](/img/telecadeira.jpg){.is-horizontal}
 
