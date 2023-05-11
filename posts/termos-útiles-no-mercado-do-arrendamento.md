@@ -37,7 +37,7 @@ Exs.:
 
 ## 4. Arrendamento \~ alugamento \~ locación ~ alugueiro
 
-O **arrendamento** e o **alugamento** son as accións derivadas de *arrendar* e de *alugar,* respectivamente. Outros sinónimos para *arrendamento* e *alugamento* son **locación** e <mark>alugueiro</mark>.
+**Arrendamento** e **alugamento** son os substantivos derivados de *arrendar* e de *alugar,* respectivamente. Outros sinónimos para *arrendamento* e *alugamento* son **locación** e <mark>alugueiro</mark>.
 
 Exs.:
 
@@ -60,7 +60,7 @@ Exs.:
 
 ## 6. Arrendador \~ alugador \~ locador
 
-A persoa ou a entidade que cede unha propiedade en réxime de arrendamento é o **arrendador**, o **alugador** ou o **locador**.
+A persoa ou a entidade que cede unha propiedade en réxime de arrendamento é o **arrendador**, o **alugador** ou o **locador**. Tamén podemos chamalo **dono** ou **propietario**, claro.
 
 Exs.:
 
@@ -71,11 +71,13 @@ Exs.:
 
 ## Repara
 
-A palabra <mark>alugueiro</mark> ten tres significados diferentes:
+A palabra <mark>alugueiro</mark> ten até tres significados diferentes:
 
 1. Renda: Ex.: *Os alugueiros na Coruña volveron a aumentar, con todo, a un ritmo máis lento.*
-2. Acción e efecto de alugar: Ex.: *O goberno creou un grupo de traballo para analizar formas de regular o mercado de alugueiro.*
+2. Arrendamento: Ex.: *O goberno creou un grupo de traballo para analizar formas de regular o mercado de alugueiro.*
 3. Inquilino: Ex.: *O concello de Barcelona multa un propietario por cobrar unha renda demasiado elevada aos seus alugueiros.* \[Con este significado case non se usa]
+
+A miña recomendación, por tanto, é que non teñas medo de usar **renda**, **arrendamento** ou **inquilino**. Son palabras galeguísimas e evitarás confusións. 
 
 ### Antes de tomares unha decisión, coñece os teus dereitos:
 
