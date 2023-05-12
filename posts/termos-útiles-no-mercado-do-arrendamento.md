@@ -43,7 +43,7 @@ Exs.:
 
 * *A construción nova destinada ao **arrendamento** accesíbel terá unha taxa de IVE menor.*
 * *España aproba unha lei da vivenda para tentar controlar os prezos do **alugamento**.*
-* *O exame dalgúns contratos de **locación** demostrou que os custos a soportar polo erario público eran demasiado elevados.*
+* *O exame dalgúns contratos de **locación** demostrou que os custos soportados polo erario público eran demasiado elevados.*
 * *Posúe unha empresa de **alugueiro** de automóbiles.*
 
 ## 5. Inquilino \~ arrendatario \~ locatario ~ alugueiro
@@ -75,9 +75,9 @@ Exs.:
 
 A palabra <mark>alugueiro</mark> ten até tres significados diferentes:
 
-1. Renda: Ex.: *Os alugueiros na Coruña volveron a aumentar, con todo, a un ritmo máis lento.*
-2. Arrendamento: Ex.: *O goberno creou un grupo de traballo para analizar formas de regular o mercado de alugueiro.*
-3. Inquilino: Ex.: *O concello de Barcelona multa un propietario por cobrar unha renda demasiado elevada aos seus alugueiros.* \[Con este significado case non se usa]
+1. Renda > Ex.: *Os alugueiros na Coruña volveron a aumentar, con todo, a un ritmo máis lento.*
+2. Arrendamento > Ex.: *O goberno creou un grupo de traballo para analizar formas de regular o mercado de alugueiro.*
+3. Inquilino > Ex.: *O concello de Barcelona multa un propietario por cobrar unha renda demasiado elevada aos seus alugueiros.* \[Con este significado case non se usa]
 
 A miña recomendación, por tanto, é que non teñas medo de usar **renda**, **arrendamento** ou **inquilino**. Son palabras galeguísimas e evitarás confusións. 
 
