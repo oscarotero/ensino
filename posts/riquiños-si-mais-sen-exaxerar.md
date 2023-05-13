@@ -5,7 +5,7 @@ tags:
   - lexico
 draft: false
 ---
-A pesar de seren moitas as campañas publicitarias que contribuíron a espallar a idea de os galegos e as galegas seren persoas meigas que están o día todo a dicir *graciñas, sentidiño* ([palabra do ano 2019](https://portaldaspalabras.gal/lexico/mira-que-din/sentidino/)), *ruliña...* non é ben así. Para o probar, traio aquí esta lista de palabras que, ao contrario do que acontece en español, non se usan no diminutivo en galego.
+A pesar de seren moitas as campañas publicitarias que contribuíron a espallar a idea de os galegos e as galegas seren persoas meigas que están o día todo a dicir *graciñas, [sentidiño](https://portaldaspalabras.gal/lexico/mira-que-din/sentidino/)*, *ruliña...* non é ben así. Para o probar, traio aquí esta lista de palabras que, ao contrario do que acontece en español, non se usan no diminutivo en galego.
 
 ## 1. Banquillo > o banco
 
@@ -23,13 +23,13 @@ A peza de roupa interior masculina que cobre a pelve e parte das nádegas, con d
 
 ![](/img/casas_xadrez.jpg)
 
-Os cadros pintados nos taboleiros de certos xogos de mesa (xadrez, damas...) e tamén os espazos delimitados por liñas en táboas, formularios, cuestionarios e outros impresos non son nin *\*casillas* nin *\*casiñas,* o seu nome é **casas**.
+Os cadros pintados nos taboleiros de certos xogos de mesa (xadrez, damas...) e tamén os espazos delimitados por liñas en táboas, formularios, cuestionarios e outros impresos non son *\*casillas* nin tampouco *\*casiñas,* o seu nome é **casas**.
 
 Finalmente, aínda que os galegos non podemos "sacar a nadie de sus casillas", somos tan rabudos como calquera e si podemos esgotar a paciencia das persoas e até facer perder a paciencia a un santo.
 
-## 5. Cigarrillo > o cigarro
+## 5. Cigarrillo, pitillo > o cigarro, pito
 
-Tampouco utilizamos o diminutivo para falarmos do tabaco enrolado. Os de toda a vida chámanse **cigarros** (ou *pitos,* se falarmos coloquialmente) e os modernos, *cigarros electrónicos,* mais en ningún caso *\*cigarrillos.*
+Tampouco utilizamos o diminutivo para falarmos do tabaco enrolado. Os de toda a vida chámanse **cigarros** (ou *pitos,* se falarmos coloquialmente) e os modernos, *cigarros electrónicos,* mais en ningún caso *\*cigarrillos* ou *\*pitillos.*
 
 ## 6. Cursillo > o curso
 
