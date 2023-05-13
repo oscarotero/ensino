@@ -6,7 +6,7 @@ tags:
   - lexico
 draft: false
 ---
-Esta terminación é moi habitual no castelán, mais non no galego, non te deixes enganar. A continuación, tes unha pequena escolma de castelanismos para os que temos unha palabra de noso. A partir de agora, úsaa!
+Esta terminación é moi habitual no castelán, mais non no galego, non te deixes enganar. A continuación, tes unha pequena escolma de castelanismos para os que temos unha palabra de noso. Úsaa!
 
 ### 1. ~~Alfombrilla~~ > o tapete do rato
 
@@ -48,7 +48,7 @@ O espazo máis ou menos largo en que acaba cada grupo de chanzos dunha escaleira
 
 ### 7. ~~Espinilla~~ > a canela
 
-A parte dianteira da perna desde o pé ao xeonllo é a **canela**. Como podes imaxinar, a parte posterior non é a ~~pantorilla~~, senón a **barriga da perna**. O conxunto da canela e a barriga da perna aínda pode ser chamado ~~canilla~~ en español, especialmente se for delgada, en galego é simplemente **perna**. 
+A parte dianteira da perna desde o pé ao xeonllo é a **canela**. Como podes imaxinar, a parte posterior non é a ~~pantorilla~~, senón a **barriga da perna**. O conxunto da canela e a barriga da perna aínda pode ser chamado ~~canilla~~ en español, especialmente se for magra, en galego é simplemente **perna**. 
 
 ![](/img/barriga_da_perna.jpg){.is-horizontal}
 
@@ -56,7 +56,7 @@ Tampouco chamamos ~~espinilla~~ aos puntos negros que se forman pola acumulació
 
 ### 8. ~~Hornillo~~ > o fogón
 
-O lugar onde se colocan as potas e as tixolas para cociñar é o **fogón**. O fogón pode estar nunha cociña a gas, nunha eléctrica ou nunha vitrocerámica.
+O lugar onde se colocan as potas e as tixolas para cociñar é o **fogón**. O fogón pode estar nunha cociña de leña, nunha a gas, nunha placa de indución ou nunha vitrocerámica.
 
 ![](/img/fogon.jpg){.is-horizontal}
 
