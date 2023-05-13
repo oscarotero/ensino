@@ -43,7 +43,7 @@ Exs.:
 
 * *A construción nova destinada ao **arrendamento** accesíbel terá unha taxa de IVE menor.*
 * *España aproba unha lei da vivenda para tentar controlar os prezos do **alugamento**.*
-* *O exame dalgúns contratos de **locación** demostrou que os custos que soportaba polo erario público eran demasiado elevados.*
+* *O exame dalgúns contratos de **locación** demostrou que os custos soportados polo erario público eran demasiado elevados.*
 * *Posúe unha empresa de **alugueiro** de automóbiles.*
 
 ## 5. Inquilino \~ arrendatario \~ locatario ~ alugueiro
