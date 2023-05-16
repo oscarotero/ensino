@@ -43,7 +43,7 @@ Encher papeis e máis papeis, todo é papelame! Gustemos ou non, infelizmente, e
 5. Extender (un cheque, un acta ~ documento) > 
 
    1. **pasar** (un cheque)
-   2. **redactar** (unha acta ~ un documento)
+   2. **redactar** (unha acta ~ documento)
 
 </article>
 
