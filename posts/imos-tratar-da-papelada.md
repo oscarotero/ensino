@@ -8,7 +8,6 @@ show_toc: false
 ---
 <iframe src="https://giphy.com/embed/H4iTqZzLoxVLp97Ige" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/black-and-white-thebeeshaws-the-bee-shaws-H4iTqZzLoxVLp97Ige"></a></p>
 
-
 Encher papeis e máis papeis, todo é papelame! Gustemos ou non, infelizmente, esa é a realidade. A burocracia consome cada vez máis tempo, enerxía e diñeiro, por tanto, as accións que presento a seguir están moi presentes no día a día de todas as persoas. Seleccionei algunhas das máis habituais, repara só que o galego ten formas propias para todas estas xestións, logo non uses o castelanismo.
 
 <article>
@@ -31,25 +30,7 @@ Encher papeis e máis papeis, todo é papelame! Gustemos ou non, infelizmente, e
 
 <article>
 
-4. Cursar (un expediente, un pedido) > 
-
-   1. **tramitar** (un expediente)
-   2. **expedir** ~ **enviar** (un pedido)
-
-</article>
-
-<article>
-
-5. Extender (un cheque, un acta ~ documento) > 
-
-   1. **pasar** (un cheque)
-   2. **redactar** (unha acta ~ documento)
-
-</article>
-
-<article>
-
-6. Firmar > **asinar**
+   4. Firmar > **asinar**
 
 *Firma* aparece no dicionario, sei, mais o verbo **asinar** e o substantivo **sinatura**, son as formas maioritarias e as que verás, ou deberías ver, na documentación en galego.
 
@@ -57,30 +38,30 @@ Encher papeis e máis papeis, todo é papelame! Gustemos ou non, infelizmente, e
 
 <article>
 
-7. Recopilar > **recompilar** (máis papeis, claro)
+   5. Recopilar > **recompilar** (máis papeis, claro)
 
 </article>
 
 <article>
 
-8. Rellenar, cumplimentar (formularios...) > **encher**, **cubrir** (formularios...)
+   6. Rellenar, cumplimentar (formularios...) > **encher**, **cubrir** (formularios...)
 
 </article>
 
 <article>
 
-9. Sellar > **selar** 
+   7. Sellar > **selar** 
 
 </article>
 
 <article>
 
-10. Subsanar (un defecto de forma) > **corrixir** (un defecto de forma, ou sexa, máis papelada)
+   8. Subsanar (un defecto de forma) > **corrixir** (un defecto de forma, ou sexa, máis papelada)
 
 </article>
 
 <article>
 
-11. Tachar > **riscar**
+   9. Tachar > **riscar**
 
 </article>
