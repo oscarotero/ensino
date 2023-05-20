@@ -119,7 +119,7 @@ Vira o cartón para descubrires o nome que aparece habitualmente nos menús
 </e-card>
 
 <e-card color="3">
-  <div>Torresmo \\~ torrisco \\~ roxón (dialectal)</div>
+  <div>Torresmo \~ torrisco \~ roxón (dialectal)</div>
   <div>Torrezno (es)</div>
 </e-card>
 
