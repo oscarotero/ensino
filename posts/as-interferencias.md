@@ -92,9 +92,9 @@ Preposición *a* na perífrase *ir + infinitivo:* [\#DígochoEu Moito ollo con i
 
 ### Interferencias léxicas
 
-Castelanismos adaptados: *\*conexo, \*antoxo*
+Castelanismos adaptados: *\*conexo, \*antoxo, \*[aguxeiro](https://youtu.be/PpYUPfu_bYM)*
 
-Castelanismos plenos: *\*miércoles,* *\*[abuelo](https://www.youtube.com/watch?v=wCCYJL24Eqo),* *\*[postre](https://www.youtube.com/watch?v=oloJqSn7iCo)*, *\*[alquiler](https://www.youtube.com/watch?v=BxYS3xOhsH8)*, *\*[bache](https://www.youtube.com/watch?v=IhHbh8T0Lj8),* **[gafas](https://www.youtube.com/watch?v=ynYsAd0Y0mA),*** [bronca](https://digochoeu.gal/videos/digochoeu-non-digas-bronca/),*
+Castelanismos plenos: *\*[Dios e adiós](https://youtu.be/gd7b8noHrgo), *\*[perro](https://youtu.be/51TN7VQTRoI), *\*miércoles,* *\*[abuelo](https://www.youtube.com/watch?v=wCCYJL24Eqo),* *\*[postre](https://www.youtube.com/watch?v=oloJqSn7iCo)*, *\*[alquiler](https://www.youtube.com/watch?v=BxYS3xOhsH8)*, *\*[bache](https://www.youtube.com/watch?v=IhHbh8T0Lj8), *\*[gafas](https://www.youtube.com/watch?v=ynYsAd0Y0mA), *\*[bronca](https://digochoeu.gal/videos/digochoeu-non-digas-bronca/),*
 
 ### Interferencias semánticas
 
@@ -105,6 +105,8 @@ Castelanismos plenos: *\*miércoles,* *\*[abuelo](https://www.youtube.com/watch?
 \**rubio* > [\#DígochoEu Non me chames rubia](https://www.youtube.com/watch?v=j532QA3HDvA)
 
 \**sono* > [\#DígochoEu Non é o mesmo sono que soño](https://www.youtube.com/watch?v=UgFopQpkiVM&t=9s)
+
+\**habitación* > [\#DígochoEu Moito ollo coas habitacións] (https://youtu.be/ST2FGqHvE1k)
 
 ### Hiperenxebrismos ou hipergaleguismos
 
