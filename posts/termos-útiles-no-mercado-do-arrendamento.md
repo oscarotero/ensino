@@ -46,9 +46,9 @@ Exs.:
 * *O exame dalgúns contratos de **locación** demostrou que os custos soportados polo erario público eran demasiado elevados.*
 * *Posúe unha empresa de **alugueiro** de automóbiles.*
 
-## 5. Inquilino \~ arrendatario \~ locatario ~ alugueiro
+## 5. Inquilino \~ arrendatario \~ locatario \~ rendeiro \~ alugueiros
 
-A persoas que alugan poden ser chamadas de todas estas formas: **inquilinos**, **arrendatarios**, **locatarios** ou <mark>alugueiros.</mark>
+A persoas que alugan poden ser chamadas de todas estas formas: **inquilinos**, **arrendatarios**, **locatarios**, **rendeiros** ou <mark>alugueiros.</mark>
 
 Exs.:
 
@@ -56,13 +56,14 @@ Exs.:
 * *Os Servizos Xurídicos concluíron que o **arrendatario** do apartamento goza do dereito de preferencia na adquisición do inmóbel.*
 * *A relación entre **arrendatarios** e propietarios implica dereitos e obrigas.*
 * *No caso dunha devolución da fianza ao **locatario**, o locador deberá emitir un documento comprobativo.*
+* *A crise obriga os propietarios a baixar os prezos das rendas comerciais aos **rendeiros**.*
 * *Os propietarios que presionen os **alugueiros** para veren o inmóbel desocupado poden ser punidos.*
 
-## 6. Arrendador \~ alugador \~ locador
+## 6. Arrendador \~ alugador \~ locador ~ rendeiro
 
-A persoa ou a entidade que cede unha propiedade en réxime de arrendamento é o **arrendador**, o **alugador** ou o **locador**. Tamén podemos chamalo **dono** ou **propietario**, mais nunca caseiro.
+A persoa ou a entidade que cede unha propiedade en réxime de arrendamento é o **arrendador**, o **alugador**, o **locador** ou o **rendeiro**. Tamén podemos chamalo **dono** ou **propietario**, mais nunca *caseiro.*
 
-Un caseiro, no noso país, non é un propietario. Os caseiros eran as persoas que traballaban mediante arrendamento as terras dun amo ou que coidaban dos bens dunha persoa ausente. Trataríase entón dun tipo de arrendatario.
+Un *caseiro*, no noso país, non é un propietario. Os caseiros eran as persoas que traballaban mediante arrendamento as terras dun amo ou que coidaban dos bens dunha persoa ausente. Trataríase entón dun tipo de arrendatario.
 
 Exs.:
 
@@ -70,6 +71,7 @@ Exs.:
 * *Caso o **alugador** decida vender a casa, os arrendatarios teñen prioridade na compra.*
 * *Esta modalidade de seguro cobre até tres mil euros de danos causados, a perda de rendas e a responsabilidade civil do propietario ou do **locador**.*
 * *O arrendamento de cuartos non promove a substitución da poboación local, a xentrificación e a descaracterización dos barrios, porque o inmóbel continúa a ser residencia do **locador**.*
+* *Un **rendeiro** na Alemaña pediu unha indemnización por o inquilino lle ter manchado o chan do baño con pingas de urina.*
 
 ## Repara
 
