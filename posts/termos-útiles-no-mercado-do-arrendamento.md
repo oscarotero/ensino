@@ -46,9 +46,9 @@ Exs.:
 * *O exame dalgúns contratos de **locación** demostrou que os custos soportados polo erario público eran demasiado elevados.*
 * *Posúe unha empresa de **alugueiro** de automóbiles.*
 
-## 5. Inquilino \~ arrendatario \~ locatario \~ rendeiro \~ alugueiros
+## 5. Inquilino \~ arrendatario \~ locatario \~ alugueiro \~ rendeiro
 
-A persoas que alugan poden ser chamadas de todas estas formas: **inquilinos**, **arrendatarios**, **locatarios**, **rendeiros** ou <mark>alugueiros.</mark>
+A persoas que alugan poden ser chamadas de todas estas formas: **inquilinos**, **arrendatarios**, **locatarios**, <mark>alugueiros</mark> ou **rendeiros**.
 
 Exs.:
 
@@ -56,8 +56,8 @@ Exs.:
 * *Os Servizos Xurídicos concluíron que o **arrendatario** do apartamento goza do dereito de preferencia na adquisición do inmóbel.*
 * *A relación entre **arrendatarios** e propietarios implica dereitos e obrigas.*
 * *No caso dunha devolución da fianza ao **locatario**, o locador deberá emitir un documento comprobativo.*
-* *A crise obriga os propietarios a baixar os prezos das rendas comerciais aos **rendeiros**.*
 * *Os propietarios que presionen os **alugueiros** para veren o inmóbel desocupado poden ser punidos.*
+* *A crise obriga os propietarios a baixar os prezos das rendas comerciais aos **rendeiros**.*
 
 ## 6. Arrendador \~ alugador \~ locador ~ rendeiro
 
