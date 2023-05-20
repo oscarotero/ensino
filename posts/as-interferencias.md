@@ -94,7 +94,7 @@ Preposición *a* na perífrase *ir + infinitivo:* [\#DígochoEu Moito ollo con i
 
 Castelanismos adaptados: *\*conexo, \*antoxo, \*[aguxeiro](https://youtu.be/PpYUPfu_bYM)*
 
-Castelanismos plenos: *[\*Dios e adiós](https://youtu.be/gd7b8noHrgo)*, *[\*perro](https://youtu.be/51TN7VQTRoI)*, *\*miércoles,* *[\*abuelo](https://www.youtube.com/watch?v=wCCYJL24Eqo),* *[\*postre](https://www.youtube.com/watch?v=oloJqSn7iCo)*, *[\*alquiler](https://www.youtube.com/watch?v=BxYS3xOhsH8)*, *[\*bache](https://www.youtube.com/watch?v=IhHbh8T0Lj8)*, *[\*gafas](https://www.youtube.com/watch?v=ynYsAd0Y0mA)*, *[\*bronca](https://digochoeu.gal/videos/digochoeu-non-digas-bronca/)*, *[\*enterarse](https://youtu.be/loKQtQ9OFIg)*, *[\*encía] (https://youtu.be/UEPr_tuRiig)*, *[\*riñonera](https://youtu.be/ecKn0-WxztI)*,
+Castelanismos plenos: *[\*Dios e adiós](https://youtu.be/gd7b8noHrgo)*, *[\*perro](https://youtu.be/51TN7VQTRoI)*, *\*miércoles,* *[\*abuelo](https://www.youtube.com/watch?v=wCCYJL24Eqo),* *[\*postre](https://www.youtube.com/watch?v=oloJqSn7iCo)*, *[\*alquiler](https://www.youtube.com/watch?v=BxYS3xOhsH8)*, *[\*bache](https://www.youtube.com/watch?v=IhHbh8T0Lj8)*, *[\*gafas](https://www.youtube.com/watch?v=ynYsAd0Y0mA)*, *[\*bronca](https://digochoeu.gal/videos/digochoeu-non-digas-bronca/)*, *[\*enterarse](https://youtu.be/loKQtQ9OFIg)*, *[\*encía](https://youtu.be/UEPr_tuRiig)*, *[\*riñonera](https://youtu.be/ecKn0-WxztI)*,
 
 ### Interferencias semánticas
 
