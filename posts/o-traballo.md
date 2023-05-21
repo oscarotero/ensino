@@ -3,7 +3,7 @@ title: O traballo
 summary: Vocabulario básico para falar do traballo
 tags:
   - lexico
-draft: false
+draft: true
 show_toc: true
 ---
 ![](/img/chamote_agora_estou_choiando.jpg)
