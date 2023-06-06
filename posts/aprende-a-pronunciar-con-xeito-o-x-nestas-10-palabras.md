@@ -91,7 +91,7 @@ Pronúnciase con \[ks] **prefixo** e toda a familia: **prefixación**, **prefixa
 
 8. **prolixo**
 
-O contrario de conciso é **prolixo** con [ks]. Aínda que o adxectivo pode aplicarse tanto a persoas (aquelas con tendencia á digresión) como a cousas (demasiado longas e extensas), repara neste pormenor: unha escritora con moita obra publicada non é prolixa, senón prolífica. 
+O contrario de conciso é **prolixo** con [ks]. Aínda que o adxectivo pode aplicarse tanto a persoas (aquelas con tendencia á digresión) como a cousas (demasiado longas e extensas), repara neste pormenor: unha escritora con moita obra publicada non é *\*prolixa, senón *prolífica.* 
 
 *Prolixo* no *Dicionario de pronuncia galega:* [pɾoˈlikso̝](https://ilg.usc.es/pronuncia/?pq=&q=prolixo&l=1&c%5B%5D=0)
 
