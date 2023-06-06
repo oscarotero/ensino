@@ -5,7 +5,7 @@ tags:
   - sons_consonanticos
 draft: false
 ---
-Hoxe imos debruzarnos sobre 9 palabras que é moi habitual ouvirmos cunha pronuncia errada. A incorrección consiste en pronunciarmos o *x* como en *queixa* ou en *lixo*, cando o son que deberiamos producir é o mesmo que en *tórax ou* en *experto.*
+Hoxe imos debruzarnos sobre 10 palabras que é moi habitual ouvirmos cunha pronuncia errada. A incorrección consiste en pronunciarmos o *x* como en *queixa* ou en *lixo*, cando o son que deberiamos producir é o mesmo que en *tórax ou* en *experto.*
 
 ## Lémbrate!
 
