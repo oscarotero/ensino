@@ -55,8 +55,8 @@ Como nos nosos días non é así tan fácil avistarmos infinitivos flexionados, 
 * Algunhas persoas sufriron moito por **estaren** lonxe das familias.
 
 ### Sen
-* Todos fixeron o que ordenou sen faceren preguntas.
-* Moitas veces podemos influenciar outras persoas sen o sabermos.
+* Todos fixeron o que ordenou sen **faceren** preguntas.
+* Moitas veces podemos influenciar outras persoas sen o **sabermos**.
 
 ## Locucións prepositivas
 
