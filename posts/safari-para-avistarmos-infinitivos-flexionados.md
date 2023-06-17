@@ -54,6 +54,10 @@ Como nos nosos días non é así tan fácil avistarmos infinitivos flexionados, 
 * Houbo unha confusión por **estarmos** no compartimento errado.
 * Algunhas persoas sufriron moito por **estaren** lonxe das familias.
 
+### Sen
+* Todos fixeron o que ordenou sen faceren preguntas.
+* Moitas veces podemos influenciar outras persoas sen o sabermos.
+
 ## Locucións prepositivas
 
 ### No caso de
