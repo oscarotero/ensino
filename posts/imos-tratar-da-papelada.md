@@ -56,7 +56,7 @@ Encher papeis e máis papeis, todo é papelame! Gustemos ou non, infelizmente, e
 
 <article>
 
-   8. Subsanar (un defecto de forma) > **corrixir** (un defecto de forma, ou sexa, máis papelada)
+   8. Subsanar (un defecto de forma) > **corrixir** (un defecto de forma, ou sexa, máis papelorio)
 
 </article>
 
