@@ -36,7 +36,7 @@ draft: false
 
 ## Permitir
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oLY0otwtLPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oLY0otwtLPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Quedar
 
@@ -44,7 +44,7 @@ draft: false
 
 ## Xogar
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/65TPuybg-HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe
+<iframe width="560" height="315" src="https://www.youtube.com/embed/65TPuybg-HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Lavar
 
