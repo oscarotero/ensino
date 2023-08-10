@@ -46,7 +46,7 @@ Tamén podemos escoller entre usarmos *soup* (**xabón**) ou *gel* (**xel**) par
 
 </details>
 
-2. Usa o xerador para creares ti un cartaz para unha residencia de anciáns. Tes que ter en conta que na Galiza o habitual é usarmos as formas de respecto (vostede ou vostedes) para tratar as persoas dunha certa idade, xa que logo, fai s adaptacións necesarias nos textos.
+2. Usa o xerador para creares ti un cartaz para unha residencia de anciáns. Tes que ter en conta que na Galiza o habitual é usarmos as formas de respecto (vostede ou vostedes) para tratar as persoas dunha certa idade, xa que logo, fai as adaptacións necesarias nos textos.
 
 - - -
 
