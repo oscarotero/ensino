@@ -27,3 +27,7 @@ tags:
 ### Haber + (de) + infinitivo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r9Xag3KQZAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Acabar de + infinitivo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oAUqe8Fx3fY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
