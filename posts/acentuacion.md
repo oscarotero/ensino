@@ -9,7 +9,7 @@ Neste esquema sintetizamos as regras xerais de uso do acento gráfico en galego.
 | Esdrúxulas                                                               | Graves                                                                   | Agudas                                                                   |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
 | <e-tag color=2>´</e-tag><e-tag color=1>*</e-tag><e-tag color=1>*</e-tag> | <e-tag color=1>*</e-tag><e-tag color=2>´</e-tag><e-tag color=1>*</e-tag> | <e-tag color=1>*</e-tag><e-tag color=1>*</e-tag><e-tag color=2>´</e-tag> |
-| As palabras esdrúxulas **acentúanse sempre**                             | Só se acaban en **consoante distinta a *\-n*, *\-s* ou *\-ns***          | Cando terminan en **vogal** ou en ***\-n*, *\-s* ou *\-ns***             |
+| As palabras esdrúxulas **acentúanse sempre**                             | Só se acabaren en **consoante distinta a *\-n*, *\-s* ou *\-ns***        | Cando terminaren en **vogal** ou en ***\-n*, *\-s* ou *\-ns***           |
 | Exemplo: *médico*                                                        | Exemplo: *fácil*                                                         | Exemplo: *verán*                                                         |
 
 - - -
