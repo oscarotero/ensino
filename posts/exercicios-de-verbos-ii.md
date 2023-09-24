@@ -30,7 +30,7 @@ Pon as seguintes oracións en pasado.
 10. Despois do xantar dorme a sesta.
 11. Podo facelo porque me axudas.
 12. Non saben dicir quen o fai mellor.
-13. Sae de mañá moi cedo.
+13. Sae ás sete da casa. 
 14. Non quero dicir nada polo momento.
 15. Telefono, mais ninguén atende as chamadas.
 
@@ -48,7 +48,7 @@ Pon as seguintes oracións en pasado.
 10. Despois do xantar **durmiu** a sesta.
 11. **Puiden** facelo porque me **axudaches**.
 12. Non **souberon** dicir quen o **fixo** mellor.
-13. **Saíu** de mañá moi cedo.
+13. **Saíu** ás sete da casa. 
 14. Non **quixen** dicir nada polo momento.
 15. **Telefonei**, mais ninguén **atendeu** as chamadas.
 
