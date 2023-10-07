@@ -120,7 +120,7 @@ cumpra.
 * O paxaro non pode voar porque ten unha <e-answer>á</e-answer> quebrada.
 * Lin <e-answer>a</e-answer> novela nunha tarde.
 
-<e-validate>Corrixe as respostas</e-validate>
+<e-validate>Verifica as respostas</e-validate>
 
 ## Recursos para adestrares a acentuación diacrítica:
 [Quizziz](https://quizizz.com/join/quiz/6009c73c004a13001bca6d48/start?studentShare=true) creado por Ana Alonso Lozano
