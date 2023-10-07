@@ -1,7 +1,8 @@
 ---
-title: O alfabeto galego
+title: "O alfabeto galego "
 tags:
   - ortografia
+  - 1 ESO
 ---
 O alfabeto ou abecedario é o conxunto de letras con que se representan os sons
 dunha lingua.
@@ -107,7 +108,7 @@ cunca : o <e-answer size=3>ce</e-answer>
 
 xabón : o <e-answer size=3>xe</e-answer>
 
-<e-validate>Corrixe as respostas</e-validate>
+<e-validate>Verifica as respostas</e-validate>
 
 ### Exercicio 2
 
@@ -132,7 +133,7 @@ vasoira : o <e-answer size=3>uve</e-answer>, o <e-answer size=3>a</e-answer>, o
 <e-answer size=3>i</e-answer>, o <e-answer size=3>erre</e-answer> o
 <e-answer size=3>a</e-answer>
 
-<e-validate>Corrixe as respostas</e-validate>
+<e-validate>Verifica as respostas</e-validate>
 
 ### Exercicio 3
 
@@ -145,4 +146,4 @@ Troca a letra grosa de cada palabra por un dígrafo e forma palabras novas:
 * bi**c**ar: bi<e-answer size=3>ll</e-answer>ar
 * co**c**er: co<e-answer size=3>rr</e-answer>er
 
-<e-validate>Corrixe as respostas</e-validate>
+<e-validate>Verifica as respostas</e-validate>
