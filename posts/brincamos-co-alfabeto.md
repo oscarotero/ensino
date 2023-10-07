@@ -8,7 +8,7 @@ show_toc: false
 ---
 ## O reto do alfabeto
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@digochoeu/video/6892731062544289026" data-video-id="6892731062544289026" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@digochoeu" href="https://www.tiktok.com/@digochoeu?refer=embed">@digochoeu</a> Así é o alfabeto galego <a title="dígochoeu" target="_blank" href="https://www.tiktok.com/tag/d%C3%ADgochoeu?refer=embed">#DígochoEu</a> <a title="galego" target="_blank" href="https://www.tiktok.com/tag/galego?refer=embed">#galego</a> <a title="oretodoalfabeto" target="_blank" href="https://www.tiktok.com/tag/oretodoalfabeto?refer=embed">#oretodoalfabeto</a> <a title="galicia" target="_blank" href="https://www.tiktok.com/tag/galicia?refer=embed">#Galicia</a> <a title="tvg" target="_blank" href="https://www.tiktok.com/tag/tvg?refer=embed">#TVG</a> <a target="_blank" title="♬ original sound - #DígochoEu" href="https://www.tiktok.com/music/original-sound-6892731388538161921?refer=embed">♬ original sound - #DígochoEu</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+[Ver o vídeo no Tiktok](https://www.tiktok.com/@digochoeu/video/6892731062544289026){target=_blank}
 
 ## Dúo do X
 
