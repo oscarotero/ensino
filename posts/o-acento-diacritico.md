@@ -10,7 +10,7 @@ escriben igual, que son homógrafas, mais que teñen orixes diferentes,
 significados distintos e que ademais poden pronunciarse de maneira diferente e
 incluso non pertenceren á mesma categoría gramatical.
 
-Exemplo:
+Exemplos:
 
 ### Significados diferentes
 
@@ -123,4 +123,5 @@ cumpra.
 <e-validate>Verifica as respostas</e-validate>
 
 ## Recursos para adestrares a acentuación diacrítica:
+
 [Quizziz](https://quizizz.com/join/quiz/6009c73c004a13001bca6d48/start?studentShare=true) creado por Ana Alonso Lozano
