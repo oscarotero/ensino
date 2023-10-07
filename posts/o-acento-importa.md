@@ -5,7 +5,9 @@ tags:
 draft: false
 show_toc: false
 ---
-Explica a diferenza de significado entre as seguintes mensaxes. A chave está nas palabras marcadas.
+Explica a diferenza de significado entre as seguintes mensaxes. 
+
+A chave está nas palabras marcadas en negra.
 
 <article>
 
