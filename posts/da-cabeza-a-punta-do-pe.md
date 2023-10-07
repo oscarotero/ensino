@@ -37,7 +37,7 @@ palabras:
 
 [Enforcado > partes do corpo (agás a cabeza)](https://www.ogalego.eu/exercicios_de_lingua/exercicios/pasatempos/afor/3/3.htm)
 
-## As partes do corpo en LSE
+## As partes do corpo na LSE
 
 Queres aprender como se din as distintas partes do corpo humano na lingua de sinais española (LSE)?
 
