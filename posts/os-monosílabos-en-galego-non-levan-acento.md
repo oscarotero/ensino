@@ -19,17 +19,14 @@ tamén ten un nome especial: **acento diacrítico**.
 
 ## Recursos
 
-Preme nesta ligazón para ver as palabras que si levan
-[acento diacrítico](https://laurarubio.net/posts/o-acento-diacritico-1/)
+Preme nesta ligazón para ver as palabras que si levan [acento diacrítico](https://laurarubio.net/posts/o-acento-diacritico-1/)
 
 E clica nas de abaixo para coñecer algúns monosílabos que nunca levan
 acento:[](https://www.youtube.com/watch?v=VtBV9-5gkVM)
 
-[Vídeo do #DígochoEu: Quítalle o acento ao
-cu!](https://www.youtube.com/watch?v=VtBV9-5gkVM)
+[Vídeo do #DígochoEu: Quítalle o acento ao cu!](https://www.youtube.com/watch?v=VtBV9-5gkVM)
 
-[Vídeo do #DígochoEu: Non digas que si a
-todo](https://www.youtube.com/watch?v=UzkerarcTXU)
+[Vídeo do #DígochoEu: Non digas que si a todo](https://www.youtube.com/watch?v=UzkerarcTXU)
 
 - - -
 
