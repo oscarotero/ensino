@@ -17,7 +17,7 @@ palabras:
 
 - - -
 
-## Selección de xogos 
+## Selección de xogos
 
 [Apunta ben > O rostro](https://portaldaspalabras.gal/xogo/o-rostro/)
 
@@ -36,3 +36,13 @@ palabras:
 [Enforcado > a cabeza](https://www.ogalego.eu/exercicios_de_lingua/exercicios/pasatempos/afor/2/2.htm)
 
 [Enforcado > partes do corpo (agás a cabeza)](https://www.ogalego.eu/exercicios_de_lingua/exercicios/pasatempos/afor/3/3.htm)
+
+
+
+## As partes do corpo en LSE
+
+Queres aprender como se din as distintas partes do corpo na lingua de sinais española (LSE)?
+
+Olla o seguinte vídeo para aprenderes:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_MtC35XrOCk?si=KV7n8WAuevlNpG7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
