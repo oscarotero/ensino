@@ -3,6 +3,7 @@ title: Coa saúde non se brinca!
 summary: Escolma de xogos do Portal das palabras
 tags:
   - lexico
+  - 1 ESO
 ---
 Todo o mundo sabe que coa saúde non se brinca! Mais desde agora si que o podemos facer coas palabras que utilizamos para falar dela, grazas a esta magnífica recompilación de xogos:
 
