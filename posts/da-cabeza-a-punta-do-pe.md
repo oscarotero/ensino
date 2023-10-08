@@ -39,7 +39,7 @@ palabras:
 
 ## As partes do corpo na LSE
 
-Queres aprender como se din as distintas partes do corpo humano na lingua de sinais española (LSE)?
+Queres aprender como se din as distintas partes do corpo humano na lingua xestual española (LSE)?
 
 Olla o seguinte vídeo para aprenderes:
 
