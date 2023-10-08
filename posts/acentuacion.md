@@ -44,7 +44,7 @@ debes usar palabras con acento gráfico:
 
 <e-answer> semáforo </e-answer>
 
-<e-validate>Corrixe as respostas</e-validate>
+<e-validate>Verifica as respostas</e-validate>
 
 ## Exercicio 2
 
@@ -71,7 +71,7 @@ de que doenzas se trata:
 
 <details>
 
-<summary>Ver as solucións</summary>
+<summary>Ver as respostas</summary>
 
 1. <e-tag color=1>té</e-tag><e-tag color=1>ta</e-tag><e-tag color=1>no</e-tag>
 2. <e-tag color=2>xa</e-tag><e-tag color=2>ram</e-tag><e-tag color=2>pón</e-tag>
@@ -99,7 +99,7 @@ Ex.: **minuscula**: *Minúscula* leva acento porque é unha palabra esdrúxula
 9. ali:
 10. chines:
 
-<details> <summary>Ver as solucións</summary>
+<details> <summary>Ver as respostas</summary>
 
 1. **difícil**: *Difícil* leva acento porque é unha palabra grave que acaba en consoante *\-l.*
 2. **papel**: *Papel* non leva acento porque é unha palabra aguda que acaba en consoante distinta *\-n, -s* ou *\-ns.* 
