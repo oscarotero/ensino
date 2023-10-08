@@ -102,7 +102,7 @@ Ex.: **minuscula**: *Minúscula* leva acento porque é unha palabra esdrúxula
 <details> <summary>Ver as respostas</summary>
 
 1. **difícil**: *Difícil* leva acento porque é unha palabra grave que acaba en consoante *\-l.*
-2. **papel**: *Papel* non leva acento porque é unha palabra aguda que acaba en consoante distinta *\-n, -s* ou *\-ns.* 
+2. **papel**: *Papel* non leva acento porque é unha palabra aguda que acaba nunha consoante diferente de *\-n, -s* ou *\-ns.* 
 3. **lapis**: *Lapis* non leva gráfico porque é unha palabra grave que acaba en consoante *\-s.*
 4. **canción**: *Canción* leva acento porque é unha palabra aguda que acaba en *\-n.*
 5. **acuático**: *Acuático* leva acento porque é unha palabra esdrúxula.
