@@ -4,17 +4,27 @@ tags:
   - verbos_pronominais
 draft: false
 ---
-## Quedar
+## Calar
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLPJdEqiyl2dAvN7xUCb3efSmafoZy4cRb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RmLxMwCRw2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Escapar 
+## Casar
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g7jS6ybQpt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FXERk3CQMEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3bsuMNlmdww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Encarecer e abaratar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-rY0hUirAlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Escapar
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g7jS6ybQpt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Gañar
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E65zQm8P68Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Ir de compras
 
@@ -24,28 +34,26 @@ draft: false
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hkJH6n1sOtM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Casar
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3bsuMNlmdww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Perderse, non o perdas e não o perca
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CQtg4y8ElP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Permitir
 
-[Dígocho eu: É correcto dicir non cho podes permitir?](https://youtube.com/shorts/oLY0otwtLPE?feature=share)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oLY0otwtLPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Quedar
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLPJdEqiyl2dAvN7xUCb3efSmafoZy4cRb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Xogar
 
-[Dígocho eu: Te la estás jugando? é *Estasta xogando?](https://www.tiktok.com/@digochoeu/video/7161396999831538949)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/65TPuybg-HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Lavar 
+## Lavar
 
 [<del>*Lávate o cu!</del> > Lava o cu!](https://www.tiktok.com/@digochoeu/video/7046489439748558086)
 
 ## [](https://youtube.com/shorts/oLY0otwtLPE?feature=share)Tirar
 
-[Dígocho eu: Nada de tirarse peidos diante de min](https://www.tiktok.com/@digochoeu/video/7056350427046006021)
-
-[](https://www.tiktok.com/@digochoeu/video/7046489439748558086)
+[Dígocho eu: Nada de tirarse peidos diante de mi](https://www.tiktok.com/@digochoeu/video/7056350427046006021)

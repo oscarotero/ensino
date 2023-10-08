@@ -33,7 +33,7 @@ Completa co verbo correspondente no presente do indicativo.
 5. Eu non <e-answer>caibo</e-answer> (caber) nun sitio tan pequeno.
 6. Pablo <e-answer>é</e-answer> (ser) o máis vello dos tres.
 7. (Eu) <e-answer>estudo</e-answer> (estudar) dúas horas todos os días.
-8. Ti que <e-answer>vas</e-answer> (ir) facer esta fin de semana?
+8. Ti que <e-answer>vas</e-answer> (ir) facer este fin de semana?
 9. Os filandeses son os europeos que máis libros <e-answer>len</e-answer> (ler).
 10. Xiana <e-answer>di</e-answer> (dicir) que non quere vir connosco.
 11. Con este barullo non <e-answer>oio</e-answer> (oír) nada do que me estás a

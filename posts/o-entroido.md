@@ -14,7 +14,7 @@ Esta festa recibe moitos nomes ao longo de todo o territorio galego, por exemplo
 
 Alén de *entroido* tamén temos a forma *carnaval*. *Carnaval* é unha palabra de orixe italiana, *carnevale* ("levar a carne"), que pasou logo a outros idiomas europeos como o francés, o castelán ou mesmo o portugués (desde mediados do século XVI).
 
-#### Os personaxes do Entroido galego
+### Os personaxes do Entroido galego
 
 O máis típico do Entroido é andar de carauta posta chocallando e trangallando, é dicir, correndo o Entroido, procurando que non che caian uns lategazos ou unha presa de formigas.
 
@@ -24,7 +24,11 @@ Con tanta mascarada non resulta doado sabermos quen é quen polo que imos darlle
 
 Setestrelo do Portal das palabras: [Sete personaxes do Entroido](https://portaldaspalabras.gal/lexico/setestrelo/sete-personaxes-do-entroido/)
 
-#### A festa en diferentes lugares
+### Calendario do Entroido
+
+[O Entroido, día a día](https://portaldaspalabras.gal/lexico/allos-con-bugallos/o-entroido-dia-dia/)
+
+### A festa en diferentes lugares
 
 [\#DetrásDaCarauta Entroido dos Xenerais da Ulla](https://www.youtube.com/watch?v=AGApbD6iUVM) (vídeo, 02:09 min)
 
@@ -38,29 +42,33 @@ Setestrelo do Portal das palabras: [Sete personaxes do Entroido](https://portald
 
 [\#DetrásDaCarauta Entroido de Xinzo de Limia](https://www.youtube.com/watch?v=-L3cyoQFbnE) (vídeo, 02:45 min)
 
-[Eu son o merdeiro](https://www.youtube.com/watch?v=Iwnow_JLcSw&feature=youtu.be) (vídeo sobre este personaxe do Entroido vigués, 03:36 min)
+[Eu son o merdeiro (Vigo)](https://www.youtube.com/watch?v=Iwnow_JLcSw&feature=youtu.be)  (vídeo, 03:36 min) - [Riscos e alegrías de ser merdeiro](https://www.youtube.com/watch?v=MYVO24Hsk9o) (vídeo, 02:00 min)
 
 [O Oso de Salcedo na Proba de Brollón](https://www.youtube.com/watch?v=ngDNWdFAyTo) (vídeo, 02:36 min)
 
 [Os felos de Maceda](https://www.youtube.com/watch?v=p32iEhta7Xc) (vídeo, 01:27 min)
 
-
-
-#### Doces de Entroido
+### Doces de Entroido
 
 [Unha ducia de doces do Entroido](https://praza.gal/ducias/doces-de-entroido), artigo de Carmela S. Arines en *Praza*
 
 [Freixós - filloas](https://www.youtube.com/watch?v=683qLcL0-pw), vídeo-receita (+ léxico) de Bolboretas no Bandullo
 
-#### Xogos
+### Xogos
+
+[22 preguntas sobre o Entroido galego](https://laurarubio.net/posts/22-preguntas-sobre-o-entroido-galego/)
 
 [Canto sabes do Entroido?](https://www.gciencia.com/destinos/canto-sabes-do-noso-entroido/) Trivia de *GCiencia*
 
-[Entroido. Só unha vale! Portal das Palabras](https://portaldaspalabras.gal/xogo/correr-o-entroido/)
+[Entroido. Só unha vale!](https://portaldaspalabras.gal/xogo/correr-o-entroido/) no Portal das Palabras
 
-#### Vocabulario básico para o Entroido
+[Opá! Sinónimos de Entroido](https://portaldaspalabras.gal/xogo/sinonimos-de-entroido/) no Portal das Palabras
 
-[Palabras de Entroido](https://laurarubio.net/posts/palabras-de-entroido/)
+[A correr o Entroido!](https://portaldaspalabras.gal/xogo/a-correr-o-entroido/) no Portal das Palabras
+
+[Doces de Entroido](https://portaldaspalabras.gal/xogo/doces-de-entroido/) no Portal das Palabras
+
+### Vocabulario básico para o Entroido
 
 Como é? Entroido ou Antroido? 
 

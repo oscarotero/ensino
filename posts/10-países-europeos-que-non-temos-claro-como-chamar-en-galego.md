@@ -48,7 +48,7 @@ O acento tamén é un problema á hora de falarmos dos naturais da *Bosnia e Her
 
 Infelizmente, a denominación do país e da súa xente popularizouse no momento en que a Rusia invadiu o país no día 24 de febreiro de 2022. Non foron as únicas formas, porque nos telexornais axiña comezaron a aparecer moitos outros topónimos cada vez que os correspondentes informaban do desenvolvemento da guerra. Poucos días despois, ficamos a saber que o Seminario de Onomástica da RAG aprobara a adaptación ao galego de todos estes topónimos que aparecen no [mapa](https://academia.gal/documents/35271/437915/2022.03.08_01_01.jpg/61e8b461-4dd3-a7dc-9258-e881b462e542).
 
-Se tiveres curiosidade, podes ver a explicación do Gabri Fuentes en [\#MenosDunMinuto](https://youtube.com/shorts/TfpRTQokd_U?feature=share) ou ler o *post* sobre o proceso de fixación: [O Seminario de Onomástica aproba a adaptación dos nomes da capital e doutras cidades ucraínas](https://academia.gal/-/o-seminario-de-onom-c3-a1stica-aproba-a-adaptaci-c3-b3n-dos-nomes-da-capital-e-doutras-cidades-ucra-c3-adnas)
+Se tiveres curiosidade, podes ver a explicación do Gabri Fuentes en [\#MenosDunMinuto](https://youtube.com/shorts/TfpRTQokd_U?feature=share) ou leres o *post* sobre o proceso de fixación: [O Seminario de Onomástica aproba a adaptación dos nomes da capital e doutras cidades ucraínas](https://academia.gal/-/o-seminario-de-onom-c3-a1stica-aproba-a-adaptaci-c3-b3n-dos-nomes-da-capital-e-doutras-cidades-ucra-c3-adnas)
 
 Neste caso, o galego afástase do portugués, que ten *Ucrânia* para o país, e *ucraniano* e *ucraniana* para as persoas nativas.
 

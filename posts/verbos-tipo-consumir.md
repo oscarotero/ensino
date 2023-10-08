@@ -4,7 +4,7 @@ tags:
   - verbos_con_alternancia_vocálica
 draft: false
 ---
-Presta atención ás dúas formas do verbo *consumir: consomes* e *consume* que aparecen neste anuncio do Cluster do Audiovisual Galego: 
+Presta atención ás dúas formas do verbo *consumir: consomes* e *consume* que aparecen neste anuncio do Clúster do Audiovisual Galego: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gt4GGbT7IBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

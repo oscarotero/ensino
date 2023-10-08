@@ -5,7 +5,7 @@ tags:
   - sons_consonanticos
 draft: false
 ---
-Hoxe imos debruzarnos sobre 9 palabras que é moi habitual ouvirmos cunha pronuncia errada. A incorrección consiste en pronunciarmos o *x* como en *queixa* ou en *lixo*, cando o son que deberiamos producir é o mesmo que en *tórax ou* en *experto.*
+Hoxe imos debruzarnos sobre 10 palabras que é moi habitual ouvirmos cunha pronuncia errada. A incorrección consiste en pronunciarmos o *x* como en *queixa* ou en *lixo*, cando o son que deberiamos producir é o mesmo que en *tórax ou* en *experto.*
 
 ## Lémbrate!
 
@@ -89,7 +89,17 @@ Pronúnciase con \[ks] **prefixo** e toda a familia: **prefixación**, **prefixa
 
 <article>
 
-8. **reflexo** 
+8. **prolixo**
+
+O contrario de conciso é **prolixo** con [ks]. Aínda que o adxectivo pode aplicarse tanto a persoas (aquelas con tendencia á digresión) como a cousas (demasiado longas e extensas), repara neste pormenor: unha escritora con moita obra publicada non é *\*prolixa,* senón *prolífica.* 
+
+*Prolixo* no *Dicionario de pronuncia galega:* [pɾoˈlikso̝](https://ilg.usc.es/pronuncia/?pq=&q=prolixo&l=1&c%5B%5D=0)
+
+</article>
+
+<article>
+
+9. **reflexo** 
 
 O son \[ks] está presente en **reflexo**, **retroflexo** e **reflexivo**. O verbo do cal proveñen non é *\*reflexar,* non, é *reflectir.*
 
@@ -99,7 +109,7 @@ O son \[ks] está presente en **reflexo**, **retroflexo** e **reflexivo**. O ver
 
 <article>
 
-9. **saxón**
+10. **saxón**
 
 O nome deste pobo xermánico ten \[ks], por tanto, tamén o teñen **saxoa**, **anglosaxón**, **anglosaxoa**, **baixosaxón** e **baixosaxoa**. 
 

@@ -4,20 +4,19 @@ summary: Exercicio para practicares o pretérito perfecto do indicativo
 tags:
   - tempos_verbais
 ---
-
 ## Recursos
 
 [Conxugador de verbos en galego](http://cotovia.org/proxecto/conxugador/index.html)
 
 [Dicionario da Real Academia Galega (RAG)](https://academia.gal/dicionario)
 
----
+- - -
 
 ## Exercicios
 
 Pon as seguintes oracións en pasado.
 
-_Ex.: Cando vindes? > Cando viñestes?_
+*Ex.: Cando vindes? > Cando viñestes?*
 
 1. A roupa non me cabe no armario.
 2. Acordo cedo para ter tempo de almorzar.
@@ -31,7 +30,7 @@ _Ex.: Cando vindes? > Cando viñestes?_
 10. Despois do xantar dorme a sesta.
 11. Podo facelo porque me axudas.
 12. Non saben dicir quen o fai mellor.
-13. Todas as mañás sae pola porta e non volve ata á noite.
+13. Sae ás sete da casa. 
 14. Non quero dicir nada polo momento.
 15. Telefono, mais ninguén atende as chamadas.
 
@@ -49,7 +48,7 @@ _Ex.: Cando vindes? > Cando viñestes?_
 10. Despois do xantar **durmiu** a sesta.
 11. **Puiden** facelo porque me **axudaches**.
 12. Non **souberon** dicir quen o **fixo** mellor.
-13. **Saíu** pola porta e non **volveu**.
+13. **Saíu** ás sete da casa. 
 14. Non **quixen** dicir nada polo momento.
 15. **Telefonei**, mais ninguén **atendeu** as chamadas.
 
