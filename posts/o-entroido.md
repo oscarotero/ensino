@@ -14,7 +14,7 @@ Esta festa recibe moitos nomes ao longo de todo o territorio galego, por exemplo
 
 Alén de *entroido* tamén temos a forma *carnaval*. *Carnaval* é unha palabra de orixe italiana, *carnevale* ("levar a carne"), que pasou logo a outros idiomas europeos como o francés, o castelán ou mesmo o portugués (desde mediados do século XVI).
 
-#### Os personaxes do Entroido galego
+### Os personaxes do Entroido galego
 
 O máis típico do Entroido é andar de carauta posta chocallando e trangallando, é dicir, correndo o Entroido, procurando que non che caian uns lategazos ou unha presa de formigas.
 
@@ -24,7 +24,11 @@ Con tanta mascarada non resulta doado sabermos quen é quen polo que imos darlle
 
 Setestrelo do Portal das palabras: [Sete personaxes do Entroido](https://portaldaspalabras.gal/lexico/setestrelo/sete-personaxes-do-entroido/)
 
-#### A festa en diferentes lugares
+### Calendario do Entroido
+
+[O Entroido, día a día](https://portaldaspalabras.gal/lexico/allos-con-bugallos/o-entroido-dia-dia/)
+
+### A festa en diferentes lugares
 
 [\#DetrásDaCarauta Entroido dos Xenerais da Ulla](https://www.youtube.com/watch?v=AGApbD6iUVM) (vídeo, 02:09 min)
 
@@ -44,21 +48,27 @@ Setestrelo do Portal das palabras: [Sete personaxes do Entroido](https://portald
 
 [Os felos de Maceda](https://www.youtube.com/watch?v=p32iEhta7Xc) (vídeo, 01:27 min)
 
-#### Doces de Entroido
+### Doces de Entroido
 
 [Unha ducia de doces do Entroido](https://praza.gal/ducias/doces-de-entroido), artigo de Carmela S. Arines en *Praza*
 
 [Freixós - filloas](https://www.youtube.com/watch?v=683qLcL0-pw), vídeo-receita (+ léxico) de Bolboretas no Bandullo
 
-#### Xogos
-
-[Canto sabes do Entroido?](https://www.gciencia.com/destinos/canto-sabes-do-noso-entroido/) Trivia de *GCiencia*
-
-[Entroido. Só unha vale! Portal das Palabras](https://portaldaspalabras.gal/xogo/correr-o-entroido/)
+### Xogos
 
 [22 preguntas sobre o Entroido galego](https://laurarubio.net/posts/22-preguntas-sobre-o-entroido-galego/)
 
-#### Vocabulario básico para o Entroido
+[Canto sabes do Entroido?](https://www.gciencia.com/destinos/canto-sabes-do-noso-entroido/) Trivia de *GCiencia*
+
+[Entroido. Só unha vale!](https://portaldaspalabras.gal/xogo/correr-o-entroido/) no Portal das Palabras
+
+[Opá! Sinónimos de Entroido](https://portaldaspalabras.gal/xogo/sinonimos-de-entroido/) no Portal das Palabras
+
+[A correr o Entroido!](https://portaldaspalabras.gal/xogo/a-correr-o-entroido/) no Portal das Palabras
+
+[Doces de Entroido](https://portaldaspalabras.gal/xogo/doces-de-entroido/) no Portal das Palabras
+
+### Vocabulario básico para o Entroido
 
 Como é? Entroido ou Antroido? 
 
