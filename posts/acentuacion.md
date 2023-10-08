@@ -48,7 +48,7 @@ debes usar palabras con acento gráfico:
 
 ## Exercicio 2
 
-Os nomes destas catro doenzas levan acento gráfico. Une as sílabas para saberes
+Os nomes destas catro doenzas teñen acento gráfico. Une as sílabas para saberes
 de que doenzas se trata:
 
 <e-layout>
@@ -82,11 +82,11 @@ de que doenzas se trata:
 
 ### Exercicio 3
 
-Coloca o acento gráfico nas seguintes palabras cando o precisen, logo indica a
-súa clasificación segundo a acentuación (agudas, graves ou esdrúxulas) e
-xustifica a aparición ou non de acento gráfico:
+Coloca o acento gráfico nas seguintes palabras cando for preciso, despois indica a
+súa clasificación de acordo coa acentuación (agudas, graves ou esdrúxulas) e
+xustifica a presenza ou a ausencia do acento gráfico.
 
-Ex.: **minuscula**: *Minúscula* leva acento porque é unha palabra esdrúxula
+Ex.: **minuscula**: *Minúscula* ten acento porque é unha palabra esdrúxula
 
 1. dificil:
 2. papel:
@@ -101,15 +101,15 @@ Ex.: **minuscula**: *Minúscula* leva acento porque é unha palabra esdrúxula
 
 <details> <summary>Ver as respostas</summary>
 
-1. **difícil**: *Difícil* leva acento porque é unha palabra grave que acaba en consoante *\-l.*
-2. **papel**: *Papel* non leva acento porque é unha palabra aguda que acaba nunha consoante diferente de *\-n, -s* ou *\-ns.* 
-3. **lapis**: *Lapis* non leva gráfico porque é unha palabra grave que acaba en consoante *\-s.*
-4. **canción**: *Canción* leva acento porque é unha palabra aguda que acaba en *\-n.*
-5. **acuático**: *Acuático* leva acento porque é unha palabra esdrúxula.
-6. **esquimó**: *Esquimó* leva acento porque é unha palabra aguda terminada en vogal.
-7. **estéril**: *Estéril* leva acento porque é unha palabra grave que termina en consoante *\-l.*
-8. **pexego**: *Pexego* non leva acento porque é unha palabra grave que acaba en vogal. 
-9. **alí**: *Alí* leva acento porque é unha palabra aguda que acaba en vogal. 
-10. **chinés**: *Chinés* leva acento porque é unha palabra aguda que acaba en consoante *\-s.*
+1. **difícil**: *Difícil* ten acento porque é unha palabra grave que acaba en consoante *\-l.*
+2. **papel**: *Papel* non se acentúa porque é unha palabra aguda que acaba nunha consoante diferente de *\-n, -s* ou *\-ns.* 
+3. **lapis**: *Lapis* non ten gráfico porque é unha palabra grave que acaba en consoante *\-s.*
+4. **canción**: *Canción* acentúase porque é unha palabra aguda que acaba en *\-n.*
+5. **acuático**: *Acuático* ten acento porque é unha palabra esdrúxula.
+6. **esquimó**: *Esquimó* acentúase porque é unha palabra aguda terminada en vogal.
+7. **estéril**: *Estéril* ten acento porque é unha palabra grave que termina en consoante *\-l.*
+8. **pexego**: *Pexego* non se acentúa porque é unha palabra grave que acaba en vogal. 
+9. **alí**: *Alí* ten acento porque é unha palabra aguda que acaba en vogal. 
+10. **chinés**: *Chinés* acentúase porque é unha palabra aguda que acaba en consoante *\-s.*
 
 </details>
