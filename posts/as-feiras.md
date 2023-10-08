@@ -4,6 +4,8 @@ tags:
   - portugues
 draft: false
 ---
+Em galego existem duas formas para nomearmos os dias da semana. Em português só há uma. Vira o cartão para conheceres a forma portuguesa:
+
 <e-card color="1">
 <div>luns ou segunda feira</div>
 <div>segunda-feira / Plural: segundas-feiras</div>
