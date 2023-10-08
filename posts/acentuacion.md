@@ -3,6 +3,7 @@ title: As regras de acentuación
 summary: null
 tags:
   - acentuacion
+  - 1 ESO
 ---
 Neste esquema sintetizamos as regras xerais de uso do acento gráfico en galego.
 
