@@ -42,7 +42,7 @@ Setestrelo do Portal das palabras: [Sete personaxes do Entroido](https://portald
 
 [\#DetrásDaCarauta Entroido de Xinzo de Limia](https://www.youtube.com/watch?v=-L3cyoQFbnE) (vídeo, 02:45 min)
 
-[Eu son o merdeiro](https://www.youtube.com/watch?v=Iwnow_JLcSw&feature=youtu.be) (vídeo sobre este personaxe do Entroido vigués, 03:36 min)
+[Eu son o merdeiro](https://www.youtube.com/watch?v=Iwnow_JLcSw&feature=youtu.be) (vídeo sobre este personaxe do Entroido vigués, 03:36 min) - [Riscos e alegrías de ser merdeiro](https://www.youtube.com/watch?v=MYVO24Hsk9o) (vídeo, 02:00 min)
 
 [O Oso de Salcedo na Proba de Brollón](https://www.youtube.com/watch?v=ngDNWdFAyTo) (vídeo, 02:36 min)
 
