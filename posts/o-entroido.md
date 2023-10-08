@@ -44,8 +44,6 @@ Setestrelo do Portal das palabras: [Sete personaxes do Entroido](https://portald
 
 [Os felos de Maceda](https://www.youtube.com/watch?v=p32iEhta7Xc) (vídeo, 01:27 min)
 
-
-
 #### Doces de Entroido
 
 [Unha ducia de doces do Entroido](https://praza.gal/ducias/doces-de-entroido), artigo de Carmela S. Arines en *Praza*
@@ -58,9 +56,9 @@ Setestrelo do Portal das palabras: [Sete personaxes do Entroido](https://portald
 
 [Entroido. Só unha vale! Portal das Palabras](https://portaldaspalabras.gal/xogo/correr-o-entroido/)
 
-#### Vocabulario básico para o Entroido
+[22 preguntas sobre o Entroido galego](https://laurarubio.net/posts/22-preguntas-sobre-o-entroido-galego/)
 
-[Palabras de Entroido](https://laurarubio.net/posts/palabras-de-entroido/)
+#### Vocabulario básico para o Entroido
 
 Como é? Entroido ou Antroido? 
 
