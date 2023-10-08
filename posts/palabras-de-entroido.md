@@ -52,7 +52,7 @@ tags:
 
 <e-card color="7">
   <div>Personaxe típico do Entroido de Xinzo de Limia</div>
-  <div>Pantallas</div>
+  <div>Pantalla</div>
 </e-card>
 
 <e-card color="8">
@@ -92,7 +92,7 @@ tags:
 
 <e-card color="1">
   <div>Sobremesas de Entroido</div>
-  <div>Filloas, orellas, flores, chulas, rosquillas, bica</div>
+  <div>Filloas, orellas, flores, chulas, rosquillas, bica...</div>
 </e-card>
 
 <e-card color="5">

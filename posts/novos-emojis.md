@@ -11,13 +11,12 @@ estandarizar todos os caracteres dispoñíbeis nos nosos teclados, entre eles os
 emojis. Segundo a [Emojipedia](https://emojipedia.org/), con esta actualización
 imos ter ao noso dispor 2.823 😮
 
-Podes ler a información completa aquí:
-[As novas emoticonas chegan con microbios, placas de Petri e moita
-ciencia.](https://www.gciencia.com/tolociencia/novas-emoticonas-microbios-placas-petri-ciencia/)
+Olla o vídeo para coñeceres os novos:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5qLDBQ583Y8?si=gRbKP3BobsVcBB17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Emoticonas e emojis son a mesma cousa?
 
-Aínda que no artigo se emprega emoticona como sinónimo de emoji, o certo é que
+Aínda que moitas veces se usa emoticona como sinónimo de emoji, o certo é que
 se trata de cousas diferentes.
 
 ### O que é unha emoticona?
@@ -38,7 +37,7 @@ emocións, poden representar calquera cousa. A súa orixe está no Xapón e o se
 inventor foi o enxeñeiro Shigetaka Kurita. Na actualidade, o encargado de
 estabelecer as imaxes é Unicode, un estándar de representación de texto en
 computador. Este estándar dálle un código a cada emoji. Cando prememos sobre el
-no teclado, o que estamos a facer é enviar ese código que ten asignado.
+no teclado, o que estamos a facer é enviar ese código que lle foi atribuído.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lhbslkj-Jv4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -75,7 +74,7 @@ inglés. O que tes que facer ti? Simple, darlle un nome en galego. Sé creativo!
 <li><span style="font-size:50px">🧸</span> Teddy bear:</li>
 </ol>
 
-<details> <summary>Ver as solucións</summary>
+<details> <summary>Ver as respostas</summary>
 <ol>
 <li><span style="font-size:50px">🦞</span> Lobster: lagosta </li>
 <li><span style="font-size:50px">🦜</span> Parrot: papagaio </li>

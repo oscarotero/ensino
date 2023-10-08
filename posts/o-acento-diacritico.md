@@ -8,7 +8,7 @@ tags:
 O acento diacrítico serve para diferenciar na escrita dúas palabras que se
 escriben igual, que son homógrafas, mais que teñen orixes diferentes,
 significados distintos e que ademais poden pronunciarse de maneira diferente e
-incluso non pertenceren á mesma categoría gramatical.
+inclusive non pertenceren á mesma categoría gramatical.
 
 Exemplo:
 
