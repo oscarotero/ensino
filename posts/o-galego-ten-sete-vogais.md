@@ -19,7 +19,7 @@ Como pronunciar o *e* aberto e o *e* fechado
 
 ### Repara: A chave está na lingua!
 
-Se comparares as dúas imaxes, notarás que na pronuncia do *e* aberto a lingua fica máis baixa. Porén, para pronunciar o *e* fechado debemos elevala, aproximala ao padal. 
+Se comparares as dúas imaxes, notarás que na pronuncia do *e* aberto a lingua fica máis baixa. Porén, para pronunciarmos o *e* fechado debemos elevala, aproximala ao padal. 
 
 ![](/img/e_aberto.jpg)
 
