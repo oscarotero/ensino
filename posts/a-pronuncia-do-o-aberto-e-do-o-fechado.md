@@ -11,7 +11,7 @@ show_toc: false
 
 ## Repara: A chave está na lingua!
 
-Marcar a diferenza entre *o* aberto e *o* fechado é moi fácil se te lembrares de que debes achegar a lingua ao padal para fechar a vogal e afastala para abrila. Noutras palabras, a lingua debe estar nunha posición máis alta ou elevada, no caso do *o* fechado, e nunha posición máis baixa, no caso do *o* aberto.
+Marcar a diferenza entre *o* aberto e *o* fechado é moi fácil se te lembrares disto: achega a lingua ao padal para fechar a vogal e afástaa para abrila. Noutras palabras, a lingua debe estar nunha posición máis alta ou elevada, no caso do *o* fechado, e nunha posición máis baixa, no caso do *o* aberto.
 
 ![](/img/o_aberto.jpg)
 
