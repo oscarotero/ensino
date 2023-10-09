@@ -2,7 +2,7 @@
 title: O o da palabra novas
 summary: ""
 tags:
-  - o_o_aberto
+  - sons_vocalicos
 draft: false
 ---
 Repara en como é pronunciado o *o* da palabra *novas* que aparece na frase  "E agora novas incribles do combo infinito R" coa que se inicia este anuncio de R:
