@@ -11,7 +11,7 @@ show_toc: false
 
 ## Repara: A chave está na lingua!
 
-Se comparares as dúas imaxes, notarás que na pronuncia do *o* aberto a lingua fica máis baixa. Porén, ao pronunciarmos o *o* fechado, temos que aproximala ao padal e esta pasa a estar máis alta. 
+Marcar a diferenza entre *o* aberto e *o* fechado é moi fácil se te lembrares de que debes achegar a lingua ao padal para fechar a vogal e afastala para abrila. Noutras palabras, a lingua debe estar nunha posición máis alta ou elevada, no caso do *o* aberto, e nunha posición máis baixa, no caso do *o* fechado.
 
 ![](/img/o_aberto.jpg)
 
