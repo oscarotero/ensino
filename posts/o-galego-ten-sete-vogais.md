@@ -13,13 +13,9 @@ Como pronunciar *o* aberto e o *o* fechado
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2AlQXbux11c?si=vYbbJxIRCvvBGxlx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-
 Como pronunciar o *e* aberto e o *e* fechado
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/06Ic_N_M1pY?si=VDjylE0-sv_bX1u2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 
 ### Repara: A chave está na lingua!
 
@@ -33,4 +29,4 @@ O mesmo acontece no caso do *o* aberto. Debemos achegar a língua ao padal para 
 
 ![](/img/o_aberto.jpg)
 
-![](/img/o_fechado.jpg)
+![](/img/o_fechado_2.jpg)
