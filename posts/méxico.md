@@ -9,13 +9,13 @@ O México ten 69 linguas nacionais: 68 linguas orixinarias + español. Todas ela
 
 É un dos 10 países do mundo con máis linguas orixinarias e ocupa o 2º lugar con esta característica en América Latina, despois do Brasil.
 
-Fálanse 364 variantes lingüísticas, provenientes de 68 agrupacións. No estado existen 11 familias lingüísticas:
+No estado existen 11 familias lingüísticas e fálanse 364 variantes lingüísticas, provenientes de 68 agrupacións.
 
-![](/img/familias_linguisticas_mexico.jpg)
+Case 7 millóns de mexicanos falan algunha lingua orixinaria. A máis falada é o **náhuatl**. No seguinte vídeo podes ouvir como soa:
 
-No México existen case 7 millóns de falantes dalgunha lingua orixinaria e máis de 25 millóns de mexicanos recoñecéronse como indíxenas. A maioría deles localízase no sueste do país, onde se rexistra maior poboación falante destas linguas.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2dwQnMEIJ8E?si=kEeBh8OFTtn6JK9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-A lingua orixinaria máis falada é o **náhuatl**. Proceden desta lingua palabras que usamos moito, como por exemplo:
+Desta lingua proceden palabras que nós usamos moito, como por exemplo:
 
 * De *ahuacatl* "froito do aguacate", "testículo" > [aguacate](https://portaldaspalabras.gal/lexico/allos-con-bugallos/aguacate/)
 * De *tzictli > chicle* 
@@ -23,4 +23,6 @@ A lingua orixinaria máis falada é o **náhuatl**. Proceden desta lingua palabr
 * De *coyotl* > *coiote*
 * De *tomatl > tomate*
 
-O **maia** ocupa a segunda posición. É falado por case 860.000 persoas.
+O **maia** ocupa a segunda posición en número de falantes. Fálano case 860.000 persoas. 
+
+Fonte: [Instituto Nacional de Lenguas Indígenas](https://www.gob.mx/inali)
