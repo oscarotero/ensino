@@ -4,14 +4,14 @@ summary: Como lles chamamos?
 tags:
   - lexico
 ---
-
 Hai uns días soubemos que o Consorcio Unicode decidiu aumentar a familia de
-emojis con 157 novos emojis. Unicode é o organismo que está ao cargo de
+emojis con 157 novos membros. Unicode é o organismo que está ao cargo de
 estandarizar todos os caracteres dispoñíbeis nos nosos teclados, entre eles os
 emojis. Segundo a [Emojipedia](https://emojipedia.org/), con esta actualización
 imos ter ao noso dispor 2.823 😮
 
 Olla o vídeo para coñeceres os novos:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5qLDBQ583Y8?si=gRbKP3BobsVcBB17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Emoticonas e emojis son a mesma cousa?
@@ -23,11 +23,11 @@ se trata de cousas diferentes.
 
 As emoticonas son as cariñas ou símbolos feitos cos caracteres do teclado tipo:
 ;-), :-( , ^-^ que se comezaron a usar a principios dos oitenta para expresaren
-emocións. Hai quen os chame tamén _smiley_ porque esta :-) foi a primeira de
+emocións. Hai quen os chame tamén *smiley* porque esta :-) foi a primeira de
 todas. Co tempo fixéronse cada vez máis populares e, coa chegada dos foros, os
 procesadores de texto conseguiron recoñecelas e substituílas por imaxes. O termo
-emoticona é unha adaptación ao galego do inglés _emoticon,_ resultante de unir
-_emotion_ “emoción” + _icon_ “icona”.
+emoticona é unha adaptación ao galego do inglés *emoticon,* resultante de unir
+*emotion* “emoción” + *icon* “icona”.
 
 ### O que é un emoji?
 
@@ -41,7 +41,7 @@ no teclado, o que estamos a facer é enviar ese código que lle foi atribuído.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lhbslkj-Jv4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
+- - -
 
 ## Actividade
 
@@ -100,7 +100,7 @@ inglés. O que tes que facer ti? Simple, darlle un nome en galego. Sé creativo!
 
 </details>
 
----
+- - -
 
 ## Sabías que...
 
