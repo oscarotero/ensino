@@ -35,7 +35,7 @@ Bo día! en maia é:
 
 <audio src="/img/bo_dia_maia.mp3" controls></audio>
 
-<!--EndFragment-->Clica no vídeo para ouvires o conto *A última danza* en maia:
+Clica no vídeo para ouvires o conto *A última danza* en maia:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rjZhQaekrXo?si=dNKv_igwOIzSWYkn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
