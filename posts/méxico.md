@@ -9,7 +9,7 @@ México ten 69 linguas nacionais: 68 linguas orixinarias + o español. Todas ela
 
 É un dos 10 países do mundo con máis linguas orixinarias e ocupa o 2º lugar de países con esta característica en América Latina, despois do Brasil.
 
-No estado existen 11 familias lingüísticas e fálanse 364 variantes lingüísticas, provenientes de 68 agrupacións.
+Neste estado existen 11 familias lingüísticas e fálanse 364 variantes lingüísticas, provenientes de 68 agrupacións.
 
 Case 7 millóns de mexicanos falan algunha lingua orixinaria. A máis falada é o **náhuatl**. Sabías que até hai *rap* nesta lingua? Olla o vídeo:
 
