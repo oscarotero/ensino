@@ -11,7 +11,7 @@ O México ten 69 linguas nacionais: 68 linguas orixinarias + español. Todas ela
 
 No estado existen 11 familias lingüísticas e fálanse 364 variantes lingüísticas, provenientes de 68 agrupacións.
 
-Case 7 millóns de mexicanos falan algunha lingua orixinaria. A máis falada é o **náhuatl**. No seguinte vídeo podes ouvir como soa:
+Case 7 millóns de mexicanos falan algunha lingua orixinaria. A máis falada é o **náhuatl**. No seguinte vídeo podes ouvir como soa. A voz en off está a recitar o poema "Cando unha lingua morre":
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2dwQnMEIJ8E?si=87CaMytH0Oc_AcmX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -23,6 +23,8 @@ Desta lingua proceden palabras que nós usamos moito, como por exemplo:
 * De *coyotl* > *coiote*
 * De *tomatl > tomate*
 
-O **maia** ocupa a segunda posición en número de falantes. Fálano case 860.000 persoas. 
+O **maia** ocupa a segunda posición en número de falantes. Fálano case 860.000 persoas. Clica no vídeo para ouvires o conto *A última danza* en maia:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rjZhQaekrXo?si=dNKv_igwOIzSWYkn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: [Instituto Nacional de Lenguas Indígenas](https://www.gob.mx/inali)
