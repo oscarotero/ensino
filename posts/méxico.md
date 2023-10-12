@@ -5,7 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
-O México ten 69 linguas nacionais: 68 linguas orixinarias + o español. Todas elas son oficiais no país.
+México ten 69 linguas nacionais: 68 linguas orixinarias + o español. Todas elas son oficiais no país.
 
 É un dos 10 países do mundo con máis linguas orixinarias e ocupa o 2º lugar de países con esta característica en América Latina, despois do Brasil.
 
