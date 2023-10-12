@@ -11,7 +11,7 @@ Na actualidade, existen 364 variantes lingüísticas que proveñen de [11 famili
 
 <article>
 
-As linguas nacionais son 69: 68 linguas orixinarias + o español. Todas elas son oficiais no país.
+México ten 69 linguas nacionais: 68 linguas orixinarias + o español. Todas elas son oficiais no país.
 
 </article>
 
