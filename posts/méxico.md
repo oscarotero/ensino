@@ -7,7 +7,7 @@ show_toc: false
 ---
 México é un país cunha grande diversidade lingüística. Encóntrase entre os 10 países con máis linguas orixinarias do mundo. Na América Latina ocupa o segundo lugar, despois do Brasil.
 
-Na actualidade existen 364 variantes lingüísticas que proveñen de [11 familias lingüísticas](https://site.inali.gob.mx/Micrositios/estadistica_basica/estadisticas2015/index_familias.html) distintas e que son faladas por 68 grupos de indíxenas. Case 7 millóns de mexicanos falan algunha lingua orixinaria.
+Na actualidade, existen 364 variantes lingüísticas que proveñen de [11 familias lingüísticas](https://site.inali.gob.mx/Micrositios/estadistica_basica/estadisticas2015/index_familias.html) distintas e que son faladas por 68 grupos de indíxenas. Case 7 millóns de mexicanos falan algunha lingua orixinaria.
 
 As linguas nacionais son 69: 68 linguas orixinarias + o español. Todas elas son oficiais no país.
 
@@ -29,9 +29,9 @@ No galego temos palabras que proceden do náhuatl, como por exemplo:
 * De *coyotl* > *coiote*
 * De *tomatl > tomate*
 
-O **maia** ocupa a segunda posición en número de falantes. Fálano 795.499 persoas, distribuídas en  municipios de Campeche, Yucatán e Quintana Roo.
+O **maia** ocupa a segunda posición en número de falantes. Fálano 795.499 persoas, localizadas en  municipios de Campeche, Yucatán e Quintana Roo.
 
-Bo día en maia é: 
+Bo día! en maia é: 
 
 <audio src="/img/bo_dia_maia.mp3" controls></audio>
 
