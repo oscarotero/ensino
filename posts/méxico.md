@@ -39,4 +39,4 @@ Clica no vídeo para ouvires o conto *A última danza* en maia:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rjZhQaekrXo?si=dNKv_igwOIzSWYkn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Fonte: [Instituto Nacional de Lenguas Indígenas](https://www.gob.mx/inali)
+Fonte: [Instituto Nacional de Lenguas Indígenas](https://www.gob.mx/inali) [Consulta: 12-10-2023]
