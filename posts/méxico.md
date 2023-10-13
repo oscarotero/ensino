@@ -7,7 +7,7 @@ show_toc: false
 ---
 México é un país cunha grande diversidade lingüística. Encóntrase entre os 10 países con máis linguas orixinarias do mundo. Na América Latina ocupa o segundo lugar, despois do Brasil.
 
-Na actualidade, existen 364 variantes lingüísticas que proveñen de [11 familias lingüísticas](https://site.inali.gob.mx/Micrositios/estadistica_basica/estadisticas2015/index_familias.html) distintas e que son faladas por 68 grupos de indíxenas. Case 7 millóns de mexicanos falan algunha lingua orixinaria.
+Na actualidade, existen 364 variantes lingüísticas que proveñen de [11 familias lingüísticas](https://site.inali.gob.mx/Micrositios/estadistica_basica/estadisticas2015/index_familias.html) distintas e que son faladas por 68 grupos de indíxenas. Máis de 7 millóns de mexicanos falan algunha lingua orixinaria.
 
 <article>
 
@@ -15,13 +15,13 @@ México ten 69 linguas nacionais: 68 linguas orixinarias + o español. Todas ela
 
 </article>
 
-O **náhuatl** é a lingua orixinaria nacional máis falada, con 1.586.884 falantes. Pertence á familia lingüística yuto-nahua. 
+O **náhuatl** é a lingua orixinaria nacional máis falada, con 1.586.884 falantes. Pertence á familia lingüística *yuto-nahua.* 
 
 Bo día! en náhuatl dise así: 
 
 <audio src="/img/bo_dia.mp3" controls></audio>
 
-E sabías que até hai *rap* nesta lingua? Olla o vídeo:
+E sabías que até hai rap nesta lingua? Olla o vídeo:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rEy5sxxJB4M?si=SnlqMdMspskebtbh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
