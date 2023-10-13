@@ -15,7 +15,7 @@ México ten 69 linguas nacionais: 68 linguas orixinarias + o español. Todas ela
 
 </article>
 
-O **náhuatl** é a lingua orixinaria nacional máis falada, con 1.586.884 falantes. Pertence á familia lingüística *yuto-nahua.* 
+O **náhuatl** é a lingua orixinaria nacional máis falada, con 1.725.620 falantes ([Datos de 2015](https://site.inali.gob.mx/Micrositios/estadistica_basica/estadisticas2015/pdf/general/general6.pdf)). Pertence á familia lingüística *yuto-nahua.* 
 
 Bo día! en náhuatl dise así: 
 
@@ -33,7 +33,7 @@ No galego temos palabras que proceden do náhuatl, como por exemplo:
 * De *coyotl* > *coiote*
 * De *tomatl > tomate*
 
-O **maia** ocupa a segunda posición en número de falantes. Fálano 795.499 persoas, localizadas en  municipios de Campeche, Yucatán e Quintana Roo.
+O **maia** ocupa a segunda posición en número de falantes. Fálano 859.607 persoas, localizadas en  municipios de Campeche, Yucatán e Quintana Roo.
 
 Bo día! en maia é: 
 
