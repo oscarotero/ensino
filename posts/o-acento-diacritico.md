@@ -3,7 +3,7 @@ title: O acento diacrítico (1)
 tags:
   - acentuacion_diacritica
 ---
-## O que é o acento gráfico?
+## O que é o acento diacrítico?
 
 O acento diacrítico serve para diferenciar na escrita dúas palabras que se
 escriben igual, que son homógrafas, mais que teñen orixes diferentes,
