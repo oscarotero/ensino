@@ -15,12 +15,12 @@ A Papúa-Nova Guinea é un estado da Oceanía que ocupa a metade oriental da Nov
 Os factores que explican tanta diversidade lingüística podemos resumilos así:
 
 1. O país é habitado por diferentes tribos, por tanto, hai moitas linguas porque hai moitos pobos a conviviren nese lugar.
-2. Máis de 80 % da poboación vive en aldeas que, durante séculos, ficaron illadas unhas das outras, espalladas en centenas de illas por séculos. En certas partes, as montañas foron barreiras naturais que axudaron a preservar as culturas e linguas dos seus moradores.
+2. Máis de 80 % da poboación vive en aldeas que ficaron illadas unhas das outras, espalladas en centenas de illas por séculos. En certas partes, as montañas foron barreiras naturais que axudaron a preservar as culturas e linguas dos seus moradores.
 3. A ausencia dun poder central forte contribuíu tamén para a diversidade lingüística.
 
 Na actualidade, as linguas oficiais na Papúa-Nova Guinea son catro: *inglés, tok pisin, hiri motu* e, desde 2015 a lingua de sinais de Papúa-Nova Guinea. O *inglés* é o idioma do goberno e do sistema educativo mais non é moi falado noutros ámbitos.
 
-A lingua máis falada é o *tok pisin,* unha lingua crioula que se popularizou coa colonización británica. Outro idioma popular é o *kerewo,* falado no sur do país.
+A lingua con máis falantes é o *tok pisin,* unha lingua crioula que se popularizou coa colonización británica. Outro idioma popular é o *kerewo,* falado no sur do país.
 
 <article>
 
