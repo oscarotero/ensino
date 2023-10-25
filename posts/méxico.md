@@ -1,5 +1,6 @@
 ---
 title: México
+summary: Un país con 69 linguas nacionais
 tags:
   - paises_plurilingues
 draft: false
