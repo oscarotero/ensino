@@ -50,6 +50,10 @@ draft: false
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/65TPuybg-HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Nin \*comerse, nin \*beberse, nin *saltarse
+
+[Comer, beber e saltar non son verbos pronominais](https://www.tiktok.com/@digochoeu/video/6994740319749262598)
+
 ## Lavar
 
 [<del>*Lávate o cu!</del> > Lava o cu!](https://www.tiktok.com/@digochoeu/video/7046489439748558086)
