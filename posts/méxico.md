@@ -22,7 +22,7 @@ Bo día! en náhuatl dise así:
 
 <audio src="/img/bo_dia.mp3" controls></audio>
 
-E sabías que até hai rap nesta lingua? Olla o vídeo:
+Sabías que até hai rap nesta lingua? Olla o vídeo:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rEy5sxxJB4M?si=SnlqMdMspskebtbh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
