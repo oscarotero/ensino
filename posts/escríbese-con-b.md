@@ -7,7 +7,7 @@ show_toc: false
 ---
 <article> 
 
-Escríbense con *b* as terminacións do copretérito do indicativo dos verbos da 1ª conxugación (terminación *\-ar): andaba, cociñabas, cantaba, tocabamos, viaxabades, almorzaban...*
+Escríbense con *b* as terminacións do copretérito do indicativo dos verbos da 1ª conxugación (*\-ar): andaba, cociñabas, cantaba, tocabamos, viaxabades, almorzaban...*
 
 </article>
 
