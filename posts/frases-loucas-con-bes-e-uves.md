@@ -8,9 +8,9 @@ show_toc: false
 ---
 Un bo truco para teres menos erros de bes e uves é inventares frases que conteñan as palabras que acostumas escribir mal. 
 
-Lémbrate! 👉 Canto máis extravagante for a frase, máis fácil será de memoriza!
+Lémbrate! 👉 Canto máis extravagante for a frase, máis fácil será de memorizar!
 
-<iframe src="https://giphy.com/embed/1gdnAzeb8Oih5npNtp" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nickjonas-nick-jonas-1gdnAzeb8Oih5npNtp">
+<iframe src="https://giphy.com/embed/Qw4X3FDRolaUzXnPLNK" width="466" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/awesomenesstv-reaction-crazy-audrey-whitby-Qw4X3FDRolaUzXnPLNK">
 
 ### Exemplos
 
