@@ -10,7 +10,7 @@ Un bo truco para teres menos erros de bes e uves é inventares frases que conte�
 
 Lémbrate! 👉 Canto máis extravagante for a frase, máis fácil será de memoriza!
 
-<iframe src="https://giphy.com/embed/Wg6sfwn9f0sJq" width="427" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/helena-bonham-carter-Wg6sfwn9f0sJq">
+<iframe src="https://giphy.com/embed/1gdnAzeb8Oih5npNtp" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nickjonas-nick-jonas-1gdnAzeb8Oih5npNtp">
 
 ### Exemplos
 
