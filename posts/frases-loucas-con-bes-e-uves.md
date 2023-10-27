@@ -75,7 +75,7 @@ A continuación tes dúas series de palabras que teñen be e uve. Inventa frases
 <e-tag color=2>voda</e-tag>
 <e-tag color=2>envexar</e-tag>
 <e-tag color=2>caravel</e-tag>
-<e-tag color=2>chuvia</e-tag>
+<e-tag color=2>vaca</e-tag>
 <e-tag color=2>covarde</e-tag>
 <e-tag color=2>vulto</e-tag>
 <e-tag color=2>avespa</e-tag>
@@ -89,7 +89,7 @@ A continuación tes dúas series de palabras que teñen be e uve. Inventa frases
 <e-tag color=2>gaivota</e-tag>
 <e-tag color=2>escaravello</e-tag>
 <e-tag color=2>varíola</e-tag>
-<e-tag color=2>vaca</e-tag>
+<e-tag color=2>chuvia</e-tag>
 <e-tag color=2>noivo</e-tag>
 
 </e-layout>
