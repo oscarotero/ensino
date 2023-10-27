@@ -16,6 +16,8 @@ Que **marabilla**! Dentro dese **automóbil** encontrei un **polbo** falando pol
 
 </article>
 
+
+
 <article>
 
 2. Frase para lembrares que **avó, gravata, vermella, vasoira, varrer, garavanzos** e **pavillón** son todas palabras que se escriben con  ***\-v-*** no noso idioma.
