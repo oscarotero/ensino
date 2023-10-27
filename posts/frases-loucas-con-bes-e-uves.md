@@ -16,11 +16,15 @@ Canto máis extravagante for a frase, máis fácil será de memoriza!
 
 <article>
 
+B
+
 Que **marabilla**! Dentro dese **automóbil** encontrei un **polbo** falando polo **móbil.**
 
 </article>
 
 <article>
+
+V
 
 O **avó** puxo unha **gravata vermella**, colleu unha **vasoira** e foi **varrer** **garavanzos** ao **pavillón**.
 
