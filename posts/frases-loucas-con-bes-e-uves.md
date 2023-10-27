@@ -6,15 +6,13 @@ tags:
 draft: false
 show_toc: false
 ---
-Un bo truco para teres menos erros de bes e uves é inventares frases que conteñan as palabras que acostumas escribir mal e despois memorizalas. Canto máis extravagante for a frase, máis fácil será de lembrar!
+Un bo truco para teres menos erros de bes e uves é inventares frases que conteñan as palabras que acostumas escribir mal. Canto máis extravagante for a frase, máis fácil será de memorizar!
 
 <article>
 
 Que **marabilla**! Dentro dese **automóbil** encontrei un **polbo** falando polo **móbil.**
 
 </article>
-
-
 
 <article>
 
