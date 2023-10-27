@@ -1,5 +1,5 @@
 ---
-title: As regras do be
+title: 5 regras fáciles do be
 tags:
   - ortografia
 draft: false
