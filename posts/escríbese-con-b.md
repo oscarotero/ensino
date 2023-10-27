@@ -9,7 +9,7 @@ show_toc: false
 
 Escríbense con *b* as terminacións do copretérito do indicativo dos verbos da 1ª conxugación (terminación *\-ar): andaba, cociñabas, cantaba, tocabamos, viaxabades, almorzaban...*
 
-<article>
+</article>
 
 Escríbense con *b* os grupos *br-:  abrir, branco, brando, branquear, brasa, febre, nobre, nubrado, obriga...*
 
