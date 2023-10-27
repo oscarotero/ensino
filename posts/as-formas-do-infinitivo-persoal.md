@@ -33,7 +33,7 @@ A seguir, tes dous cartóns de estudo ou *flash card* coas formas do infinitivo 
       <li>el/ela facer</li>
       <li>nós facermos</li>
       <li>vós facerdes</li>
-      <li>eles/elas facerem</li>
+      <li>eles/elas faceren</li>
      </ul>
   </div>
 </e-card>
