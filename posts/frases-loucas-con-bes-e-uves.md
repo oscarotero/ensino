@@ -62,6 +62,7 @@ A continuación tes dúas series de palabras que teñen be e uve. Inventa frases
 <e-tag color=1>nobelo</e-tag>
 <e-tag color=1>banana</e-tag>
 <e-tag color=1>néboa</e-tag>
+<e-tag color=1>ceibo</e-tag>
 </e-layout>
 
 #### Con uve
@@ -81,7 +82,6 @@ A continuación tes dúas series de palabras que teñen be e uve. Inventa frases
 <e-tag color=2>gravar</e-tag>
 <e-tag color=2>verza</e-tag>
 <e-tag color=2>louvar</e-tag>
-<e-tag color=2>ceibo</e-tag>
 <e-tag color=2>servente</e-tag>
 <e-tag color=2>varredor</e-tag>
 <e-tag color=2>caveira</e-tag>
