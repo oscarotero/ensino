@@ -50,7 +50,7 @@ A continuación tes dúas series de palabras que teñen be e uve. Inventa frases
 <e-tag color=1>abelá</e-tag>
 <e-tag color=1>bolboreta</e-tag>
 <e-tag color=1>abella</e-tag>
-<e-tag color=1>fivela</e-tag>
+<e-tag color=1>fibela</e-tag>
 <e-tag color=1>pobo</e-tag>
 <e-tag color=1>gabeta</e-tag>
 <e-tag color=1>lamber</e-tag>
