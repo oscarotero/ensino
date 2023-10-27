@@ -47,7 +47,7 @@ A continuación tes dúas series de palabras que teñen be e uve. Inventa frases
 <e-tag color=1>baleiro</e-tag>
 <e-tag color=1>xabaril</e-tag>
 <e-tag color=1>carballo</e-tag>
-<e-tag color=1>abelá</e-tag>
+<e-tag color=1>birlo</e-tag>
 <e-tag color=1>bolboreta</e-tag>
 <e-tag color=1>abella</e-tag>
 <e-tag color=1>fibela</e-tag>
