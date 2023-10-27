@@ -11,11 +11,15 @@ Escríbense con *b* as terminacións do copretérito do indicativo dos verbos da
 
 </article>
 
+
+
 <article>
 
 Escríbense con *b* os grupos *br-:  abrir, branco, brando, branquear, brasa, febre, nobre, nubrado, obriga...*
 
 </article>
+
+
 
 <article>
 
@@ -23,11 +27,15 @@ Escríbense con *b* os grupos *bl-:  blasfemia, blindar, bloqueo, blusa, problem
 
 </article>
 
+
+
 <article>
 
 Escríbese *b* despois de *\-m:  ambiente, ambos, bomba, chumbo, pomba, decembro, solombo...*
 
 </article>
+
+
 
 <article>
 
