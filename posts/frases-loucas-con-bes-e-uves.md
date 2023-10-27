@@ -29,3 +29,53 @@ Que **marabilla**! Dentro dese **automóbil** encontrei un **polbo** falando pol
 O **avó** puxo unha **gravata vermella**, colleu unha **vasoira** e foi **varrer** **garavanzos** ao **pavillón**.
 
 </article>
+
+
+
+### Exercicio
+
+A continuación tes unha serie de palabras que teñen be ou uve. Inventa unha frase con aquelas que non saibas escribir correctamente. 
+
+<e-layout>
+<e-tag color=1>dúbida</e-tag>
+<e-tag color=1>beira</e-tag>
+<e-tag color=1>asubiar</e-tag>
+<e-tag color=1>bico</e-tag>
+<e-tag color=1>cobiza </e-tag>
+<e-tag color=1>baleiro</e-tag>
+<e-tag color=1>xabaril</e-tag>
+<e-tag color=1>carballo</e-tag>
+<e-tag color=1>abelá</e-tag>
+<e-tag color=1>bolboreta</e-tag>
+<e-tag color=1>abella</e-tag>
+<e-tag color=1>fivela</e-tag>
+<e-tag color=1>pobo</e-tag>
+<e-tag color=1>gabeta</e-tag>
+<e-tag color=1>lamber</e-tag>
+<e-tag color=1>billa</e-tag>
+<e-tag color=1>abelá</e-tag>
+<e-tag color=1>albóndega</e-tag>
+<e-tag color=1>barullo</e-tag>
+</e-layout>
+
+<e-layout>
+<e-tag color=2>avogado</e-tag>
+<e-tag color=2>trevo</e-tag>
+<e-tag color=2>verme</e-tag>
+<e-tag color=2>voda</e-tag>
+<e-tag color=2>envexar</e-tag>
+<e-tag color=2>caravel</e-tag>
+<e-tag color=2>chuvia</e-tag>
+<e-tag color=2>covarde</e-tag>
+<e-tag color=2>vulto</e-tag>
+<e-tag color=2>avespa</e-tag>
+<e-tag color=2>gravar</e-tag>
+<e-tag color=2>verza</e-tag>
+<e-tag color=2>louvar</e-tag>
+<e-tag color=2>ceibo</e-tag>
+<e-tag color=2>servente</e-tag>
+<e-tag color=2>varredor</e-tag>
+<e-tag color=2>caveira</e-tag>
+<e-tag color=2>devagar</e-tag>
+<e-tag color=2>gaivota</e-tag>
+</e-layout>
