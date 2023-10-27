@@ -33,7 +33,7 @@ show_toc: false
 
 <article>
 
-5. Escríbense con *b* os verbos da 3ª conxugación que acaban en *\-buír* e *\-bir: contribuír, diminuír, describir, recibir, prohibir...*
+5. Escríbense con *b* os verbos da 3ª conxugación que acaban en *\-buír* e *\-bir: contribuír, distribuír, describir, recibir, prohibir...*
 
    Excepto *servir, vir, vivir* e os seus derivados. 
 
