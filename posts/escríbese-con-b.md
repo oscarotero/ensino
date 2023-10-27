@@ -11,6 +11,8 @@ Escríbense con *b* as terminacións do copretérito do indicativo dos verbos da
 
 </article>
 
+<article>
+
 Escríbense con *b* os grupos *br-:  abrir, branco, brando, branquear, brasa, febre, nobre, nubrado, obriga...*
 
 </article>
