@@ -10,8 +10,6 @@ Un bo truco para teres menos erros de bes e uves é inventares frases que conte�
 
 <article>
 
-**Marabilla, automóbil, polbo** e **móbil** escríbense con **\-b-** en galego.
-
 Que **marabilla**! Dentro dese **automóbil** encontrei un **polbo** falando polo **móbil.**
 
 </article>
@@ -19,8 +17,6 @@ Que **marabilla**! Dentro dese **automóbil** encontrei un **polbo** falando pol
 
 
 <article>
-
-**Avó, gravata, vermella, vasoira, varrer, garavanzos** e **pavillón** son todas palabras que se escriben con  ***\-v-*** no noso idioma.
 
 O **avó** puxo unha **gravata vermella** e foi por unha **vasoira** para **varrer** os **garavanzos** do **pavillón**.
 
