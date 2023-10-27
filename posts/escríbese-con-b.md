@@ -7,7 +7,7 @@ show_toc: false
 ---
 <article> 
 
-Escríbense con *b* as terminacións do copretérito do indicativo dos verbos da 1ª conxugación (os acabados en *\-ar): andaba, cociñabas, cantaba, tocabamos, viaxabades, almorzaban...*
+1. Escríbense con *b* as terminacións do copretérito do indicativo dos verbos da 1ª conxugación (os acabados en *\-ar): andaba, cociñabas, cantaba, tocabamos, viaxabades, almorzaban...*
 
 </article>
 
@@ -15,7 +15,7 @@ Escríbense con *b* as terminacións do copretérito do indicativo dos verbos da
 
 <article>
 
-Escríbense con *b* os grupos *br-:  abrir, branco, brando, branquear, brasa, febre, nobre, nubrado, obriga...*
+2. Escríbense con *b* os grupos *br-:  abrir, branco, brando, branquear, brasa, febre, nobre, nubrado, obriga...*
 
 </article>
 
@@ -23,7 +23,7 @@ Escríbense con *b* os grupos *br-:  abrir, branco, brando, branquear, brasa, fe
 
 <article>
 
-Escríbense con *b* os grupos *bl-:  blasfemia, blindar, bloqueo, blusa, problema, publicar, república...*
+3. Escríbense con *b* os grupos *bl-:  blasfemia, blindar, bloqueo, blusa, problema, publicar, república...*
 
 </article>
 
@@ -31,7 +31,7 @@ Escríbense con *b* os grupos *bl-:  blasfemia, blindar, bloqueo, blusa, problem
 
 <article>
 
-Escríbese *b* despois de *\-m:  ambiente, ambos, bomba, chumbo, pomba, decembro, solombo...*
+4. Escríbese *b* despois de *\-m:  ambiente, ambos, bomba, chumbo, pomba, decembro, solombo...*
 
 </article>
 
@@ -39,7 +39,7 @@ Escríbese *b* despois de *\-m:  ambiente, ambos, bomba, chumbo, pomba, decembro
 
 <article>
 
-Escríbense con *b* os verbos da 3ª conxugación que acaban en *\-buír* e *\-bir: contribuír, diminuír, describir, recibir, prohibir...*
+5. Escríbense con *b* os verbos da 3ª conxugación que acaban en *\-buír* e *\-bir: contribuír, diminuír, describir, recibir, prohibir...*
 
  Excepto *servir, vir, vivir* e os seus derivados. 
 
