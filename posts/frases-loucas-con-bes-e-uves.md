@@ -34,7 +34,7 @@ O **avó** puxo unha **gravata vermella**, colleu unha **vasoira** e foi **varre
 
 ### Exercicio
 
-A continuación tes unha serie de palabras que teñen be ou uve. Inventa unha frase con aquelas que non saibas escribir correctamente. 
+A continuación tes unha serie de palabras que teñen be ou uve. Inventa frases para lembrares como se escriben correctamente aquelas máis problemáticas para ti.
 
 <e-layout>
 <e-tag color=1>dúbida</e-tag>
@@ -56,6 +56,8 @@ A continuación tes unha serie de palabras que teñen be ou uve. Inventa unha fr
 <e-tag color=1>abelá</e-tag>
 <e-tag color=1>albóndega</e-tag>
 <e-tag color=1>barullo</e-tag>
+<e-tag color=1>bico</e-tag>
+<e-tag color=1>nobelo</e-tag>
 </e-layout>
 
 <e-layout>
@@ -78,4 +80,6 @@ A continuación tes unha serie de palabras que teñen be ou uve. Inventa unha fr
 <e-tag color=2>caveira</e-tag>
 <e-tag color=2>devagar</e-tag>
 <e-tag color=2>gaivota</e-tag>
+<e-tag color=2>noivo</e-tag>
+<e-tag color=2>varíola</e-tag>
 </e-layout>
