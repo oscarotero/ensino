@@ -39,7 +39,7 @@ Escríbese *b* despois de *\-m:  ambiente, ambos, bomba, chumbo, pomba, decembro
 
 <article>
 
-Escríbense con *b* os verbos da 3ª conxugación que acaban en *\-buír* e *\-bir: contribuír, diminuír, describir, recibir, transcribir...*
+Escríbense con *b* os verbos da 3ª conxugación que acaban en *\-buír* e *\-bir: contribuír, diminuír, describir, recibir, prohibir...*
 
  Excepto *servir, vir, vivir* e os seus derivados. 
 
