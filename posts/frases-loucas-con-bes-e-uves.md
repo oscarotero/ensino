@@ -18,6 +18,6 @@ Que **marabilla**! Dentro dese **automóbil** encontrei un **polbo** falando pol
 
 <article>
 
-O **avó** puxo unha **gravata vermella** e foi por unha **vasoira** para **varrer** os **garavanzos** do **pavillón**.
+O **avó** puxo unha **gravata vermella**, colleu unha **vasoira** e foi **varrer** **garavanzos** ao **pavillón**.
 
 </article>
