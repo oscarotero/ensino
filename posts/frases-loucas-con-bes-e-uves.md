@@ -30,11 +30,13 @@ O **avó** puxo unha **gravata vermella**, colleu unha **vasoira** e foi **varre
 
 </article>
 
-
-
 ### Exercicio
 
 A continuación tes dúas series de palabras que teñen be e uve. Inventa frases para te lembrares de como se escriben correctamente aquelas máis problemáticas para ti.
+
+
+#### Con be
+
 
 <e-layout>
 <e-tag color=1>dúbida</e-tag>
@@ -59,6 +61,9 @@ A continuación tes dúas series de palabras que teñen be e uve. Inventa frases
 <e-tag color=1>bico</e-tag>
 <e-tag color=1>nobelo</e-tag>
 </e-layout>
+
+#### Con uve
+
 
 <e-layout>
 <e-tag color=2>avogado</e-tag>
