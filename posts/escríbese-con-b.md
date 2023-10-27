@@ -1,7 +1,7 @@
 ---
 title: 5 regras fáciles do be
 tags:
-  - ortografia
+  - problemas_be_uve
 draft: false
 show_toc: false
 ---
