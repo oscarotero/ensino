@@ -16,7 +16,7 @@ Canto máis extravagante for a frase, máis fácil será de memoriza!
 
 <article>
 
-B
+**B**
 
 Que **marabilla**! Dentro dese **automóbil** encontrei un **polbo** falando polo **móbil.**
 
@@ -24,7 +24,7 @@ Que **marabilla**! Dentro dese **automóbil** encontrei un **polbo** falando pol
 
 <article>
 
-V
+**V**
 
 O **avó** puxo unha **gravata vermella**, colleu unha **vasoira** e foi **varrer** **garavanzos** ao **pavillón**.
 
