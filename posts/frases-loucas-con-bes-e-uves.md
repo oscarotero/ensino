@@ -34,7 +34,7 @@ O **avó** puxo unha **gravata vermella**, colleu unha **vasoira** e foi **varre
 
 ### Exercicio
 
-A continuación tes unha serie de palabras que teñen be ou uve. Inventa frases para lembrares como se escriben correctamente aquelas máis problemáticas para ti.
+A continuación tes dúas series de palabras que teñen be e uve. Inventa frases para te lembrares de como se escriben correctamente aquelas máis problemáticas para ti.
 
 <e-layout>
 <e-tag color=1>dúbida</e-tag>
