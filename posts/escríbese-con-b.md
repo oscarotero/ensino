@@ -15,7 +15,7 @@ show_toc: false
 
 2. Escríbense con *b* os grupos *br-:  abrir, branco, brando, branquear, brasa, febre, nobre, nubrado, obriga...*
 
-   Excepción: *acivro, ávrego* e *avreguía*
+   Excepcións: *acivro, ávrego* e *avreguía*
 
 </article>
 
