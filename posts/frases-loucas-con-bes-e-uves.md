@@ -30,7 +30,7 @@ O **avó** puxo unha **gravata vermella**, colleu unha **vasoira** e foi **varre
 
 </article>
 
-### Exercicio
+### Agora é a túa vez!
 
 A continuación tes dúas series de palabras que teñen be e uve. Inventa frases para te lembrares de como se escriben correctamente aquelas máis problemáticas para ti.
 
