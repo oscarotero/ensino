@@ -2,7 +2,7 @@
 title: Frases loucas
 summary: (con bes e uves)
 tags:
-  - ortografia
+  - problemas_be_uve
 draft: false
 show_toc: false
 ---
