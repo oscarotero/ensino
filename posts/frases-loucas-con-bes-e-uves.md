@@ -14,4 +14,4 @@ Que **marabilla**! Dentro dese **automóbil** encontrei un **polbo** falando pol
 
 2. Frase para lembrares que **avó, gravata, vermella, vasoira, varrer, garavanzos** e **pavillón** son todas palabras que se escriben con  ***\-v-*** no noso idioma.
 
-O **avó** puxo unha **gravata vermella** e foi por unha **vasoira** para **varrer** **garavanzos** do **pavillón**.
+O **avó** puxo unha **gravata vermella** e foi por unha **vasoira** para **varrer** os **garavanzos** do **pavillón**.
