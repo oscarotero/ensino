@@ -41,32 +41,32 @@ Ti que cres? Atento ao vídeo:
 
 En galego levan acento diacrítico as seguintes palabras:
 
-| Con acento                               | Sen acento                           |
-| ---------------------------------------- | ------------------------------------ |
-| **a** (artigo; pron. átono; preposición) | **á** (a +a; das aves)               |
-| **as** (artigo; pron. átono)             | **á** (a +a; das aves)               |
-| **bola** (peza de pan)                   | **bóla** (esfera, pelota)            |
-| **cha** (che + a)                        | **chá** (plana)                      |
-| **chas** (che + as)                      | **chás** (planas)                    |
-| **compre** (de comprar)                  | **cómpre** (de cumprir)              |
-| **da** (de + a)                          | **dá** (de dar)                      |
-| **das** (de + as)                        | **dás** (de dar)                     |
-| **do** (de + o)                          | **dó** (compaixón, nota musical)     |
-| **e** (conx.)                            | **é** (verbo ser)                    |
-| **fora** (de ser ou de ir)               | **fóra** (adv.)                      |
-| **ma** (me + a)                          | **má** (ruín)                        |
-| **mais** (conx.)                         | **máis** (adv.)                      |
-| **no** (en + o)                          | **nó** (lazo, lazada)                |
-| **nos** (en + os; pron. átono)           | **nós** (lazos; pron. tón.)          |
-| **oso** (animal)                         | **óso** (do corpo)                   |
-| **pe** (nome de letra)                   | **pé** (parte do corpo)              |
-| **pola** (galiña, por + a)               | **póla** (rama)                      |
-| **presa** (dique; recluso; manchea)      | **présa** (apuro)                    |
-| **se** (conx., pron.)                    | **sé** (catedral, imperativo de ser) |
-| **so** (prep. "baixo")                   | **só** (adv. e adx.)                 |
-| **ven** (verbo ver, imperativo de vir)   | **vén** (verbo vir)                  |
-| **ves** (verbo ver)                      | **vés** (verbo vir)                  |
-| **vos** (pron. átono)                    | **vós** (pron. tónico)               |
+| Con acento                                                           | Sen acento                           |
+| -------------------------------------------------------------------- | ------------------------------------ |
+| **a** (artigo; pron. átono; preposición)                             | **á** (a +a; das aves)               |
+| **as** (artigo; pron. átono)                                         | **á** (a +a; das aves)               |
+| **bola** (peza de pan)                                               | **bóla** (esfera, pelota)            |
+| **cha** (che + a)                                                    | **chá** (plana)                      |
+| **chas** (che + as)                                                  | **chás** (planas)                    |
+| **compre** (de comprar)                                              | **cómpre** (de cumprir)              |
+| **da** (de + a)                                                      | **dá** (de dar)                      |
+| **das** (de + as)                                                    | **dás** (de dar)                     |
+| **do** (de + o)                                                      | **dó** (compaixón, nota musical)     |
+| **e** (conx.)                                                        | **é** (verbo ser)                    |
+| **fora** (de ser ou de ir)                                           | **fóra** (adv.)                      |
+| **ma** (me + a)                                                      | **má** (ruín)                        |
+| **mais** (conx.)                                                     | **máis** (adv.)                      |
+| **no** (en + o)                                                      | **nó** (lazo, lazada)                |
+| **nos** (en + os; pron. átono)                                       | **nós** (lazos; pron. tón.)          |
+| **oso** (animal)                                                     | **óso** (do corpo)                   |
+| **pe** (nome de letra)                                               | **pé** (parte do corpo)              |
+| **pola** (galiña, por + a)                                           | **póla** (rama)                      |
+| **presa** (dique; recluso; manchea; o que se captura; peza de carne) | **présa** (apuro)                    |
+| **se** (conx., pron.)                                                | **sé** (catedral, imperativo de ser) |
+| **so** (prep. "baixo")                                               | **só** (adv. e adx.)                 |
+| **ven** (verbo ver, imperativo de vir)                               | **vén** (verbo vir)                  |
+| **ves** (verbo ver)                                                  | **vés** (verbo vir)                  |
+| **vos** (pron. átono)                                                | **vós** (pron. tónico)               |
 
 - - -
 
