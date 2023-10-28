@@ -15,7 +15,7 @@ Exemplos:
 ### Significados diferentes
 
 * *as* "artigo determinado"
-* *ás* "membros do corpo das aves, dos insectos e doutros animais cos que voan"
+* *ás* "membros do corpo das aves, dos insectos e doutros animais con que voan"
 
 ### Orixes distintas
 
@@ -27,14 +27,14 @@ Exemplos:
 * *bola* "peza de pan" pronúnciase con o fechado
 * *bóla* "esfera, pelota" pronúnciase con o aberto
 
-  Nestes casos, a palabra que se acentúa é sempre a que ten a vogal aberta.
+  Nestes casos, a palabra que se acentúa é sempre a que ten a vogal aberta. Só hai unha excepción: *pór* e *por* son as dúas con o fechado.
 
 ### Non pertencen á mesma categoría gramatical
 
 * *da* "contracción de *de* + *a*"
 * *dá* "P3 do presente de indicativo do verbo *dar*"
 
-Neste último caso, temos que manter o acento diacrítico ao engadir un pronome?
+Neste último caso, temos que manter o acento diacrítico ao engadirmos un pronome?
 Ti que cres? Atento ao vídeo:
 
 <iframe src="https://player.vimeo.com/video/179171705?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -60,7 +60,7 @@ En galego levan acento diacrítico as seguintes palabras:
 | **nos** (en + os; pron. átono)                                       | **nós** (lazos; pron. tón.)          |
 | **oso** (animal)                                                     | **óso** (do corpo)                   |
 | **pe** (nome de letra)                                               | **pé** (parte do corpo)              |
-| **pola** (galiña, por + a)                                           | **póla** (rama)                      |
+| **pola** (pita, por + a)                                             | **póla** (rama)                      |
 | **presa** (dique; recluso; manchea; o que se captura; peza de carne) | **présa** (apuro)                    |
 | **se** (conx., pron.)                                                | **sé** (catedral, imperativo de ser) |
 | **so** (prep. "baixo")                                               | **só** (adv. e adx.)                 |
@@ -72,17 +72,16 @@ En galego levan acento diacrítico as seguintes palabras:
 
 ## Exercicio 1
 
-Completa estas oracións poñendo as palabras con acento diacrítico ou sen el onde
-cumpra.
+Completa as oracións coa palabra adecuada en cada caso:
 
 *pola - póla*
 
 * A <e-answer>póla</e-answer> da árbore partiu co peso das mazás.
-* Tes que cruzar <e-answer>pola</e-answer> ponte e despois virar á dereita.
+* Tes que cruzar <e-answer>pola</e-answer> ponte e despois virares á dereita.
 
 *compre - cómpre*
 
-* Temos o frigorífico baleiro, <e-answer>cómpre</e-answer> ir ao supermercado.
+* Temos o frigorífico baleiro, <e-answer>cómpre</e-answer> irmos ao supermercado.
 * Dille que che <e-answer>compre</e-answer> un xeado.
 
 *fora - fóra*
