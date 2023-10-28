@@ -18,7 +18,7 @@ Lémbrate! 👉 Canto máis extravagante for a frase, máis fácil será de memo
 
 **B**
 
-Que **marabilla**! Dentro dese **automóbil** encontrei un **polbo** falando polo **móbil.**
+Que **marabilla**! Hai un **polbo** falando **móbil** dentro dese **automóbil.** 
 
 </article>
 
@@ -26,7 +26,7 @@ Que **marabilla**! Dentro dese **automóbil** encontrei un **polbo** falando pol
 
 **V**
 
-O **avó** puxo unha **gravata vermella**, colleu unha **vasoira** e foi **varrer** **garavanzos** ao **pavillón**.
+O **avó** puxo a **gravata vermella**, agarrou a **vasoira** e foi **varrer** **garavanzos** ao **pavillón**.
 
 </article>
 
@@ -34,13 +34,12 @@ O **avó** puxo unha **gravata vermella**, colleu unha **vasoira** e foi **varre
 
 A continuación tes dúas series de palabras con bes e uves. Inventa frases para te lembrares de como se escriben correctamente aquelas máis problemáticas para ti.
 
-
 #### Con be
-
 
 <e-layout>
 <e-tag color=1>dúbida</e-tag>
 <e-tag color=1>beira</e-tag>
+<e-tag color=1>boneca</e-tag>
 <e-tag color=1>asubiar</e-tag>
 <e-tag color=1>bico</e-tag>
 <e-tag color=1>cobiza </e-tag>
@@ -53,6 +52,7 @@ A continuación tes dúas series de palabras con bes e uves. Inventa frases para
 <e-tag color=1>fibela</e-tag>
 <e-tag color=1>pobo</e-tag>
 <e-tag color=1>gabeta</e-tag>
+<e-tag color=1>xabón</e-tag>
 <e-tag color=1>lamber</e-tag>
 <e-tag color=1>billa</e-tag>
 <e-tag color=1>abelá</e-tag>
@@ -60,13 +60,14 @@ A continuación tes dúas series de palabras con bes e uves. Inventa frases para
 <e-tag color=1>barullo</e-tag>
 <e-tag color=1>bico</e-tag>
 <e-tag color=1>nobelo</e-tag>
+<e-tag color=1>bucina</e-tag>
 <e-tag color=1>banana</e-tag>
 <e-tag color=1>néboa</e-tag>
 <e-tag color=1>ceibo</e-tag>
+<e-tag color=1>baúl</e-tag>
 </e-layout>
 
 #### Con uve
-
 
 <e-layout>
 <e-tag color=2>avogado</e-tag>
@@ -82,14 +83,19 @@ A continuación tes dúas series de palabras con bes e uves. Inventa frases para
 <e-tag color=2>gravar</e-tag>
 <e-tag color=2>verza</e-tag>
 <e-tag color=2>louvar</e-tag>
-<e-tag color=2>servente</e-tag>
 <e-tag color=2>varredor</e-tag>
 <e-tag color=2>caveira</e-tag>
+<e-tag color=2>voto</e-tag>
 <e-tag color=2>devagar</e-tag>
 <e-tag color=2>gaivota</e-tag>
 <e-tag color=2>escaravello</e-tag>
+<e-tag color=2>volante</e-tag>
 <e-tag color=2>varíola</e-tag>
 <e-tag color=2>chuvia</e-tag>
 <e-tag color=2>noivo</e-tag>
+<e-tag color=2>voitre</e-tag>
+<e-tag color=2>televisión</e-tag>
+<e-tag color=2>luva</e-tag>
+<e-tag color=2>escravo</e-tag>
 
 </e-layout>
