@@ -26,7 +26,7 @@ Que **marabilla**! Hai un **polbo** falando **móbil** dentro dese **automóbil.
 
 **V**
 
-O **avó** puxo unha **gravata vermella**, agarrou unha **vasoira** e foi **varrer** **garavanzos** ao **pavillón**.
+O **avó** puxo a **gravata vermella**, agarrou a **vasoira** e foi **varrer** **garavanzos** ao **pavillón**.
 
 </article>
 
