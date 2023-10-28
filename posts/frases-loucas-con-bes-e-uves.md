@@ -1,6 +1,6 @@
 ---
-title: Frases loucas
-summary: (con bes e uves)
+title: Frases loucas (con bes e uves)
+summary: Regras para o be e o uve hai moitas, por que non creas as túas
 tags:
   - problemas_be_uve
 draft: false
@@ -18,7 +18,7 @@ Lémbrate! 👉 Canto máis extravagante for a frase, máis fácil será de memo
 
 **B**
 
-Que **marabilla**! Hai un **polbo** falando **móbil** dentro dese **automóbil.** 
+Que **marabilla**! Encontrei un **polbo** falando polo **móbil** dentro dese **automóbil.** 
 
 </article>
 

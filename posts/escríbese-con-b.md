@@ -1,5 +1,5 @@
 ---
-title: 5 regras fáciles do be
+title: 5 regras fáciles para o be
 tags:
   - problemas_be_uve
 draft: false
