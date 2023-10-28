@@ -1,6 +1,6 @@
 ---
-title: Frases loucas (con bes e uves)
-summary: Regras para o be e o uve hai moitas, por que non creas as túas
+title: "Frases loucas "
+summary: (con bes e uves)
 tags:
   - problemas_be_uve
 draft: false
