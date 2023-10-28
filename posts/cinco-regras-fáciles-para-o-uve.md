@@ -1,5 +1,5 @@
 ---
-title: Cinco regras fáciles para o uve
+title: 5 regras fáciles para o uve
 tags:
   - problemas_be_uve
 draft: false
