@@ -24,7 +24,7 @@ Vira o cartón para descubrires o nome que aparece habitualmente nos menús
 </e-card>
 
 <e-card color="4">
-  <div>Cacheira \~ cachola \~ cachucha</div>
+  <div>Cacheira, cachola, cachucha</div>
   <div>Cabeza de cerdo (es)</div>
 </e-card>
 
@@ -35,16 +35,16 @@ Vira o cartón para descubrires o nome que aparece habitualmente nos menús
 
 <e-card color="6">
   <div>Costeleta de cordeiro / costeleta de año de leite</div>
-  <div>Chuletita \~ chuletilla de cordero (es) / chuletita \~ chuletilla de lechazo (= cordero lechal) (es)</div>
+  <div>Chuletita, chuletilla de cordero (es) / chuletita, chuletilla de lechazo (= cordero lechal) (es)</div>
 </e-card>
 
 <e-card color="7">
   <div>Costeleta</div>
-  <div>Costilleta ~ chuleta (es) </div>
+  <div>Costilleta, chuleta (es) </div>
 </e-card>
 
 <e-card color="8">
-  <div>Coxa ~ zanco de polo / coxiñas de polo</div>
+  <div>Coxa, zanco de polo / coxiñas de polo</div>
   <div>Muslo de pollo / muslitos de pollo (es)</div>
 </e-card>
 
@@ -59,7 +59,7 @@ Vira o cartón para descubrires o nome que aparece habitualmente nos menús
 </e-card>
 
 <e-card color="1">
-  <div>Entreteto ~ touciño entrefebrado</div>
+  <div>Entreteto, touciño entrefebrado</div>
   <div>Panceta (es)</div>
 </e-card>
 
@@ -84,7 +84,7 @@ Vira o cartón para descubrires o nome que aparece habitualmente nos menús
 </e-card>
 
 <e-card color="6">
-  <div>Peituga ~ peito</div>
+  <div>Peituga, peito</div>
   <div>Pechuga (es)</div>
 </e-card>
 
@@ -119,16 +119,16 @@ Vira o cartón para descubrires o nome que aparece habitualmente nos menús
 </e-card>
 
 <e-card color="3">
-  <div>Torresmo \~ torrisco \~ roxón (dialectal)</div>
+  <div>Torresmo, torrisco, roxón (dialectal)</div>
   <div>Torrezno (es)</div>
 </e-card>
 
 <e-card color="4">
   <div>Xarrete</div>
-  <div>Jarrete ~ morcillo (es)</div>
+  <div>Jarrete, morcillo (es)</div>
 </e-card>
 
 <e-card color="5">
-  <div>Xoga da perna \~ xoenllo \~ pa </div>
+  <div>Xoga da perna, xoenllo, pa</div>
   <div>Codillo (es)</div>
 </e-card>
