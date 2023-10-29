@@ -1,5 +1,5 @@
 ---
-title: Adestramento de vogais
+title: Series de vogais
 summary: Para aprender a distinguir entre abertas e fechadas
 tags:
   - 1 ESO
@@ -27,43 +27,43 @@ Pouco a pouco iraste familiarizando cos sons e serás capaz de distinguilas sen 
 
 Tenta adiviñar se a vogal sinalada é aberta ou fechada nas seguintes series:
 
-Escribe aberta ou fechada no cadro.
+Escribe aberto ou fechado no cadro.
 
 #### Serie 1: Numerais cardinais
 
-* c<mark>e</mark>ro: <e-answer>aberta</e-answer>
-* tr<mark>e</mark>s: <e-answer>fechada</e-answer>
-* s<mark>e</mark>te: <e-answer>aberta</e-answer>
-* n<mark>o</mark>ve: <e-answer>aberta</e-answer>
-* d<mark>e</mark>z: <e-answer>aberta</e-answer>
-* d<mark>o</mark>ce: <e-answer>fechada</e-answer>
-* tr<mark>e</mark>ce: <e-answer>fechada</e-answer>
-* c<mark>e</mark>n: <e-answer>aberta</e-answer>
+* c<mark>e</mark>ro: <e-answer>aberto</e-answer>
+* tr<mark>e</mark>s: <e-answer>fechado</e-answer>
+* s<mark>e</mark>te: <e-answer>aberto</e-answer>
+* n<mark>o</mark>ve: <e-answer>aberto</e-answer>
+* d<mark>e</mark>z: <e-answer>aberto</e-answer>
+* d<mark>o</mark>ce: <e-answer>fechado</e-answer>
+* tr<mark>e</mark>ce: <e-answer>fechado</e-answer>
+* c<mark>e</mark>n: <e-answer>aberto</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
 #### Serie 2: Animais con e
 
-* ab<mark>e</mark>lla: <e-answer>fechada</e-answer>
-* cad<mark>e</mark>la: <e-answer>aberta</e-answer>
-* bolbor<mark>e</mark>ta: <e-answer>fechada</e-answer>
-* cam<mark>e</mark>lo: <e-answer>fechada</e-answer>
-* s<mark>e</mark>rpe: <e-answer>aberta</e-answer>
-* ov<mark>e</mark>lla: <e-answer>fechada</e-answer>
-* av<mark>e</mark>spa: <e-answer>fechada</e-answer>
-* <mark>é</mark>gua: <e-answer>aberta</e-answer>
+* ab<mark>e</mark>lla: <e-answer>fechado</e-answer>
+* cad<mark>e</mark>la: <e-answer>aberto</e-answer>
+* bolbor<mark>e</mark>ta: <e-answer>fechado</e-answer>
+* cam<mark>e</mark>lo: <e-answer>fechado</e-answer>
+* s<mark>e</mark>rpe: <e-answer>aberto</e-answer>
+* ov<mark>e</mark>lla: <e-answer>fechado</e-answer>
+* av<mark>e</mark>spa: <e-answer>fechado</e-answer>
+* <mark>é</mark>gua: <e-answer>aberto</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
 #### Serie 3: Animais con o 
 
-* <mark>ó</mark>so: <e-answer>aberta</e-answer>
-* l<mark>o</mark>bo: <e-answer>fechada</e-answer>
-* salt<mark>ó</mark>n: <e-answer>fechada</e-answer>
-* carac<mark>o</mark>l: <e-answer>aberta</e-answer>
-* rap<mark>o</mark>so: <e-answer>fechada</e-answer>
-* p<mark>o</mark>rco: <e-answer>aberta</e-answer>
-* falc<mark>ó</mark>n: <e-answer>fechada</e-answer>
-* c<mark>o</mark>bra: <e-answer>aberta</e-answer>
+* <mark>ó</mark>so: <e-answer>aberto</e-answer>
+* l<mark>o</mark>bo: <e-answer>fechado</e-answer>
+* salt<mark>ó</mark>n: <e-answer>fechado</e-answer>
+* carac<mark>o</mark>l: <e-answer>aberto</e-answer>
+* rap<mark>o</mark>so: <e-answer>fechado</e-answer>
+* p<mark>o</mark>rco: <e-answer>aberto</e-answer>
+* falc<mark>ó</mark>n: <e-answer>fechado</e-answer>
+* c<mark>o</mark>bra: <e-answer>aberto</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
