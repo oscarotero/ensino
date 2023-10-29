@@ -7,7 +7,7 @@ show_toc: false
 ---
 <article> 
 
-1. Na primeira conxugación levan *v* os verbos terminados en *\-servar: conservar, reservar, preservar* e *observar.*
+1. Escríbese con *v* a terminación *\-servar* dos verbos da 1ª conxugación: *conservar, reservar, preservar* e *observar.*
 
 </article>
 
@@ -29,7 +29,7 @@ show_toc: false
 
 <article>
 
-4. Escríbese v tras as sílabas iniciais de palabra *ad-, ob-, sub-: adverbio, adversario, advertencia, subversivo subvencionar, obvio...*
+4. Escríbese *v* tras as sílabas iniciais de palabra *ad-, ob-, sub-: adverbio, adversario, advertencia, subversivo subvencionar, obvio...*
 
 </article>
 

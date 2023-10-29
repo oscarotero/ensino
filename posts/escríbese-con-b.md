@@ -7,13 +7,13 @@ show_toc: false
 ---
 <article> 
 
-1. Escríbense con *b* as terminacións do copretérito do indicativo dos verbos da 1ª conxugación (os acabados en *\-ar): andaba, cociñabas, cantaba, tocabamos, viaxabades, almorzaban...*
+1. Escríbense con *b* as terminacións do copretérito do indicativo dos verbos da 1ª conxugación (*\-ar): andaba, cociñabas, cantaba, tocabamos, viaxabades, almorzaban...*
 
 </article>
 
 <article>
 
-2. Escríbense con *b* os grupos *br-:  abrir, branco, brando, branquear, brasa, febre, nobre, nubrado, obriga...*
+2. Escríbense con *b* os grupos *br-: abrir, branco, brando, branquear, brasa, febre, nobre, nubrado, obriga...*
 
    Excepto *acivro, ávrego* e *avreguía.*
 
@@ -21,19 +21,19 @@ show_toc: false
 
 <article>
 
-3. Escríbense con *b* os grupos *bl-:  blasfemia, blindar, bloqueo, blusa, problema, publicar, república...*
+3. Escríbense con *b* os grupos *bl-: blasfemia, blindar, bloqueo, blusa, problema, publicar, república...*
 
 </article>
 
 <article>
 
-4. Escríbese *b* despois de *\-m:  ambiente, ambos, bomba, chumbo, pomba, decembro, solombo...*
+4. Escríbese *b* despois de *\-m: ambiente, ambos, bomba, chumbo, pomba, decembro, solombo...*
 
 </article>
 
 <article>
 
-5. Escríbense con *b* os verbos da 3ª conxugación que acaban en *\-buír* e *\-bir: contribuír, distribuír, describir, recibir, prohibir...*
+5. Escríbense con *b* os verbos da 3ª conxugación acabados en *\-buír* e *\-bir: contribuír, distribuír, describir, recibir, prohibir...*
 
    Excepto *servir, vir, vivir* e os seus derivados. 
 
