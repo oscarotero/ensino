@@ -21,7 +21,7 @@ show_toc: false
 
 <article>
 
-3. Escríbense con *v* as palabras terminadas en *\-ívoro/-a: omnívoro, herbívoro, carnívoro, insectívoro.*
+3. Escríbense con *v* as palabras terminadas en *\-ívoro/-a: omnívoro, herbívoro, carnívora, insectívoro.*
 
    Excepto *víbora.*
 
@@ -29,7 +29,7 @@ show_toc: false
 
 <article>
 
-4. Escríbese *v* tras as sílabas iniciais de palabra *ad-, ob-, sub-: adverbio, adversario, advertencia, subversivo subvencionar, obvio...*
+4. Escríbese *v* tras as sílabas iniciais de palabra *ad-, ob-, sub-: adverbio, adversario, advertencia, obvio, subversivo subvencionar...*
 
 </article>
 
