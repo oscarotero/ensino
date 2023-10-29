@@ -11,7 +11,7 @@ show_toc: false
 
 En galego temos 7 vogais, mais só usamos 5 letras (*a, e, i, o, u)* para representalas.
 
-As vogais son o ***a**,* o ***e* aberto**, o ***e* fechado**, o ***i**,* o ***o* aberto**, o ***o* fechado** e o ***u**.*
+As vogais son o **\*a**,* o ***e* aberto**, o ***e* fechado**, o **\*i**,* o ***o* aberto**, o ***o* fechado** e o **\*u**.*
 
 Isto quere dicir que aínda que na escrita teñamos un *e,* dependendo da palabra, unhas veces teremos que pronunciar un *e* aberto e outras, un *e* fechado. O mesmo acontece coa letra *o:* unhas veces ese *o* será aberto e outras, fechado.
 
@@ -51,11 +51,11 @@ Escribe aberto ou fechado no cadro.
 * s<mark>e</mark>rpe: <e-answer>aberto</e-answer>
 * ov<mark>e</mark>lla: <e-answer>fechado</e-answer>
 * av<mark>e</mark>spa: <e-answer>fechado</e-answer>
-* <mark>é</mark>gua: <e-answer>aberto</e-answer>
+* <mark>e</mark>gua: <e-answer>aberto</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
-#### Serie 3: Animais con o 
+#### Serie 3: Animais con o
 
 * <mark>ó</mark>so: <e-answer>aberto</e-answer>
 * l<mark>o</mark>bo: <e-answer>fechado</e-answer>
