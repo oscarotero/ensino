@@ -1,5 +1,5 @@
 ---
-title: Series de vogais
+title: 3 series de vogais
 summary: Para aprender a distinguir entre abertas e fechadas
 tags:
   - 1 ESO
