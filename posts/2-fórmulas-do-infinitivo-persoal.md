@@ -10,7 +10,7 @@ show_toc: false
 
 **Grazas por + infinitivo flexionado + o que quixermos agradecer**
 
-*Grazas por apoiardes as reivindicacións*
+*Grazas por apoiardes estas reivindicacións*
 
 *Grazas por subscribirdes este manifesto*
 
