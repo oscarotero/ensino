@@ -3,7 +3,7 @@ title: Infinitivo persoal para manifestos
 tags:
   - 3_ESO
   - o_infinitivo_flexionado
-draft: true
+draft: false
 show_toc: false
 ---
 ## Fórmula 1
