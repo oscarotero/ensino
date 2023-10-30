@@ -1,40 +1,40 @@
 ---
-title: 2 fórmulas do infinitivo persoal
+title: Infinitivo persoal para manifestos
+tags:
+  - 3_ESO
 draft: true
 show_toc: false
 ---
-Fórmula 1
+## Fórmula 1
 
-Grazas por + infinitivo flexionado + o que quixermos agradecer
+**Grazas por + infinitivo flexionado + o que quixermos agradecer**
 
-Grazas por preparares todo. (ti)
+*Grazas por apoiardes as reivindicacións*
 
-Grazas por asistiren á reunión. (vostedes)
+*Grazas por subscribirdes este manifesto*
 
-Grazas por asinardes a petición. (vós)
+*Grazas por asinardes a petición* 
 
-Grazas por comprenderen a situación. (ti)
+*Grazas por comprenderdes a situación* 
 
-Grazas por preguntares, estou ben. (vostedes)
+*Grazas por participardes neste acto*
 
-Grazas por participardes neste acto. (vós)
+## Fórmula 2
 
-Fórmula 2
-
-Oración impersoal + infinitivo persoal 
+**Oración impersoal + infinitivo persoal** 
 
 É crucial/fundamental/importante/esencial/necesario/preciso/vital + infinitivo persoal
 
-É importante estarmos unidos, pois xuntos seremos máis fortes
+*É fundamental loitarmos contra esta inxustiza*
 
-É fundamental loitarmos contra esta inxustiza
+*É preciso estarmos unidos, pois xuntos seremos máis fortes*
 
 É hora de / Chegou a hora/o momento de + infinitivo persoal
 
-É hora de asumirmos a nosa responsabilidade
+*É hora de asumirmos a nosa responsabilidade*
 
-Chegou o momento de actuarmos con decisión
+*Chegou o momento de actuarmos con decisión*
 
 Cómpre + infinitivo persoal
 
-Cómpre sermos solidarios con todos os que o están a pasar mal
+*Cómpre sermos solidarios con todos os que o están a pasar mal*

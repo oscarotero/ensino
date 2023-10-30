@@ -23,9 +23,9 @@ A estrutura que imos usar é moi simple. Podemos sintetizala na seguinte fórmul
 
 Agora só resta imaxinarmos posíbeis situacións e aplicarmos a fórmula. Se o pensares, son moitas as persoas a quen podemos mostrar gratitude ao longo dun día:
 
-* A un compañeiro de apartamento > *Grazas por me preparares este café tan delicioso*
+* A un compañeiro de apartamento > *Grazas por preparares o almorzo*
 * A un profesor > *Grazas por mudares a data do exame*
-* A unha amiga > *Grazas por seres unha amiga tan incríbel*
+* A unha amiga > *Grazas por aguantares até o final do filme*
 * A un convidado > *Grazas por aceptares o meu convite*
 * Aos membros dun club de lectura > *Grazas por participardes no club de lectura*
 * A un colega de traballo > *Grazas por me substituíres no posto*
@@ -33,7 +33,7 @@ Agora só resta imaxinarmos posíbeis situacións e aplicarmos a fórmula. Se o 
 * A un investidor > *Grazas por apoiares o proxecto*
 * A unha namorada > *Grazas por seres a melhor compañeira*
 * A un alumno > *Grazas por enviares a túa suxestión*
-* A unha veciña > *Grazas por ser sempre tan amábel comigo*
+* A unha veciña > *Grazas por preguntares, estou ben*
 * A uns clientes > *Grazas por compraren aquí*
 * Aos asistentes a unha reunión á que chegas atrasado > *Grazas por esperaren por min*
 * A unha avoa > *Grazas por nos levares á escola*
