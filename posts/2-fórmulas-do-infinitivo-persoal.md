@@ -7,22 +7,34 @@ Fórmula 1
 
 Grazas por + infinitivo flexionado + o que quixermos agradecer
 
-Grazas por preparares o almorzo. (ti)
+Grazas por preparares todo. (ti)
 
 Grazas por asistiren á reunión. (vostedes)
 
-Grazas por aguantares até o final. (ti)
+Grazas por asinardes a petición. (vós)
 
-Grazas por asinardes o manifesto. (vós)
+Grazas por comprenderen a situación. (ti)
 
-Grazas por comprenderes a situación. (ti)
+Grazas por preguntares, estou ben. (vostedes)
 
-Grazas por preguntaren. (vostedes)
+Grazas por participardes neste acto. (vós)
 
 Fórmula 2
 
 Oración impersoal + infinitivo persoal 
 
-É importante/vital/preciso/esencial/fundamental/conveniente + infinitivo persoal
+É crucial/fundamental/importante/esencial/necesario/preciso/vital + infinitivo persoal
 
-Cómpre
+É importante estarmos unidos, pois xuntos seremos máis fortes
+
+É fundamental loitarmos contra esta inxustiza
+
+É hora de / Chegou a hora/o momento de + infinitivo persoal
+
+É hora de asumirmos a nosa responsabilidade
+
+Chegou o momento de actuarmos con decisión
+
+Cómpre + infinitivo persoal
+
+Cómpre sermos solidarios con todos os que o están a pasar mal
