@@ -4,6 +4,7 @@ summary: Modelos para te familiarizares coa conxugación do infinitivo persoal +
   adestramento
 tags:
   - o_infinitivo_flexionado
+  - 3_ESO
 draft: false
 ---
 # As formas
