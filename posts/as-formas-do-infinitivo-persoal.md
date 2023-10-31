@@ -5,6 +5,7 @@ summary: Modelos para te familiarizares coa conxugación do infinitivo persoal +
 tags:
   - o_infinitivo_flexionado
   - 3_ESO
+  - 4_ESO
 draft: false
 ---
 # As formas
