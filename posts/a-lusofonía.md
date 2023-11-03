@@ -2,6 +2,7 @@
 title: A lusofonia
 tags:
   - sociolinguistica
+  - 2 ESO
 draft: false
 ---
 A lusofonia é o conjunto dos países que têm o português como língua oficial ou dominante. São nove: **Portugal**, **Brasil**, **Cabo Verde**, **Guiné-Bissau**, **São Tomé e Príncipe**, **Guiné-Equatorial**, **Angola**, **Moçambique** e **Timor-Leste**.
