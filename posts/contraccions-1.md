@@ -3,6 +3,7 @@ title: Contraccións (1)
 summary: Artigo determinado + preposición
 tags:
   - a_contraccion
+  - 2 ESO
 ---
 As formas do artigo determinado *(o, a, os, as)* contraen coas preposicións *a,
 con, de, en* e *por* en galego.
