@@ -42,7 +42,19 @@ Escribe aberto ou fechado no cadro.
 
 <e-validate>Verifica as respostas</e-validate>
 
-#### Serie 2: Animais con e
+#### Serie 2: Pronomes persoais tónicos
+
+* <mark>e</mark>u: <e-answer>fechado</e-answer>
+* <mark>e</mark>l: <e-answer>fechado</e-answer>
+* <mark>e</mark>la: <e-answer>aberto</e-answer>
+* n<mark>ó</mark>s: <e-answer>aberto</e-answer>
+* v<mark>ó</mark>s: <e-answer>aberto</e-answer>
+* <mark>e</mark>les: <e-answer>fechado</e-answer>
+* <mark>e</mark>la: <e-answer>aberto</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+#### Serie 3: Animais con e
 
 * ab<mark>e</mark>lla: <e-answer>fechado</e-answer>
 * cad<mark>e</mark>la: <e-answer>aberto</e-answer>
@@ -55,7 +67,7 @@ Escribe aberto ou fechado no cadro.
 
 <e-validate>Verifica as respostas</e-validate>
 
-#### Serie 3: Animais con o
+#### Serie 4: Animais con o
 
 * <mark>ó</mark>so: <e-answer>aberto</e-answer>
 * l<mark>o</mark>bo: <e-answer>fechado</e-answer>
