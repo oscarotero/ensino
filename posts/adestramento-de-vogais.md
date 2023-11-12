@@ -21,7 +21,7 @@ Non, non é verdade. Aprender a diferencialas non é difícil, só é necesario 
 
 Como ao longo de todo o ano, imos facer moitos exercicios, garántoche que acabarás por distinguilas. Non ten segredo ningún, só hai que ouvir e prestar atención a como son pronunciadas. Para practicares, podes usar o *[Dicionario de pronuncia galega](https://ilg.usc.es/pronuncia/)*
 
-Pouco a pouco iraste familiarizando cos sons e serás capaz de distinguilas sen problema. 
+Pouco a pouco iraste familiarizando cos sons e serás capaz de distinguilas e de producilas. O obxectivo final deste tipo de exercicios é pronuncialas correctamente cando falamos.
 
 ### Comezamos?
 
