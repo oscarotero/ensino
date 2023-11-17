@@ -1,5 +1,5 @@
 ---
-title: Pronuncia das vogais con acento diacrítico
+title: A pronuncia das vogais con acento diacrítico
 tags:
   - sons_vocalicos
 draft: false
