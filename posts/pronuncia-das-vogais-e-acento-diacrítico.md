@@ -5,14 +5,9 @@ tags:
 draft: false
 show_toc: false
 ---
-Tenta adiviñar se a vogal sinalada é aberta ou fechada nas seguintes series:
+Tenta adiviñar se a vogal sinalada é aberta ou fechada nas seguintes series. 
 
 Escribe aberto ou fechado no cadro.
-
-fóra (adv.) - fora (verbo *ser* ou *ir)*
-
-* f<mark>ó</mark>ra: <e-answer>aberto</e-answer>
-* f<mark>o</mark>ra: <e-answer>fechado</e-answer>
 
 bola (peza de pan) - bóla (esfera, pelota)
 
@@ -63,11 +58,6 @@ so (prep. = "baixo") - só (adv., adx.)
 
 * s<mark>o</mark>: <e-answer>fechado</e-answer>
 * s<mark>ó</mark>: <e-answer>aberto</e-answer>
-
-é (verbo) - e (conx., nome da letra)
-
-* <mark>é</mark>: <e-answer>aberto</e-answer>
-* <mark>e</mark>: <e-answer>aberto</e-answer>
 
 pór (verbo) - por (prep.)
 
