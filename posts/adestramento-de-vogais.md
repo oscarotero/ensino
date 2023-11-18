@@ -69,7 +69,7 @@ Escribe aberto ou fechado no cadro.
 
 #### Serie 4: Animais con o
 
-* <mark>ó</mark>so: <e-answer>aberto</e-answer>
+* <mark>o</mark>so: <e-answer>fechado</e-answer>
 * l<mark>o</mark>bo: <e-answer>fechado</e-answer>
 * salt<mark>ó</mark>n: <e-answer>fechado</e-answer>
 * carac<mark>o</mark>l: <e-answer>aberto</e-answer>
