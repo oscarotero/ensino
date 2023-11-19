@@ -42,7 +42,7 @@ Se non souberes o significado, clica no cartón para descubrires ese sinónimo q
 
 <e-card color="7">
   <div>Cola</div>
-  <div>Pegamento <br>Cola é calquera tipo de pegamento. É escusado dicir entón que colar é  sinónimo de pegar.</div>
+  <div>Pegamento <br>Cola é calquera tipo de pegamento. É escusado dicir que colar é  sinónimo de pegar.</div>
 </e-card>
 
 <e-card color="8">
