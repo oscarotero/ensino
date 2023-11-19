@@ -7,17 +7,18 @@ show_toc: false
 ---
 As palabras homófonas pronúncianse igual, mais non se escriben igual
 
-rabo > extremidade posterior do corpo de moitos animais
-ravo > planta
+## Exemplos
+---
+* **rabo** > extremidade posterior do corpo de moitos animais
+* **ravo** > planta
+---
 
-ai > interx. Ex.: ai, como doe!
-hai > verbo haber Ex.: Non hai ninguén
+* **ai** > interx. Ex.: ai, como doe!
+* **hai** > verbo haber Ex.: Non hai ninguén
+---
+* **balor** > mofo
+* **valor** > coraxe
+---
+* **barón** > título nobiliario
+* **varón** > home
 
-balor > mofo
-valor > coraxe
-
-barón > título nobiliario
-varón > home
-
-dó > primeira nota da escala musical
-dó > pena, compaixón
