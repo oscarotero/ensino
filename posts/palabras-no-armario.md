@@ -76,8 +76,8 @@ Se non souberes o significado, clica no cartón para descubrires ese sinónimo q
 </e-card>
 
 <e-card color="4">
-  <div>Frigorífico</div>
-  <div>Neveira</div>
+  <div>Acordar</div>
+  <div>Espertar</div>
 </e-card>
 
 <e-card color="5">
