@@ -56,13 +56,13 @@ Se non souberes o significado, clica no cartón para descubrires ese sinónimo q
 </e-card>
 
 <e-card color="10">
-  <div>Despacho</div>
-  <div>Escritorio ou gabinete</div>
+  <div>Doente</div>
+  <div>Enfermo</div>
 </e-card>
 
 <e-card color="1">
-  <div>Doente</div>
-  <div>Enfermo</div>
+  <div>Escritorio ou gabinete</div>
+  <div>Despacho</div>
 </e-card>
 
 <e-card color="2">
