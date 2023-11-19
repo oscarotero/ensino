@@ -21,5 +21,3 @@ As palabras homófonas pronúncianse igual, mais non se escriben igual
 **barón** > título nobiliario\
 **varón** > home
 
-**dó** > primeira nota da escala musical\
-**dó** > pena, compaixón
