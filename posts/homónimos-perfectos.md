@@ -39,5 +39,5 @@ Son palabras que se escriben e que se pronuncian igual.
 \[As dúas pronúncianse con o fechado]
 
 **dó** > primeira nota da escala musical\
-**dó** > pena, compaixón
+**dó** > pena, compaixón\
 \[As dúas pronúncianse con o aberto]
