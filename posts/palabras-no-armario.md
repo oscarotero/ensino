@@ -36,18 +36,18 @@ Se non souberes o significado, clica no cartón para descubrires ese sinónimo q
 </e-card>
 
 <e-card color="6">
-  <div>Cola</div>
-  <div>Pegamento <br>Cola é calquera tipo de pegamento. É escusado dicir que colar é un sinónimo de pegar.</div>
-</e-card>
-
-<e-card color="7">
   <div>Cartón</div>
   <div>Tarxeta <br>Si, en galego tamén podes dicir cartón de estudo, cartón de crédito, cartón de visita, cartón amarelo.</div>
 </e-card>
 
+<e-card color="7">
+ <div>Cola</div>
+  <div>Pegamento <br>Cola é calquera tipo de pegamento. É escusado dicir que colar é un sinónimo de pegar.</div>
+ </e-card>
+
 <e-card color="8">
   <div>Corrida</div>
-  <div>Carreira <br>Corrida é un sinónimo de carreira só no ámbito deportivo. No ámbito do traballo, o termo que debemos utilizar é carreira profesional.</div>
+  <div>Carreira <br>Corrida é un sinónimo de carreira só no ámbito deportivo. Na área do traballo, o termo que debemos utilizar é carreira profesional.</div>
 </e-card>
 
 <e-card color="9">
