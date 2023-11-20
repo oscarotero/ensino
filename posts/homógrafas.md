@@ -1,5 +1,6 @@
 ---
 title: Homógrafas
+summary: Tipo 2 de homonimia
 tags:
   - homonimia
 draft: false

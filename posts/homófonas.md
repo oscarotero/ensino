@@ -1,5 +1,6 @@
 ---
 title: Homófonas
+summary: Tipo 3 de homonimia
 tags:
   - homonimia
 draft: false
