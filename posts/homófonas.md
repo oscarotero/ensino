@@ -5,12 +5,12 @@ tags:
 draft: false
 show_toc: false
 ---
-As palabras homófonas pronúncianse igual, mais non se escriben igual
+A homofonía é un tipo de homonimia. As palabras homófonas pronúncianse igual, mais non se escriben igual.
 
 ## Exemplos
 ---
 * **rabo** > extremidade posterior do corpo de moitos animais
-* **ravo** > planta
+* **ravo** > planta da familia das crucíferas, cuxa raíz é un pequeno tubérculo comestíbel, de sabor picante, e cor, geralmente, vermella
 ---
 
 * **ai** > interx. Ex.: ai, como doe!

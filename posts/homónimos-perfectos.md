@@ -5,7 +5,8 @@ tags:
 draft: false
 show_toc: false
 ---
-Son palabras que se escriben e que se pronuncian igual. 
+A homonimia é unha relación entre palabras que teñen significados e orixes diferentes, mais que presentan a mesma grafía e/ou a mesma pronuncia. Sabemos que estamos perante un caso de homonimia e non de polisemia, porque cada unha das palabras ten unha entrada no dicionario. 
+Os homónimos perfectos son palabras que se escriben e que se pronuncian igual. 
 
 ## Exemplos
 ---
