@@ -18,7 +18,7 @@ Hipónimos: polgar, índice, maior, anular, maimiño
 
 Polgar e índice son cohipónimos
 
-\---
+---
 
 Hiperónimo: lácteos
 
