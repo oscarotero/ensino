@@ -1,5 +1,5 @@
 ---
-title: Homónimos perfectos
+title: Homónimas perfectas
 summary: Tipo 1 de homonimia
 tags:
   - homonimia

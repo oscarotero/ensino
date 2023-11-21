@@ -20,3 +20,7 @@ Sabemos que estamos perante un caso de homonimia e non de polisemia, porque cada
 *Rato* é unha única palabra que ten varios significados.
 
 ![](/img/polisemia_rato.png)
+
+## Tipos
+
+Existen tres tipos de palabras homónimas: homónimas perfectas, homófonas e homógrafas
