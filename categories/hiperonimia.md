@@ -28,11 +28,9 @@ Iogur e manteiga son cohipónimos.
 
 ## Exercicio
 
-Escribe os hipónimos dos seguintes hiperónimos:
+Escribe os hipónimos dos seguintes hiperónimos: cereal, leguminosa, insecto, peixe
 
-Hiperónimos: cereal, leguminosa, insecto, peixe
-
-<details> <summary>Ver as solucións</summary>
+<details> <summary>Verifica as respostas</summary>
 
 Hiperónimo: cereal
 
