@@ -34,7 +34,7 @@ Escribe os hipónimos dos seguintes hiperónimos: cereal, leguminosa, insecto, p
 
 Hiperónimo: cereal
 
-Hipónimos:  trigo, centeo, cebada ou orxo, avea, millo, espelta
+Hipónimos:  trigo, centeo, cebada ou orxo, avea, millo, espelta, arroz
 
 \---
 
