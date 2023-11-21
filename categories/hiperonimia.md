@@ -36,16 +36,22 @@ Hiperónimo: cereal
 
 Hipónimos:  trigo, centeo, cebada ou orxo, avea, millo, espelta
 
+\---
+
 Hiperónimo: leguminosa
 
 Hipónimos: lentella, garavanzo, chícharo, feixón verde, faba, tirabeque
 
+\---
+
 Hiperónimo: insecto
 
-Hipónimos: mosca, mosquito, avespa, abella, tabán, xoaniña, avespa asiática...
+Hipónimos: mosca, mosquito, avespa, abella, tabán, xoaniña, avespa asiática
+
+\---
 
 Hiperónimos: peixe
 
-Hipónimos: xarda, pescada, peixe sapo, sardiña, xurelo, robaliza, dourada, salmón, ollomol, rapante ou meiga...
+Hipónimos: xarda, pescada, peixe sapo, sardiña, xurelo, robaliza, dourada, salmón, ollomol, rapante ou meiga
 
 </details>
