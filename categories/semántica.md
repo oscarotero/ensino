@@ -1,5 +1,6 @@
 ---
 title: Semántica
 id: semantica
-tags: []
+tags:
+  - 2 ESO
 ---
