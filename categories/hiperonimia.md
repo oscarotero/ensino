@@ -26,28 +26,37 @@ Hipónimos: iogur, leite, queixo, manteiga, callada, requeixo, quefir
 
 Iogur e manteiga son cohipónimos.
 
-## Exercicio 1
+## Exercicio
 
 Escribe os hipónimos dos seguintes hiperónimos:
 
-* Hiperónimo: cereais
-* Hipónimos: 
-* Hiperónimo: leguminosas
-* Hipónimos: 
-* Hiperónimo: insecto
-* Hipónios: 
-* Hiperónimo: peixe
-* Hipónimos: 
+Hiperónimo: cereais
+Hipónimos: 
+
+Hiperónimo: leguminosa
+Hipónimos: 
+
+Hiperónimo: insecto
+Hipónimos: 
+
+Hiperónimo: peixe
+Hipónimos: 
 
 <details> <summary>Ver as solucións</summary>
 
-* Hiperónimo: cereais
-* Hipónimo:  trigo, centeo, cebada ou orxo, avea, millo, espelta
-* Hiperónimo: leguminosas
-* Hipónimo: lentella, garavanzo, chícharo, feixón verde, faba, tirabeque
-* Hiperónimo: insecto
-* Hipónimos: mosca, mosquito, avespa, abella, tabán, xoaniña, avespa asiática...
-* Hiperónimo: peixe
-* Hipónimo: xarda, pescada, peixe sapo, sardiña, xurelo, robaliza, dourada, salmón, ollomol, rapante ou meiga...
+Hiperónimo: cereais
+Hipónimo:  trigo, centeo, cebada ou orxo, avea, millo, espelta
+
+
+Hiperónimo: leguminosas
+Hipónimo: lentella, garavanzo, chícharo, feixón verde, faba, tirabeque
+
+
+Hiperónimo: insectos
+Hipónimos: mosca, mosquito, avespa, abella, tabán, xoaniña, avespa asiática...
+
+
+Hiperónimo: peixes
+Hipónimo: xarda, pescada, peixe sapo, sardiña, xurelo, robaliza, dourada, salmón, ollomol, rapante ou meiga...
 
 </details>
