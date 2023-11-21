@@ -23,4 +23,4 @@ Sabemos que estamos perante un caso de homonimia e non de polisemia, porque cada
 
 ## Tipos
 
-Existen tres tipos de palabras homónimas: homónimas perfectas, homófonas e homógrafas
+Existen tres tipos de palabras homónimas: [homónimas perfectas](https://laurarubio.net/posts/homonimas-perfectas/), [homófonas](https://laurarubio.net/posts/homofonas/) e [homógrafas](https://laurarubio.net/posts/homografas/).
