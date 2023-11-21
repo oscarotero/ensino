@@ -20,7 +20,7 @@ Polgar e índice son cohipónimos
 
 ---
 
-Hiperónimo: lácteos
+Hiperónimo: lácteo
 
 Hipónimos: iogur, leite, queixo, manteiga, callada, requeixo, quefir
 
@@ -30,30 +30,30 @@ Iogur e manteiga son cohipónimos.
 
 Escribe os hipónimos dos seguintes hiperónimos:
 
-Hiperónimos: cereais, leguminosa, insecto, peixe
+Hiperónimos: cereal, leguminosa, insecto, peixe
 
 
 <details> <summary>Ver as solucións</summary>
 
-Hiperónimo: cereais
+Hiperónimo: cereal
 
 
 Hipónimos:  trigo, centeo, cebada ou orxo, avea, millo, espelta
 
 
-Hiperónimo: leguminosas
+Hiperónimo: leguminosa
 
 
 Hipónimos: lentella, garavanzo, chícharo, feixón verde, faba, tirabeque
 
 
-Hiperónimo: insectos
+Hiperónimo: insecto
 
 
 Hipónimos: mosca, mosquito, avespa, abella, tabán, xoaniña, avespa asiática...
 
 
-Hiperónimos: peixes
+Hiperónimos: peixe
 
 
 Hipónimos: xarda, pescada, peixe sapo, sardiña, xurelo, robaliza, dourada, salmón, ollomol, rapante ou meiga...
