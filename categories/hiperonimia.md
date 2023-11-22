@@ -26,7 +26,7 @@ Hipónimos: iogur, leite, queixo, manteiga, callada, requeixo, quefir
 
 Iogur e manteiga son cohipónimos.
 
-## Exercicio
+## Exercicio 1
 
 Escribe os hipónimos dos seguintes hiperónimos: cereal, leguminosa, insecto, peixe
 
@@ -55,3 +55,23 @@ Hiperónimos: peixe
 Hipónimos: xarda, pescada, peixe sapo, sardiña, xurelo, robaliza, dourada, salmón, ollomol, rapante ou meiga
 
 </details>
+
+## Exercicio 2
+
+Escribe o hiperónimo das seguintes series de hipónimos
+
+Serie 1: mexillón, berberecho, ameixa, vieira, ostra, zamburiña, voandeira
+
+Serie 2: abelá, améndoa, noz, semente de xirasol, semente de cabaza, pistacho, anacardio
+
+<details> <summary>Verifica as respostas</summary>
+
+Hiperónimo: molusco
+
+Hipónimos: mexillón, berberecho, ameixa, vieira, ostra, zamburiña, voandeira
+
+\---
+
+Hiperónimo: froito seco
+
+Hipónimos: abelá, améndoa, noz, semente de xirasol, semente de cabaza, pistacho, anacardio
