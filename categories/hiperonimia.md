@@ -68,9 +68,9 @@ Hipónimos: xarda, pescada, peixe sapo, sardiña, xurelo, robaliza, dourada, sal
 
 Escribe o hiperónimo das seguintes series de hipónimos:
 
-Serie 1: mexillón, berberecho, ameixa, vieira, ostra, zamburiña, voandeira
+Hipónimos: mexillón, berberecho, ameixa, vieira, ostra, zamburiña, voandeira
 
-Serie 2: abelá, améndoa, noz, semente de xirasol, semente de cabaza, pistacho, anacardio
+Hipónimos: abelá, améndoa, noz, semente de xirasol, semente de cabaza, pistacho, anacardio
 
 <details> <summary>Verifica as respostas</summary>
 
