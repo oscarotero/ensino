@@ -16,7 +16,7 @@ Hiperónimo: dedo
 
 Hipónimos: polgar, índice, maior, anular, maimiño
 
-Polgar e índice son cohipónimos
+*Polgar* e *índice* son cohipónimos
 
 \---
 
@@ -24,7 +24,7 @@ Hiperónimo: lácteo
 
 Hipónimos: iogur, leite, queixo, manteiga, callada, requeixo, quefir
 
-Iogur e manteiga son cohipónimos.
+*Iogur* e *manteiga* son cohipónimos.
 
 ## Exercicio 1
 
