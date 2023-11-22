@@ -28,7 +28,15 @@ Hipónimos: iogur, leite, queixo, manteiga, callada, requeixo, quefir
 
 ## Exercicio 1
 
-Escribe os hipónimos dos seguintes hiperónimos: cereal, leguminosa, insecto, peixe
+Escribe os hipónimos dos seguintes hiperónimos: 
+
+Cereal:
+
+Leguminosa:
+
+Insecto:
+
+Peixe:
 
 <details> <summary>Verifica as respostas</summary>
 
