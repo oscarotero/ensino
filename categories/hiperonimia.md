@@ -10,7 +10,7 @@ Cada unha desas palabras con significado máis específico é un hipónimo.
 
 Entre o hiperónimo e o hipónimo estabelécese unha relación de xerarquía.
 
-## Exemplo 1
+## Exemplos
 
 Hiperónimo: dedo
 
@@ -18,7 +18,7 @@ Hipónimos: polgar, índice, maior, anular, maimiño
 
 Polgar e índice son cohipónimos
 
-## Exemplo 2
+\---
 
 Hiperónimo: lácteo
 
@@ -58,7 +58,7 @@ Hipónimos: xarda, pescada, peixe sapo, sardiña, xurelo, robaliza, dourada, sal
 
 ## Exercicio 2
 
-Escribe o hiperónimo das seguintes series de hipónimos
+Escribe o hiperónimo das seguintes series de hipónimos:
 
 Serie 1: mexillón, berberecho, ameixa, vieira, ostra, zamburiña, voandeira
 
