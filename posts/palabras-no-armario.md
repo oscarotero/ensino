@@ -13,7 +13,7 @@ Se non souberes o significado, clica no cartón para descubrires ese sinónimo q
 <e-card color="1">
   <div>Acordar</div>
   <div>Espertar</div>
-</e-card>
+  </e-card>
 
 <e-card color="2">
   <div>Ananás</div>
