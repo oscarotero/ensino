@@ -1,13 +1,15 @@
 ---
 title: Puxa ou empurra?
-summary: Non, push non é puxar
+summary: Push non é puxar, non
 tags:
   - lexico
   - o_verbo
 draft: false
 show_toc: false
 ---
-En galego é o contrario do inglés: *puxar* é *pull* e *empurrar* é *push.*
+En galego é o contrario do inglés: *puxar* é *pull* e *empurrar* é *push.* 
+
+Completa con *puxa* ou *empurra:*
 
 <iframe src="https://giphy.com/embed/bwLowbhUWm2lO" width="480" height="348" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
