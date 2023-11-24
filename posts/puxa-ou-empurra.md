@@ -39,6 +39,8 @@ Completa con *puxa* ou *empurra:*
 
 <e-answer>empurra</e-answer>
 
+<e-validate>Verifica a resposta</e-validate>
+
 <iframe src="https://giphy.com/embed/GCnAwP4cw2QSI" width="480" height="458" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <e-answer>puxa</e-answer>
