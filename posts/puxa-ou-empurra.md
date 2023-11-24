@@ -1,6 +1,6 @@
 ---
 title: Puxa ou empurra?
-summary: Push non é puxar, non
+summary: Puxar non é push, non
 tags:
   - lexico
   - o_verbo
