@@ -65,7 +65,7 @@ show_toc: false
 
 <iframe src="https://giphy.com/embed/ACja0dtANKK2XNFMV7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/barstoolsports-running-into-a-wall-door-ACja0dtANKK2XNFMV7">
 
-<e-answer>empurra</e-answer>, mais é >e-answer>puxa</e-answer>
+<e-answer>empurra</e-answer>, mais é <e-answer>puxa</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
