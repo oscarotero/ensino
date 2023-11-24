@@ -57,7 +57,7 @@ En galego é o contrario do inglés: *puxar* é *pull* e *empurrar* é *push.*
 
 <iframe src="https://giphy.com/embed/TGdkxy8Dwt3AtG76EG" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KatiePrice-turkey-legs-broke-pushing-a-wheelchair-TGdkxy8Dwt3AtG76EG">
 
-<e-validate>empurra</e-answer>
+<e-answer>empurra</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
