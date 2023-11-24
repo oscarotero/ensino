@@ -65,13 +65,13 @@ Completa con *puxa* ou *empurra:*
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/l0COI2BgqexLBeZs4" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen>
+<iframe src="https://giphy.com/embed/l0COI2BgqexLBeZs4" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <e-answer>puxa</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/knLN7fwiQKtmE" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+<iframe src="https://giphy.com/embed/knLN7fwiQKtmE" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Primeiro <e-answer>puxa</e-answer> e despois <e-answer>empurra</e-answer>
 
