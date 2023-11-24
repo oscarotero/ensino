@@ -64,14 +64,14 @@ show_toc: false
 <iframe src="https://giphy.com/embed/TGdkxy8Dwt3AtG76EG" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KatiePrice-turkey-legs-broke-pushing-a-wheelchair-TGdkxy8Dwt3AtG76EG">
 
 
-<e-validate>empurra</e-validate>
+<e-validate>empurra</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
 <iframe src="https://giphy.com/embed/l0COI2BgqexLBeZs4" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/90s-cruel-intentions-l0COI2BgqexLBeZs4">
 
 
-<e-validate>puxa</e-validate>
+<e-answer>puxa</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
