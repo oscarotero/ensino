@@ -123,6 +123,12 @@ Completa con *puxa* ou *empurra:*
 
 <e-validate>Verifica a resposta</e-validate>
 
+<iframe src="https://giphy.com/embed/1dKU890cjOIfop2Tgb" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+<e-answer>puxa</e-answer>
+
+<e-validate>Verifica a resposta</e-validate>
+
 <iframe src="https://giphy.com/embed/knLN7fwiQKtmE" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Primeiro <e-answer>puxa</e-answer> e despois <e-answer>empurra</e-answer>
