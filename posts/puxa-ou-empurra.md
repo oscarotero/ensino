@@ -17,15 +17,9 @@ Como podes ver nestes sinais, cando empurramos, exercemos unha forza que afasta 
 
 ![](/img/push_pull_2.jpeg)
 
-Puxar 
+## Exercicio
 
-<iframe src="https://giphy.com/embed/3o72FgwyBxqGxxrsRy" width="480" height="263" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-Empurrar
-
-<iframe src="https://giphy.com/embed/j3hPcb6njMd0NAAbvV" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-Sabes agora o que andan a facer os protagonistas destes gifs animados? 
+Sabes agora o que andan a facer os protagonistas destes gifs animados?
 
 Completa con *puxa* ou *empurra:*
 
