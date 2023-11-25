@@ -9,13 +9,17 @@ show_toc: false
 ---
 En galego/portugués é o contrario do inglés: *puxar* é *pull* e *empurrar* é *push.* 
 
-Como podes ver nestes sinais, cando empurramos, exercemos unha forza que afasta o obxecto de nós. Ao puxarmos facemos o oposto, ou sexa, traemos o obxecto na nosa dirección.
+Como podes ver nestes exemplos, cando empurramos, exercemos unha forza que afasta o obxecto de nós. Ao puxarmos facemos o oposto, ou sexa, traemos o obxecto na nosa dirección.
 
 ## Exemplos
 
-![](/img/push_pull_1.jpeg)
+### Empurrar
 
-![](/img/push_pull_2.jpeg)
+<iframe src="https://giphy.com/embed/3o72FgwyBxqGxxrsRy" width="480" height="263" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+### Puxar
+
+<iframe src="https://giphy.com/embed/Xow09gNMOchH7Nw6Kp" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ## Exercicio
 
@@ -74,6 +78,12 @@ Completa con *puxa* ou *empurra:*
 <iframe src="https://giphy.com/embed/vCAfL8jFFgdvsoCoLh" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <e-answer>empurra</e-answer>
+
+<e-validate>Verifica a resposta</e-validate>
+
+<iframe src="https://giphy.com/embed/85fAY4z9TFfYnR1Fi9" width="480" height="202" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+<e-answer>puxa</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
