@@ -9,7 +9,7 @@ show_toc: false
 ---
 En galego é o contrario do inglés: *puxar* é *pull* e *empurrar* é *push.* 
 
-Completa con *puxa* ou *empurra:*
+Sabes o que andan a facer os protagonistas destes gifs animados? Escr *puxa* ou *empurra:*
 
 <iframe src="https://giphy.com/embed/bwLowbhUWm2lO" width="480" height="348" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
@@ -32,6 +32,12 @@ Completa con *puxa* ou *empurra:*
 <iframe src="https://giphy.com/embed/XDovT1D3w7TkUPIAw5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
 
 <e-answer>empurra</e-answer>
+
+<e-validate>Verifica a resposta</e-validate>
+
+<iframe src="https://giphy.com/embed/hTxpseKS3iSTsXbnmT" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+<e-answer>puxa</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
@@ -77,8 +83,20 @@ Primeiro <e-answer>puxa</e-answer> e despois <e-answer>empurra</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
+<iframe src="https://giphy.com/embed/l3q2Vc7xmdjdgATDO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+<e-answer>puxa</e-answer>
+
+<e-validate>Verifica a resposta</e-validate>
+
 <iframe src="https://giphy.com/embed/ACja0dtANKK2XNFMV7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <e-answer>empurra</e-answer>, mais é <e-answer>puxa</e-answer>
+
+<e-validate>Verifica a resposta</e-validate>
+
+<iframe src="https://giphy.com/embed/1K6lhNtqOgS08" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+<e-answer>puxa</e-answer> e beixa
 
 <e-validate>Verifica a resposta</e-validate>
