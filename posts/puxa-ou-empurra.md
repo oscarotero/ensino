@@ -67,6 +67,12 @@ Completa con *puxa* ou *empurra:*
 
 <e-validate>Verifica a resposta</e-validate>
 
+<iframe src="https://giphy.com/embed/B6ZOD3aNT3Lxe" width="480" height="284" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+<e-answer>puxa</e-answer>
+
+<e-validate>Verifica a resposta</e-validate>
+
 <iframe src="https://giphy.com/embed/TGdkxy8Dwt3AtG76EG" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <e-answer>empurra</e-answer>
