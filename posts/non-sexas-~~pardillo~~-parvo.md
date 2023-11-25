@@ -52,7 +52,7 @@ A parte dianteira da perna desde o pé ao xeonllo é a **canela**. Como podes im
 
 ![](/img/barriga_da_perna.jpg){.is-horizontal}
 
-Tampouco chamamos ~~espinilla~~ aos puntos negros que se forman pola acumulación de sebo na pel, o nome en galego para isto é **espiña**.
+Tampouco chamamos ~~espinilla~~ ao punto negro que se forma pola acumulación de sebo na pel, o nome en galego para isto é **espiña**.
 
 ### 8. ~~Hornillo~~ > o fogón
 
