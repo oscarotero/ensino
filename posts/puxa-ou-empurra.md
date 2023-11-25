@@ -137,6 +137,6 @@ Primeiro <e-answer>puxa</e-answer> e despois <e-answer>empurra</e-answer>
 
 <iframe src="https://giphy.com/embed/1K6lhNtqOgS08" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-<e-answer>puxa</e-answer> e beixa
+<e-answer>puxa</e-answer> e logo beixa
 
 <e-validate>Verifica a resposta</e-validate>
