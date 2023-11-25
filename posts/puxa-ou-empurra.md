@@ -103,6 +103,12 @@ Primeiro <e-answer>puxa</e-answer> e despois <e-answer>empurra</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
+<iframe src="https://giphy.com/embed/10ZuedtImbopos" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+<e-answer>puxa</e-answer> ou aperta o gatillo
+
+<e-validate>Verifica a resposta</e-validate>
+
 <iframe src="https://giphy.com/embed/1K6lhNtqOgS08" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <e-answer>puxa</e-answer> e beixa
