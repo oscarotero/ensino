@@ -21,7 +21,7 @@ As palabras homónimas perfectas son as que se escriben e se pronuncian igual.
 * **cedo** > 1. ao comezo do día, 2. antes de tempo
 * **cedo** > 1ª persoa do presente do indicativo do verbo ceder
 
-(As dúas pronúncianse con e fechado)
+  <mark>As dúas pronúncianse con *e* fechado</mark>
 
 - - -
 
@@ -33,14 +33,14 @@ As palabras homónimas perfectas son as que se escriben e se pronuncian igual.
 * **leve** > que ten pouco peso
 * **leve** > 1ª persoa do presente do subxuntivo do verbo levar
 
-(As dúas pronúncianse con e aberto)
+  <mark>As dúas pronúncianse con *e* aberto</mark>
 
 - - -
 
 * **pena** > pedra
 * **pena** > 1. castigo, 2. tristeza
 
-(As dúas pronúncianse con e fechado)
+  <mark>As dúas pronúncianse con *e* fechado</mark>
 
 - - -
 
@@ -52,18 +52,20 @@ As palabras homónimas perfectas son as que se escriben e se pronuncian igual.
 * **cela** > cuarto dun convento ou dunha prisión
 * **cela** > 3ª persoa do presente do indicativo do verbo celar
 
-(As dúas pronúncianse con e aberto)
+  <mark>As dúas pronúncianse con *e* aberto</mark>
 
 - - -
 
 * **onda** > do mar
 * **onda** > xunto, xunto a
 
-(As dúas pronúncianse con o fechado)
+  <mark>As dúas pronúncianse con *o* fechado</mark>
 
 - - -
 
 * **dó** > primeira nota da escala musical
 * **dó** > pena, compaixón
 
-(As dúas pronúncianse con o aberto)
+  <mark>As dúas pronúncianse con *o* aberto</mark>
+
+---
