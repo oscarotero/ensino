@@ -46,61 +46,66 @@ Se non souberes o significado, clica no cartón para descubrires ese sinónimo q
  </e-card>
 
 <e-card color="8">
+ <div>Colete</div>
+  <div>Chaleco</div>
+ </e-card>
+
+<e-card color="9">
   <div>Corrida</div>
   <div>Carreira <br>Corrida é un sinónimo de carreira só no ámbito deportivo. Na área do traballo, o termo que debemos utilizar é carreira profesional.</div>
 </e-card>
 
-<e-card color="9">
+<e-card color="10">
   <div>Cozar</div>
   <div>Rascar</div>
 </e-card>
 
-<e-card color="10">
+<e-card color="1">
   <div>Desempregado</div>
   <div>Parado</div>
 </e-card>
 
-<e-card color="1">
+<e-card color="2">
   <div>Doente</div>
   <div>Enfermo</div>
 </e-card>
 
-<e-card color="2">
+<e-card color="3">
   <div>Escritorio ou gabinete</div>
   <div>Despacho</div>
 </e-card>
 
-<e-card color="3">
+<e-card color="4">
   <div>Frigorífico</div>
   <div>Neveira</div>
 </e-card>
 
-<e-card color="4">
+<e-card color="5">
   <div>Luva</div>
   <div>Guante</div>
 </e-card>
 
-<e-card color="5">
+<e-card color="6">
   <div>Magro</div>
   <div>Delgado</div>
 </e-card>
 
-<e-card color="6">
+<e-card color="7">
   <div>Segunda feira</div>
   <div>Luns</div>
 </e-card>
 
-<e-card color="7">
+<e-card color="8">
   <div>Sino</div>
   <div>Campá</div>
 </e-card>
 
-<e-card color="8">
+<e-card color="9">
   <div>Testa</div>
   <div>Fronte</div>
 </e-card>
 
-<e-card color="9">
+<e-card color="10">
   <div>Vírgula</div>
   <div>Coma <br>O nome deste signo de puntuación tamén é vírgula en galego</div>
 </e-card>
