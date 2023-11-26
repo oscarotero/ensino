@@ -42,6 +42,6 @@ As palabras homógrafas escríbense igual, mais non se pronuncian igual
 * **testo** > 1. Tampa dun recipiente, xeralmente de potas, tarteiras etc. 2. Recipiente de barro, plástico etc. utilizado para cultivar plantas.  
 
   <mark>Nos dous casos, o *e* é fechado</mark>
-* **testo** > 1. 1ª persoa do singular do presente do indicativo verbo testar (facer testamento). 2. 1ª persoa do singular do presente do indicativo do verbo testar (someter a test,  avaliar). 
+* **testo** > 1. 1ª persoa do singular do presente do indicativo do verbo testar (facer testamento). 2. 1ª persoa do singular do presente do indicativo do verbo testar (someter a test,  avaliar). 
 
   <mark>Nos dous casos, o *e* é aberto</mark>
