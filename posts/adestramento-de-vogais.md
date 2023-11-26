@@ -50,7 +50,7 @@ Escribe aberto ou fechado no cadro.
 * n<mark>ó</mark>s: <e-answer>aberto</e-answer>
 * v<mark>ó</mark>s: <e-answer>aberto</e-answer>
 * <mark>e</mark>les: <e-answer>fechado</e-answer>
-* <mark>e</mark>la: <e-answer>aberto</e-answer>
+* <mark>e</mark>las: <e-answer>aberto</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
