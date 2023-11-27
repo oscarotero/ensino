@@ -27,7 +27,7 @@ require un certo adestramento pola nosa parte.
 
 ## Recursos
 
-Menos mal que na rede hai moitos sitios con consellos e actividades para mellorarmos a nosa competencia nesta cuestión.  
+Aínda ben que na rede hai moitos sitios con consellos e actividades para mellorarmos a nosa competencia nesta cuestión.  
 
 Primeiro comeza por veres este vídeo do #DígochoEu:
 
