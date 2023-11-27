@@ -4,6 +4,7 @@ summary: Exercicio para fixares as formas correctas de certos verbos no presente
   do indicativo
 tags:
   - tempos_verbais
+  - 2 ESO
 ---
 ## Recursos
 
