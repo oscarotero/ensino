@@ -6,7 +6,7 @@ tags:
 draft: false
 show_toc: false
 ---
-A seguir, preséntoche unha serie de formas galegas que, pese a seren moi usadas polos falantes de portugués, case non usamos os galegos. A razón, como sempre, é que preferimos utilizar unha palabra sinónima que coincide coa castelá.
+A seguir, preséntoche unha serie de formas galegas que, a pesar de seren moi usadas polos falantes de portugués, case non usamos os galegos. A razón, como sempre, é que preferimos utilizar unha palabra sinónima que coincide coa castelá.
 
 Se non souberes o significado, clica no cartón para descubrires ese sinónimo que andas a usar no seu lugar. Agora que sabes que é unha forma válida en galego, non a deixes no armario.
 
