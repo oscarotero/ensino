@@ -4,7 +4,7 @@ summary: Por que non dou unha?
 tags:
   - problemas_be_uve
 ---
-En galego resúltanos difícil sabermos cando unha palabra se escribe con *b* e
+En galego é complicado sabermos cando unha palabra se escribe con *b* e
 cando con *v,* porque a pronunciamos sempre da mesma maneira.
 
 Non lles sucede así aos falantes doutras linguas románicas como portugueses,
