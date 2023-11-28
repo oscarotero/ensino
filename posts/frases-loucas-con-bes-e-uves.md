@@ -41,7 +41,7 @@ A continuación tes dúas series de palabras con bes e uves. Inventa frases para
 <e-tag color=1>beira</e-tag>
 <e-tag color=1>boneca</e-tag>
 <e-tag color=1>asubiar</e-tag>
-<e-tag color=1>bico</e-tag>
+<e-tag color=1>berce</e-tag>
 <e-tag color=1>cobiza </e-tag>
 <e-tag color=1>baleiro</e-tag>
 <e-tag color=1>xabaril</e-tag>

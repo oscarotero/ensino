@@ -29,3 +29,7 @@ A homofonía é un tipo de homonimia. As palabras homófonas pronúncianse igual
 
 * **barón** >Título nobiliario.
 * **varón** > Home.
+
+- - -
+
+
