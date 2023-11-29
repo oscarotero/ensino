@@ -38,6 +38,8 @@ Insecto:
 
 Peixe:
 
+Froito vermello: 
+
 <details> <summary>Verifica as respostas</summary>
 
 Hiperónimo: cereal
@@ -58,9 +60,15 @@ Hipónimos: mosca, mosquito, avespa, abella, tabán, xoaniña, avespa asiática
 
 \---
 
-Hiperónimos: peixe
+Hiperónimo: peixe
 
 Hipónimos: xarda, pescada, peixe sapo, sardiña, xurelo, robaliza, dourada, salmón, ollomol, rapante ou meiga
+
+\---
+
+Hiperónimo: froito vermello
+
+Hipónimos: amorodo, framboesa, arando, grosella, amora ou mora, baga de goji
 
 </details>
 
