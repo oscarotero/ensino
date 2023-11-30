@@ -34,7 +34,7 @@ Cereal:
 
 Leguminosa:
 
-Insecto:
+Día:
 
 Peixe:
 
@@ -54,9 +54,9 @@ Hipónimos: lentella, garavanzo, chícharo, feixón verde, faba, tirabeque
 
 \---
 
-Hiperónimo: insecto
+Hiperónimo: día
 
-Hipónimos: mosca, mosquito, avespa, abella, tabán, xoaniña, avespa asiática
+Hipónimos: segunda feira, terza feira, cuarta feira, quinta feira, sexta feira, sábado, domingo
 
 \---
 
@@ -80,6 +80,8 @@ Hipónimos: mexillón, berberecho, ameixa, vieira, ostra, zamburiña, voandeira
 
 Hipónimos: abelá, améndoa, noz, semente de xirasol, semente de cabaza, pistacho, anacardio
 
+Hipónimos: mosca, mosquito, avespa, abella, tabán, xoaniña, avespa asiática, bolboreta, escaravello, grilo
+
 <details> <summary>Verifica as respostas</summary>
 
 Hiperónimo: molusco
@@ -91,3 +93,9 @@ Hipónimos: mexillón, berberecho, ameixa, vieira, ostra, zamburiña, voandeira
 Hiperónimo: froito seco
 
 Hipónimos: abelá, améndoa, noz, semente de xirasol, semente de cabaza, pistacho, anacardio
+
+\---
+
+Hiperónimo: insecto
+
+Hipónimos: mosca, mosquito, avespa, abella, tabán, xoaniña, avespa asiática, bolboreta, escaravello, grilo
