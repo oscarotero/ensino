@@ -5,8 +5,8 @@ tags:
 draft: false
 show_toc: false
 ---
-
-
 ![](/img/trobador_senhor.jpg)
+
+
 
 Aínda que non o creas, a relación que temos hoxe co noso *crush* non é moi diferente da que tiña o trobador coa súa *senhor* nas cantigas de amor galego-portuguesas. Coitado, o seu tamén era un amor platónico ou non correspondido!
