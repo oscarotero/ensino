@@ -27,7 +27,7 @@ Sabes agora o que andan a facer os protagonistas destes gifs animados?
 
 Completa con *puxa* ou *empurra:*
 
-<iframe src="https://giphy.com/embed/Ab5vj5ukcRmBfZrLJB" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/sCTGg6PRu55TlkMd81" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <e-answer>empurra</e-answer>
 
