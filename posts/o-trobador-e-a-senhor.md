@@ -1,5 +1,5 @@
 ---
-title: O trobador e a senhor
+title: O amor cortés
 tags:
   - literatura
 draft: false
