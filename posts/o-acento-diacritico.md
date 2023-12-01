@@ -42,7 +42,7 @@ Ti que cres? Atento ao vídeo:
 
 En galego levan acento diacrítico as seguintes palabras:
 
-| Con acento                                                           | Sen acento                           |
+| Sen acento                                                           | Con acento                           |
 | -------------------------------------------------------------------- | ------------------------------------ |
 | **a** (artigo; pron. átono; preposición)                             | **á** (a +a; das aves)               |
 | **as** (artigo; pron. átono)                                         | **á** (a +a; das aves)               |
