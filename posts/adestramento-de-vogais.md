@@ -7,7 +7,7 @@ tags:
 draft: false
 show_toc: false
 ---
-# 5 letras para 7 vogais
+## 5 letras para 7 vogais
 
 En galego temos 7 vogais, mais só usamos 5 letras (*a, e, i, o, u)* para representalas.
 
