@@ -35,7 +35,7 @@ Completa os espazos cos verbos no presente do indicativo:
 6. Din que Nova York é a cidade que nunca <e-answer>dorme</e-answer> (durmir).
 7. Moitas persoas <e-answer>engolen</e-answer> (engulir) a comida sen mastigar.
 8. El <e-answer>sobe</e-answer> (subir) sempre polas escaleiras porque vive no primeiro andar.
-9. <e-answer>Cómpre</e-answer> (cumprir) facérmolo traballo hoxe.
+9. <e-answer>Cómpre</e-answer> (cumprir) facermos o traballo hoxe.
 10. Podo gritar o que quixer, que ninguén <e-answer>acode</e-answer> (acudir).
 11. A Historia <e-answer>xorde</e-answer> (xurdir) da necesidade dos homes de explicaren as súas orixes.
 
