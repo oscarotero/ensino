@@ -88,3 +88,9 @@ Ouve con atención o audio e, a continuación, escribe aberto ou fechado no cadr
 * p<mark>o</mark>r: <audio src="https://ilg.usc.es/pronuncia/mp3/p/3300.mp3" controls>  </audio><e-answer>fechado</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+## A regra
+
+O *o* e o *e* que ten acento diacrítico é sempre <e-answer>aberto</e-answer>. Esta regra só ten unha excepción: <e-answer>pór</e-answer>. Neste caso, aínda que se acentúa, é <e-answer>fechado</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
