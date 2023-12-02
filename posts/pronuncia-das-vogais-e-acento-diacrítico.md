@@ -91,7 +91,7 @@ Ouve con atención o audio e, a continuación, escribe aberto ou fechado no cadr
 
 ## A regra
 
-O *o* e o *e* que ten acento diacrítico é sempre <e-answer>aberto</e-answer>.
+O *o* e o *e* das palabras con acento diacrítico é sempre <e-answer>aberto</e-answer>.
 
 Esta regra só ten unha excepción: a palabra <e-answer>pór</e-answer>. Neste caso, aínda que se acentúa, é <e-answer>fechado</e-answer>
 
