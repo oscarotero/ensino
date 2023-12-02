@@ -88,5 +88,3 @@ Ouve con atención o audio e, a continuación, escribe aberto ou fechado no cadr
 * p<mark>o</mark>r: <audio src="https://ilg.usc.es/pronuncia/mp3/p/3300.mp3" controls>  </audio><e-answer>fechado</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
-
-<e-validate>Verifica as respostas</e-validate>
