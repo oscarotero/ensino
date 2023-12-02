@@ -45,7 +45,7 @@ Ouve con atención o audio e, a continuación, escribe aberto ou fechado no cadr
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Segunda serie 
+## Segunda serie
 
 ### 1. nó (lazo) - no (en + o)
 
@@ -91,6 +91,8 @@ Ouve con atención o audio e, a continuación, escribe aberto ou fechado no cadr
 
 ## A regra
 
-O *o* e o *e* que ten acento diacrítico é sempre <e-answer>aberto</e-answer>. Esta regra só ten unha excepción: <e-answer>pór</e-answer>. Neste caso, aínda que se acentúa, é <e-answer>fechado</e-answer>
+O *o* e o *e* que ten acento diacrítico é sempre <e-answer>aberto</e-answer>.
+
+Esta regra só ten unha excepción: a palabra <e-answer>pór</e-answer>. Neste caso, aínda que se acentúa, é <e-answer>fechado</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
