@@ -17,7 +17,7 @@ A pronuncia do *x* de todas estas palabras mantense igual nas derivadas.
 
 Temos \[ks] no verbo **anexar**, logo nos dous participios: **anexo** e **anexado**, tamén.
 
-*Anexo* > <audio src="https://ilg.usc.es/pronuncia/mp3/a/3415.mp3" controls> </audio>
+*Anexar* > <audio src="https://ilg.usc.es/pronuncia/mp3/a/3415.mp3" controls> </audio>
 
 </article>
 
