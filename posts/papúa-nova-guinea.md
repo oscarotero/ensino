@@ -1,6 +1,6 @@
 ---
 title: Papúa-Nova Guinea
-summary: O pequeno país onde son faladas máis de 880 linguas?
+summary: O pequeno país onde son faladas máis de 880 linguas
 tags:
   - paises_plurilingues
 draft: false
