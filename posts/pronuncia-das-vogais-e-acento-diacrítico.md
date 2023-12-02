@@ -13,7 +13,7 @@ Escribe aberto ou fechado no cadro.
 bola (peza de pan) - bóla (esfera, pelota)
 
 * b<mark>o</mark>la: <audio src="https://ilg.usc.es/pronuncia/mp3/b/1459.mp3" controls> </audio> <e-answer>fechado</e-answer>
-* b<mark>ó</mark>la: <e-answer>aberto</e-answer>
+* b<mark>ó</mark>la: <audio src="https://ilg.usc.es/pronuncia/mp3/b/1460.mp3" controls> </audio> <e-answer>aberto</e-answer>
 
 dó (compaixón, nota musical) - do (prep. + art.)
 
