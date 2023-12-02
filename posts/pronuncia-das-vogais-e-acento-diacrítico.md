@@ -54,7 +54,7 @@ Ouve con atención o audio e, a continuación, escribe aberto ou fechado no cadr
 
 <e-validate>Verifica as respostas</e-validate>
 
-### 2. se (conx., pron.) - sé (catedral)
+### 2. se (conx., pron., P2 do imperativo do verbo ser) - sé (catedral)
 
 * s<mark>e</mark>: <audio src="https://ilg.usc.es/pronuncia/mp3/s/676.mp3" controls> </audio>  <e-answer>fechado</e-answer>
 * s<mark>é</mark>: <audio src="https://ilg.usc.es/pronuncia/mp3/s/678.mp3" controls> </audio>  <e-answer>aberto</e-answer>
@@ -93,6 +93,11 @@ Ouve con atención o audio e, a continuación, escribe aberto ou fechado no cadr
 
 O *o* e o *e* das palabras con acento diacrítico é sempre <e-answer>aberto</e-answer>.
 
-Esta regra só ten unha excepción: a palabra <e-answer>pór</e-answer>. Neste caso, aínda que se acentúa, é <e-answer>fechado</e-answer>
+Esta regra só ten dúas excepcións:
+
+* o verbo <e-answer>pór</e-answer>. 
+* a P2 do imperativo do verbo *ser* <e-answer>sé</e-answer>
+
+Nestes casos, aínda que se acentúan, tanto o *o* como o *e* é <e-answer>fechado</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
