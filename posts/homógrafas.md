@@ -47,7 +47,7 @@ As palabras homógrafas escríbense igual, mais non se pronuncian igual.
 
 * **elixir** > Xarope medicinal, remedio marabilloso.
 
-  <mark>A pronuncia do *x* é como en ta*x*i</mark> > > <audio src="https://ilg.usc.es/pronuncia/mp3/e/408.mp3" controls> </audio>
+  <mark>A pronuncia do *x* é como en ta*x*i</mark> > <audio src="https://ilg.usc.es/pronuncia/mp3/e/408.mp3" controls> </audio>
 
 - - -
 
