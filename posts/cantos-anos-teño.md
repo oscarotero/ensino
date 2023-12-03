@@ -54,14 +54,6 @@ A cociñeira con estrela Michelin Lucía Freitas \[entre 40 e 50 anos]
 
 <e-validate>Verifica a resposta</e-validate>
 
-Arsenio Iglesias, ex-futbolista e ex-adestrador do Deportivo da Coruña \[entre 90 e 100 anos]
-
-![](/img/arsenio_iglesias.jpg){.is-square}
-
-<e-answer>noventa e tres</e-answer> anos
-
-<e-validate>Verifica a resposta</e-validate>
-
 A artista Guadi Galego \[entre 40 e 50 anos]
 
 ![](/img/guadi_galego.jpg){.is-square}
