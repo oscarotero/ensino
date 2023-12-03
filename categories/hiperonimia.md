@@ -50,7 +50,7 @@ Hipónimos:  trigo, centeo, cebada ou orxo, avea, millo, espelta, arroz
 
 Hiperónimo: leguminosa
 
-Hipónimos: lentella, garavanzo, chícharo, feixón verde, faba, tirabeque
+Hipónimos: lentella, garavanzo, chícharo, feixón verde, faba, tirabeque, soia
 
 \---
 
