@@ -12,66 +12,66 @@ As palabras homónimas perfectas son as que se escriben e se pronuncian igual.
 
 - - -
 
-* **manga** > Froito da mangueira
-* **manga** > Parte dunha peza de roupa que cobre o brazo
-* **manga** > Banda deseñada de orixe xaponesa
+* **manga** > Froito da mangueira.
+* **manga** > Parte dunha peza de roupa que cobre o brazo.
+* **manga** > Banda deseñada de orixe xaponesa.
 
 - - -
 
-* **cedo** > 1. Ao comezo do día. 2. Antes de tempo
-* **cedo** > 1ª persoa do presente do indicativo do verbo ceder
+* **cedo** > 1. Ao comezo do día. 2. Antes de tempo.
+* **cedo** > P1 do presente do indicativo do verbo ceder.
 
-  <mark>As dúas pronúncianse con *e* fechado</mark>
-
-- - -
-
-* **ano** > Período de 365 días
-* **ano** > Orificio localizado na parte final do recto
+  <mark>As dúas pronúncianse con *e* fechado</mark> > <audio src"https://ilg.usc.es/pronuncia/mp3/c/2305.mp3" controls> </audio>
 
 - - -
 
-* **leve** > Que ten pouco peso
-* **leve** > 1ª persoa do presente do subxuntivo do verbo levar
+* **ano** > Período de 365 días.
+* **ano** > Orificio localizado na parte final do recto.
+
+- - -
+
+* **leve** > Que ten pouco peso.
+* **leve** > P1 e P3 do presente do subxuntivo do verbo levar.
+
+  <mark>As dúas pronúncianse con *e* aberto</mark> > <audio src"https://ilg.usc.es/pronuncia/mp3/l/952.mp3" controls> </audio>
+
+- - -
+
+* **pena** > Pedra.
+* **pena** > 1. Castigo 2. Tristeza.
+
+  <mark>As dúas pronúncianse con *e* fechado</mark> > <audio src"https://ilg.usc.es/pronuncia/mp3/p/1543.mp3" controls> </audio>
+
+- - -
+
+* **papa** > Xefe supremo da igrexa.
+* **papa** > Alimento para bebés.
+
+- - -
+
+* **cela** > Cuarto dun convento ou dunha prisión.
+* **cela** > P3 do presente do indicativo do verbo celar.
 
   <mark>As dúas pronúncianse con *e* aberto</mark>
 
 - - -
 
-* **pena** > Pedra
-* **pena** > 1. Castigo 2. Tristeza
-
-  <mark>As dúas pronúncianse con *e* fechado</mark>
-
-- - -
-
-* **papa** > Xefe supremo da igrexa
-* **papa** > Alimento para bebés
-
-- - -
-
-* **cela** > Cuarto dun convento ou dunha prisión
-* **cela** > 3ª persoa do presente do indicativo do verbo celar
-
-  <mark>As dúas pronúncianse con *e* aberto</mark>
-
-- - -
-
-* **onda** > Do mar
-* **onda** > Xunto, xunto a
+* **onda** > Do mar.
+* **onda** > Xunto, xunto a.
 
   <mark>As dúas pronúncianse con *o* fechado</mark>
 
 - - -
 
-* **dó** > Primeira nota da escala musical
-* **dó** > Pena, compaixón
+* **dó** > Primeira nota da escala musical.
+* **dó** > Pena, compaixón.
 
   <mark>As dúas pronúncianse con *o* aberto</mark>
 
 - - -
 
-* **la** > 1. Pelo de carneiro ou de ovella. 2. Tecido feito dese pelo
-* **la** > Sexta nota da escala musical
+* **la** > 1. Pelo de carneiro ou de ovella. 2. Tecido feito dese pelo.
+* **la** > Sexta nota da escala musical.
 
 ---
 
@@ -79,3 +79,8 @@ As palabras homónimas perfectas son as que se escriben e se pronuncian igual.
 * **ameixa** > Molusco. 
 
 ---
+
+* **cobra** > Serpe.
+* **cobra** > 1. P3 do presente do indicativo do verbo cobrar 2. P2 do imperativo do verbo cobrar.
+
+  <mark>As dúas pronúncianse con *o* aberto</mark>
