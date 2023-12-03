@@ -54,7 +54,7 @@ Ouve con atención o audio e, a continuación, escribe aberto ou fechado no cadr
 
 <e-validate>Verifica as respostas</e-validate>
 
-### 2. se (conx., pron., P2 do imperativo do verbo ser) - sé (catedral)
+### 2. se (conx., pron.) - sé (catedral)
 
 * s<mark>e</mark>: <audio src="https://ilg.usc.es/pronuncia/mp3/s/676.mp3" controls> </audio>  <e-answer>fechado</e-answer>
 * s<mark>é</mark>: <audio src="https://ilg.usc.es/pronuncia/mp3/s/678.mp3" controls> </audio>  <e-answer>aberto</e-answer>
