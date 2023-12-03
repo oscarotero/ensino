@@ -52,21 +52,22 @@ As palabras homónimas perfectas son as que se escriben e se pronuncian igual.
 * **cela** > Cuarto dun convento ou dunha prisión.
 * **cela** > P3 do presente do indicativo do verbo celar.
 
-  <mark>As dúas pronúncianse con *e* aberto</mark>
+  <mark>As dúas pronúncianse con *e* aberto</mark> > <audio src"https://ilg.usc.es/pronuncia/mp3/c/2347.mp3" controls> </audio>
 
 - - -
 
 * **onda** > Do mar.
 * **onda** > Xunto, xunto a.
 
-  <mark>As dúas pronúncianse con *o* fechado</mark>
+  <mark>As dúas pronúncianse con *o* fechado</mark> > <audio src"https://ilg.usc.es/pronuncia/mp3/o/585.mp3" controls> </audio>
+
 
 - - -
 
 * **dó** > Primeira nota da escala musical.
 * **dó** > Pena, compaixón.
 
-  <mark>As dúas pronúncianse con *o* aberto</mark>
+  <mark>As dúas pronúncianse con *o* aberto</mark> > <audio src"https://ilg.usc.es/pronuncia/mp3/d/3775.mp3" controls> </audio>
 
 - - -
 
@@ -83,4 +84,4 @@ As palabras homónimas perfectas son as que se escriben e se pronuncian igual.
 * **cobra** > Serpe.
 * **cobra** > 1. P3 do presente do indicativo do verbo cobrar 2. P2 do imperativo do verbo cobrar.
 
-  <mark>As dúas pronúncianse con *o* aberto</mark>
+  <mark>As dúas pronúncianse con *o* aberto</mark> > <audio src"https://ilg.usc.es/pronuncia/mp3/c/4021.mp3" controls> </audio>
