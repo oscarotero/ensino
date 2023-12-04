@@ -78,11 +78,13 @@ Escribe o hiperónimo das seguintes series de hipónimos:
 
 Hipónimos: mexillón, berberecho, ameixa, vieira, ostra, zamburiña, voandeira
 
-Hipónimos: abelá, améndoa, noz, semente de xirasol, semente de cabaza, pistacho, anacardio
+Hipónimos: abelá, améndoa, noz, semente de xirasol, semente de cabaza, pistacho, anacardio, piñón, castaña
 
 Hipónimos: mosca, mosquito, avespa, abella, tabán, xoaniña, avespa asiática, bolboreta, escaravello, grilo
 
 Hipónimos: torta, xeado, flan, crema de ovo, queixo con marmelo, filloa con nata, froita, arroz doce, mousse, pudin
+
+Hipónimos: alfábega, louro, perexil, tomiño, romeu, coandro, ourego, hortelá, ceboliño
 
 <details> <summary>Verifica as respostas</summary>
 
@@ -94,7 +96,7 @@ Hipónimos: mexillón, berberecho, ameixa, vieira, ostra, zamburiña, voandeira
 
 Hiperónimo: froito seco
 
-Hipónimos: abelá, améndoa, noz, semente de xirasol, semente de cabaza, pistacho, anacardio
+Hipónimos: abelá, améndoa, noz, semente de xirasol, semente de cabaza, pistacho, anacardio, piñón, castaña
 
 \---
 
@@ -107,3 +109,9 @@ Hipónimos: mosca, mosquito, avespa, abella, tabán, xoaniña, avespa asiática,
 Hiperónimo: sobremesa
 
 Hipónimos: torta, xeado, flan, crema de ovo, queixo con marmelo, filloa con nata, froita, arroz doce, mousse, pudin
+
+\---
+
+Hiperónimo: herba aromática
+
+Hipónimos: alfábega, louro, perexil, tomiño, romeu, coandro, ourego, hortelá, ceboliño
