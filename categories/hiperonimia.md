@@ -82,6 +82,8 @@ Hipónimos: abelá, améndoa, noz, semente de xirasol, semente de cabaza, pistac
 
 Hipónimos: mosca, mosquito, avespa, abella, tabán, xoaniña, avespa asiática, bolboreta, escaravello, grilo
 
+Hipónimos: torta, xeado, flan, crema de ovo, queixo con marmelo, filloa con nata, froita, arroz doce, mousse, pudin
+
 <details> <summary>Verifica as respostas</summary>
 
 Hiperónimo: molusco
@@ -99,3 +101,9 @@ Hipónimos: abelá, améndoa, noz, semente de xirasol, semente de cabaza, pistac
 Hiperónimo: insecto
 
 Hipónimos: mosca, mosquito, avespa, abella, tabán, xoaniña, avespa asiática, bolboreta, escaravello, grilo
+
+\---
+
+Hiperónimo: sobremesa
+
+Hipónimos: torta, xeado, flan, crema de ovo, queixo con marmelo, filloa con nata, froita, arroz doce, mousse, pudin
