@@ -12,12 +12,13 @@ Cando temos as vogais I e U xuntas nunha palabra aplicamos as seguintes regras:
 
 2. Cando temos IU ou UI leva acento a segunda vogal se é a tónica (xuíza, ruído)
 
-De acordo con isto, as seguintes palabras levarían acento. Xustifica a túa
+De acordo con isto, as seguintes palabras levarían acento? Xustifica a túa
 resposta:
 
 <e-card color="1">
 <div>tua</div>
 <div>túa</div>
+O ú é tónico e vai seguido doutra vogal 
 </e-card>
 
 <e-card color="2">
