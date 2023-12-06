@@ -17,7 +17,7 @@ gr<e-answer>úa</e-answer>
 
 bab<e-answer>uí</e-answer>no
 
-![](/img/cotovia_hiato.jpeg){is-horizontal}
+![](/img/cotovia_hiato.jpg)
 
 cotov<e-answer>ía</e-answer>
 
