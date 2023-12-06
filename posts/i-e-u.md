@@ -17,52 +17,72 @@ resposta:
 
 <e-card color="1">
 <div>tua</div>
-<div>túa</div>
-O ú é tónico e vai seguido doutra vogal 
+<div>
+túa
+
+O ú é tónico e vai seguido doutra vogal </div>
+
 </e-card>
 
 <e-card color="2">
 <div>sair</div>
-<div>saír</div>
+<div>saír
+
+O í é tónico e vai precedido doutra vogal </div>
 </e-card>
 
 <e-card color="3">
 <div>gratuito</div>
-<div>gratuíto</div>
+<div>gratuíto
+
+Temos ui e a segunda vogal é tónica, por tanto, acentúase</div>
 </e-card>
 
 <e-card color="4">
 <div>posuir</div>
-<div>posuír</div>
+<div>posuír
+Temos ui e a segunda vogal é tónica, por tanto, acentúase</div>
 </e-card>
 
 <e-card color="5">
 <div>nua</div>
-<div>núa</div>
+<div>núa
+
+O ú e tónico e vai seguido doutra vogal</div>
 </e-card>
 
 <e-card color="6">
 <div>habia</div>
-<div>había</div>
+<div>había
+
+O í é tonico e vai seguido doutra vogal</div>
 </e-card>
 
 <e-card color="7">
 <div>diminuiu</div>
-<div>diminuíu</div>
+<div>diminuíu
+
+O í é tónico e vai seguido doutra vogal</div>
 </e-card>
 
 <e-card color="8">
 <div>saude</div>
-<div>saúde</div>
+<div>saúde
+
+O ú é tonico e vai seguido doutra vogal</div>
 </e-card>
 
 <e-card color="9">
 <div>viuvo</div>
-<div>viúvo</div>
+<div>viúvo
+
+Temos iu e o ú tónico e vai precedido doutra vogal</div>
 </e-card>
 
 <e-card color="10">
 <div>oir</div>
-<div>oír</div>
+<div>oír
+
+O i é tónico e vai precedido doutra vogal</div>
 </e-card>
 
