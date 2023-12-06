@@ -4,25 +4,17 @@ summary: Ou si?
 tags:
   - acentuacion
 ---
-Non levan, non. Segundo as
-[Normas ortográficas e morfolóxicas do idioma
-galego](https://gl.wikipedia.org/wiki/Normas_ortogr%C3%A1ficas_e_morfol%C3%B3xicas_do_idioma_galego)
-(NOMIG, 2003) as palabras monosílabas non se acentúan en galego.
+Non levan, non. Segundo as *Normas ortográficas e morfolóxicas do idioma galego* (NOMIG, 2003) as palabras monosílabas non se acentúan en galego.
 
-Con todo, hai unha excepción. Algunhas palabras dunha única sílaba si levan
-acento gráfico para as diferenciarmos doutras que se escriben igual, mais teñen
-un significado diferente.
+Con todo, hai unha excepción. Algunhas palabras dunha única sílaba si levan acento gráfico para as diferenciarmos doutras que se escriben igual, mais teñen un significado diferente.
 
-Trátase dun acento especial, que non responde a ningunha regra. Usámolo
-simplemente para distinguir palabras. E como é un acento un tanto especial,
-tamén ten un nome especial: **acento diacrítico**.
+Trátase dun acento especial, que non responde a ningunha regra. Usámolo simplemente para distinguir palabras. E como é un acento un tanto especial, tamén ten un nome especial: **acento diacrítico**.
 
 ## Recursos
 
 Preme nesta ligazón para ver as palabras que si levan [acento diacrítico](https://laurarubio.net/posts/o-acento-diacritico-1/)
 
-E clica nas de abaixo para coñecer algúns monosílabos que nunca levan
-acento:[](https://www.youtube.com/watch?v=VtBV9-5gkVM)
+E clica nas de abaixo para coñecer algúns monosílabos que nunca levan acento:[](https://www.youtube.com/watch?v=VtBV9-5gkVM)
 
 [Vídeo do #DígochoEu: Quítalle o acento ao cu!](https://www.youtube.com/watch?v=VtBV9-5gkVM)
 
@@ -30,7 +22,7 @@ acento:[](https://www.youtube.com/watch?v=VtBV9-5gkVM)
 
 - - -
 
-## Exercicios
+## Exercicio
 
 Os monosílabos das seguintes oracións levan acento, si ou non?
 
@@ -83,4 +75,4 @@ Os monosílabos das seguintes oracións levan acento, si ou non?
 24. Aquí tes unha <e-answer options="pa,pá">pa</e-answer>, ponte a cavar.
 25. Non me contestes nese <e-answer options="ton,tón">ton</e-answer>.
 
-<e-validate>Corrixe as respostas</e-validate>
+<e-validate>Verifica as respostas</e-validate>
