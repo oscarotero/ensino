@@ -31,6 +31,6 @@ cacat<e-answer>úa</e-answer>{.is-big}
 
 ![](/img/anguia_hiato.jpg){is-horizontal}
 
-### angu<e-answer>ía</e-answer>
+### angu<e-answer>ía</e-answer>{.is-big}
 
 <e-validate>Verifica as respostas</e-validate>
