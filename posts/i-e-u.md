@@ -17,8 +17,7 @@ resposta:
 
 <e-card color="1">
 <div>tua</div>
-<div>
-túa
+<div>túa
 
 O ú é tónico e vai seguido doutra vogal </div>
 
@@ -41,6 +40,7 @@ Temos ui e a segunda vogal é tónica, por tanto, acentúase</div>
 <e-card color="4">
 <div>posuir</div>
 <div>posuír
+
 Temos ui e a segunda vogal é tónica, por tanto, acentúase</div>
 </e-card>
 
