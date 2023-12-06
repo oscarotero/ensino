@@ -9,7 +9,9 @@ Cando temos as vogais I e U xuntas nunha palabra aplicamos as seguintes regras:
 1. Acentuamos I e U tónicos, sempre que foren precedidos ou seguidos doutra vogal (fuxía, saúdo)
 2. Acentuamos a segunda vogal de IU ou UI, se for tónica (diúrno, xuíz)
 
-De acordo con isto, as seguintes palabras levarían acento? Xustifica a túa resposta:
+De acordo con isto, as seguintes palabras levarían acento? Por que? 
+
+Vira o cartón para verificares a resposta.
 
 <e-card color="1">
 <div>tua</div>
