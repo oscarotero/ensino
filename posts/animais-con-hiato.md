@@ -25,7 +25,7 @@ gr<e-answer>úa</e-answer>{.is-big}
 
 ![](/img/balea_hiato.jpg){is-horizontal}
 
-bal<e-answer>ea</e-answer>
+bal<e-answer>ea</e-answer>{.is-big}
 
 ![](/img/babuino_hiato.jpg){is-horizontal}
 
@@ -37,7 +37,7 @@ cotov<e-answer>ía</e-answer>{.is-big}
 
 ![](/img/coello_hiato.jpg){is-horizontal}
 
-c<e-answer>oe</e-answer>
+c<e-answer>oe</e-answer>llo{.is-big}
 
 ![](/img/fuiña_hiato.jpg){is-horizontal}
 
@@ -49,7 +49,7 @@ cacat<e-answer>úa</e-answer>{.is-big}
 
 ![](/img/leopardo_hiato.jpg){is-horizontal}
 
-l<e-answer>eo<e-answer>pardo
+l<e-answer>eo</e-answer>pardo{.is-big}
 
 ![](/img/anguia_hiato.jpg){is-horizontal}
 
@@ -57,6 +57,6 @@ angu<e-answer>ía</e-answer>{.is-big}
 
 ![](/img/coala_hiato.jpg){is-horizontal}
 
-c<e-answer>oa</e-answer>la
+c<e-answer>oa</e-answer>la{.is-big}
 
 <e-validate>Verifica as respostas</e-validate>
