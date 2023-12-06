@@ -6,12 +6,11 @@ tags:
 ---
 Cando temos as vogais I e U xuntas nunha palabra aplicamos as seguintes regras:
 
-1. Todo I e U tónicos levan acento gráfico sempre que van precedidos ou seguidos
+1. Todo I e U tónicos levan acento gráfico sempre que foren precedidos ou seguidos
    doutra vogal (fuxía, saúdo)
-2. Cando temos IU ou UI leva acento a segunda vogal se é a tónica (xuíza, ruído)
+2. Cando temos IU ou UI, acentuamos a segunda vogal, se for a tónica (diúrno, xuíz)
 
-De acordo con isto, as seguintes palabras levarían acento? Xustifica a túa
-resposta:
+De acordo con isto, as seguintes palabras levarían acento? Xustifica a túa resposta:
 
 <e-card color="1">
 <div>tua</div>
