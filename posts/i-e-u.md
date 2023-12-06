@@ -16,13 +16,13 @@ resposta:
 <e-card color="1">
 <div>tua</div>
 <div>túa<br>
-O ú é tónico e vai seguido doutra vogal</div>
+O u é tónico e vai seguido doutra vogal</div>
 </e-card>
 
 <e-card color="2">
 <div>sair</div>
 <div>saír<br>
-O í é tónico e vai precedido doutra vogal</div>
+O i é tónico e vai precedido doutra vogal</div>
 </e-card>
 
 <e-card color="3">
@@ -40,25 +40,25 @@ A segunda vogal de ui é tónica, logo acentúase</div>
 <e-card color="5">
 <div>nua</div>
 <div>núa<br>
-O ú e tónico e vai seguido doutra vogal</div>
+O u é tónico e vai seguido doutra vogal</div>
 </e-card>
 
 <e-card color="6">
 <div>habia</div>
 <div>había<br>
-O í é tonico e vai seguido doutra vogal</div>
+O i é tonico e vai seguido doutra vogal</div>
 </e-card>
 
 <e-card color="7">
 <div>diminuiu</div>
 <div>diminuíu<br>
-O í é tónico e vai seguido doutra vogal</div>
+O i é tónico e vai seguido doutra vogal</div>
 </e-card>
 
 <e-card color="8">
 <div>saude</div>
 <div>saúde<br>
-O ú é tonico e vai precedido doutra vogal</div>
+O u é tonico e vai precedido doutra vogal</div>
 </e-card>
 
 <e-card color="9">
