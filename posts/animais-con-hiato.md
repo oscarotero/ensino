@@ -17,30 +17,46 @@ Se tiveres dúbidas, revé o post [Ditongos e hiatos](https://laurarubio.net/pos
 
 ![](/img/esquio_hiato.jpg){is-horizontal}
 
-1. esqu<e-answer>ío</e-answer>{.is-big}
+esqu<e-answer>ío</e-answer>{.is-big}
 
 ![](/img/grua_hiato.jpg){is-horizontal}
 
-2. gr<e-answer>úa</e-answer>{.is-big}
+gr<e-answer>úa</e-answer>{.is-big}
+
+![](/img/balea_hiato.jpg){is-horizontal}
+
+bal<e-answer>ea</e-answer>
 
 ![](/img/babuino_hiato.jpg){is-horizontal}
 
-3. bab<e-answer>uí</e-answer>no{.is-big}
+bab<e-answer>uí</e-answer>no{.is-big}
 
 ![](/img/cotovia_hiato.jpg){is-horizontal}
 
-4. cotov<e-answer>ía</e-answer>{.is-big}
+cotov<e-answer>ía</e-answer>{.is-big}
+
+![](/img/coello_hiato.jpg){is-horizontal}
+
+c<e-answer>oe</e-answer>
 
 ![](/img/fuiña_hiato.jpg){is-horizontal}
 
-5. f<e-answer>uí</e-answer>ña{.is-big}
+f<e-answer>uí</e-answer>ña{.is-big}
 
 ![](/img/cacatua_hiato.jpg){is-horizontal}
 
-6. cacat<e-answer>úa</e-answer>{.is-big}
+cacat<e-answer>úa</e-answer>{.is-big}
+
+![](/img/leopardo_hiato.jpg){is-horizontal}
+
+l<e-answer>eo<e-answer>pardo
 
 ![](/img/anguia_hiato.jpg){is-horizontal}
 
-7. angu<e-answer>ía</e-answer>{.is-big}
+angu<e-answer>ía</e-answer>{.is-big}
+
+![](/img/coala_hiato.jpg){is-horizontal}
+
+c<e-answer>oa</e-answer>la
 
 <e-validate>Verifica as respostas</e-validate>
