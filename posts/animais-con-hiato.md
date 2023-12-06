@@ -7,12 +7,13 @@ show_toc: false
 ---
 ## Lémbraste?
 
+<article>
 
 Hiato = dúas vogais seguidas que pertencen a sílabas diferentes
 
 Se tiveres dúbidas, revé o post [Ditongos e hiatos](https://laurarubio.net/posts/ditongos-e-hiatos/)
 
-
+</article>
 
 ![](/img/esquio_hiato.jpg){is-horizontal}
 
