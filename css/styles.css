@@ -284,6 +284,9 @@ img.is-horizontal {
 	width: 100%;
 	object-position: 50% 35%
 }
+.is-big {
+	font-size: 2em;
+}
 
 .pagefind-ui__search-input {
 	margin-bottom: 0 !important;
