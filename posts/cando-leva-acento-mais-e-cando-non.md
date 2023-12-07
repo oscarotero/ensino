@@ -1,10 +1,10 @@
 ---
 title: Cando ten acento mais e cando non? (6)
-summary: Hai unha morea de recursos na rede en que se ocupan desta cuestión.
+summary: ""
 tags:
   - acentuacion_diacritica
 ---
-Abaixo deixo as ligazóns a dous moi útiles:
+Hai unha morea de recursos na rede en que se ocupan desta cuestión. Abaixo deixo as ligazóns a dous moi útiles:
 
 Vídeo do **\#DígochoEu**: Non confundas "máis", "mais" e "e mais"
 
