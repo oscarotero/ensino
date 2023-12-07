@@ -4,7 +4,7 @@ summary: Cando os acentuamos?
 tags:
   - acentuacion
 ---
-Acentuamos sempre nestes dous casos:
+Acentuámolos sempre nestes dous casos:
 
 1. Cando I e U son tónicos e van precedidos ou seguidos doutra vogal (fuxía, saúdo, síux)
 
