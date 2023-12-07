@@ -1,7 +1,7 @@
 ---
 title: Ditongos e hiatos
 tags:
-  - ortografia
+  - silaba
 ---
 Como os recoñezo?
 

@@ -2,7 +2,7 @@
 title: Ditongo ou  hiato?
 summary: Exercicios
 tags:
-  - acentuacion
+  - silaba
 draft: false
 show_toc: false
 ---

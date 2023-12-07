@@ -2,7 +2,7 @@
 title: A sílaba
 summary: ""
 tags:
-  - ortografia
+  - silaba
 ---
 
 Denominamos sílaba a cada golpe de voz con que pronunciamos unha palabra.
