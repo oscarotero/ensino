@@ -96,8 +96,7 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
 Sabías que hai un canción moi coñecida en que se brinca coas semellanzas fonéticas entre dúas palabras, unha con be e outra con uve. Ouve a versión de Vou a Bueu que fixo [Andrés do Barro](https://gl.wikipedia.org/wiki/Andr%C3%A9s_do_Barro):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dlrb0mlxU3c?si=AeasvO0Aos8XzJso" </iframe>
-[](https://www.youtube.com/watch?v=TMRPK2Tjjzs)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dlrb0mlxU3c?si=jbfK77mZa3VFz4Yj&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Desde hai pouco podemos gozar tamén [destoutra versión da canción](https://www.tiktok.com/@digochoeu/video/6932072589334564102?is_copy_url=1&is_from_webapp=v3) realizada por Esther Estévez e mais as [Tanxugueiras](https://tanxugueiras.com/) para o TikTok.
 
