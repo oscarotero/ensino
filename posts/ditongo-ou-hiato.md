@@ -1,5 +1,6 @@
 ---
 title: Ditongo ou  hiato?
+summary: Exercicios
 tags:
   - acentuacion
 draft: false
@@ -7,7 +8,7 @@ show_toc: false
 ---
 ## Exercicio 1
 
-Clasifica en ditongo e hiato os encontros vocálicos das seguintes palabras
+Clasifica en ditongo e hiato os encontros vocálicos das seguintes palabras:
 
 Exemplo: amb**ie**nte > ditongo
 
@@ -43,7 +44,7 @@ cenor**ia** > <e-answer>ditongo</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Exercicio 2 
+## Exercicio 2
 
 Separa en sílabas as seguintes palabras:
 
