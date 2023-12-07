@@ -1,7 +1,7 @@
 ---
 title: Animais con hiato
 tags:
-  - acentuacion
+  - silaba
 draft: false
 show_toc: false
 ---
