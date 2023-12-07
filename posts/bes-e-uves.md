@@ -101,4 +101,4 @@ Sabías que hai un canción moi coñecida en que se brinca coas semellanzas fon�
 
 Desde hai pouco podemos gozar tamén [destoutra versión da canción](https://www.tiktok.com/@digochoeu/video/6932072589334564102?is_copy_url=1&is_from_webapp=v3) realizada por Esther Estévez e mais as [Tanxugueiras](https://tanxugueiras.com/) para o TikTok.
 
-En Bueu teñen moi claro como hai que ir alí, mais como irías ti. Sabes o que é un *bou* con *b?*
+En Bueu teñen moi claro como hai que ir, mais como irías ti. Sabes o que é un *bou* con *b?*
