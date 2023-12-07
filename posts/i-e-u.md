@@ -4,10 +4,11 @@ summary: Cando os acentuamos?
 tags:
   - acentuacion
 ---
-Cando temos as vogais I e U xuntas nunha palabra aplicamos as seguintes regras:
+Acentuamos sempre nestes dous casos:
 
-1. Acentuamos I e U tónicos, sempre que foren precedidos ou seguidos doutra vogal (fuxía, saúdo)
-2. Acentuamos a segunda vogal de IU ou UI, se for tónica (diúrno, xuíz)
+1. Cando I e U son tónicos e van precedidos ou seguidos doutra vogal (fuxía, saúdo, síux)
+
+2. Cando a segunda vogal das combinacións IU ou UI é tónica (diúno, xuíz)
 
 De acordo con isto, as seguintes palabras levarían acento? Por que? 
 
