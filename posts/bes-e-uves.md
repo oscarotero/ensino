@@ -47,7 +47,7 @@ Escolle entre os seguintes pares de palabras a que encaixe mellor en cada caso:
 
 *Abalar - avalar*
 
-* Seica quebrou en Muxía a pedra de <e-answer>abalar</e-answer>!
+* Seica quebrou en Muxía a pedra de <e-answer>abalar</e-answer>
 * Téñenme que <e-answer>avalar</e-answer> meus pais para que me dean o crédito.
 
 *Balor - valor*
