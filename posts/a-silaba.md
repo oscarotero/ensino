@@ -4,7 +4,6 @@ summary: ""
 tags:
   - silaba
 ---
-
 Denominamos sílaba a cada golpe de voz con que pronunciamos unha palabra.
 
 Ex.: a - nel, mó - bil, lim - pe - za
@@ -26,16 +25,14 @@ Ex. nós (sílaba tónica) vs. nos (sílaba átona): A **nós** non **nos** dixo
 Atendendo á situación da sílaba tónica na palabra, podemos distinguir palabras
 agudas, graves e esdrúxulas.
 
-- As palabras agudas teñen tónica a última sílaba: portu**gués**, xor**nal**,
-a**mar**
+* As palabras agudas teñen tónica a última sílaba: portu**gués**, xor**nal**,
+  a**mar**
+* As palabras graves teñen tónica a penúltima sílaba: **bar**co, es**tre**la,
+  **fá**cil
+* As palabras esdrúxulas teñen tónica a antepenúltima sílaba: **lám**pada,
+  te**lé**fono, **mé**dico
 
-- As palabras graves teñen tónica a penúltima sílaba: **bar**co, es**tre**la,
-**fá**cil
-
-- As palabras esdrúxulas teñen tónica a antepenúltima sílaba: **lám**pada,
-te**lé**fono, **mé**dico
-
----
+- - -
 
 ## Exercicio 1
 
@@ -67,7 +64,7 @@ tónicas:
 
 <e-answer size=3>di</e-answer><e-answer size=3>fi</e-answer><e-answer size=3>cul</e-answer><e-answer size=3 highlight>ta</e-answer><e-answer size=3>de</e-answer>
 
-<e-validate>Corrixe as respostas</e-validate>
+<e-validate>Verifica as respostas</e-validate>
 
 ## Exercicio 2
 
@@ -84,7 +81,7 @@ Indica se as seguintes palabras son agudas, graves ou esdrúxulas:
 9. iogur: <e-answer> aguda </e-answer>
 10. carácter: <e-answer> grave </e-answer>
 
-<e-validate>Corrixe as respostas</e-validate>
+<e-validate>Verifica as respostas</e-validate>
 
 ## Exercicio 3
 
