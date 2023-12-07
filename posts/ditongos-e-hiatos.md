@@ -61,7 +61,7 @@ Ex.: au-ga: Ditongo **au** porque as dúas vogais se pronuncian na mesma sílaba
 1. lin-gua: Ditongo *ua* porque as dúas vogais se pronuncian na mesma sílaba. É crecente porque a primeira vogal é fechada e a segunda é aberta. 
 2. tra-er: Hiato *ae* porque as dúas vogais se pronuncian en sílabas distintas. As dúas vogais son abertas.
 3. gai-ta: Ditongo *ai* porque as dúas vogais se pronuncian na mesma sílaba. É decrecente porque a primeira vogal é aberta e segunda é fechada. 
-4. pe-le-xa: Non hai ningún encontro vocálico, por tanto, non pode haber ditongo nin hiato.
+4. pe-le-xa: Non hai ningún encontro vocálico, por tanto, non pode haber nin ditongo nin hiato.
 5. fies-tra: Ditongo *ie* porque as dúas vogais se pronuncian na mesma sílaba. É crecente porque a primeira vogal é fechada e a segunda é aberta (un *e* semiaberto). 
 6. coi-da-do: Ditongo *oi* porque as dúas vogais se pronuncian na mesma sílaba. É decrecente porque a primeira vogal é máis aberta que a segunda. 
 7. mo-e-da: Hiato *oe* porque as dúas vogais se pronuncian en sílabas distintas. As dúas vogais son abertas.
