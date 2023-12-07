@@ -1,6 +1,6 @@
 ---
 title: A sílaba
-summary: ""
+summary: Definición, tipos e exercicios
 tags:
   - silaba
 ---
