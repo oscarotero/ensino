@@ -6,9 +6,9 @@ tags:
 ---
 Acentuámolos sempre nestes dous casos:
 
-1. Cando I e U son tónicos e van precedidos ou seguidos doutra vogal (fuxía, saúdo, síux)
+1. Cando I e U son tónicos e van precedidos ou seguidos doutra vogal (fuxía, saúdo)
 
-2. Cando a segunda vogal das combinacións IU ou UI é tónica (diúno, xuíz)
+2. Cando a segunda vogal das combinacións IU ou UI é tónica (diúrno, xuíz)
 
 De acordo con isto, as seguintes palabras levarían acento? Por que? 
 
