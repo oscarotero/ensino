@@ -165,7 +165,7 @@ Resposta errada! Não é fazer atchim, não!
 <e-card color="2">
   <div>Arrotar</div>
   <div>
-Resposta errada! Tampouco é eructar.
+Resposta errada! Tampouco, é eructar.
   </div>
 </e-card>
 
