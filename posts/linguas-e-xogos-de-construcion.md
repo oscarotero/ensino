@@ -68,6 +68,7 @@ Agora que xa coñeces a técnica, imos xogar a construír palabras!
 Forma sete palabras agrupando e ordenando as sílabas de cada cor:
 
 <e-layout>
+<e-tag color=1>nás</e-tag>
 <e-tag color=5>co</e-tag>
 <e-tag color=10>za</e-tag>
 <e-tag color=7>man</e-tag>
@@ -87,6 +88,7 @@ Forma sete palabras agrupando e ordenando as sílabas de cada cor:
 <e-tag color=2>cár</e-tag>
 <e-tag color=4>la</e-tag>
 <e-tag color=1>mal</e-tag>
+<e-tag color=1>na</e-tag>
 <e-tag color=7>tei</e-tag>
 <e-tag color=10>po</e-tag>
 </e-layout>
@@ -101,6 +103,7 @@ Forma sete palabras agrupando e ordenando as sílabas de cada cor:
 5. <e-tag color=2>cár</e-tag><e-tag color=2>ce</e-tag><e-tag color=2>re</e-tag>
 6. <e-tag color=3>xan</e-tag><e-tag color=3>tar</e-tag>
 7. <e-tag color=4>la</e-tag><e-tag color=4>pis</e-tag>
+8. <e-tag color=1>a</e-tag><e-tag color=1>na>/e-tag><e-tag color=1>nás</e-tag>
 
 </details>
 
