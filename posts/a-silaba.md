@@ -57,7 +57,7 @@ As casas brancas son para as sílabas átonas e as amarelas, para as sílabas t�
 <e-tag color=1>aprendiz</e-tag>
 </e-layout>
 
-Monosílabas
+Monosílaba
 
 <e-answer size=3 highlight>deus</e-answer>
 
@@ -99,7 +99,7 @@ a. Separa en sílabas e indica cal é sílaba tónica:
 
 Se tiveres moitas dúbidas, consulta a pronuncia da palabra no [Dicionario de pronuncia da lingua galega](https://ilg.usc.es/pronuncia/)
 
-Exemplo: heroe: he - **ro** -e 
+Exemplo: heroe: he-ro-e A sílaba tónica é ro
 
 1. acne: <e-answer>ac-ne</e-answer> A sílaba tónica é <e-answer>ac</e-answer>
 2. paxaro: <e-answer>pa-xa-ro</e-answer> A sílaba tónica é <e-answer>xa</e-answer>
@@ -111,6 +111,8 @@ Exemplo: heroe: he - **ro** -e
 8. pelicano: <e-answer>pe-li-ca-no</e-answer> A sílaba tónica é <e-answer>ca</e-answer>
 9. diocese: <e-answer>dio-ce-se</e-answer> A sílaba tónica é <e-answer>ce</e-answer>
 10. meteoro: <e-answer>me-te-o-ro</e-answer> A sílaba tónica é <e-answer>o</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
 
 b. Que teñen en común todas estas voces?
 
