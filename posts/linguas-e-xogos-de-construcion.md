@@ -4,7 +4,7 @@ summary: En que se parecen?
 tags:
   - silaba
 ---
-Se o pensas ben, a nosa lingua parécese moito a un deses xogos de construción
+Se o pensares ben, a nosa lingua parécese moito a un deses xogos de construción
 aos que todos xogamos de pequenos. Lémbraste daqueles bloquiños de cores? Eu
 teño pasado horas deitada no chan a xuntar uns cos outros.
 
@@ -20,8 +20,8 @@ Os sons e as sílabas non se combinan de calquera maneira. Existen unha serie de
 regras ou principios construtivos que todos aplicamos, aínda sen sermos moi
 conscientes de o facermos. Estes son algúns deles:
 
-1. Unha sílaba pode estar constituída por un son ou por varios. Do mesmo xeito
-   que unha palabra pode estar constituída por unha ou por varias sílabas.
+1. Unha sílaba pode estar constituída por un son ou por varios. Da mesma forma,
+   unha palabra pode estar constituída por unha ou por varias sílabas.
 2. A sílaba máis habitual en galego é a formada por unha vogal mais unha
    consoante: CV > **po**. Mais existen outras moitas combinacións:
 
