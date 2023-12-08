@@ -153,4 +153,4 @@ Exemplo: cobiza <e-answer readonly>co-bi-za</e-answer>
 9. premio: <e-answer>pre-mio</e-answer>
 10. científico: <e-answer>cien-tí-fico</e-answer>
 
-<summary>Verifica as respostas</summary>
+<e-validate>Verifica as respostas</e-validate>
