@@ -36,9 +36,11 @@ agudas, graves e esdrúxulas.
 
 ## Exercicio 1
 
-Separa en sílabas estas palabras e sitúaas nos lugares que lles correspondan.
-Coida que nos cadros brancos coincidan sílabas átonas e nos amarelos as sílabas
-tónicas:
+Separa en sílabas e sitúaas nos lugares que lles correspondan.
+
+Repara nisto!
+
+Os cadros brancos son para as sílabas átonas e os amarelos, para as sílabas tónicas:
 
 <e-layout>
 <e-tag color=1>endereitar</e-tag>
@@ -85,7 +87,7 @@ tónicas:
 
 ## Exercicio 2
 
-Indica se as seguintes palabras son agudas, graves ou esdrúxulas:
+Clasifica as seguintes palabras en agudas, graves ou esdrúxulas:
 
 1. árbore: <e-answer> esdrúxula </e-answer>
 2. caracol: <e-answer> aguda </e-answer>
@@ -102,9 +104,9 @@ Indica se as seguintes palabras son agudas, graves ou esdrúxulas:
 
 ## Exercicio 3
 
-Separa en sílabas e indica cal é sílaba tónica nas seguintes palabras. Para iso,
-consulta como se pronuncia cada unha delas clicando nesta ligazón ao
-[Dicionario de pronuncia da lingua galega](https://ilg.usc.es/pronuncia/):
+Separa en sílabas e indica cal é sílaba tónica nas seguintes palabras:
+
+Se tiveres moitas dúbidas, consulta a pronuncia da palabra no [Dicionario de pronuncia da lingua galega](https://ilg.usc.es/pronuncia/)
 
 Exemplo: heroe: he - **ro** -e 
 
@@ -119,7 +121,7 @@ Exemplo: heroe: he - **ro** -e
 9. diocese:
 10. meteoro:
 
-Que teñen en común todas estas palabras?
+Que teñen en común todas estas voces?
 
 <details> <summary>Verifica as respostas</summary>
 
@@ -134,7 +136,7 @@ Que teñen en común todas estas palabras?
 9. diocese: di - o - **ce** - se
 10. meteoro: me - te - **o** - ro 
 
-Que teñen en común todas estas palabras? 
+Que teñen en común todas estas voces? 
 
 Todas son palabras graves: a sílaba tónica é a penúltima.
 
