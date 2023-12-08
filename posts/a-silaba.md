@@ -126,6 +126,8 @@ Todas son palabras graves: a sílaba tónica é a penúltima.
 
 Clasifica as seguintes palabras en agudas, graves ou esdrúxulas:
 
+Exemplo: obriga: grave
+
 1. árbore: <e-answer> esdrúxula </e-answer>
 2. caracol: <e-answer> aguda </e-answer>
 3. garavanzo: <e-answer> grave </e-answer>
