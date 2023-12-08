@@ -116,7 +116,7 @@ Forma sete palabras agrupando e ordenando as sílabas de cada cor:
 
 Indica de que tipo son as palabras seguintes, de acordo co número de sílabas:
 
-Exemplo: lei > monosílaba
+Exemplo: lei > <e-answer readonly>monosílaba</e-answer>
 
 guitarra: <e-answer>trisílaba</e-answer>
 
@@ -140,29 +140,17 @@ domingo : <e-answer>trisílaba</e-answer>
 
 Separa en sílabas as seguintes palabras:
 
-1. cadeira:
-2. margarida:
-3. toupa:
-4. aparcadoiro:
-5. minisaia:
-6. ambiente:
-7. guión:
-8. ademais:
-9. premio
-10. científico
+Exemplo: cobiza <e-answer readonly>co-bi-za</e-answer>
 
-<details>
+1. cadeira: <e-answer>ca-dei-ra</e-answer>
+2. margarida: <e-answer>mar-ga-ri-da</e-answer>
+3. toupa: <e-answer>tou-pa</e-answer>
+4. aparcadoiro: <e-answer>a-par-ca-doi-ro</e-answer>
+5. minisaia: <e-answer>mi-ni-sa-ia</e-answer>
+6. ambiente: <e-answer>am-bien-te</e-answer>
+7. guión: <e-answer>gui-ón</e-answer>
+8. ademais: <e-answer>a-de-mais</e-answer>
+9. premio: <e-answer>pre-mio</e-answer>
+10. científico: <e-answer>cien-tí-fico</e-answer>
+
 <summary>Verifica as respostas</summary>
-
-1. ca - dei - ra
-2. mar - ga - ri - da
-3. tou - pa
-4. a - par - ca - doi - ro
-5. mi - ni - sa - ia
-6. am - bien - te
-7. gui - ón
-8. a - de - mais
-9. pre - mio
-10. cien - tí - fi - co
-
-</details>
