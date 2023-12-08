@@ -115,7 +115,8 @@ Forma sete palabras agrupando e ordenando as sílabas de cada cor:
 ### Exercicio 2
 
 Indica de que tipo son as palabras seguintes, de acordo co número de sílabas:
-Ex.: lei > monosílaba
+
+Exemplo: lei > monosílaba
 
 guitarra: <e-answer>trisílaba</e-answer>
 
