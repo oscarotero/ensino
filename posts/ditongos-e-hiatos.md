@@ -57,7 +57,7 @@ Ex.: au-ga: Ditongo **au** porque as dúas vogais se pronuncian na mesma sílaba
 9. fuxiu:
 10. quieto:
 
-<details> <summary>Ver as respostas </summary>
+<details> <summary>Verifica as respostas </summary>
 
 1. lin-gua: Ditongo *ua* porque as dúas vogais se pronuncian na mesma sílaba. É crecente porque a primeira vogal é fechada e a segunda é aberta. 
 2. tra-er: Hiato *ae* porque as dúas vogais se pronuncian en sílabas distintas. As dúas vogais son abertas.
