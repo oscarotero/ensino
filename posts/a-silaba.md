@@ -89,9 +89,9 @@ Separa en sílabas e indica cal é sílaba tónica nas seguintes palabras. Para 
 consulta como se pronuncia cada unha delas clicando nesta ligazón ao
 [Dicionario de pronuncia da lingua galega](https://ilg.usc.es/pronuncia/):
 
-Ex.: acne: **ac** - ne
+Ex.: heroe: he - **ro** -e 
 
-1. heroe:
+1. acne: 
 2. paxaro:
 3. atmosfera:
 4. parasito:
@@ -106,7 +106,7 @@ Que teñen en común todas estas palabras?
 
 <details> <summary>Ver as solucións</summary>
 
-1. heroe: he - **ro** - e
+1. acne: **ac** - ne
 2. paxaro: pa - **xa** - ro
 3. atmosfera: at - mos - **fe** - ra
 4. parasito: pa - ra - **si** - to
