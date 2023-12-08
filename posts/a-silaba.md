@@ -104,7 +104,7 @@ Clasifica as seguintes palabras en agudas, graves ou esdrúxulas:
 
 ## Exercicio 3
 
-Separa en sílabas e indica cal é sílaba tónica nas seguintes palabras:
+Separa en sílabas e indica cal é sílaba tónica:
 
 Se tiveres moitas dúbidas, consulta a pronuncia da palabra no [Dicionario de pronuncia da lingua galega](https://ilg.usc.es/pronuncia/)
 
