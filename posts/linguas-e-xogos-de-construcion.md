@@ -120,19 +120,19 @@ Exemplo: noite > <e-answer readonly>bisílaba</e-answer>
 
 guitarra: <e-answer>trisílaba</e-answer>
 
-semáforo : <e-answer>tetrasílaba</e-answer> ou <e-answer>cuadrisílaba</e-answer>
+semáforo: <e-answer>tetrasílaba</e-answer> ou <e-answer>cuadrisílaba</e-answer>
 
-pan : <e-answer>monosílaba</e-answer>
+pan: <e-answer>monosílaba</e-answer>
 
-libro : <e-answer>bisílaba</e-answer>
+libro: <e-answer>bisílaba</e-answer>
 
-almorzar : <e-answer>trisílaba</e-answer>
+almorzar: <e-answer>trisílaba</e-answer>
 
-culler : <e-answer>bisílaba</e-answer>
+garfo: <e-answer>bisílaba</e-answer>
 
-felicidade : <e-answer>pentasílaba</e-answer>
+felicidade: <e-answer>pentasílaba</e-answer>
 
-domingo : <e-answer>trisílaba</e-answer>
+domingo: <e-answer>trisílaba</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
