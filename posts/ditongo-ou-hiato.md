@@ -10,7 +10,7 @@ show_toc: false
 
 Clasifica en ditongo e hiato os encontros vocálicos das seguintes palabras:
 
-Exemplo: conti*nuo** > <e-answer readonly>ditongo</e-answer>
+Exemplo: contin**uo** > <e-answer readonly>ditongo</e-answer>
 
 comerc**io** > <e-answer>ditongo</e-answer>
 
