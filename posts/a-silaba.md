@@ -98,7 +98,7 @@ Pentasílabas
 
 ## Exercicio 2
 
-a. Separa en sílabas e indica cal é sílaba tónica:
+a. Separa as palabras en sílabas e indica cal é sílaba tónica:
 
 Se tiveres moitas dúbidas, consulta a pronuncia da palabra no [Dicionario de pronuncia da lingua galega](https://ilg.usc.es/pronuncia/)
 
