@@ -99,7 +99,7 @@ a. Separa en sílabas e indica cal é sílaba tónica:
 
 Se tiveres moitas dúbidas, consulta a pronuncia da palabra no [Dicionario de pronuncia da lingua galega](https://ilg.usc.es/pronuncia/)
 
-Exemplo: heroe: he-ro-e A sílaba tónica é ro
+Exemplo: heroe: <e-answer readonly>he-ro-e<e-answer> A sílaba tónica é <e-answer readonly>ro<e-answer>
 
 1. acne: <e-answer>ac-ne</e-answer> A sílaba tónica é <e-answer>ac</e-answer>
 2. paxaro: <e-answer>pa-xa-ro</e-answer> A sílaba tónica é <e-answer>xa</e-answer>
@@ -126,7 +126,7 @@ Todas son palabras graves: a sílaba tónica é a penúltima.
 
 Clasifica as seguintes palabras en agudas, graves ou esdrúxulas:
 
-Exemplo: obriga: grave
+Exemplo: obriga: <e-answer readonly>grave</e-answer>
 
 1. árbore: <e-answer> esdrúxula </e-answer>
 2. caracol: <e-answer> aguda </e-answer>

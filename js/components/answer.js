@@ -111,6 +111,12 @@ function createInput(el) {
       select.appendChild(option);
     });
 
+    if (el.hasAttribute("readonly")) {
+      select.readOnly = true;
+      select.disabled = true;
+      select.value = el.innerHTML.trim();
+    }
+
     return select;
   }
 
@@ -118,5 +124,10 @@ function createInput(el) {
   input.type = "text";
   input.size = el.getAttribute("size") || 8;
   input.placeholder = el.getAttribute("placeholder") || "...";
+  if (el.hasAttribute("readonly")) {
+    input.readOnly = true;
+    input.disabled = true;
+    input.value = el.innerHTML.trim();
+  }
   return input;
 }
