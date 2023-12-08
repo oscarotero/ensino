@@ -116,7 +116,7 @@ Forma sete palabras agrupando e ordenando as sílabas de cada cor:
 
 Indica de que tipo son as palabras seguintes, de acordo co número de sílabas:
 
-Exemplo: lei > <e-answer readonly>monosílaba</e-answer>
+Exemplo: noite > <e-answer readonly>bisílaba</e-answer>
 
 guitarra: <e-answer>trisílaba</e-answer>
 
