@@ -4,21 +4,13 @@ summary: En que se parecen?
 tags:
   - silaba
 ---
-Se o pensares ben, a nosa lingua parécese moito a un deses xogos de construción
-a que todos xogamos de pequenos. Lémbraste daqueles bloquiños de cores? Eu
-teño pasado horas deitada no chan a xuntar uns cos outros.
+Se o pensares ben, a nosa lingua parécese moito a un deses xogos de construción a que todos xogamos de pequenos. Lémbraste daqueles bloquiños de cores? Eu teño pasado horas deitada no chan a xuntar uns cos outros.
 
-Nas linguas tamén temos pezas que podemos xuntar para construír outras maiores.
-Non construímos con bloques, é claro, o material de construción é un pouco
-diferente. Nas linguas usamos os sons, mais o procedemento é o mesmo. Xuntamos
-sons para construírmos sílabas e coas sílabas, por súa vez, podemos construír
-palabras: son > sílaba > palabra
+Nas linguas tamén temos pezas que podemos xuntar para construír outras maiores. Non construímos con bloques, é claro, o material de construción é un pouco diferente. Nas linguas usamos os sons, mais o procedemento é o mesmo. Xuntamos sons para construírmos sílabas e coas sílabas, por súa vez, podemos construír palabras: son > sílaba > palabra
 
 ## A ciencia da construción
 
-Os sons e as sílabas non se combinan de calquera maneira. Existen unha serie de
-regras ou principios construtivos que todos aplicamos, aínda sen sermos moi
-conscientes de o facermos. Estes son algúns deles:
+Os sons e as sílabas non se combinan de calquera maneira. Existen unha serie de regras ou principios construtivos que todos aplicamos, aínda sen sermos moi conscientes de o facermos. Estes son algúns deles:
 
 1. Unha sílaba pode estar constituída por un son ou por varios. Da mesma forma,
    unha palabra pode estar constituída por unha ou por varias sílabas.
