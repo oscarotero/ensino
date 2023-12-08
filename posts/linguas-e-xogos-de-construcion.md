@@ -151,7 +151,7 @@ Separa en sílabas as seguintes palabras:
 10. científico
 
 <details>
-<summary>Ver as respostas</summary>
+<summary>Verifica as respostas</summary>
 
 1. ca - dei - ra
 2. mar - ga - ri - da
