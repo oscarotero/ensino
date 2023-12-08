@@ -59,7 +59,7 @@ As casas brancas son para as sílabas átonas e as amarelas, para as sílabas t�
 
 Monosílabas
 
-Exemplo: <e-answer size=3 highlight readonly>lei<e/answer>
+Exemplo: <e-answer size=3 highlight readonly>lei</e-answer>
 
 <e-answer size=3 highlight>deus</e-answer>
 
