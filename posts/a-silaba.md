@@ -56,7 +56,7 @@ tónicas:
 </e-layout>
 
 
-<e-answer size=3>deus</e-answer>
+<e-answer size=3 highlight>deus</e-answer>
 
 <e-answer size=3>xam</e-answer><e-answer size=3 highlight>pú</e-answer>
 
