@@ -49,6 +49,7 @@ As casas brancas son para as sílabas átonas e as amarelas, para as sílabas t�
 <e-tag color=1>dificultade</e-tag>
 <e-tag color=1>espello</e-tag>
 <e-tag color=1>minúscula</e-tag>
+<e-tag color=1>lei</e-tag>
 <e-tag color=1>xeneralizar</e-tag>
 <e-tag color=1>culler</e-tag>
 <e-tag color=1>lóstrego</e-tag>
@@ -142,4 +143,3 @@ Exemplo: obriga: <e-answer readonly>grave</e-answer>
 10. carácter: <e-answer> grave </e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
-
