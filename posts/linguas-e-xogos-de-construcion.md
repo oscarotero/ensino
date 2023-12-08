@@ -100,7 +100,7 @@ Forma sete palabras agrupando e ordenando as sílabas de cada cor:
 </e-layout>
 
 <details>
-<summary>Ver as solucións</summary>
+<summary>Verifica as respostas</summary>
 
 1. <e-tag color=5>fri</e-tag><e-tag color=5>go</e-tag><e-tag color=5>rí</e-tag><e-tag color=5>fi</e-tag><e-tag color=5>co</e-tag>
 2. <e-tag color=10>po</e-tag><e-tag color=10>za</e-tag>
