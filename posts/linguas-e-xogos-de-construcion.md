@@ -2,9 +2,8 @@
 title: Linguas e xogos de construción
 summary: En que se parecen?
 tags:
-  - ortografia
+  - silaba
 ---
-
 Se o pensas ben, a nosa lingua parécese moito a un deses xogos de construción
 aos que todos xogamos de pequenos. Lémbraste daqueles bloquiños de cores? Eu
 teño pasado horas deitada no chan a xuntar uns cos outros.
@@ -26,18 +25,18 @@ conscientes de o facermos. Estes son algúns deles:
 2. A sílaba máis habitual en galego é a formada por unha vogal mais unha
    consoante: CV > **po**. Mais existen outras moitas combinacións:
 
-- CVC > **pés**
-- CCV > **bra**-zo
-- V > **a**-su-bí-o
-- CCVCC >**trans**-por-te
-- ...
+* CVC > **pés**
+* CCV > **bra**-zo
+* V > **a**-su-bí-o
+* CCVCC >**trans**-por-te
+* ...
 
 3. Dúas vogais contiguas poden pertencer á mesma sílaba ou a sílabas diferentes:
 
-- Pertencen á mesma sílaba cando as pronunciamos xuntas nunha soa emisión de
+* Pertencen á mesma sílaba cando as pronunciamos xuntas nunha soa emisión de
   voz. Cando isto acontece, dicimos que as dúas vogais forman un **ditongo**
   (Ex.: c**ie**n-c**ia**)
-- Polo contrario, se as pronunciamos en sílabas diferentes, forman un **hiato**:
+* Polo contrario, se as pronunciamos en sílabas diferentes, forman un **hiato**:
   a-r-**e-a**
 
 4. Mesmo hai sílabas con até tres vogais seguidas. Neste caso, dicimos que as
@@ -66,7 +65,7 @@ conscientes de o facermos. Estes son algúns deles:
 
    decasílabas = 10 sílabas : Ex.: o-to-rri-no-la-rin-go-lo-xí-a ...
 
----
+- - -
 
 ## Mans á obra!
 
@@ -134,7 +133,7 @@ felicidade : <e-answer>pentasílaba</e-answer>
 
 domingo : <e-answer>trisílaba</e-answer>
 
-<e-validate>Corrixe as respostas</e-validate>
+<e-validate>Verifica as respostas</e-validate>
 
 ### Exercicio 3
 
