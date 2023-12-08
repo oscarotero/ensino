@@ -4,7 +4,6 @@ summary: Todas as palabras necesarias para falares do pan
 tags:
   - lexico
 ---
-
 ## Exercicio 1
 
 Relaciona cada unha das seguintes palabras co número que aparece na imaxe.
@@ -100,12 +99,12 @@ Completa as seguintes oracións coas palabras que faltan:
    <e-answer>miolo</e-answer>.
 2. Compra pan abondo que nesta casa somos todos moi
    <e-answer>panceiros</e-answer>.
-3. O pan <e-answer>reseso</e-answer> pódese aproveitar para facer un pudin.
+3. O pan <e-answer>reseso</e-answer> pode aproveitarse para facer un pudin.
 4. No verán almorzo <e-answer>torradas</e-answer> de pan con aceite e tomate.
 5. Comín o <e-answer>cornecho</e-answer> do bolo mentres esperaba pola comida.
 6. Para facermos pan, necesitamos 4 ingredientes: fariña, auga,
    <e-answer>fermento</e-answer> e sal.
-7. Sempre quere <e-answer>encetar</e-answer> el o molete para comer o
+7. Quere <e-answer>encetar</e-answer> sempre el o molete para comer o
    <e-answer>rocho</e-answer>.
 8. Está prohibido dar <e-answer>migallas</e-answer> de pan ás pombas.
 9. Non podemos cear un sándwich porque se acabou o <e-answer>pan de forma</e-answer>.
@@ -116,8 +115,7 @@ Completa as seguintes oracións coas palabras que faltan:
 
 ## Exercicio 4
 
-Na seguinte serie hai catro palabras intrusas que non usamos para falar de
-porcións de pan. Localízaas:
+Na seguinte serie hai catro palabras intrusas que non usamos para falar de porcións de pan. Localízaas:
 
 <e-layout>
 <e-tag color=7>rebanda</e-tag>
