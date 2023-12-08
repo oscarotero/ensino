@@ -40,7 +40,7 @@ Separa en sílabas e sitúaas nos lugares que lles correspondan.
 
 Repara nisto!
 
-Os cadros brancos son para as sílabas átonas e os amarelos, para as sílabas tónicas:
+As casas brancas son para as sílabas átonas e os amarelas, para as sílabas tónicas:
 
 <e-layout>
 <e-tag color=1>endereitar</e-tag>
