@@ -97,7 +97,12 @@ Ex.: acne: **ac** - ne
 4. parasito:
 5. elite:
 6. medula:
-7. chofer:
+7. neon:
+8. pelicano:
+9. diocese:
+10. meteoro:
+
+Que teñen en común todas estas palabras?
 
 <details> <summary>Ver as solucións</summary>
 
@@ -107,6 +112,13 @@ Ex.: acne: **ac** - ne
 4. parasito: pa - ra - **si** - to
 5. elite: e - **li** - te
 6. medula: me - **du** - la
-7. chofer: cho - **fer**
+7. neon: **ne** - on
+8. pelicano: pe - li - **ca** - no
+9. diocese: di - o - **ce** - se
+10. meteoro: me - te - **o** - ro 
+
+Que teñen en común todas estas palabras? 
+
+Todas son palabras graves: a sílaba tónica é a penúltima.
 
 </details>
