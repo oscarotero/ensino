@@ -111,27 +111,17 @@ Forma sete palabras agrupando e ordenando as sílabas de cada cor:
 
 Indica de que tipo son as palabras seguintes, de acordo co número de sílabas:
 
-Exemplo: noite > <e-answer readonly>bisílaba</e-answer>
-
-1. guitarra: <e-answer>trisílaba</e-answer>
-
-2. semáforo: <e-answer>tetrasílaba</e-answer> ou <e-answer>cuadrisílaba</e-answer>
-
-3. pan: <e-answer>monosílaba</e-answer>
-
-4. libro: <e-answer>bisílaba</e-answer>
-
-5. almorzar: <e-answer>trisílaba</e-answer>
-
-6. garfo: <e-answer>bisílaba</e-answer>
-
-7. felicidade: <e-answer>pentasílaba</e-answer>
-
-8. domingo: <e-answer>trisílaba</e-answer>
-
-9. feo: <e-answer>bisílaba</e-answer>
-
-10. aloumiño: <e-answer>tretasílaba</e-answer> ou <e-answer>cuadrisílba</e-answer>
+1. noite > <e-answer readonly>bisílaba</e-answer>
+2. guitarra: <e-answer>trisílaba</e-answer>
+3. semáforo: <e-answer>tetrasílaba</e-answer> ou <e-answer>cuadrisílaba</e-answer>
+4. pan: <e-answer>monosílaba</e-answer>
+5. libro: <e-answer>bisílaba</e-answer>
+6. almorzar: <e-answer>trisílaba</e-answer>
+7. garfo: <e-answer>bisílaba</e-answer>
+8. felicidade: <e-answer>pentasílaba</e-answer>
+9. domingo: <e-answer>trisílaba</e-answer>
+10. feo: <e-answer>bisílaba</e-answer>
+11. aloumiño: <e-answer>tretasílaba</e-answer> ou <e-answer>cuadrisílba</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -139,17 +129,16 @@ Exemplo: noite > <e-answer readonly>bisílaba</e-answer>
 
 Separa en sílabas as seguintes palabras:
 
-Exemplo: cobiza <e-answer readonly>co-bi-za</e-answer>
-
-1. cadeira: <e-answer>ca-dei-ra</e-answer>
-2. margarida: <e-answer>mar-ga-ri-da</e-answer>
-3. toupa: <e-answer>tou-pa</e-answer>
-4. aparcadoiro: <e-answer>a-par-ca-doi-ro</e-answer>
-5. minisaia: <e-answer>mi-ni-sa-ia</e-answer>
-6. ambiente: <e-answer>am-bien-te</e-answer>
-7. guión: <e-answer>gui-ón</e-answer>
-8. ademais: <e-answer>a-de-mais</e-answer>
-9. premio: <e-answer>pre-mio</e-answer>
-10. científico: <e-answer>cien-tí-fico</e-answer>
+1. cobiza <e-answer readonly>co-bi-za</e-answer>
+2. cadeira: <e-answer>ca-dei-ra</e-answer>
+3. margarida: <e-answer>mar-ga-ri-da</e-answer>
+4. toupa: <e-answer>tou-pa</e-answer>
+5. aparcadoiro: <e-answer>a-par-ca-doi-ro</e-answer>
+6. minisaia: <e-answer>mi-ni-sa-ia</e-answer>
+7. ambiente: <e-answer>am-bien-te</e-answer>
+8. guión: <e-answer>gui-ón</e-answer>
+9. ademais: <e-answer>a-de-mais</e-answer>
+10. premio: <e-answer>pre-mio</e-answer>
+11. científico: <e-answer>cien-tí-fico</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
