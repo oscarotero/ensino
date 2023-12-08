@@ -106,7 +106,7 @@ Separa en sílabas e indica cal é sílaba tónica nas seguintes palabras. Para 
 consulta como se pronuncia cada unha delas clicando nesta ligazón ao
 [Dicionario de pronuncia da lingua galega](https://ilg.usc.es/pronuncia/):
 
-Ex.: heroe: he - **ro** -e 
+Exemplo: heroe: he - **ro** -e 
 
 1. acne: 
 2. paxaro:
