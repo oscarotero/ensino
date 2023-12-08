@@ -30,7 +30,7 @@ O actor Luís Tosar \[entre 50 e 60 anos]
 
 <e-validate>Verifica a resposta</e-validate>
 
-Esther Estévez, a presentadora do Dígocho eu  \[entre 20 e 30 anos]
+Esther Estévez, a presentadora do Dígocho Eu  \[entre 20 e 30 anos]
 
 ![](/img/esther_estevez.jpg){.is-square}
 
