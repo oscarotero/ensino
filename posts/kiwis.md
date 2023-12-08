@@ -17,7 +17,7 @@ Aínda que son moitas as cousas interesantes que se poderían dicir deste froito
 
 <audio src="https://ilg.usc.es/pronuncia/mp3/k/42.mp3" controls></audio> \[kíbi], a forma que usa o pai.
 
-<audio src="https://ilg.usc.es/pronuncia/mp3/k/41.mp3[](https://ilg.usc.es/pronuncia/?pq=&q=kiwi&l=1&c%5B%5D=0)" controls></audio> \[kíui], a forma que usa a filla.
+<audio src="https://ilg.usc.es/pronuncia/mp3/k/41.mp3" controls></audio> \[kíui], a forma que usa a filla.
 
 Na miña familia, dicimos todos \[kíbi]. A miña impresión é que esta é tamén a pronuncia maioritaria en galego.
 
