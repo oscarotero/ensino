@@ -13,9 +13,11 @@ Mais as quintas non son os únicos lugares onde podemos encontrar kiwis. A pesar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LNewb3EQav4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Aínda que son moitas as cousas interesantes que se poderían dicir deste froito, o motivo de o traer hoxe aquí é o seu nome. Porque tal como ilustra o anuncio, *kiwi* pode ser pronunciado en galego de dúas formas distintas: \[kíbi], a forma que usa o pai, e \[kíui], a forma que usa a filla.
+Aínda que son moitas as cousas interesantes que se poderían dicir deste froito, o motivo de o traer hoxe aquí é o seu nome. Porque tal como ilustra o anuncio, *kiwi* pode ser pronunciado en galego de dúas formas distintas: 
 
-Clica na ligazón ao *Dicionario de pronuncia galega* e ouve con atención: [Kiwi](https://ilg.usc.es/pronuncia/?pq=&q=kiwi&l=1&c%5B%5D=0)
+<audio src="https://ilg.usc.es/pronuncia/mp3/k/42.mp3" controls></audio> \[kíbi], a forma que usa o pai.
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/k/41.mp3[](https://ilg.usc.es/pronuncia/?pq=&q=kiwi&l=1&c%5B%5D=0)" controls> </audio> \[kíui], a forma que usa a filla.
 
 Na miña familia, dicimos todos \[kíbi]. A miña impresión é que esta é tamén a pronuncia maioritaria en galego.
 
