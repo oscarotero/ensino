@@ -10,7 +10,7 @@ show_toc: false
 
 Clasifica en ditongo e hiato os encontros vocálicos das seguintes palabras:
 
-Exemplo: contin**uo** > <e-answer readonly>ditongo</e-answer>
+contin**uo** > <e-answer readonly>ditongo</e-answer>
 
 comerc**io** > <e-answer>ditongo</e-answer>
 
@@ -48,7 +48,7 @@ cenor**ia** > <e-answer>ditongo</e-answer>
 
 Separa en sílabas as seguintes palabras:
 
-Exemplo: leite > <e-answer readonly>lei-te</e-answer>
+leite > <e-answer readonly>lei-te</e-answer>
 
 doente > <e-answer>do-en-te</e-answer>
 
