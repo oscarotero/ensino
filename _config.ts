@@ -2,8 +2,9 @@ import lume from "lume/mod.ts";
 import slugifyUrls from "lume/plugins/slugify_urls.ts";
 import inline from "lume/plugins/inline.ts";
 import pagefind from "lume/plugins/pagefind.ts";
-import netlifyCms from "lume/plugins/netlify_cms.ts";
-import toc from "https://deno.land/x/lume_markdown_plugins@v0.5.0/toc.ts";
+import decapCMS from "lume/plugins/decap_cms.ts";
+import toc from "https://deno.land/x/lume_markdown_plugins@v0.6.0/toc.ts";
+import nunjucks from "lume/plugins/nunjucks.ts";
 
 const site = lume({
   src: ".",
@@ -15,8 +16,9 @@ site.ignore("README.md")
   .use(slugifyUrls())
   .use(inline())
   .use(pagefind())
-  .use(netlifyCms({
-    netlifyIdentity: true,
+  .use(nunjucks())
+  .use(decapCMS({
+    identity: "netlify",
     previewStyle: "admin/admin.css",
   }))
   .use(toc())

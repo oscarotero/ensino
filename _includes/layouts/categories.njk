@@ -14,8 +14,8 @@ layout: layouts/base.njk
         {% for page in search.pages("type=category '" + id + "'") %}
         <li>
             <h3>
-                <a href="{{ page.data.url | url }}">
-                    {{ page.data.title | md(true) | safe }}
+                <a href="{{ page.url | url }}">
+                    {{ page.title | md(true) | safe }}
                 </a>
             </h3>
 
@@ -36,17 +36,17 @@ layout: layouts/base.njk
 	{% for post in postslist %}
 		<li>
 			<h3>
-				<a href="{{ post.data.url | url }}">
-					{% if post.data.title %}
-						{{ post.data.title | md(true) | safe }}
+				<a href="{{ post.url | url }}">
+					{% if post.title %}
+						{{ post.title | md(true) | safe }}
 					{% else %}
 						Sen título
 					{% endif %}
 				</a>
 			</h3>
-			{% if post.data.summary %}
+			{% if post.summary %}
 				<p>
-					{{ post.data.summary | md(true) | safe }}
+					{{ post.summary | md(true) | safe }}
 				</p>
 			{% endif %}
 		</li>
