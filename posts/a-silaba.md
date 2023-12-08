@@ -60,7 +60,7 @@ As casas brancas son para as sílabas átonas e as amarelas, para as sílabas t�
 
 Monosílabas
 
-Exemplo: <e-answer size=3 highlight readonly>lei</e-answer>
+<e-answer size=3 highlight readonly>lei</e-answer>
 
 <e-answer size=3 highlight>deus</e-answer>
 
@@ -102,18 +102,17 @@ a. Separa en sílabas e indica cal é sílaba tónica:
 
 Se tiveres moitas dúbidas, consulta a pronuncia da palabra no [Dicionario de pronuncia da lingua galega](https://ilg.usc.es/pronuncia/)
 
-Exemplo: heroe: <e-answer readonly>he-ro-e</e-answer> A sílaba tónica é <e-answer readonly>ro</e-answer>
-
-1. acne: <e-answer>ac-ne</e-answer> A sílaba tónica é <e-answer>ac</e-answer>
-2. paxaro: <e-answer>pa-xa-ro</e-answer> A sílaba tónica é <e-answer>xa</e-answer>
-3. atmosfera: <e-answer>at-mos-fe-ra</e-answer> A sílaba tónica é <e-answer>fe</e-answer>
-4. parasito: <e-answer>pa-ra-si-to</e-answer> A sílaba tónica é <e-answer>si</e-answer>
-5. elite:<e-answer>e-li-te</e-answer> A sílaba tónica é <e-answer>li</e-answer>
-6. medula: <e-answer>me-du-la</e-answer> A sílaba tónica é <e-answer>du</e-answer>
-7. neon: <e-answer>ne-on</e-answer> A sílaba tónica é <e-answer>ne</e-answer>
-8. pelicano: <e-answer>pe-li-ca-no</e-answer> A sílaba tónica é <e-answer>ca</e-answer>
-9. diocese: <e-answer>dio-ce-se</e-answer> A sílaba tónica é <e-answer>ce</e-answer>
-10. meteoro: <e-answer>me-te-o-ro</e-answer> A sílaba tónica é <e-answer>o</e-answer>
+1. heroe: <e-answer readonly>he-ro-e</e-answer> A sílaba tónica é <e-answer readonly>ro</e-answer>
+2. acne: <e-answer>ac-ne</e-answer> A sílaba tónica é <e-answer>ac</e-answer>
+3. paxaro: <e-answer>pa-xa-ro</e-answer> A sílaba tónica é <e-answer>xa</e-answer>
+4. atmosfera: <e-answer>at-mos-fe-ra</e-answer> A sílaba tónica é <e-answer>fe</e-answer>
+5. parasito: <e-answer>pa-ra-si-to</e-answer> A sílaba tónica é <e-answer>si</e-answer>
+6. elite:<e-answer>e-li-te</e-answer> A sílaba tónica é <e-answer>li</e-answer>
+7. medula: <e-answer>me-du-la</e-answer> A sílaba tónica é <e-answer>du</e-answer>
+8. neon: <e-answer>ne-on</e-answer> A sílaba tónica é <e-answer>ne</e-answer>
+9. pelicano: <e-answer>pe-li-ca-no</e-answer> A sílaba tónica é <e-answer>ca</e-answer>
+10. diocese: <e-answer>dio-ce-se</e-answer> A sílaba tónica é <e-answer>ce</e-answer>
+11. meteoro: <e-answer>me-te-o-ro</e-answer> A sílaba tónica é <e-answer>o</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -129,17 +128,16 @@ Todas son palabras graves: a sílaba tónica é a penúltima.
 
 Clasifica as seguintes palabras en agudas, graves ou esdrúxulas:
 
-Exemplo: obriga: <e-answer readonly>grave</e-answer>
-
-1. árbore: <e-answer> esdrúxula </e-answer>
-2. caracol: <e-answer> aguda </e-answer>
-3. garavanzo: <e-answer> grave </e-answer>
-4. mísil: <e-answer> grave </e-answer>
-5. frigorífico: <e-answer> esdrúxula </e-answer>
-6. aquí: <e-answer> aguda </e-answer>
-7. festival: <e-answer> aguda </e-answer>
-8. apóstolo: <e-answer> esdrúxula </e-answer>
-9. iogur: <e-answer> aguda </e-answer>
-10. carácter: <e-answer> grave </e-answer>
+1. obriga: <e-answer readonly>grave</e-answer>
+2. árbore: <e-answer> esdrúxula </e-answer>
+3. caracol: <e-answer> aguda </e-answer>
+4. garavanzo: <e-answer> grave </e-answer>
+5. mísil: <e-answer> grave </e-answer>
+6. frigorífico: <e-answer> esdrúxula </e-answer>
+7. aquí: <e-answer> aguda </e-answer>
+8. festival: <e-answer> aguda </e-answer>
+9. apóstolo: <e-answer> esdrúxula </e-answer>
+10. iogur: <e-answer> aguda </e-answer>
+11. carácter: <e-answer> grave </e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
