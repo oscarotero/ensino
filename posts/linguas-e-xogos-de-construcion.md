@@ -110,21 +110,25 @@ Indica de que tipo son as palabras seguintes, de acordo co número de sílabas:
 
 Exemplo: noite > <e-answer readonly>bisílaba</e-answer>
 
-guitarra: <e-answer>trisílaba</e-answer>
+1. guitarra: <e-answer>trisílaba</e-answer>
 
-semáforo: <e-answer>tetrasílaba</e-answer> ou <e-answer>cuadrisílaba</e-answer>
+2. semáforo: <e-answer>tetrasílaba</e-answer> ou <e-answer>cuadrisílaba</e-answer>
 
-pan: <e-answer>monosílaba</e-answer>
+3. pan: <e-answer>monosílaba</e-answer>
 
-libro: <e-answer>bisílaba</e-answer>
+4. libro: <e-answer>bisílaba</e-answer>
 
-almorzar: <e-answer>trisílaba</e-answer>
+5. almorzar: <e-answer>trisílaba</e-answer>
 
-garfo: <e-answer>bisílaba</e-answer>
+6. garfo: <e-answer>bisílaba</e-answer>
 
-felicidade: <e-answer>pentasílaba</e-answer>
+7. felicidade: <e-answer>pentasílaba</e-answer>
 
-domingo: <e-answer>trisílaba</e-answer>
+8. domingo: <e-answer>trisílaba</e-answer>
+
+9. feo: <e-answer>bisílaba</e-answer>
+
+10. aloumiño: <e-answer>tretasílaba</e-answer> ou <e-answer>cuadrisílba</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
