@@ -21,7 +21,7 @@ A estrutura que imos usar é moi simple. Podemos sintetizala na seguinte fórmul
 
 **Grazas por + infinitivo flexionado + o que quixermos agradecer**
 
-Agora só resta imaxinarmos posíbeis situacións e aplicarmos a fórmula. Se o pensares, son moitas as persoas a quen podemos mostrar gratitude ao longo dun día:
+Agora só resta imaxinarmos posíbeis situacións e aplicarmos a fórmula. Se pensares no asunto, son moitas as persoas a quen podemos mostrar gratitude ao longo dun día:
 
 * A un compañeiro de apartamento > *Grazas por preparares o almorzo*
 * A un profesor > *Grazas por mudares a data do exame*
