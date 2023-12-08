@@ -12,7 +12,9 @@ const site = lume({
 });
 
 site.ignore("README.md")
-  .use(slugifyUrls())
+  .use(slugifyUrls({
+    extensions: [".html"],
+  }))
   .use(inline())
   .use(nunjucks())
   .use(decapCMS({
