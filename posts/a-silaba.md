@@ -42,13 +42,13 @@ tónicas:
 
 <e-layout>
 <e-tag color=1>endereitar</e-tag>
-<e-tag color=1>móbil</e-tag>
+<e-tag color=1>roupa</e-tag>
 <e-tag color=1>enigmático</e-tag>
 <e-tag color=1>dificultade</e-tag>
 <e-tag color=1>espello</e-tag>
 <e-tag color=1>minúscula</e-tag>
 <e-tag color=1>xeneralizar</e-tag>
-<e-tag color=1>xampú</e-tag>
+<e-tag color=1>culler</e-tag>
 <e-tag color=1>lóstrego</e-tag>
 <e-tag color=1>deus</e-tag>
 <e-tag color=1>bicicleta</e-tag>
@@ -59,9 +59,9 @@ tónicas:
 
 <e-answer size=3 highlight>deus</e-answer>
 
-<e-answer size=3>xam</e-answer><e-answer size=3 highlight>pú</e-answer>
+<e-answer size=3>cu</e-answer><e-answer size=3 highlight>ller</e-answer>
 
-<e-answer size=3 highlight>mó</e-answer><e-answer size=3>bil</e-answer>
+<e-answer size=3 highlight>rou</e-answer><e-answer size=3>pa</e-answer>
 
 <e-answer size=3>a</e-answer><e-answer size=3>pren</e-answer><e-answer size=3 highlight>diz</e-answer>
 
