@@ -57,13 +57,17 @@ As casas brancas son para as sílabas átonas e as amarelas, para as sílabas t�
 <e-tag color=1>aprendiz</e-tag>
 </e-layout>
 
-
+Monosílabas
 
 <e-answer size=3 highlight>deus</e-answer>
+
+Bisílabas
 
 <e-answer size=3>cu</e-answer><e-answer size=3 highlight>ller</e-answer>
 
 <e-answer size=3 highlight>rou</e-answer><e-answer size=3>pa</e-answer>
+
+Trisílabas
 
 <e-answer size=3>a</e-answer><e-answer size=3>pren</e-answer><e-answer size=3 highlight>diz</e-answer>
 
@@ -71,11 +75,15 @@ As casas brancas son para as sílabas átonas e as amarelas, para as sílabas t�
 
 <e-answer size=3 highlight>lós</e-answer><e-answer size=3>tre</e-answer><e-answer size=3>go</e-answer>
 
+Tetrasílabas ou cuadrisílabas
+
 <e-answer size=3>en</e-answer><e-answer size=3>de</e-answer><e-answer size=3>rei</e-answer><e-answer size=3 highlight>tar</e-answer>
 
 <e-answer size=3>bi</e-answer><e-answer size=3>ci</e-answer><e-answer size=3 highlight>cle</e-answer><e-answer size=3>ta</e-answer>
 
 <e-answer size=3>mi</e-answer><e-answer size=3 highlight>nús</e-answer></e-answer><e-answer size=3>cu</e-answer><e-answer size=3>la</e-answer>
+
+Pentasílabas
 
 <e-answer size=3>xe</e-answer><e-answer size=3>ne</e-answer><e-answer size=3>ra</e-answer><e-answer size=3>li</e-answer><e-answer size=3 highlight>zar</e-answer>
 
@@ -86,6 +94,33 @@ As casas brancas son para as sílabas átonas e as amarelas, para as sílabas t�
 <e-validate>Verifica as respostas</e-validate>
 
 ## Exercicio 2
+
+a. Separa en sílabas e indica cal é sílaba tónica:
+
+Se tiveres moitas dúbidas, consulta a pronuncia da palabra no [Dicionario de pronuncia da lingua galega](https://ilg.usc.es/pronuncia/)
+
+Exemplo: heroe: he - **ro** -e 
+
+1. acne: <e-answer>ac-ne</e-answer> A sílaba tónica é <e-answer>ac</e-answer>
+2. paxaro: <e-answer>pa-xa-ro</e-answer> A sílaba tónica é <e-answer>xa</e-answer>
+3. atmosfera: <e-answer>at-mos-fe-ra</e-answer> A sílaba tónica é <e-answer>fe</e-answer>
+4. parasito: <e-answer>pa-ra-si-to</e-answer> A sílaba tónica é <e-answer>si</e-answer>
+5. elite:<e-answer>e-li-te</e-answer> A sílaba tónica é <e-answer>li</e-answer>
+6. medula: <e-answer>me-du-la</e-answer> A sílaba tónica é <e-answer>du</e-answer>
+7. neon: <e-answer>ne-on</e-answer> A sílaba tónica é <e-answer>ne</e-answer>
+8. pelicano: <e-answer>pe-li-ca-no</e-answer> A sílaba tónica é <e-answer>ca</e-answer>
+9. diocese: <e-answer>dio-ce-se</e-answer> A sílaba tónica é <e-answer>ce</e-answer>
+10. meteoro: <e-answer>me-te-o-ro</e-answer> A sílaba tónica é <e-answer>o</e-answer>
+
+b. Que teñen en común todas estas voces?
+
+<details> <summary>Verifica a resposta</summary>
+
+Todas son palabras graves: a sílaba tónica é a penúltima.
+
+</details>
+
+## Exercicio 3
 
 Clasifica as seguintes palabras en agudas, graves ou esdrúxulas:
 
@@ -102,42 +137,3 @@ Clasifica as seguintes palabras en agudas, graves ou esdrúxulas:
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Exercicio 3
-
-Separa en sílabas e indica cal é sílaba tónica:
-
-Se tiveres moitas dúbidas, consulta a pronuncia da palabra no [Dicionario de pronuncia da lingua galega](https://ilg.usc.es/pronuncia/)
-
-Exemplo: heroe: he - **ro** -e 
-
-1. acne: 
-2. paxaro:
-3. atmosfera:
-4. parasito:
-5. elite:
-6. medula:
-7. neon:
-8. pelicano:
-9. diocese:
-10. meteoro:
-
-Que teñen en común todas estas voces?
-
-<details> <summary>Verifica as respostas</summary>
-
-1. acne: **ac** - ne
-2. paxaro: pa - **xa** - ro
-3. atmosfera: at - mos - **fe** - ra
-4. parasito: pa - ra - **si** - to
-5. elite: e - **li** - te
-6. medula: me - **du** - la
-7. neon: **ne** - on
-8. pelicano: pe - li - **ca** - no
-9. diocese: di - o - **ce** - se
-10. meteoro: me - te - **o** - ro 
-
-Que teñen en común todas estas voces? 
-
-Todas son palabras graves: a sílaba tónica é a penúltima.
-
-</details>
