@@ -105,7 +105,7 @@ Completa as seguintes oracións coas palabras que faltan:
 6. Para facermos pan, necesitamos 4 ingredientes: fariña, auga,
    <e-answer>fermento</e-answer> e sal.
 7. Quere <e-answer>encetar</e-answer> sempre el o molete para comer o
-   <e-answer>rocho</e-answer>.
+   <e-answer>rocho</e-answer>
 8. Está prohibido dar <e-answer>migallas</e-answer> de pan ás pombas.
 9. Non podemos cear un sándwich porque se acabou o <e-answer>pan de forma</e-answer>
 10. As sardiñas asadas con <e-answer>broa</e-answer> son un prato típico da
