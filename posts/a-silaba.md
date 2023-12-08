@@ -120,7 +120,7 @@ Ex.: heroe: he - **ro** -e
 
 Que teñen en común todas estas palabras?
 
-<details> <summary>Ver as solucións</summary>
+<details> <summary>Verifica as respostas</summary>
 
 1. acne: **ac** - ne
 2. paxaro: pa - **xa** - ro
