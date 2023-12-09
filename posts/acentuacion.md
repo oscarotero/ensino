@@ -7,11 +7,11 @@ tags:
 ---
 Neste esquema sintetizamos as regras xerais de uso do acento gráfico en galego.
 
-| Esdrúxulas                                                               | Graves                                                                    | Agudas                                                                   |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| <e-tag color=2>´</e-tag><e-tag color=1>*</e-tag><e-tag color=1>*</e-tag> | <e-tag color=1>*</e-tag><e-tag color=2>´</e-tag><e-tag color=1>*</e-tag>  | <e-tag color=1>*</e-tag><e-tag color=1>*</e-tag><e-tag color=2>´</e-tag> |
-| As palabras esdrúxulas **acentúanse sempre**                             | Só se acabaren nunha **consoante distinta** de ***\-n*, *\-s* ou *\-ns*** | Cando terminaren en **vogal** ou en ***\-n*, *\-s* ou *\-ns***           |
-| Exemplo: *médico*                                                        | Exemplo: *fácil*                                                          | Exemplo: *verán*                                                         |
+| Esdrúxulas                                                               | Graves                                                                    | Agudas                                                                          |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| <e-tag color=2>´</e-tag><e-tag color=1>*</e-tag><e-tag color=1>*</e-tag> | <e-tag color=1>*</e-tag><e-tag color=2>´</e-tag><e-tag color=1>*</e-tag>  | <e-tag color=1>*</e-tag><e-tag color=1>*</e-tag><e-tag color=2>´</e-tag>        |
+| As palabras esdrúxulas **acentúanse sempre**                             | Só se acabaren nunha **consoante distinta** de ***\-n*, *\-s* ou *\-ns*** | Cando terminaren en **vogal** ou en vogal seguida de ***\-n*, *\-s* ou *\-ns*** |
+| Exemplo: *médico*                                                        | Exemplo: *fácil*                                                          | Exemplo: *verán,* mais *robots*                                                 |
 
 - - -
 
@@ -71,7 +71,7 @@ de que doenzas se trata:
 
 <details>
 
-<summary>Ver as respostas</summary>
+<summary>Verifica as respostas</summary>
 
 1. <e-tag color=1>té</e-tag><e-tag color=1>ta</e-tag><e-tag color=1>no</e-tag>
 2. <e-tag color=2>xa</e-tag><e-tag color=2>ram</e-tag><e-tag color=2>pón</e-tag>
@@ -99,7 +99,7 @@ Ex.: **minuscula**: *Minúscula* ten acento porque é unha palabra esdrúxula
 9. ali:
 10. chines:
 
-<details> <summary>Ver as respostas</summary>
+<details> <summary>Verifica as respostas</summary>
 
 1. **difícil**: *Difícil* ten acento porque é unha palabra grave que acaba en consoante *\-l.*
 2. **papel**: *Papel* non se acentúa porque é unha palabra aguda que acaba nunha consoante diferente de *\-n, -s* ou *\-ns.* 
