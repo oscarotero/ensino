@@ -57,6 +57,6 @@ Os monosílabos das seguintes oracións levan acento, si ou non?
 22. Foi a unha praia nudista para poder tomar <e-answer options="sol,sól">sol</e-answer> completamente <e-answer options="nu,nú">nu</e-answer>.
 23. A miña <e-answer options="cor,cór">cor</e-answer> preferida <e-answer options="e,é">é</e-answer> o azul.
 24. Aquí tes unha <e-answer options="pa,pá">pa</e-answer>, ponte a cavar.
-25. Non me contestes nese <e-answer options="ton,tón">ton</e-answer>.
+25. Non me respondas nese <e-answer options="ton,tón">ton</e-answer>.
 
 <e-validate>Verifica as respostas</e-validate>
