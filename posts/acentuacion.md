@@ -103,7 +103,7 @@ Ex.: **minuscula**: *Minúscula* ten acento porque é unha palabra esdrúxula
 
 1. **difícil**: *Difícil* ten acento porque é unha palabra grave que acaba en consoante *\-l.*
 2. **papel**: *Papel* non se acentúa porque é unha palabra aguda que acaba nunha consoante diferente de *\-n, -s* ou *\-ns.* 
-3. **lapis**: *Lapis* non ten gráfico porque é unha palabra grave que acaba en consoante *\-s.*
+3. **lapis**: *Lapis* non ten acento gráfico porque é unha palabra grave que acaba en consoante *\-s.*
 4. **canción**: *Canción* acentúase porque é unha palabra aguda que acaba en *\-n.*
 5. **acuático**: *Acuático* ten acento porque é unha palabra esdrúxula.
 6. **esquimó**: *Esquimó* acentúase porque é unha palabra aguda terminada en vogal.
