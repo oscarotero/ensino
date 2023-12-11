@@ -69,4 +69,4 @@ Completa co verbo no imperativo as seguintes oracións:
 8. O xantar xa está preparado, Óscar, <e-answer>pon</e-answer> (pór) a mesa, por
    favor.
 
-<e-validate>Corrixe as respostas</e-validate>
+<e-validate>Verifica as respostas</e-validate>

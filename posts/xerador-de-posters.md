@@ -29,7 +29,7 @@ Tamén podemos escoller entre usarmos *soup* (**xabón**) ou *gel* (**xel**) par
 
 1. Localiza todos os verbos no imperativo que hai no cartaz anterior.
 
-<details> <summary>Ver as solucións</summary>
+<details> <summary>Verifica as respostas</summary>
 
 1. Molla
 2. Aplica
