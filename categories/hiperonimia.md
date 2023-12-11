@@ -22,7 +22,7 @@ Hipónimos: polgar, índice, maior, anular, maimiño
 
 Hiperónimo: lácteo
 
-Hipónimos: iogur, leite, queixo, manteiga, nata, callada, requeixo, quefir
+Hipónimos: leite, queixo, manteiga, nata, iogur, callada, requeixo, quefir
 
 *Iogur* e *manteiga* son cohipónimos.
 
