@@ -108,7 +108,7 @@ Hipónimos: mosca, mosquito, avespa, abella, tabán, xoaniña, avespa asiática,
 
 Hiperónimo: sobremesa
 
-Hipónimos: torta, xeado, flan, crema de ovo, queixo con marmelo, filloa con nata, froita, arroz doce, mousse, pudin, leito frito
+Hipónimos: torta, xeado, flan, crema de ovo, queixo con marmelo, filloa con nata, froita, arroz doce, mousse, pudin, leite frito
 
 \---
 
