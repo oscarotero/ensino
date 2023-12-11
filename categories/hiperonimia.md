@@ -22,7 +22,7 @@ Hipónimos: polgar, índice, maior, anular, maimiño
 
 Hiperónimo: lácteo
 
-Hipónimos: iogur, leite, queixo, manteiga, callada, requeixo, quefir
+Hipónimos: iogur, leite, queixo, manteiga, nata, callada, requeixo, quefir
 
 *Iogur* e *manteiga* son cohipónimos.
 
@@ -82,7 +82,7 @@ Hipónimos: abelá, améndoa, noz, semente de xirasol, semente de cabaza, pistac
 
 Hipónimos: mosca, mosquito, avespa, abella, tabán, xoaniña, avespa asiática, bolboreta, escaravello, grilo
 
-Hipónimos: torta, xeado, flan, crema de ovo, queixo con marmelo, filloa con nata, froita, arroz doce, mousse, pudin
+Hipónimos: torta, xeado, flan, crema de ovo, queixo con marmelo, filloa con nata, froita, arroz doce, mousse, pudin, leite frito
 
 Hipónimos: alfábega, louro, perexil, tomiño, romeu, coandro, ourego, hortelá, ceboliño
 
@@ -108,7 +108,7 @@ Hipónimos: mosca, mosquito, avespa, abella, tabán, xoaniña, avespa asiática,
 
 Hiperónimo: sobremesa
 
-Hipónimos: torta, xeado, flan, crema de ovo, queixo con marmelo, filloa con nata, froita, arroz doce, mousse, pudin
+Hipónimos: torta, xeado, flan, crema de ovo, queixo con marmelo, filloa con nata, froita, arroz doce, mousse, pudin, leito frito
 
 \---
 
