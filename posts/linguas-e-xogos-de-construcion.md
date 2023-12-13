@@ -121,7 +121,7 @@ Indica de que tipo son as palabras seguintes, de acordo co número de sílabas:
 8. felicidade: <e-answer>pentasílaba</e-answer>
 9. domingo: <e-answer>trisílaba</e-answer>
 10. feo: <e-answer>bisílaba</e-answer>
-11. aloumiño: <e-answer>tretasílaba</e-answer> ou <e-answer>cuadrisílba</e-answer>
+11. aloumiño: <e-answer>tetrasílaba</e-answer> ou <e-answer>cuadrisílaba</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
