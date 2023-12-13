@@ -20,6 +20,7 @@ site.ignore("README.md")
   .use(decapCMS({
     identity: "netlify",
     previewStyle: "admin/admin.css",
+    proxyCommand: "npx decap-server"
   }))
   .use(toc())
   .copy("admin")
