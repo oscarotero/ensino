@@ -3,7 +3,6 @@ title: A sílaba
 summary: Definición, tipos e exercicios
 tags:
   - silaba
-  - 1 ESO
 ---
 Denominamos sílaba a cada golpe de voz con que pronunciamos unha palabra.
 
