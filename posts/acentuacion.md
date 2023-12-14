@@ -4,8 +4,6 @@ summary: null
 tags:
   - acentuacion
   - 1 ESO
-  - 3_ESO
-  - 4_ESO
 ---
 Neste esquema sintetizamos as regras xerais de uso do acento gráfico en galego.
 
