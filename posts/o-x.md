@@ -4,6 +4,7 @@ summary: "[ʃ] vs. [ks]"
 tags:
   - sons_consonanticos
   - 3_ESO
+  - 4_ESO
 ---
 
 O x ten en galego dúas pronuncias distintas: como en _xeado_ e como en _sexto._
