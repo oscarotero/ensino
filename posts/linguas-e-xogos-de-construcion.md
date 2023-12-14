@@ -139,6 +139,6 @@ Separa en sílabas as seguintes palabras:
 8. guión: <e-answer>gui-ón</e-answer>
 9. ademais: <e-answer>a-de-mais</e-answer>
 10. premio: <e-answer>pre-mio</e-answer>
-11. científico: <e-answer>cien-tí-fico</e-answer>
+11. científico: <e-answer>cien-tí-fi-co</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
