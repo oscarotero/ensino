@@ -48,9 +48,11 @@ Agora que o sabes, pon en plural as seguintes palabras:
 3. prexudicial <e-answer>prexudiciais</e-answer>
 4. material <e-answer>materiais</e-answer>
 5. xenial <e-answer>xeniais</e-answer>
-6. actual: <e-answer>actuais</e-answer>
-7. habitual <e-answer>habituais</e-answer>
-8. virtual <e-answer>virtuais</e-answer>
-9. anual <e-answer>anuais</e-answer>
+6. industrial <e-answer>industriais</e-answer>
+7. actual: <e-answer>actuais</e-answer>
+8. habitual <e-answer>habituais</e-answer>
+9. virtual <e-answer>virtuais</e-answer>
+10. anual <e-answer>anuais</e-answer>
+11. homosexual <e-answer>homosexuais</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
