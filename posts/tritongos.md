@@ -39,7 +39,7 @@ Separa as palabras en sílabas. Despois, clasifica en ditongo, hiato ou tritongo
 
 A pesar de os tritongos seren moi pouco frecuentes en galego, encontrámolos no plural das palabras terminadas en *\-ial* e *\-ual.* Trátase de palabras agudas de máis de unha sílaba que forman o plural trocando o -l final por un *\-is.*
 
-Agora que o sabes, pon en plural as seguintes palabras. 
+Agora que o sabes, pon en plural as seguintes palabras:
 
 1. artificial <e-answer readonly>artificiais</e-answer> 
 2. social <e-answer>sociais</e-answer>
