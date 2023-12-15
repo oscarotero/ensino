@@ -34,3 +34,21 @@ Separa as palabras en sílabas. Despois, clasifica en ditongo, hiato ou tritongo
 11. cafeína: <e-answer>ca-fe-í-na</e-answer> <e-answer>hiato</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
+
+### Exercicio 2
+
+A pesar de os tritongos seren moi pouco frecuentes en galego, encontrámolos no plural das palabras terminadas en *\-ial* e *\-ual.* Trátase de palabras agudas de máis de unha sílaba que forman o plural trocando o *\-*l final por *\-is.*
+
+Agora que o sabes, pon en plural as seguintes palabras. 
+
+1. artificial <e-answer readonly>artificiais</e-answer> 
+2. social <e-answer>sociais</e-answer> <e-answer>
+3. prexudicial <e-answer>prexudiciais</e-answer>
+4. material <e-answer>materiais</e-answer>
+5. xenial <e-answer>xeniais</e-answer>
+6. actual: <e-answer>actuais</e-answer>
+7. habitual <e-answer>habituais</e-answer>
+8. virtual <e-answer>virtuais</e-answer>
+9. anual <e-answer>anuais</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
