@@ -1,6 +1,6 @@
 ---
 title: Ditongo ou  hiato?
-summary: Exercicios
+summary: ""
 tags:
   - silaba
 draft: false

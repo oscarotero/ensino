@@ -1,6 +1,6 @@
 ---
 title: Ditongos e hiatos
-summary: Definición, tipos e un exercicio
+summary: ""
 tags:
   - silaba
 ---
