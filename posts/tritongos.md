@@ -15,11 +15,13 @@ Cando as tres vogais que van seguidas fan parte de sílabas distintas, non se tr
 
 Exemplos: *fieito (fi - ei - to), actuou (ac-tu-ou), raia (ra-ia)* 
 
-Agora é a túa vez!
+## Agora é a túa vez!
 
-Separa as palabras en sílabas. Clasifica en ditongo, hiato ou tritongo os encontros vocálicos que houber:
+### Exercicio 1
 
-1. adecuei: <e-answer readonly>a-de-cuei</e-answer> <e-answer>tritongo</e-answer>
+Separa as palabras en sílabas. Despois, clasifica en ditongo, hiato ou tritongo os encontros vocálicos que houber:
+
+1. adecuei: <e-answer readonly>a-de-cuei</e-answer> <e-answer readonly>tritongo</e-answer>
 2. apoio: <e-answer>a-po-io</e-answer> <e-answer>ditongo</e-answer>
 3. continuou: <e-answer>con-ti-nu-ou</e-answer> <e-answer>ditongo</e-answer>
 4. dúas: <e-answer>dú-as</e-answer> <e-answer>hiato</e-answer> 
