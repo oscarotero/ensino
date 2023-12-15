@@ -42,7 +42,7 @@ A pesar de os tritongos seren moi pouco frecuentes en galego, encontrámolos no 
 Agora que o sabes, pon en plural as seguintes palabras. 
 
 1. artificial <e-answer readonly>artificiais</e-answer> 
-2. social <e-answer>sociais</e-answer> <e-answer>
+2. social <e-answer>sociais</e-answer>
 3. prexudicial <e-answer>prexudiciais</e-answer>
 4. material <e-answer>materiais</e-answer>
 5. xenial <e-answer>xeniais</e-answer>
