@@ -41,7 +41,7 @@ A pesar de os tritongos seren moi pouco frecuentes en galego, encontrámolos no 
 
 Trátase de palabras agudas de máis de unha sílaba que forman o plural trocando o **\-l** final por un **\-is**.
 
-Agora que o sabes, pon en plural as seguintes palabras e fai aparecer os tritongos:
+Agora que o sabes, pon en plural as seguintes palabras para os tritongos apareceren:
 
 1. especial <e-answer readonly>especiais</e-answer> 
 2. social <e-answer>sociais</e-answer>
