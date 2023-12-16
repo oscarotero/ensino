@@ -79,33 +79,33 @@ Monosílabas
 
 Bisílabas
 
-<e-answer size=3>cu</e-answer><e-answer size=3 highlight>ller</e-answer>
+<e-answer size=3>cu</e-answer> - <e-answer size=3 highlight>ller</e-answer>
 
-<e-answer size=3 highlight>rou</e-answer><e-answer size=3>pa</e-answer>
+<e-answer size=3 highlight>rou</e-answer> - <e-answer size=3>pa</e-answer>
 
 Trisílabas
 
-<e-answer size=3>a</e-answer><e-answer size=3>pren</e-answer><e-answer size=3 highlight>diz</e-answer>
+<e-answer size=3>a</e-answer> - <e-answer size=3>pren</e-answer> - <e-answer size=3 highlight>diz</e-answer>
 
-<e-answer size=3>es</e-answer><e-answer size=3 highlight>pe</e-answer><e-answer size=3>llo</e-answer>
+<e-answer size=3>es</e-answer> - <e-answer size=3 highlight>pe</e-answer> - <e-answer size=3>llo</e-answer>
 
-<e-answer size=3 highlight>lós</e-answer><e-answer size=3>tre</e-answer><e-answer size=3>go</e-answer>
+<e-answer size=3 highlight>lós</e-answer> - <e-answer size=3>tre</e-answer> - <e-answer size=3>go</e-answer>
 
 Tetrasílabas ou cuadrisílabas
 
-<e-answer size=3>en</e-answer><e-answer size=3>de</e-answer><e-answer size=3>rei</e-answer><e-answer size=3 highlight>tar</e-answer>
+<e-answer size=3>en</e-answer> - <e-answer size=3>de</e-answer> - <e-answer size=3>rei</e-answer> - <e-answer size=3 highlight>tar</e-answer>
 
-<e-answer size=3>bi</e-answer><e-answer size=3>ci</e-answer><e-answer size=3 highlight>cle</e-answer><e-answer size=3>ta</e-answer>
+<e-answer size=3>bi</e-answer> - <e-answer size=3>ci</e-answer> - <e-answer size=3 highlight>cle</e-answer> - <e-answer size=3>ta</e-answer>
 
-<e-answer size=3>mi</e-answer><e-answer size=3 highlight>nús</e-answer></e-answer><e-answer size=3>cu</e-answer><e-answer size=3>la</e-answer>
+<e-answer size=3>mi</e-answer> - <e-answer size=3 highlight>nús</e-answer> - <e-answer size=3>cu</e-answer> - <e-answer size=3>la</e-answer>
 
 Pentasílabas
 
-<e-answer size=3>xe</e-answer><e-answer size=3>ne</e-answer><e-answer size=3>ra</e-answer><e-answer size=3>li</e-answer><e-answer size=3 highlight>zar</e-answer>
+<e-answer size=3>xe</e-answer> - <e-answer size=3>ne</e-answer> - <e-answer size=3>ra</e-answer> - <e-answer size=3>li</e-answer> - <e-answer size=3 highlight>zar</e-answer>
 
-<e-answer size=3>di</e-answer><e-answer size=3>fi</e-answer><e-answer size=3>cul</e-answer><e-answer size=3 highlight>ta</e-answer><e-answer size=3>de</e-answer>
+<e-answer size=3>di</e-answer> - <e-answer size=3>fi</e-answer> - <e-answer size=3>cul</e-answer> - <e-answer size=3 highlight>ta</e-answer> - <e-answer size=3>de</e-answer>
 
-<e-answer size=3>e</e-answer><e-answer size=3>nig</e-answer><e-answer size=3 highlight>má</e-answer><e-answer size=3>ti</e-answer><e-answer size=3>co</e-answer>
+<e-answer size=3>e</e-answer> - <e-answer size=3>nig</e-answer> - <e-answer size=3 highlight>má</e-answer> - <e-answer size=3>ti</e-answer> - <e-answer size=3>co</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
