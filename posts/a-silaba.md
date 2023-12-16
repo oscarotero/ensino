@@ -8,7 +8,7 @@ Denominamos sílaba a cada golpe de voz con que pronunciamos unha palabra.
 
 Exemplos:
 
-<e-answer readonly=3>a</e-answer> - <e-answer size=3 highlight readonly>nel</e-answer>, <e-answer size=3 highlight readonly>mó - <e-answer readonly=3>bil</e-answer>, <e-answer readonly=3>lim</e-answer> - <e-answer size=3 highlight readonly>pe</e-answer> - <e-answer readonly=3>za</e-answer>
+<e-answer size=3 readonly>a</e-answer> - <e-answer size=3 highlight readonly>nel</e-answer>, <e-answer size=3 highlight readonly>mó</e-answer> - <e-answer size=3 readonly>bil</e-answer>, <e-answer size=3 readonly>lim</e-answer> - <e-answer size=3 highlight readonly>pe</e-answer> - <e-answer size=3 readonly>za</e-answer>
 
 ## Sílabas tónicas e átonas
 
@@ -18,13 +18,13 @@ sílabas átonas.
 
 Exemplo:
 
-pataca: <e-answer size=3>pa</e-answer> (sílaba átona) - <e-answer size=3 highlight readonly>ta</e-answer> (sílaba tónica) - <e-answer size=3>ca</e-answer> (sílaba átona)
+pataca: <e-answer size=3 readonly>pa</e-answer> (sílaba átona) - <e-answer size=3 highlight readonly>ta</e-answer> (sílaba tónica) - <e-answer size=3 readonly>ca</e-answer> (sílaba átona)
 
 As palabras dunha única sílaba poden ser tónicas ou átonas.
 
 Exemplos:
 
-<e-answer size=3 highlight readonly>nós</e-answer> (sílaba tónica) vs. <e-answer size=3>nos</e-answer> (sílaba átona) > A **nós** non **nos** dixo nada
+<e-answer size=3 highlight readonly>nós</e-answer> (sílaba tónica) vs. <e-answer size=3 readonly>nos</e-answer> (sílaba átona) > A **nós** non **nos** dixo nada
 
 ## Tipos de palabras segundo a posición da sílaba tónica
 
