@@ -118,11 +118,9 @@ Se tiveres moitas dúbidas, consulta a pronuncia da palabra no [Dicionario de pr
 
 b. Que teñen en común todas estas voces?
 
-<details> <summary>Verifica a resposta</summary>
+Todas son palabras <e-answer>graves</e-answer>: a sílaba tónica é a <e-answer>penúltima</e-answer>
 
-Todas son palabras graves: a sílaba tónica é a penúltima.
-
-</details>
+<e-validate>Verifica as respostas</e-validate>
 
 ## Exercicio 3
 
