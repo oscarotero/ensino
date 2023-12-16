@@ -14,7 +14,7 @@
 		<script type="module" src="/js/components/validate.js"></script>
 
 		<script>
-			if (document.location.hash.startsWith("#invite_token=")) {
+			if (document.location.hash.startsWith("#invite_token=") || document.location.hash.startsWith("#recovery_token=")) {
 				document.location = "./admin/" + document.location.hash;
 			}
 		</script>
