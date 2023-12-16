@@ -129,7 +129,7 @@ Se tiveres moitas dúbidas, consulta a pronuncia da palabra no [Dicionario de pr
 
 <e-validate>Verifica as respostas</e-validate>
 
-b. Que teñen en común todas estas voces?
+b. O que teñen en común todas estas voces?
 
 Todas son palabras <e-answer>graves</e-answer>: a sílaba tónica é a <e-answer>penúltima</e-answer>
 
