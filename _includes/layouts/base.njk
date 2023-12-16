@@ -12,12 +12,6 @@
 		<script type="module" src="/js/components/layout.js"></script>
 		<script type="module" src="/js/components/tag.js"></script>
 		<script type="module" src="/js/components/validate.js"></script>
-
-		<script>
-			if (document.location.hash.startsWith("#invite_token=") || document.location.hash.startsWith("#recovery_token=")) {
-				document.location = "./admin/" + document.location.hash;
-			}
-		</script>
 	</head>
 
 	<body>
