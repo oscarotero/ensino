@@ -7,13 +7,13 @@ show_toc: false
 ---
 Tres vogais seguidas que se pronuncian nunha mesma sílaba forman un tritongo. Os tritongos presentan a seguinte estrutura: 
 
-semivogal *(i, u)* + vogal aberta *(a, e, o)* + semivogal *(i, u)*
+semivogal (i, u) + vogal aberta (a, e, o) + semivogal (i, u)
 
-Exemplos: *artificiais (ar-ti-fi-c**iai**s), acariciei (a-ca-ri-c**iei**), anunciou (a-nun-c**iou**)*
+Exemplos: artificiais (ar-ti-fi-c**iai**s), acariciei (a-ca-ri-c**iei**), anunciou (a-nun-c**iou**)
 
 Cando as tres vogais que van seguidas fan parte de sílabas distintas, non se trata dun tritongo. 
 
-Exemplos: *fieito (fi - ei - to), actuou (ac-tu-ou), raia (ra-ia)* 
+Exemplos: fieito (fi - ei - to), actuou (ac-tu-ou), raia (ra-ia) 
 
 ## Agora é a túa vez!
 
@@ -37,11 +37,11 @@ Separa as palabras en sílabas. Despois, clasifica en ditongo, hiato ou tritongo
 
 ### Exercicio 2
 
-A pesar de os tritongos seren moi pouco frecuentes en galego, encontrámolos no plural das palabras terminadas en *\-ial* e *\-ual.* 
+A pesar de os tritongos seren moi pouco frecuentes en galego, encontrámolos no plural das palabras terminadas en **\-ial** e **\-ual**. 
 
-Trátase de palabras agudas de máis de unha sílaba que forman o plural trocando o -l final por un *\-is.*
+Trátase de palabras agudas de máis de unha sílaba que forman o plural trocando o **\-l** final por un **\-is**.
 
-Agora que o sabes, pon en plural as seguintes palabras:
+Agora que o sabes, pon en plural as seguintes palabras e fai aparecer os tritongos:
 
 1. especial <e-answer readonly>especiais</e-answer> 
 2. social <e-answer>sociais</e-answer>
