@@ -6,7 +6,7 @@ tags:
 ---
 Denominamos sílaba a cada golpe de voz con que pronunciamos unha palabra.
 
-Ex.: a - nel, mó - bil, lim - pe - za
+Ex.: <e-answer readonly=3>a</e-answer> - <e-answer size=3 highlight readonly>nel</e-answer>, <e-answer size=3 highlight readonly>mó - <e-answer readonly=3>bil</e-answer>, <e-answer readonly=3>lim</e-answer> - <e-answer size=3 highlight readonly>pe</e-answer> - <e-answer readonly=3>za</e-answer>
 
 ## Sílabas tónicas e átonas
 
@@ -14,23 +14,20 @@ Non todas as sílabas das palabras se pronuncian coa mesma intensidade. A sílab
 tónica dunha palabra é a que se pronuncia con maior intensidade; as demais son
 sílabas átonas.
 
-Ex. pataca: pa (sílaba átona) - ta (sílaba tónica) - ca (sílaba átona)
+Ex. pataca: <e-answer size=3>pa</e-answer> (sílaba átona) - <e-answer size=3 highlight readonly>ta</e-answer> (sílaba tónica) - <e-answer size=3>ca</e-answer> (sílaba átona)
 
 As palabras dunha única sílaba poden ser tónicas ou átonas.
 
-Ex. nós (sílaba tónica) vs. nos (sílaba átona): A **nós** non **nos** dixo nada
+Ex. <e-answer size=3 highlight readonly>nós</e-answer> (sílaba tónica) vs. <e-answer size=3>nos</e-answer> (sílaba átona): A **nós** non **nos** dixo nada
 
 ## Tipos de palabras segundo a posición da sílaba tónica
 
 Atendendo á situación da sílaba tónica na palabra, podemos distinguir palabras
 agudas, graves e esdrúxulas.
 
-* As palabras agudas teñen tónica a última sílaba: portu**gués**, xor**nal**,
-  a**mar**
-* As palabras graves teñen tónica a penúltima sílaba: **bar**co, es**tre**la,
-  **fá**cil
-* As palabras esdrúxulas teñen tónica a antepenúltima sílaba: **lám**pada,
-  te**lé**fono, **mé**dico
+* As palabras agudas teñen tónica a última sílaba: portu**gués**, xor**nal**, a**mar**
+* As palabras graves teñen tónica a penúltima sílaba: **bar**co, es**tre**la, **fá**cil
+* As palabras esdrúxulas teñen tónica a antepenúltima sílaba: **lám**pada, te**lé**fono, **mé**dico
 
 - - -
 
