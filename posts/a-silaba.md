@@ -35,9 +35,15 @@ A **nós** non **nos** dixo nada 👉<e-answer size=3 highlight readonly>nós</e
 Atendendo á situación da sílaba tónica na palabra, podemos distinguir palabras
 agudas, graves e esdrúxulas.
 
-* As palabras agudas teñen tónica a última sílaba: <e-answer size=3 readonly>a</e-answer><e-answer size=3 highlight readonly>mar</e-answer>
-* As palabras graves teñen tónica a penúltima sílaba: <e-answer size=3 readonly>es</e-answer><e-answer size=3 highlight readonly>tre</e-answer><<e-answer size=3 readonly>la</e-answer>
-* As palabras esdrúxulas teñen tónica a antepenúltima sílaba: <e-answer size=3 highlight readonly>lám</e-answer><e-answer size=3 readonly>pa</e-answer><e-answer size=3 readonly>da</e-answer>
+* As palabras agudas teñen tónica a última sílaba: 
+
+  <e-answer size=3 readonly>a</e-answer>- <e-answer size=3 highlight readonly>mar</e-answer>
+* As palabras graves teñen tónica a penúltima sílaba:
+
+  <e-answer size=3 readonly>es</e-answer> - <e-answer size=3 highlight readonly>tre</e-answer> - <e-answer size=3 readonly>la</e-answer>
+* As palabras esdrúxulas teñen tónica a antepenúltima sílaba: 
+
+  <e-answer size=3 highlight readonly>lám</e-answer> - <e-answer size=3 readonly>pa</e-answer> - <e-answer size=3 readonly>da</e-answer>
 
 - - -
 
