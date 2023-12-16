@@ -49,7 +49,7 @@ agudas, graves e esdrúxulas.
 
 ## Exercicio 1
 
-Separa en sílabas e sitúaas nos lugares que lles correspondan.
+Clasifica as seguintes palabras en monosílabas, bisílabas, trisílabas, tetrasílabas ou cuadrisílabas e pentasílabas. Coloca a sílaba de cada unha delas no lugar que lle corresponde.
 
 Repara nisto!
 
