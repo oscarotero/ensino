@@ -63,9 +63,9 @@ Os sons e as sílabas non se combinan de calquera maneira. Existen unha serie de
 
 ### Exercicio 1
 
-Agora que xa coñeces a técnica, imos xogar a construír palabras!
+Agora que coñeces a técnica, imos construír palabras!
 
-Forma sete palabras agrupando e ordenando as sílabas de cada cor:
+Forma oito palabras agrupando e ordenando as sílabas de cada cor:
 
 <e-layout>
 <e-tag color=6>nás</e-tag>
