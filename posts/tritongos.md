@@ -9,7 +9,7 @@ Tres vogais seguidas que se pronuncian nunha mesma sílaba forman un tritongo. O
 
 semivogal (i, u) + vogal aberta (a, e, o) + semivogal (i, u)
 
-Exemplos: artificiais (ar-ti-fi-c**iai**s), acariciei (a-ca-ri-c**iei**), anunciou (a-nun-c**iou**)
+Exemplos: residuais (resid**uai**s), acariciei (a-ca-ri-c**iei**), cambiou (cam-b**iou**)
 
 Cando as tres vogais que van seguidas fan parte de sílabas distintas, non se trata dun tritongo. 
 
@@ -23,12 +23,12 @@ Separa as palabras en sílabas. Despois, clasifica en ditongo, hiato ou tritongo
 
 1. adecuei: <e-answer readonly>a-de-cuei</e-answer> <e-answer readonly>tritongo</e-answer>
 2. apoio: <e-answer>a-po-io</e-answer> <e-answer>ditongo</e-answer>
-3. continuou: <e-answer>con-ti-nu-ou</e-answer> <e-answer>ditongo</e-answer>
+3. xoieiro: <e-answer>xo-iei-ro</e-answer> <e-answer>tritongo</e-answer>
 4. dúas: <e-answer>dú-as</e-answer> <e-answer>hiato</e-answer> 
-5. visuais: <e-answer>vi-suais</e-answer> <e-answer>tritongo</e-answer>
+5. chuvieira: <e-answer>chu-viei-ra</e-answer> <e-answer>tritongo</e-answer>
 6. alegría: <e-answer>a-le-grí-a</e-answer> <e-answer>hiato</e-answer>
 7. gaita: <e-answer>gai-ta</e-answer> <e-answer>ditongo</e-answer>
-8. iguais: <e-answer>i-guais</e-answer> <e-answer>tritongo</e-answer>
+8. fieis: <e-answer>fieis</e-answer> <e-answer>tritongo</e-answer>
 9. miúdo: <e-answer>mi-ú-do</e-answer> <e-answer>hiato</e-answer>
 10. Uruguai: <e-answer>U-ru-guai</e-answer> <e-answer>tritongo</e-answer>
 11. cafeína: <e-answer>ca-fe-í-na</e-answer> <e-answer>hiato</e-answer>
@@ -37,22 +37,21 @@ Separa as palabras en sílabas. Despois, clasifica en ditongo, hiato ou tritongo
 
 ### Exercicio 2
 
-A pesar de os tritongos seren moi pouco frecuentes en galego, encontrámolos no plural das palabras terminadas en **\-ial** e **\-ual**. 
+A pesar de os tritongos seren moi pouco frecuentes en galego, encontrámolos no plural das palabras terminadas en **\-ial**.
 
-Trátase de palabras agudas de máis de unha sílaba que forman o plural trocando o **\-l** final por un **\-is**.
+Trátase de palabras agudas de máis de unha sílaba que forman o plural trocando o **\-l** final polo **\-is**.
 
 Agora que o sabes, pon en plural as seguintes palabras para os tritongos apareceren:
 
-1. especial <e-answer readonly>especiais</e-answer> 
-2. social <e-answer>sociais</e-answer>
-3. prexudicial <e-answer>prexudiciais</e-answer>
-4. material <e-answer>materiais</e-answer>
-5. xenial <e-answer>xeniais</e-answer>
-6. industrial <e-answer>industriais</e-answer>
-7. actual: <e-answer>actuais</e-answer>
-8. habitual <e-answer>habituais</e-answer>
-9. virtual <e-answer>virtuais</e-answer>
-10. anual <e-answer>anuais</e-answer>
-11. homosexual <e-answer>homosexuais</e-answer>
+1. especiais: <e-answer readonly>especiais</e-answer> 
+2. bestial: <e-answer>bestiais</e-answer>
+3. prexudicial: <e-answer>prexudiciais</e-answer>
+4. material: <e-answer>materiais</e-answer>
+5. xenial: <e-answer>xeniais</e-answer>
+6. industrial: <e-answer>industriais</e-answer>
+7. oficial: <e-answer>oficiais</e-answer>
+8. artificial: <e-answer>artificiais</e-answer>
+9. ecuatorial: <e-answer>ecuatoriais</e-answer>
+10. celestial: <e-answer>celestiais</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
