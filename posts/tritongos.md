@@ -23,7 +23,7 @@ Separa as palabras en sílabas. Despois, clasifica en ditongo, hiato ou tritongo
 
 1. adecuei: <e-answer readonly>a-de-cuei</e-answer> <e-answer readonly>tritongo</e-answer>
 2. apoio: <e-answer>a-po-io</e-answer> <e-answer>ditongo</e-answer>
-3. xoieiro: <e-answer>xo-iei-ro</e-answer> <e-answer>tritongo</e-answer>
+3. iguais: <e-answer>i-guais</e-answer> <e-answer>tritongo</e-answer>
 4. dúas: <e-answer>dú-as</e-answer> <e-answer>hiato</e-answer> 
 5. chuvieira: <e-answer>chu-viei-ra</e-answer> <e-answer>tritongo</e-answer>
 6. alegría: <e-answer>a-le-grí-a</e-answer> <e-answer>hiato</e-answer>
