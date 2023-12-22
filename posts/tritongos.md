@@ -11,9 +11,9 @@ Tres vogais seguidas que se pronuncian nunha mesma sílaba forman un tritongo. O
 
 semivogal (i, u) + vogal aberta (a, e, o) + semivogal (i, u)
 
-</article>
-
 Exemplos: residuais (resid**uai**s), acariciei (a-ca-ri-c**iei**), cambiou (cam-b**iou**)
+
+</article>
 
 Cando as tres vogais que van seguidas fan parte de sílabas distintas, non se trata dun tritongo. 
 
