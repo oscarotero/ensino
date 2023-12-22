@@ -7,9 +7,9 @@ show_toc: false
 ---
 ## Isto como é que era?
 
-<article>
-
 A explicación rápida 👉
+
+<article>
 
 Ditongo = 3 vogais seguidas nunha mesma sílaba Ex.: Pa-ra-g**uai**
 
