@@ -5,11 +5,11 @@ tags:
 draft: false
 show_toc: false
 ---
-## Esqueciches o que era ditongo, tritongo e hiato?
+## Esquecícheste da diferenza entre eles?
 
 <article>
 
-Aquí tes a explicación rápida:
+A explicación rápida 👉
 
 Ditongo = 3 vogais seguidas nunha mesma sílaba Ex.: Pa-ra-g**uai**
 
