@@ -7,7 +7,11 @@ show_toc: false
 ---
 Tres vogais seguidas que se pronuncian nunha mesma sílaba forman un tritongo. Os tritongos presentan a seguinte estrutura: 
 
+<article>
+
 semivogal (i, u) + vogal aberta (a, e, o) + semivogal (i, u)
+
+</article>
 
 Exemplos: residuais (resid**uai**s), acariciei (a-ca-ri-c**iei**), cambiou (cam-b**iou**)
 
