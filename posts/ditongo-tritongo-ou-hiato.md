@@ -36,3 +36,5 @@ Separa as palabras en sílabas. Despois, clasifica en ditongo, hiato ou tritongo
 9. partiu: <e-answer>par-tiu</e-answer> <e-answer>ditongo</e-answer>
 10. dieta: <e-answer>die-ta</e-answer> <e-answer>ditongo</e-answer>
 11. nuclear: <e-answer>nu-cle-ar</e-answer> <e-answer>hiato</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
