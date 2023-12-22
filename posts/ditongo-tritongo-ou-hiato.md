@@ -7,7 +7,7 @@ show_toc: false
 ---
 ## Isto como é que era?
 
-A explicación rápida 👉
+A explicación rápida 👇
 
 <article>
 
