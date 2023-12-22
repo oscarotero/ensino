@@ -5,7 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
-## Esqueciches o que era ditongo, tritongo e hiato? 
+## Esqueciches o que era ditongo, tritongo e hiato?
 
 <article>
 
@@ -21,11 +21,11 @@ Hiato = 2 vogais seguidas en dúas sílabas distintas  Ex.: r**ú** - **a**
 
 Con todo, é mellor reveres os post [Ditongos e hiatos](https://laurarubio.net/posts/ditongos-e-hiatos/) e [Tritongos](https://laurarubio.net/posts/tritongos/), antes de faceres o exercicio.
 
-## Exercicio 
+## Exercicio
 
 Separa as palabras en sílabas. Despois, clasifica en ditongo, hiato ou tritongo os encontros vocálicos que houber:
 
-1. cousa: <e-answer readonly>cou-sa</e-answer> <e-answer>ditongo</e-answer>
+1. cousa: <e-answer readonly>cou-sa</e-answer> <e-answer readonly>ditongo</e-answer>
 2. xoieiro: <e-answer>xo-iei-ro</e-answer> <e-answer>tritongo</e-answer>
 3. estación: <e-answer>es-ta-ción</e-answer> <e-answer>ditongo</e-answer>
 4. maneira: <e-answer>ma-nei-ra</e-answer> <e-answer>ditongo</e-answer>
