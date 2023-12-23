@@ -105,6 +105,8 @@ env<mark>e</mark>xa: <audio src="https://ilg.usc.es/pronuncia/mp3/e/1918.mp3" co
 
 s<mark>e</mark>sta: <audio src="https://ilg.usc.es/pronuncia/mp3/s/1313.mp3" controls> </audio> <e-answer>aberto</e-answer>
 
+<e-validate>Verifica a resposta</e-validate>
+
 ## Serie 5
 
 b<mark>é</mark>bedo: <audio src="https://ilg.usc.es/pronuncia/mp3/b/773.mp3" controls> </audio> <e-answer>fechado</e-answer>
