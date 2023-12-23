@@ -47,9 +47,9 @@ Por que?
 
 Trátase de palabras todas que derivan dunha forma latina que tiña un *e* breve: Ĕ. 
 
-Exemplo: SĔXTU > s/ε/xto
+Exemplo: FĔSTA > f/ε/sta 
 
-<audio src="https://ilg.usc.es/pronuncia/mp3/s/1370.mp3" controls> </audio> 
+<audio src="https://ilg.usc.es/pronuncia/mp3/f/831.mp3" controls> </audio> 
 
 Este Ĕ tónico deu un *e* <e-answer>aberto</e-answer> en galego, en canto que en castelán deu o ditongo *\-ie-.* Evidentemente, hai excepcións, mais esta regra verifícase en moitos casos. 
 
