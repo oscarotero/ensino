@@ -127,7 +127,7 @@ Ouve con atención o audio e, a continuación, escribe aberto ou fechado no cadr
 
 p<mark>e</mark>l:
 
-<audio src="https://ilg.usc.es/pronuncia/mp3/q/88.mp3" controls> </audio> <e-answer>aberto</e-answer>
+<audio src="https://ilg.usc.es/pronuncia/mp3/p/1455.mp3" controls> </audio> <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
