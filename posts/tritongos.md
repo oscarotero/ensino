@@ -17,7 +17,7 @@ Exs.: residuais (re-si-d**uai**s), acariciei (a-ca-ri-c**iei**), cambiou (cam-b*
 
 Cando as tres vogais que van seguidas fan parte de sílabas distintas, non se trata dun tritongo. 
 
-Exemplos: fieito (fi - ei - to), actuou (ac-tu-ou), raia (ra-ia) 
+Exs.: fieito (fi - ei - to), actuou (ac-tu-ou), raia (ra-ia) 
 
 ## Agora é a túa vez!
 
