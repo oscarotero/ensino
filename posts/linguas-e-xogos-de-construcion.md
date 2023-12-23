@@ -27,37 +27,31 @@ Os sons e as sílabas non se combinan de calquera maneira. Existen unha serie de
 
 3. Dúas vogais contiguas poden pertencer á mesma sílaba ou a sílabas diferentes:
 
-* Pertencen á mesma sílaba cando as pronunciamos xuntas nunha soa emisión de
-  voz. Cando isto acontece, dicimos que as dúas vogais forman un **ditongo**
-  (Ex.: pa-c**ie**n-c**ia**)
-* Polo contrario, se as pronunciamos en sílabas diferentes, forman un **hiato**:
-  a-r-**e-a**
+* Pertencen á mesma sílaba cando as pronunciamos xuntas nunha soa emisión de voz. Cando isto acontece, dicimos que as dúas vogais forman un **ditongo**. Ex.: pa-c**ie**n-c**ia**
+* Polo contrario, se as pronunciamos en sílabas diferentes, forman un **hiato**. Ex.: a-r-**e-a**
 
-4. Mesmo hai sílabas con até tres vogais seguidas. Neste caso, dicimos que as
-   tres vogais forman un **tritongo**: Ex.: o-fi-c**iai**s
-5. As palabras poden estar constituídas por unha única sílaba (**monosílabas**)
-   ou por varias (**polisílabas**). Segundo o número de sílabas que teñan,
-   distinguimos os seguintes tipos:
+4. Mesmo hai sílabas con até tres vogais seguidas. Neste caso, dicimos que as tres vogais forman un **tritongo**. Ex.: o-fi-c**iai**s
+5. As palabras poden estar constituídas por unha única sílaba (**monosílabas**) ou por varias (**polisílabas**). Segundo o número de sílabas que teñan, distinguimos os seguintes tipos:
 
-   monosílabas = 1 sílaba : Ex.: sol
+   monosílabas = 1 sílaba > Ex.: sol
 
-   bisílabas = 2 sílabas : Ex.: ra-to
+   bisílabas = 2 sílabas > Ex.: ra-to
 
-   trisílabas = 3 sílabas : Ex.: lós-tre-go
+   trisílabas = 3 sílabas > Ex.: lós-tre-go
 
-   tetrasílabas / cuadrisílabas = 4 sílabas : Ex.: sim-pá-ti-co
+   tetrasílabas / cuadrisílabas = 4 sílabas > Ex.: sim-pá-ti-co
 
-   pentasílabas = 5 sílabas : Ex.: he-li-cóp-te-ro
+   pentasílabas = 5 sílabas > Ex.: he-li-cóp-te-ro
 
-   hexasílabas = 6 sílabas : Ex.: mul-ti-tu-di-na-rio
+   hexasílabas = 6 sílabas > Ex.: mul-ti-tu-di-na-rio
 
-   heptasílabas = 7 sílabas : Ex: e-lec-tro-do-més-ti-co
+   heptasílabas = 7 sílabas > Ex: e-lec-tro-do-més-ti-co
 
-   octosílabas = 8 sílabas : Ex.: i-rres-pon-sa-bi-li-da-de
+   octosílabas = 8 sílabas > Ex.: i-rres-pon-sa-bi-li-da-de
 
-   eneasílabas = 9 sílabas : Ex.: es-ter-no-clei-do-mas-toi-de-o
+   eneasílabas = 9 sílabas > Ex.: es-ter-no-clei-do-mas-toi-de-o
 
-   decasílabas = 10 sílabas : Ex.: o-to-rri-no-la-rin-go-lo-xí-a ...
+   decasílabas = 10 sílabas > Ex.: o-to-rri-no-la-rin-go-lo-xí-a ...
 
 - - -
 
