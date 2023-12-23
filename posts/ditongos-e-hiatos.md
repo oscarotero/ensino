@@ -9,7 +9,7 @@ Como os recoñezo?
 ## Ditongo
 
 Dúas vogais que van seguidas forman un ditongo cando as pronunciamos na mesma
-sílaba. Ex.: n**ai**, p**ei**-xe, can-c**ió**n
+sílaba. Exs.: n**ai**, p**ei**-xe, can-c**ió**n
 
 ### Tipos de ditongos
 
@@ -21,7 +21,7 @@ sílaba. Ex.: n**ai**, p**ei**-xe, can-c**ió**n
 ## Hiato
 
 Dúas vogais que van seguidas forman un hiato cando as pronunciamos en sílabas
-diferentes. Ex.: a-r**e-a**, en-xa-b**o-a**r, p**o-e**-ma
+diferentes. Exs.: a-r**e-a**, en-xa-b**o-a**r, p**o-e**-ma
 
 ### Tipos de hiatos
 
