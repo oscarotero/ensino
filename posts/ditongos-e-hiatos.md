@@ -9,7 +9,7 @@ Como os recoñezo?
 ## Ditongo
 
 Dúas vogais que van seguidas forman un ditongo cando as pronunciamos na mesma
-sílaba. Exs.: n**ai**, p**ei**-xe, can-c**ió**n
+sílaba. Exemplos: n**ai**, p**ei**-xe, can-c**ió**n
 
 ### Tipos de ditongos
 
