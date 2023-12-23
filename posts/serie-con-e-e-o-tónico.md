@@ -47,7 +47,7 @@ Por que?
 
 Trátase de palabras todas que derivan dunha forma latina que tiña un *e* breve: Ĕ. 
 
-Exemplo: FĔSTA > f/ε/sta (gal) - fiesta (es)
+Exemplo: FĔSTA > f/ε/sta - fiesta
 
 <audio src="https://ilg.usc.es/pronuncia/mp3/f/831.mp3" controls> </audio> 
 
