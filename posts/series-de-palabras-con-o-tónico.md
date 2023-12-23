@@ -41,13 +41,13 @@ n<mark>o</mark>ra:
 
 ### Repara!
 
-O o tónico de todas as palabras da serie anterior é <e-answer>aberto</e-answer>.
+O *o* tónico de todas as palabras da serie anterior é <e-answer>aberto</e-answer>.
 
 Por que?
 
 Trátase de palabras todas que derivan dunha forma latina que tiña un *o* breve: Ŏ. 
 
-Exemplo: MŎRTE > m/ᴐ/rte
+Exemplo: MŎRTE > m/ᴐ/rte - muerte
 
 <audio src="https://ilg.usc.es/pronuncia/mp3/m/3140.mp3" controls> </audio>
 
