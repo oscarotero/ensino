@@ -1,5 +1,5 @@
 ---
-title: Series de palabras con e tonico
+title: Series de palabras con e tónico
 tags:
   - sons_vocalicos
 draft: false
