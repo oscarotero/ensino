@@ -59,7 +59,7 @@ Este Ŏ tónico deu un *o* <e-answer>aberto</e-answer> en galego. En español di
 
 Ouve con atención o audio e, a continuación, escribe aberto ou fechado no cadro.
 
-<mark>e</mark>scola:
+esc<mark>o</mark>la:
 
 <audio src="https://ilg.usc.es/pronuncia/mp3/e/2604.mp3" controls> </audio> <e-answer>aberto</e-answer>
 
@@ -173,9 +173,9 @@ out<mark>o</mark>no:
 
 <e-validate>Verifica a resposta</e-validate>
 
-m<mark>o</mark>rte:
+h<mark>o</mark>me:
 
-<audio src="https://ilg.usc.es/pronuncia/mp3/m/3140.mp3" controls> </audio> <e-answer>aberto</e-answer>
+<audio src="https://ilg.usc.es/pronuncia/mp3/h/892.mp3" controls> </audio> <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
