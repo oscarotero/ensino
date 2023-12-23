@@ -31,7 +31,7 @@ diferentes. Ex.: a-r**e-a**, en-xa-b**o-a**r, p**o-e**-ma
 
 ### Repara
 
-**iu** e **ui** son ditongos se o primeiro é o elemento tónico: p**ui**do
+**iu** e **ui** son ditongos se o primeiro é o elemento tónico. Ex.: p**ui**do
 
 **iú** e **uí** son hiatos se o segundo elemento é tónico. Neste caso indícase
 cun acento gráfico. Ex.: r**uí**do

@@ -6,7 +6,9 @@ tags:
 ---
 Se pensares ben, a nosa lingua parécese moito a un deses xogos de construción a que todos xogamos de pequenos. Lémbraste daqueles bloquiños de cores? Eu teño pasado horas deitada no chan a xuntar uns cos outros.
 
-Nas linguas tamén temos pezas que podemos xuntar para construír outras maiores. Non construímos con bloques, é claro, o material de construción é un pouco diferente. Nas linguas usamos os sons, mais o procedemento é o mesmo. Xuntamos sons para construírmos sílabas e coas sílabas, por súa vez, podemos construír palabras: son > sílaba > palabra
+Nas linguas tamén temos pezas que podemos xuntar para construír outras maiores. Non construímos con bloques, é claro, o material de construción é un pouco diferente. Nas linguas usamos os sons, mais o procedemento é o mesmo. Xuntamos sons para construírmos sílabas e coas sílabas, por súa vez, podemos construír palabras: 
+
+son > sílaba > palabra
 
 ## A ciencia da construción
 
@@ -111,7 +113,7 @@ Forma oito palabras agrupando e ordenando as sílabas de cada cor:
 
 Indica de que tipo son as palabras seguintes, de acordo co número de sílabas:
 
-1. noite > <e-answer readonly>bisílaba</e-answer>
+1. noite: <e-answer readonly>bisílaba</e-answer>
 2. guitarra: <e-answer>trisílaba</e-answer>
 3. semáforo: <e-answer>tetrasílaba</e-answer> ou <e-answer>cuadrisílaba</e-answer>
 4. pan: <e-answer>monosílaba</e-answer>
@@ -129,7 +131,7 @@ Indica de que tipo son as palabras seguintes, de acordo co número de sílabas:
 
 Separa en sílabas as seguintes palabras:
 
-1. cobiza <e-answer readonly>co-bi-za</e-answer>
+1. cobiza: <e-answer readonly>co-bi-za</e-answer>
 2. cadeira: <e-answer>ca-dei-ra</e-answer>
 3. margarida: <e-answer>mar-ga-ri-da</e-answer>
 4. toupa: <e-answer>tou-pa</e-answer>
