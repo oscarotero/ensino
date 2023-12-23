@@ -51,7 +51,7 @@ Exemplo: MŎRTE > m/ᴐ/rte - muerte
 
 <audio src="https://ilg.usc.es/pronuncia/mp3/m/3140.mp3" controls> </audio>
 
-Este Ŏ tónico deu un *o* <e-answer>aberto</e-answer> en galego, en canto que en castelán deu o ditongo *\-ue-.* Aínda que hai excepcións, a regra verifícase en moitos casos. 
+Este Ŏ tónico deu un *o* <e-answer>aberto</e-answer> en galego. En español ditongou e o resultado foi  *\-ue-.* Aínda que hai excepcións, a regra verifícase en moitos casos. 
 
 <e-validate>Verifica as respostas</e-validate>
 
