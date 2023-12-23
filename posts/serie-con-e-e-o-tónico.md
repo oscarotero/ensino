@@ -5,7 +5,7 @@ tags:
 draft: false
 show_toc: false
 ---
-Ouve con atención e identifica como é o e da sílaba tónica das seguintes series de palabras. Despois, escribe aberto ou fechado no cadro.
+Ouve con atención e identifica como é o *e* da sílaba tónica das seguintes series de palabras. Despois, escribe aberto ou fechado no cadro.
 
 ## Serie 1:
 
