@@ -53,6 +53,8 @@ Exemplo: SĔXTU > s/ε/xto
 
 Este Ĕ tónico deu un *e* <e-answer>aberto</e-answer> en galego, en canto que en castelán deu o ditongo *\-ie-.* Evidentemente, hai excepcións, mais esta regra verifícase en moitos casos. 
 
+<e-validate>Verifica a resposta</e-validate>
+
 ## Serie 2:
 
 Ouve con atención o audio e, a continuación, escribe aberto ou fechado no cadro.
