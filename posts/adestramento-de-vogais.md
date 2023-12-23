@@ -31,132 +31,194 @@ Escribe aberto ou fechado no cadro.
 
 ## Serie 1: Numerais cardinais
 
-c<mark>e</mark>ro: <audio src="https://ilg.usc.es/pronuncia/mp3/c/2632.mp3" controls> </audio>  <e-answer>aberto</e-answer>
+c<mark>e</mark>ro:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/c/2632.mp3" controls> </audio>  <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-tr<mark>e</mark>s: <audio src="https://ilg.usc.es/pronuncia/mp3/t/2338.mp3" controls> </audio>  <e-answer>fechado</e-answer>
+tr<mark>e</mark>s:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/t/2338.mp3" controls> </audio>  <e-answer>fechado</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-s<mark>e</mark>te: <audio src="https://ilg.usc.es/pronuncia/mp3/s/1318.mp3" controls> </audio>  <e-answer>aberto</e-answer>
+s<mark>e</mark>te:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/s/1318.mp3" controls> </audio>  <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-n<mark>o</mark>ve: <audio src="https://ilg.usc.es/pronuncia/mp3/n/963.mp3" controls> </audio>  <e-answer>aberto</e-answer>
+n<mark>o</mark>ve:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/n/963.mp3" controls> </audio>  <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-d<mark>e</mark>z: <audio src="https://ilg.usc.es/pronuncia/mp3/d/2875.mp3" controls> </audio>  <e-answer>aberto</e-answer>
+d<mark>e</mark>z:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/d/2875.mp3" controls> </audio>  <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-d<mark>o</mark>ce: <audio src="https://ilg.usc.es/pronuncia/mp3/d/3797.mp3" controls> </audio>  <e-answer>fechado</e-answer>
+d<mark>o</mark>ce:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/d/3797.mp3" controls> </audio>  <e-answer>fechado</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-tr<mark>e</mark>ce: <audio src="https://ilg.usc.es/pronuncia/mp3/t/2273.mp3" controls> </audio>  <e-answer>fechado</e-answer>
+tr<mark>e</mark>ce:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/t/2273.mp3" controls> </audio>  <e-answer>fechado</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-c<mark>e</mark>n: <audio src="https://ilg.usc.es/pronuncia/mp3/c/2427.mp3" controls> </audio>  <e-answer>aberto</e-answer>
+c<mark>e</mark>n:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/c/2427.mp3" controls> </audio>  <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
 ## Serie 2: Pronomes persoais tónicos
 
-<mark>e</mark>u: <audio src="https://ilg.usc.es/pronuncia/mp3/e/4085.mp3" controls> </audio>  <e-answer>fechado</e-answer>
+<mark>e</mark>u:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/e/4085.mp3" controls> </audio>  <e-answer>fechado</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<mark>e</mark>l: <audio src="https://ilg.usc.es/pronuncia/mp3/e/249.mp3" controls> </audio>  <e-answer>fechado</e-answer>
+<mark>e</mark>l:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/e/249.mp3" controls> </audio>  <e-answer>fechado</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<mark>e</mark>la: <audio src="https://ilg.usc.es/pronuncia/mp3/e/251.mp3" controls> </audio>  <e-answer>aberto</e-answer>
+<mark>e</mark>la:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/e/251.mp3" controls> </audio>  <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-n<mark>ó</mark>s: <audio src="https://ilg.usc.es/pronuncia/mp3/n/914.mp3" controls> </audio>  <e-answer>aberto</e-answer>
+n<mark>ó</mark>s:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/n/914.mp3" controls> </audio>  <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-v<mark>ó</mark>s: <audio src="https://ilg.usc.es/pronuncia/mp3/v/1318.mp3" controls> </audio>  <e-answer>aberto</e-answer>
+v<mark>ó</mark>s:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/v/1318.mp3" controls> </audio>  <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<mark>e</mark>les: <e-answer>fechado</e-answer>
+<mark>e</mark>les:
+
+<e-answer>fechado</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<mark>e</mark>las: <e-answer>aberto</e-answer>
+<mark>e</mark>las:
+
+<e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
 ## Serie 3: Animais con e
 
-ab<mark>e</mark>lla: <audio src="https://ilg.usc.es/pronuncia/mp3/a/142.mp3" controls> </audio>  <e-answer>fechado</e-answer>
+ab<mark>e</mark>lla:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/a/142.mp3" controls> </audio>  <e-answer>fechado</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-cad<mark>e</mark>la: <audio src="https://ilg.usc.es/pronuncia/mp3/c/301.mp3" controls> </audio>  <e-answer>aberto</e-answer>
+cad<mark>e</mark>la:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/c/301.mp3" controls> </audio>  <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-bolbor<mark>e</mark>ta: <audio src="https://ilg.usc.es/pronuncia/mp3/b/1462.mp3" controls> </audio> <e-answer>fechado</e-answer>
+bolbor<mark>e</mark>ta:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/b/1462.mp3" controls> </audio> <e-answer>fechado</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-cam<mark>e</mark>lo: <audio src="https://ilg.usc.es/pronuncia/mp3/c/791.mp3" controls> </audio>  <e-answer>fechado</e-answer>
+cam<mark>e</mark>lo:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/c/791.mp3" controls> </audio>  <e-answer>fechado</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-s<mark>e</mark>rpe: <audio src="https://ilg.usc.es/pronuncia/mp3/s/1231.mp3" controls> </audio>  <e-answer>aberto</e-answer>
+s<mark>e</mark>rpe:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/s/1231.mp3" controls> </audio>  <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-ov<mark>e</mark>lla: <audio src="https://ilg.usc.es/pronuncia/mp3/o/1249.mp3" controls> </audio>  <e-answer>fechado</e-answer>
+ov<mark>e</mark>lla:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/o/1249.mp3" controls> </audio>  <e-answer>fechado</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-av<mark>e</mark>spa: <audio src="https://ilg.usc.es/pronuncia/mp3/a/6488.mp3" controls> </audio>  <e-answer>fechado</e-answer>
+av<mark>e</mark>spa:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/a/6488.mp3" controls> </audio>  <e-answer>fechado</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<mark>e</mark>gua: <audio src="https://ilg.usc.es/pronuncia/mp3/e/222.mp3" controls> </audio>  <e-answer>aberto</e-answer>
+<mark>e</mark>gua:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/e/222.mp3" controls> </audio>  <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
 ## Serie 4: Animais con o
 
-<mark>o</mark>so: <audio src="https://ilg.usc.es/pronuncia/mp3/o/1095.mp3" controls> </audio>  <e-answer>fechado</e-answer>
+<mark>o</mark>so:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/o/1095.mp3" controls> </audio>  <e-answer>fechado</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-l<mark>o</mark>bo: <audio src="https://ilg.usc.es/pronuncia/mp3/l/1529.mp3" controls> </audio>  <e-answer>fechado</e-answer>
+l<mark>o</mark>bo:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/l/1529.mp3" controls> </audio>  <e-answer>fechado</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-salt<mark>ó</mark>n: <audio src="https://ilg.usc.es/pronuncia/mp3/s/328.mp3" controls> </audio>  <e-answer>fechado</e-answer>
+salt<mark>ó</mark>n:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/s/328.mp3" controls> </audio>  <e-answer>fechado</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-carac<mark>o</mark>l: <audio src="https://ilg.usc.es/pronuncia/mp3/c/1284.mp3" controls> </audio>  </audio><e-answer>aberto</e-answer>
+carac<mark>o</mark>l:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/c/1284.mp3" controls> </audio>  </audio><e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-rap<mark>o</mark>so: <audio src="https://ilg.usc.es/pronuncia/mp3/r/384.mp3" controls> </audio>  <e-answer>fechado</e-answer>
+rap<mark>o</mark>so:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/r/384.mp3" controls> </audio>  <e-answer>fechado</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-p<mark>o</mark>rco: <audio src="https://ilg.usc.es/pronuncia/mp3/p/3319.mp3" controls> </audio>  <e-answer>aberto</e-answer>
+p<mark>o</mark>rco:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/p/3319.mp3" controls> </audio>  <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-falc<mark>ó</mark>n: <audio src="https://ilg.usc.es/pronuncia/mp3/f/161.mp3" controls> </audio>  <e-answer>fechado</e-answer>
+falc<mark>ó</mark>n:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/f/161.mp3" controls> </audio>  <e-answer>fechado</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-c<mark>o</mark>bra: <audio src="https://ilg.usc.es/pronuncia/mp3/c/4021.mp3" controls> </audio>  <e-answer>aberto</e-answer>
+c<mark>o</mark>bra:
+
+<audio src="https://ilg.usc.es/pronuncia/mp3/c/4021.mp3" controls> </audio>  <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
