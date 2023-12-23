@@ -53,7 +53,7 @@ Exemplo: SĔXTU > s/ε/xto
 
 Este Ĕ tónico deu un *e* <e-answer>aberto</e-answer> en galego, en canto que en castelán deu o ditongo *\-ie-.* Evidentemente, hai excepcións, mais esta regra verifícase en moitos casos. 
 
-<e-validate>Verifica a resposta</e-validate>
+<e-validate>Verifica as respostas</e-validate>
 
 ## Serie 2:
 
