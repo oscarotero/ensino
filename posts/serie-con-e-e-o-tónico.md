@@ -39,9 +39,11 @@ Trátase de palabras todas que derivan dunha forma latina que tiña un *e* breve
 
 Exemplo: SĔXTU > s/ε/xto  <audio src="https://ilg.usc.es/pronuncia/mp3/s/1370.mp3" controls>
 
-Este Ĕ tónico deu un *e* <e-answer>aberto</e-answer> en galego, en canto que en castelán deu o ditongo *\-ie-.* Evidentemente, hai excepcións, mais esta regra cúmprese en moitos casos. 
+Este Ĕ tónico deu un *e* <e-answer>aberto</e-answer> en galego, en canto que en castelán deu o ditongo *\-ie-.* Evidentemente, hai excepcións, mais esta regra verifícase en moitos casos. 
 
 ## Serie 2:
+
+Ouve con atención o audio e, a continuación, escribe aberto ou fechado no cadro.
 
 m<mark>e</mark>sa: <audio src="https://ilg.usc.es/pronuncia/mp3/m/1733.mp3" controls> </audio> <e-answer>fechado</e-answer>
 
@@ -65,6 +67,8 @@ qu<mark>e</mark>n: <audio src="https://ilg.usc.es/pronuncia/mp3/q/88.mp3" contro
 
 ## Serie 3
 
+Ouve con atención o audio e, a continuación, escribe aberto ou fechado no cadro.
+
 c<mark>e</mark>do: <audio src="https://ilg.usc.es/pronuncia/mp3/c/2305.mp3" controls> </audio> <e-answer>fechado</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
@@ -87,6 +91,8 @@ natur<mark>e</mark>za: <audio src="https://ilg.usc.es/pronuncia/mp3/n/193.mp3" c
 
 ## Serie 4
 
+Ouve con atención o audio e, a continuación, escribe aberto ou fechado no cadro.
+
 p<mark>e</mark>l: <audio src="https://ilg.usc.es/pronuncia/mp3/q/88.mp3" controls> </audio> <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
@@ -108,6 +114,8 @@ s<mark>e</mark>sta: <audio src="https://ilg.usc.es/pronuncia/mp3/s/1313.mp3" con
 <e-validate>Verifica a resposta</e-validate>
 
 ## Serie 5
+
+Ouve con atención o audio e, a continuación, escribe aberto ou fechado no cadro.
 
 b<mark>é</mark>bedo: <audio src="https://ilg.usc.es/pronuncia/mp3/b/773.mp3" controls> </audio> <e-answer>fechado</e-answer>
 
