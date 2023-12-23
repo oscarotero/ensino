@@ -49,7 +49,7 @@ Trátase de palabras todas que derivan dunha forma latina que tiña un *o* breve
 
 Exemplo: MŎRTE > m/ᴐ/rte
 
-<audio src="https://ilg.usc.es/pronuncia/mp3/m/3140.mp3" controls> </audio> <e-answer>aberto</e-answer>
+<audio src="https://ilg.usc.es/pronuncia/mp3/m/3140.mp3" controls> </audio>
 
 Este Ŏ tónico deu un *o* <e-answer>aberto</e-answer> en galego, en canto que en castelán deu o ditongo *\-ue-.* Aínda que hai excepcións, a regra verifícase en moitos casos. 
 

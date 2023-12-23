@@ -49,7 +49,7 @@ Trátase de palabras todas que derivan dunha forma latina que tiña un *e* breve
 
 Exemplo: SĔXTU > s/ε/xto
 
-<audio src="https://ilg.usc.es/pronuncia/mp3/s/1370.mp3" controls> </audio> <e-answer>aberto</e-answer>
+<audio src="https://ilg.usc.es/pronuncia/mp3/s/1370.mp3" controls> </audio> 
 
 Este Ĕ tónico deu un *e* <e-answer>aberto</e-answer> en galego, en canto que en castelán deu o ditongo *\-ie-.* Evidentemente, hai excepcións, mais esta regra verifícase en moitos casos. 
 
