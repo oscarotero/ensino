@@ -1,7 +1,7 @@
 ---
-title: Serie de palabras con é tonico
+title: Serie de palabras con e tonico
 tags:
-  - sons_consonanticos
+  - sons_vocalicos
 draft: false
 show_toc: false
 ---
@@ -121,6 +121,6 @@ inf<mark>e</mark>rno: <audio src="https://ilg.usc.es/pronuncia/mp3/i/1669.mp3" c
 
 <e-validate>Verifica a resposta</e-validate>
 
-vel<mark>e</mark>no: <audio src="https://ilg.usc.es/pronuncia/mp3/v/377.mp3" controls> </audio> <e-answer>fechado</e-answer>
+conc<mark>e</mark>llo: <audio src="https://ilg.usc.es/pronuncia/mp3/c/4960.mp3" controls> </audio> <e-answer>fechado</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
