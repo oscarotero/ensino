@@ -5,6 +5,8 @@ tags:
 draft: false
 show_toc: false
 ---
+Ouve con atención o audio e, a continuación, escribe aberto ou fechado no cadro.
+
 ## Serie 1:
 
 s<mark>e</mark>mpre: <audio src="https://ilg.usc.es/pronuncia/mp3/s/1028.mp3" controls> </audio> <e-answer>aberto</e-answer>
