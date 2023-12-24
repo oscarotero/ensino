@@ -173,9 +173,9 @@ out<mark>o</mark>no:
 
 <e-validate>Verifica a resposta</e-validate>
 
-h<mark>o</mark>me:
+f<mark>o</mark>l:
 
-<audio src="https://ilg.usc.es/pronuncia/mp3/h/892.mp3" controls> </audio> <e-answer>aberto</e-answer>
+<audio src="https://ilg.usc.es/pronuncia/mp3/f/1445.mp3" controls> </audio> <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
