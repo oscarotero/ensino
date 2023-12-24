@@ -161,9 +161,9 @@ r<mark>o</mark>stro:
 
 Ouve con atención o audio e, a continuación, escribe aberto ou fechado no cadro.
 
-x<mark>o</mark>ves:
+<mark>o</mark>rfo:
 
-<audio src="https://ilg.usc.es/pronuncia/mp3/x/662.mp3" controls> </audio> <e-answer>aberto</e-answer>
+<audio src="https://ilg.usc.es/pronuncia/mp3/o/855.mp3" controls> </audio> <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
@@ -173,9 +173,9 @@ out<mark>o</mark>no:
 
 <e-validate>Verifica a resposta</e-validate>
 
-<mark>o</mark>rfo:
+x<mark>o</mark>ves:
 
-<audio src="https://ilg.usc.es/pronuncia/mp3/o/855.mp3" controls> </audio> <e-answer>aberto</e-answer>
+<audio src="https://ilg.usc.es/pronuncia/mp3/x/662.mp3" controls> </audio> <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
