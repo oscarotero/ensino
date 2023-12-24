@@ -99,9 +99,9 @@ ferm<mark>o</mark>so:
 
 <e-validate>Verifica a resposta</e-validate>
 
-x<mark>o</mark>ves:
+f<mark>ó</mark>ra:
 
-<audio src="https://ilg.usc.es/pronuncia/mp3/x/662.mp3" controls> </audio> <e-answer>aberto</e-answer>
+<audio src="https://ilg.usc.es/pronuncia/mp3/f/1588.mp3" controls> </audio> <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
@@ -161,9 +161,9 @@ r<mark>o</mark>stro:
 
 Ouve con atención o audio e, a continuación, escribe aberto ou fechado no cadro.
 
-c<mark>o</mark>rno:
+x<mark>o</mark>ves:
 
-<audio src="https://ilg.usc.es/pronuncia/mp3/c/6385.mp3" controls> </audio> <e-answer>aberto</e-answer>
+<audio src="https://ilg.usc.es/pronuncia/mp3/x/662.mp3" controls> </audio> <e-answer>aberto</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
