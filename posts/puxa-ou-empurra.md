@@ -57,7 +57,7 @@ Completa con *puxa* ou *empurra:*
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/10bdHQaMWyDpRu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+<iframe src="https://giphy.com/embed/SE2oZXrzRr1iXKniCQ" width="480" height="247" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <e-answer>empurra</e-answer>
 
@@ -69,19 +69,7 @@ Completa con *puxa* ou *empurra:*
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/GCnAwP4cw2QSI" width="480" height="458" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-<e-answer>puxa</e-answer>
-
-<e-validate>Verifica a resposta</e-validate>
-
-<iframe src="https://giphy.com/embed/bwLowbhUWm2lO" width="480" height="348" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-<e-answer>empurra</e-answer>
-
-<e-validate>Verifica a resposta</e-validate>
-
-<iframe src="https://giphy.com/embed/vCAfL8jFFgdvsoCoLh" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="<iframe src="https://giphy.com/embed/DpNOlWx7F77IG9stWa" width="480" height="338" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <e-answer>empurra</e-answer>
 
