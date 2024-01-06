@@ -63,6 +63,12 @@ Completa con *puxa* ou *empurra:*
 
 <e-validate>Verifica a resposta</e-validate>
 
+<iframe src="https://giphy.com/embed/TGdkxy8Dwt3AtG76EG" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+<e-answer>empurra</e-answer>
+
+<e-validate>Verifica a resposta</e-validate>
+
 <iframe src="https://giphy.com/embed/OqtiRTl7ZPUVW" width="480" height="272" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <e-answer>puxa</e-answer>
@@ -75,12 +81,6 @@ Completa con *puxa* ou *empurra:*
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/TGdkxy8Dwt3AtG76EG" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-<e-answer>empurra</e-answer>
-
-<e-validate>Verifica a resposta</e-validate>
-
 <iframe src="https://giphy.com/embed/l0COI2BgqexLBeZs4" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <e-answer>puxa</e-answer>
@@ -90,12 +90,6 @@ Completa con *puxa* ou *empurra:*
 <iframe src="https://giphy.com/embed/eIInxK0dCLLJtkBibR" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <e-answer>empurra</e-answer>
-
-<e-validate>Verifica a resposta</e-validate>
-
-<iframe src="https://giphy.com/embed/l3q2Vc7xmdjdgATDO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-<e-answer>puxa</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
