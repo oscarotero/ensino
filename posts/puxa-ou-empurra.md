@@ -39,13 +39,13 @@ Completa con *puxa* ou *empurra:*
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/k0O1ORP659yOO2dQQC" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+<iframe src="https://giphy.com/embed/k0O1ORP659yOO2dQQC" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <e-answer>puxa</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/XDovT1D3w7TkUPIAw5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+<iframe src="https://giphy.com/embed/jUfXhq87qFMn4al66c" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <e-answer>empurra</e-answer>
 
