@@ -57,9 +57,9 @@ Completa con *puxa* ou *empurra:*
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/DpNOlWx7F77IG9stWa" width="480" height="338" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/GqOO8PEwZnSafhBhAT" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-<e-answer>empurra</e-answer>
+Pula e <e-answer>empurra</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
