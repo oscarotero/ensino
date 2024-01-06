@@ -57,12 +57,6 @@ Completa con *puxa* ou *empurra:*
 
 <e-validate>Verifica a resposta</e-validate>
 
-<iframe src="https://giphy.com/embed/GqOO8PEwZnSafhBhAT" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-Pula e <e-answer>empurra</e-answer>
-
-<e-validate>Verifica a resposta</e-validate>
-
 <iframe src="https://giphy.com/embed/3o6Zt2aRZ4jobek6ze" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <e-answer>puxa</e-answer>
@@ -126,6 +120,12 @@ Primeiro <e-answer>puxa</e-answer> e despois <e-answer>empurra</e-answer>
 <iframe src="https://giphy.com/embed/10ZuedtImbopos" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <e-answer>puxa</e-answer> ou aperta o gatillo
+
+<e-validate>Verifica a resposta</e-validate>
+
+<iframe src="https://giphy.com/embed/GqOO8PEwZnSafhBhAT" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+Pula e <e-answer>empurra</e-answer>
 
 <e-validate>Verifica a resposta</e-validate>
 
