@@ -18,7 +18,7 @@ O fonema nasal velar sonoro /ŋ/ represéntase en galego de dúas formas:
 
 ## Onde podemos encontrar o ene velar?
 
-\- No principio da sílaba e seguida de vogal
+\- No principio da sílaba seguido de vogal
 
 Exemplos:
 
