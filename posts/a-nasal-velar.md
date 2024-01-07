@@ -22,22 +22,22 @@ O fonema nasal velar sonoro /ŋ/ represéntase en galego de dúas formas:
 
 Exemplos:
 
-*u-**nh**a, cu-**nh**a, du-**nh**a, nu-**nh**a*
+u-**nh**a, cu-**nh**a, du-**nh**a, nu-**nh**a
 
-*algu-**nh**a, dal-gu-**nh**a, nu-**nh**a*
+algu-**nh**a, dal-gu-**nh**a, nu-**nh**a
 
-*nin-gu-**nh**a*
+nin-gu-**nh**a
 
 \- No final da palabra
 
 Exemplos:
 
-\*verá**n**, pingüí**n**, refé**n**, bombó**n**, xaxú**n***
+verá**n**, pingüí**n**, refé**n**, bombó**n**, xaxú**n**
 
 \- No final da sílaba ante consoante velar *(k, g)* ou ante consoante nasal *(m, n)*
 
 Exemplos:
 
-*cu**n**ca, bra**n**co, xiri**n**ga, sa**n**gue*
+cu**n**ca, bra**n**co, xiri**n**ga, sa**n**gue
 
-*i**n**mune, co**n**memorar, pere**n**ne, co**n**nosco*
+i**n**mune, co**n**memorar, pere**n**ne, co**n**nosco
