@@ -10,7 +10,7 @@ Unha palabra polisémica é a que ten varios significados.
 
 <article>
 
-espiña
+**espiña**
 
 1. Cada unha das partes óseas que forman o esqueleto do peixe e o conxunto desas partes.
 2. Columna vertebral.
@@ -21,7 +21,7 @@ espiña
 
 <article>
 
-serán
+**serán**
 
 1. Parte do día que vai desde que comeza o pór do sol até que se fai noite.
 
@@ -31,7 +31,7 @@ serán
 
 <article>
 
-laranxa
+**laranxa**
 
 1. Froito comestíbel da laranxeira, de forma esférica, casca dura e polpa dividida en cuarteiróns.
 
@@ -41,7 +41,7 @@ laranxa
 
 <article>
 
-tenis
+**tenis**
 
 1. Deporte.
 
@@ -49,11 +49,9 @@ tenis
 
 </article>
 
-
-
 <article>
 
-ordenar
+**ordenar**
 
 1. Pór en orde.
 
