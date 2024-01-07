@@ -21,6 +21,16 @@ espiña
 
 <article>
 
+serán
+
+1. Parte do día que vai desde que comeza o pór do sol até que se fai noite.
+
+2. Reunión nocturna de carácter festivo.
+
+</article>
+
+<article>
+
 laranxa
 
 1. Froito comestíbel da laranxeira, de forma esférica, casca dura e polpa dividida en cuarteiróns.
@@ -38,6 +48,8 @@ tenis
 2. Zapatilla deportiva.
 
 </article>
+
+
 
 <article>
 
