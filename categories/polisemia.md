@@ -6,7 +6,7 @@ tags:
 ---
 Unha palabra polisémica é a que ten varios significados.
 
-Exemplo:
+## Exemplos:
 
 <article>
 
@@ -16,5 +16,17 @@ espiña
 2. Columna vertebral.
 3. Gran con acumulación de secreción que se forma na pel.
 4. Puga dura e aguzada que nace no talo ou pólas dalgunhas plantas.
+
+</article>
+
+
+
+<article>
+
+laranxa
+
+1. Froito comestíbel da laranxeira, de forma esférica, casca dura e polpa dividida en cuarteiróns.
+
+2. Cor entre amarela e encarnada.
 
 </article>
