@@ -18,7 +18,7 @@ O fonema nasal velar sonoro /ŋ/ represéntase en galego de dúas formas:
 
 ## Onde podemos encontrar esta nasal velar?
 
-1. No principio da sílaba e seguida de vogal
+\- No principio da sílaba e seguida de vogal
 
 Exemplos:
 
@@ -28,13 +28,13 @@ Exemplos:
 
 *nin-gu-**nh**a*
 
-2. No final da palabra
+\- No final da palabra
 
 Exemplos:
 
-*verá**n**, pingüí**n**, refé**n**, bombó**n**, xaxú**n***
+\*verá**n**, pingüí**n**, refé**n**, bombó**n**, xaxú**n***
 
-3. No final da sílaba ante consoante velar *(k, g)* ou ante consoante nasal *(m, n)*
+\- No final da sílaba ante consoante velar *(k, g)* ou ante consoante nasal *(m, n)*
 
 Exemplos:
 
