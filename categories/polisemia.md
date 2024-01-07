@@ -19,8 +19,6 @@ espiña
 
 </article>
 
-
-
 <article>
 
 laranxa
@@ -28,5 +26,27 @@ laranxa
 1. Froito comestíbel da laranxeira, de forma esférica, casca dura e polpa dividida en cuarteiróns.
 
 2. Cor entre amarela e encarnada.
+
+</article>
+
+<article>
+
+tenis
+
+1. Deporte.
+
+2. Zapatilla deportiva.
+
+</article>
+
+<article>
+
+ordenar
+
+1. Pór en orde.
+
+2. Dar unha orde, mandar.
+
+3. Conferir unha orde sacra. Ex.: O papa ordenou tres novos bispos.
 
 </article>
