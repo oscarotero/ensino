@@ -34,6 +34,10 @@ draft: false
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hkJH6n1sOtM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Parar
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z0RciWifw54?si=TQV0jOSZQ8gD4J94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Perderse, non o perdas e não o perca
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CQtg4y8ElP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
