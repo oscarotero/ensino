@@ -3,6 +3,7 @@ title: "I e U "
 summary: Cando os acentuamos?
 tags:
   - acentuacion
+  - 1 ESO
 ---
 Acentuámolos sempre nestes dous casos:
 
