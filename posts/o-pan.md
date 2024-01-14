@@ -102,7 +102,7 @@ Completa as seguintes oracións coas palabras que faltan:
    <e-answer>panceiros</e-answer>.
 3. O pan <e-answer>reseso</e-answer> pode aproveitarse para facer un pudin.
 4. No verán almorzo <e-answer>torradas</e-answer> de pan con aceite e tomate.
-5. Pasa os bistes polo ovo, despois polo <e-answer>pan relado</e-answer> e fríteos en 
+5. Pasa os bistés polo ovo, despois polo <e-answer>pan relado</e-answer> e fríteos en 
    aceite ben quente.
 6. Comín o <e-answer>cornecho</e-answer> do bolo mentres esperaba pola comida.
 7. Para facermos pan, necesitamos 4 ingredientes: fariña, auga,
