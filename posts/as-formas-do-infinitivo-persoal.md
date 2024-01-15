@@ -168,14 +168,14 @@ Aínda que a conxugación do infinitivo non é complicada, é necesario practica
 
 <e-validate>Verifica as respostas</e-validate>
 
-## Andar
+## Pagar
 
-* Eu <e-answer>andar</e-answer>
-* Ti <e-answer>andares</e-answer>
-* El ou ela <e-answer>andar</e-answer>
-* Nós <e-answer>andarmos</e-answer>
-* Vós <e-answer>andardes</e-answer>
-* Eles ou elas <e-answer>andaren</e-answer>
+* Eu <e-answer>pagar</e-answer>
+* Ti <e-answer>pagares</e-answer>
+* El ou ela <e-answer>pagar</e-answer>
+* Nós <e-answer>pagarmos</e-answer>
+* Vós <e-answer>pagardes</e-answer>
+* Eles ou elas <e-answer>pagaren</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
