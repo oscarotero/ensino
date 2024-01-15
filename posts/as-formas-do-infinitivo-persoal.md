@@ -65,7 +65,18 @@ Aínda que a conxugación do infinitivo non é complicada, é necesario practica
 * El ou ela <e-answer>ser</e-answer>
 * Nós <e-answer>sermos</e-answer>
 * Vós <e-answer>serdes</e-answer>
-* Eles ou elas<e-answer>seren</e-answer>
+* Eles ou elas <e-answer>seren</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Estar
+
+* Eu <e-answer>estar</e-answer>
+* Ti <e-answer>estares</e-answer>
+* El ou ela <e-answer>estar</e-answer>
+* Nós <e-answer>estarmos</e-answer>
+* Vós <e-answer>estardes</e-answer>
+* Eles ou elas <e-answer>estaren</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -76,7 +87,7 @@ Aínda que a conxugación do infinitivo non é complicada, é necesario practica
 * El ou ela <e-answer>amar</e-answer>
 * Nós <e-answer>amarmos</e-answer>
 * Vós <e-answer>amardes</e-answer>
-* Eles ou elas<e-answer>amaren</e-answer>
+* Eles ou elas <e-answer>amaren</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -87,7 +98,7 @@ Aínda que a conxugación do infinitivo non é complicada, é necesario practica
 * El ou ela <e-answer>rir</e-answer>
 * Nós <e-answer>rirmos</e-answer>
 * Vós <e-answer>rirdes</e-answer>
-* Eles ou elas<e-answer>riren</e-answer>
+* Eles ou elas <e-answer>riren</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -98,7 +109,29 @@ Aínda que a conxugación do infinitivo non é complicada, é necesario practica
 * El ou ela <e-answer>enviar</e-answer>
 * Nós <e-answer>enviarmos</e-answer>
 * Vós <e-answer>enviardes</e-answer>
-* Eles ou elas<e-answer>enviaren</e-answer>
+* Eles ou elas <e-answer>enviaren</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Ler
+
+* Eu <e-answer>ler</e-answer>
+* Ti <e-answer>leres</e-answer>
+* El ou ela <e-answer>ler</e-answer>
+* Nós <e-answer>lermos</e-answer>
+* Vós <e-answer>lerdes</e-answer>
+* Eles ou elas <e-answer>leren</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Dicir
+
+* Eu <e-answer>dicir</e-answer>
+* Ti <e-answer>dicires</e-answer>
+* El ou ela <e-answer>dicir</e-answer>
+* Nós <e-answer>dicirmos</e-answer>
+* Vós <e-answer>dicirdes</e-answer>
+* Eles ou elas <e-answer>diciren</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -109,7 +142,7 @@ Aínda que a conxugación do infinitivo non é complicada, é necesario practica
 * El ou ela <e-answer>comer</e-answer>
 * Nós <e-answer>comermos</e-answer>
 * Vós <e-answer>comerdes</e-answer>
-* Eles ou elas<e-answer>comeren</e-answer>
+* Eles ou elas <e-answer>comeren</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
 
@@ -120,6 +153,39 @@ Aínda que a conxugación do infinitivo non é complicada, é necesario practica
 * El ou ela <e-answer>vir</e-answer>
 * Nós <e-answer>virmos</e-answer>
 * Vós <e-answer>virdes</e-answer>
-* Eles ou elas<e-answer>viren</e-answer>
+* Eles ou elas <e-answer>viren</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Poder
+
+* Eu <e-answer>poder</e-answer>
+* Ti <e-answer>poderes</e-answer>
+* El ou ela <e-answer>poder</e-answer>
+* Nós <e-answer>podermos</e-answer>
+* Vós <e-answer>poderdes</e-answer>
+* Eles ou elas <e-answer>poderen</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Andar
+
+* Eu <e-answer>andar</e-answer>
+* Ti <e-answer>andares</e-answer>
+* El ou ela <e-answer>andar</e-answer>
+* Nós <e-answer>andarmos</e-answer>
+* Vós <e-answer>andardes</e-answer>
+* Eles ou elas <e-answer>andaren</e-answer>
+
+<e-validate>Verifica as respostas</e-validate>
+
+## Ir
+
+* Eu <e-answer>ir</e-answer>
+* Ti <e-answer>ires</e-answer>
+* El ou ela <e-answer>ir</e-answer>
+* Nós <e-answer>irmos</e-answer>
+* Vós <e-answer>irdes</e-answer>
+* Eles ou elas <e-answer>iren</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
