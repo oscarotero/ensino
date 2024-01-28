@@ -9,7 +9,7 @@ show_toc: false
 
 <e-layout>
 
-<e-tag color=1>Para</e-tag>  <e-tag color=1>lava</e-tag> <e-tag color=1>raña</e-tag> <e-tag color=1>saca</e-tag> <e-tag color=1>porta</e-tag>  <e-tag color=1>quebra</e-tag> <e-tag color=1>Garda</e-tag> 
+<e-tag color=1>para</e-tag>  <e-tag color=1>lava</e-tag> <e-tag color=1>raña</e-tag> <e-tag color=1>saca</e-tag> <e-tag color=1>porta</e-tag>  <e-tag color=1>quebra</e-tag> <e-tag color=1>garda</e-tag> 
 
 </e-layout>
 
@@ -22,30 +22,30 @@ show_toc: false
 
 ![](/img/garda_costas.jpeg)
 
-<e-answer>Gardacostas</e-answer>
+O presidente viaxa sempre acompañado de varios <e-answer>gardacostas</e-answer>
 
 ![](/img/lava_louça.jpg)
 
-<e-answer>Lavalouza</e-answer>
+A <e-answer>lavalouza</e-answer> é un dos mellores inventos que existen
 
 ![](/img/porta_luvas.jpg)
 
-<e-answer>Portaluvas</e-answer>
-
-![](/img/ranha_ceos.jpg)
-
-<e-answer>Rañaceos</e-answer>
+A maioría das persoas garda a documentación do automóbil no <e-answer>portaluvas</e-answer>
 
 ![](/img/para_lamas.jpg)
 
-<e-answer>Paralamas</e-answer>
+O vehículo da fotografía ten os <e-answer>paralamas</e-answer> pintados de vermello.
 
 ![](/img/quebra_nozes.jpg)
 
-<e-answer>Quebranoces</e-answer>
+Despois de abrires as noces, garda o <e-answer>quebranoces</e-answer> na gabeta da cociña
+
+![](/img/ranha_ceos.jpg)
+
+A primeira xeración de <e-answer>rañaceos</e-answer> apareceron en Chicago e en Nova York.
 
 ![](/img/tira_rolhas.jpeg)
 
-<e-answer>Tirarrollas</e-answer>
+Sirve ti o viño, na mesa da cociña tes o <e-answer>tirarrollas</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
