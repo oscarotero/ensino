@@ -40,7 +40,7 @@ A maioría das persoas garda a documentación do automóbil no <e-answer>portalu
 
 ![](/img/para_lamas.jpg)
 
-O vehículo da fotografía ten os <e-answer>paralamas</e-answer> pintados de vermello.
+O vehículo da fotografía ten os <e-answer>paralamas</e-answer> pintados de vermello
 
 ![](/img/quebra_nozes.jpg)
 
@@ -48,7 +48,7 @@ Despois de abrires as noces, garda o <e-answer>quebranoces</e-answer> na gabeta 
 
 ![](/img/ranha_ceos.jpg)
 
-A primeira xeración de <e-answer>rañaceos</e-answer> apareceron en Chicago e en Nova York.
+A primeira xeración de <e-answer>rañaceos</e-answer> apareceron en Chicago e en Nova York
 
 ![](/img/tira_rolhas.jpeg)
 
