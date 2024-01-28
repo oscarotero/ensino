@@ -18,6 +18,7 @@ show_toc: false
 <e-layout>
 
 <e-tag color=3>rollas</e-tag>  <e-tag color=3>noces</e-tag> <e-tag color=3>lamas</e-tag> <e-tag color=3>luvas</e-tag> <e-tag color=3>costas</e-tag>  <e-tag color=3>ceos</e-tag> <e-tag color=3>louza</e-tag> 
+
 </e-layout>
 
 As palabras compostas son formadas por dous ou máis lexemas.
