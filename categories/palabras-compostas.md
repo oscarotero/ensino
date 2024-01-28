@@ -2,5 +2,5 @@
 title: Palabras compostas
 id: palabras_compostas
 tags:
-  - estrutura_da_palabra
+  - a_estrutura_da_palabra
 ---
