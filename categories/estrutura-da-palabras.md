@@ -1,6 +1,6 @@
 ---
-title: Estrutura da palabra
-id: estrutura_da_palabra
+title: A estrutura da palabra
+id: a_estrutura_da_palabra
 tags:
   - morfoloxia
 ---
