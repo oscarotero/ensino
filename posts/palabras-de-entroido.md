@@ -21,7 +21,7 @@ tags:
 </e-card>
 
 <e-card color="10">
-  <div>Que é entroidar?</div>
+  <div>O que é entroidar?</div>
   <div>Festexar o Entroido</div>
 </e-card>
 
@@ -46,7 +46,7 @@ tags:
 </e-card>
 
 <e-card color="6">
-  <div>Obxecto con que se tapa a cara ou parte dela para non ser recoñecido, en particular aquel que cobre a zona que está arredor dos ollos</div>
+  <div>Obxecto con que se tapa a cara ou parte dela para non ser recoñecido, en particular aquel que cobre a zona que está ao redor dos ollos</div>
   <div>Anteface</div>
 </e-card>
 
@@ -56,7 +56,7 @@ tags:
 </e-card>
 
 <e-card color="8">
-  <div>Conxunto de persoas, disfrazadas ou non, que van xuntas para divertirse e divertiren aos demais, especialmente polo Entroido</div>
+  <div>Conxunto de persoas, disfrazadas ou non, que van xuntas para se divertiren e divertiren os demais, especialmente no Entroido</div>
   <div>Comparsa</div>
 </e-card>
 
@@ -66,8 +66,8 @@ tags:
 </e-card>
 
 <e-card color="9">
-  <div>Que levan as pantallas de Xinzo nas mans?</div>
-  <div>Levan dúas vinchas de porco ou de vaca secas e inchadas coma globos</div>
+  <div>O que levan as pantallas de Xinzo nas mans?</div>
+  <div>Levan dúas vinchas de porco ou de vaca secas e inchadas como globos</div>
 </e-card>
 
 <e-card color="10">
