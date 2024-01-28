@@ -52,6 +52,6 @@ A primeira xeración de <e-answer>rañaceos</e-answer> apareceron en Chicago e e
 
 ![](/img/tira_rolhas.jpeg)
 
-Sirve ti o viño, na mesa da cociña tes o <e-answer>tirarrollas</e-answer>
+Sirve ti o viño, na mesa da cociña tes o <e-answer>sacarrollas</e-answer>
 
 <e-validate>Verifica as respostas</e-validate>
