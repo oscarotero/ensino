@@ -1,6 +1,8 @@
 import lume from "cms/adapters/lume.ts";
 import site from "./_config.ts";
 
+import {} from "./posts/_data.js"; // temporal hack
+
 const app = await lume({ site });
 
 app.storage("fs");
