@@ -1,8 +1,7 @@
 import lume from "cms/adapters/lume.ts";
+import site from "./_config.ts";
 
-const app = await lume({
-  configFile: "_config.ts",
-});
+const app = await lume({ site });
 
 app.storage("fs");
 
