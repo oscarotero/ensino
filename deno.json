@@ -5,6 +5,7 @@
     "lume/": "https://deno.land/x/lume@v2.0.3/",
     "hono/": "https://deno.land/x/hono@v3.11.11/"
   },
+  "lock": false,
   "tasks": {
     "cms": "deno run -A ./_cms.ts",
     "lume": "echo \"import 'lume/cli.ts'\" | deno run -A -",
