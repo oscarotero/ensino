@@ -8,7 +8,7 @@
     "hono/jsx/jsx-runtime": "https://deno.land/x/hono@v3.11.11/jsx/jsx-runtime.ts"
   },
   "tasks": {
-    "cms": "deno run --watch -A ./_cms.ts",
+    "cms": "deno run -A ./_cms.ts",
     "lume": "echo \"import 'lume/cli.ts'\" | deno run -A -",
     "build": "deno task lume",
     "serve": "deno task lume -s"
