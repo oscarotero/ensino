@@ -1,13 +1,14 @@
 {
   "imports": {
-    "cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@63d9a6fec2bae957d88735feba116f140b36084f/",
+    "_cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@63d9a6fec2bae957d88735feba116f140b36084f/",
+    "cms/": "http://127.0.0.1:5500/",
     "std/": "https://deno.land/std@0.213.0/",
     "lume/": "https://deno.land/x/lume@v2.0.3/",
     "hono/": "https://deno.land/x/hono@v3.11.11/"
   },
   "lock": false,
   "tasks": {
-    "cms": "deno run -A ./_cms.ts",
+    "cms": "deno run -A -r ./_cms.ts",
     "lume": "echo \"import 'lume/cli.ts'\" | deno run -A -",
     "build": "deno task lume",
     "serve": "deno task lume -s"
