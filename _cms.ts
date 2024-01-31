@@ -1,7 +1,14 @@
 import lume from "cms/adapters/lume.ts";
 import site from "./_config.ts";
 
-const app = await lume({ site, versioning: "git", port: 80 });
+const app = await lume({
+  site,
+  server: {
+    port: 80,
+  },
+});
+
+app.git("master");
 
 app.collection(
   "posts",

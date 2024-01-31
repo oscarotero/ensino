@@ -1,6 +1,6 @@
 {
   "imports": {
-    "cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@b3ed4f76d3361c5acd1907680398419dcd474ce1/",
+    "cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@63d9a6fec2bae957d88735feba116f140b36084f/",
     "std/": "https://deno.land/std@0.213.0/",
     "lume/": "https://deno.land/x/lume@v2.0.3/",
     "hono/": "https://deno.land/x/hono@v3.11.11/"
