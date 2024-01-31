@@ -6,6 +6,12 @@ const app = await lume({
   server: {
     port: 80,
   },
+  auth: {
+    method: "basic",
+    users: {
+      admin: "admin",
+    },
+  },
 });
 
 app.git("master");
