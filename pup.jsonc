@@ -1,0 +1,18 @@
+{
+  "logger": {
+    "decorate": true,
+    "colors": true,
+    "decorateFiles": true,
+    "stdout": "pup.log",
+    "stderr": "pup.error.log"
+  },
+  "processes": [
+    {
+      "id": "kept-alive-server",
+      "cmd": "deno run -A ./_cms.ts",
+      "pidFile": "kept-alive-server.pid",
+      "autostart": true,
+      "restart": "always"
+    }
+  ]
+}
